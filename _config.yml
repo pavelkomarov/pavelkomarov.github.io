@@ -5,8 +5,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "pavelkomarov.github.io" # the base hostname & protocol for your site
 # Build settings
 
-favicon: "../assets/icon.png"
-
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 include: ['_pages']
@@ -35,3 +33,5 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+sass:
+  sass_dir: theme/_sass
