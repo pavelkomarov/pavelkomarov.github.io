@@ -9,7 +9,7 @@ logo: "../css/2016_style/img/icon-large.png"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2016_pages', '_2017_pages']
+include: ['_pages']
 
 plugins:
   - jekyll-sitemap
