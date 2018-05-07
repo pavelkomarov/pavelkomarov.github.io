@@ -27,6 +27,10 @@ social:
     url: https://www.instagram.com/skinny_ape/
   - title: stack-overflow
     url: https://stackoverflow.com/users/story/2084503
+  - title: envelope
+    url: mailto:pvlkmrv@gmail.com
+  - title: file
+    url: https://www.dropbox.com/s/9ngmmye4pu2kjj9/Resume%20abridged%202017.8.30.pdf?dl=0
 
 # Build settings
 markdown: kramdown
