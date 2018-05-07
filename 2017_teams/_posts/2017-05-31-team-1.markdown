@@ -2,7 +2,7 @@
 title: Name
 name: Name 1
 subtitle: Position
-layout: 2017_default
+layout: default
 img: TBS.jpg
 thumbnail: TBD.jpg
 alt: Picture of Name

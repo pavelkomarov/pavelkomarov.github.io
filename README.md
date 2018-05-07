@@ -1,11 +1,5 @@
-# Event Jekyll Theme
-Event Jekyll Theme is a theme that is designed to be used for conference and event purposes. The index page is a modification and built on top of [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme). Unlike most Jekyll Themes, Event Jekyll Theme is not meant to be a single page theme. This theme is a package that you can use for your organization's event as it come with almost everything you need. I reorganized all the files to make sure that you can easily reuse the same template each year, assuming that you event is once a year. 
+# Pavel's Site
 
-Big thanks to the creator of Agency as this theme would not be possible without their hard work! You are always welcome to contribute to this repository to make it better!
-
-**Example Site**
-- [Malaysian Students' Technology Conference](https://msiastc.github.io)
-- [Event Jekyll Theme](https://event-jekyll-theme.github.io)
 
 ## Features
 ### Index Page
@@ -31,7 +25,7 @@ Two different design:
 ### Register Page
 - A page to redirect to a sign up page
 ### More features
-- Google Analytics built in (replace `UA-xxxxxxxx-x` with your personal analytics verification key in `_includes/2016_data/head.html`)
+- Google Analytics built in (replace `UA-xxxxxxxx-x` with your personal analytics verification key in `_includes/2017_data/head.html`)
 - SEO (check `_config.yml`)
 - Customized 404 Page Not Found Page
 - Designed to be futureproof as you can create a subpages for each year (eg. your-link.github.io/2015, your-link.github.io/2016, etc)
@@ -51,7 +45,7 @@ Two different design:
 - The main stylesheet is stored `/css/2016_style`.
 - In `/css/2016_style/img` you will find where the pictures in `/2016` are stored at. You will find the images of all related posts in `/css/2017_style/img`. This setup is to ensure that we are easily to move from year to year by creating new folders.
 - `_2016_pages` and `_2017_pages` are the folders that store subpages.
-- `_2016_data` and `_2017_data` are the folders that store each sections in home page. Those sections are can be removed by removing the `include` code in `_layout/2016_home.html` or `_layout/2017_home.html`.
+- `_2017_data` and `_2017_data` are the folders that store each sections in home page. Those sections are can be removed by removing the `include` code in `_layout/2016_home.html` or `_layout/2017_home.html`.
 - `_2016_speakers` and `_2017_speakers` contain speakers' profile. They're written in markdown style. 
 - `_2017_teams` contains each team member's profile. They're written in markdown style. 
 - In order to view PDF correctly, sharing setting in Google Drive must set to "Public on the web".
