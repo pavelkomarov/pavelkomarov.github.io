@@ -9,7 +9,13 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="/"><img src="../css/2017_style/img/logo-small-transparent.png" style="margin-top:-15px" width="150px" alt="icon-about"></a>
+                <div class="col-md-12">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
