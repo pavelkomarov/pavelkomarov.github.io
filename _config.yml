@@ -29,6 +29,8 @@ social:
     url: mailto:pvlkmrv@gmail.com
   - title: file
     url: https://www.dropbox.com/s/9ngmmye4pu2kjj9/Resume%20abridged%202017.8.30.pdf?dl=0
+  - title: flipboard
+    url: https://flipboard.com/@pavel_komarov/pavel%27s-favorites-78tpvu6pz
 
 # Build settings
 markdown: kramdown
