@@ -15,21 +15,21 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
+  - icon: fab fa-facebook
     url: https://www.facebook.com/hewhoiscalledpavel
-  - title: github
+  - icon: fab fa-github
     url: https://github.com/pavelkomarov
-  - title: linkedin
+  - icon: fab fa-linkedin
     url: https://linkedin.com/pub/pavel-komarov/48/340/a28
-  - title: instagram
+  - icon: fab fa-instagram
     url: https://www.instagram.com/skinny_ape/
-  - title: stack-overflow
+  - icon: fab fa-stack-overflow
     url: https://stackoverflow.com/users/story/2084503
-  - title: envelope
+  - icon: fa fa-envelope
     url: mailto:pvlkmrv@gmail.com
-  - title: file
+  - icon: fa fa-file
     url: https://www.dropbox.com/s/9ngmmye4pu2kjj9/Resume%20abridged%202017.8.30.pdf?dl=0
-  - title: flipboard
+  - icon: fab fa-flipboard
     url: https://flipboard.com/@pavel_komarov/pavel%27s-favorites-78tpvu6pz
 
 # Build settings

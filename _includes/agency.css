@@ -804,6 +804,7 @@ ul.social-buttons {
 
 ul.social-buttons li a {
     display: block;
+    text-align: center;
     width: 40px;
     height: 40px;
     border-radius: 100%;
@@ -812,8 +813,6 @@ ul.social-buttons li a {
     outline: 0;
     color: #fff;
     background-color: #00283c;
-    -webkit-transition: all .3s;
-    -moz-transition: all .3s;
     transition: all .3s;
 }
 
