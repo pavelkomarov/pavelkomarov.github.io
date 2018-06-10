@@ -10,12 +10,12 @@ h1.team-h1 {
 
 .cf:before,
 .cf:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
+	content: " "; /* 1 */
+	display: table; /* 2 */
 }
 
 .cf:after {
-    clear: both;
+	clear: both;
 }
 
 /**
@@ -23,7 +23,7 @@ h1.team-h1 {
  * Include this rule to trigger hasLayout and contain floats.
  */
 .cf {
-    *zoom: 1;
+	*zoom: 1;
 }
 
 .padding-team {
@@ -43,9 +43,9 @@ h1.team-h1 {
   justify-content: center;
 
   *, *:before, *:after {
-    -webkit-box-sizing: content-box;
-    -moz-box-sizing: content-box;
-    box-sizing: content-box;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
   }
 }
 
@@ -103,27 +103,27 @@ h1.team-h1 {
 
 @media (max-width:1300px){
   .team-container {
-    max-width: 850px;
+	max-width: 850px;
   }
 }
 
 @media (max-width:1000px){
   .team-container {
-    max-width: 700px;
+	max-width: 700px;
   }
 }
 
 /* code for phone layout */
 @media (max-width:760px){
   .team-member {
-    padding: 0;
-    float: none;
-    display: block;
-    margin: 20px auto;
-    width: 100%;
-    text-align: center;
+	padding: 0;
+	float: none;
+	display: block;
+	margin: 20px auto;
+	width: 100%;
+	text-align: center;
   }
   .team-container {
-    margin: 50px 10px 10px 10px;
+	margin: 50px 10px 10px 10px;
   }
 }

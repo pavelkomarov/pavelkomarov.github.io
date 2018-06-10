@@ -2,19 +2,19 @@
   color: white;
 
   a {
-    color:darkblue;
+	color:darkblue;
   }
   h2 {
-    color: white; 
-    text-shadow: 2px 2px black;
-    text-align: center;
+	color: white; 
+	text-shadow: 2px 2px black;
+	text-align: center;
   }
   p {
-    font-size: 110%;
-    text-align: left;
-    padding: 0px 25vw 0px 25vw;
-    color: white; 
-    text-shadow: 2px 2px black;
+	font-size: 110%;
+	text-align: left;
+	padding: 0px 25vw 0px 25vw;
+	color: white; 
+	text-shadow: 2px 2px black;
   }
 }
 
@@ -51,10 +51,10 @@
   flex-wrap: wrap;
   justify-content: center;
 
-    *, *:before, *:after {
-    -webkit-box-sizing: content-box;
-    -moz-box-sizing: content-box;
-    box-sizing: content-box;
+	*, *:before, *:after {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
   }
 }
 
@@ -99,55 +99,55 @@
 
 @media screen and (max-width:1500px){
   .sponsor-container {
-    padding: 10px;
+	padding: 10px;
   }
   .sponsor {
-    p {
-      font-size: 110%;
-      text-align: left;
-      padding: 0px 15vw 0px 15vw;
-    }
+	p {
+	  font-size: 110%;
+	  text-align: left;
+	  padding: 0px 15vw 0px 15vw;
+	}
   }
 }
 
 @media screen and (max-width:1000px){
   .sponsor {
-    p {
-      font-size: 110%;
-      text-align: left;
-      padding: 0px 9vw 0px 9vw;
-    }
+	p {
+	  font-size: 110%;
+	  text-align: left;
+	  padding: 0px 9vw 0px 9vw;
+	}
   }
 }
 
 /* code for phone layout */
 @media screen and (max-width:760px){
   .sponsor-member {
-    padding: 0;
-    float: none;
-    display: block;
-    margin: 20px auto;
-    width: 100%;
-    text-align: center;
+	padding: 0;
+	float: none;
+	display: block;
+	margin: 20px auto;
+	width: 100%;
+	text-align: center;
   }
   .sponsor-container {
-    margin: 10px;
+	margin: 10px;
   }
   .sponsor {
-    p {
-      padding: 0 20px 0 20px;
-    }
-    h1 {
-      font-size: 130%;
-    }
-    h2 {
-      font-size: 120%;
-    }
-    p, ol, li {
-      font-size: 100%;
-    }
+	p {
+	  padding: 0 20px 0 20px;
+	}
+	h1 {
+	  font-size: 130%;
+	}
+	h2 {
+	  font-size: 120%;
+	}
+	p, ol, li {
+	  font-size: 100%;
+	}
   }
   .sponsor-top {
-    padding-top: 0px;
+	padding-top: 0px;
   }
 }
