@@ -4,11 +4,11 @@
 - `_config.yaml` contains basic Jekyll configuration.
 - `_data/template.yaml` contains some variables accessible via `site.data.whatever` for use by the theme.
 - `_includes` contains pieces of html and markdown that can be reused throughout the site, like the header and footer.
-- `_layouts` contains overarching structures to be used by pages. These make use of components from \_includes.
-- `_sass` contains theme-specific formatting files.
-- `projects\_posts` contains files named `YEAR-MO-DAY-title.md` which constitute project descriptions.
+- `_layouts` contains overarching structures to be used by pages. These make use of components from `_includes`.
+- `projects/_posts` contains files named `YEAR-MO-DAY-title.md` which constitute project descriptions.
 - `_pages` contains, well, pages of the site that are not the home page or posts
-- `_assets` contains things like pictures that I need to reference elsewhere.
+- `assets` contains things like pictures that I need to reference elsewhere.
+- `theme` is where I have tried to put all the messy theme-specific css, scss, fonts, and javascript.
 
 ## Installation
 1. `sudo apt-get install ruby ruby-dev build-essential` if you do not have them already
@@ -24,11 +24,7 @@ I got this from melvinchng, and I'm working through understanding all the featur
 
 ## Features
 ### Index Page
-- Event's title, location, and date
-- Welcoming remark section with video
-- Speaker's profile
 - About section with options to navigate to subpages
-- Event Sponsors
 - Contact Us page
 ### Agenda Page
 - Table with time and event title columns
@@ -53,15 +49,4 @@ Two different design:
 - Header with your icon logo defined, but removed from source. 
 - Website logo in SVG defined, but removed from source.
 - Display PDF from Google Drive
-
-
-
-## How To Use
-- The main stylesheet is stored `/theme/2016_style`.
-- In `/theme/2016_style/img` you will find where the pictures in `/2016` are stored at. You will find the images of all related posts in `/theme/2017_style/img`. This setup is to ensure that we are easily to move from year to year by creating new folders.
-- `_2016_pages` and `_2017_pages` are the folders that store subpages.
-- `_2017_data` and `_2017_data` are the folders that store each sections in home page. Those sections are can be removed by removing the `include` code in `_layout/2016_home.html` or `_layout/2017_home.html`.
-- `_2016_speakers` and `_2017_speakers` contain speakers' profile. They're written in markdown style. 
-- `_2017_teams` contains each team member's profile. They're written in markdown style. 
-- In order to view PDF correctly, sharing setting in Google Drive must set to "Public on the web".
 

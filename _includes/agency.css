@@ -339,7 +339,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/theme/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/assets/purple_stars.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
