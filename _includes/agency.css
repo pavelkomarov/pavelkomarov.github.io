@@ -425,19 +425,19 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-#speakers .speakers-item {
+#writing .writing-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#speakers .speakers-item .speakers-link {
+#writing .writing-item .writing-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#speakers .speakers-item .speakers-link .speakers-hover {
+#writing .writing-item .writing-link .writing-hover {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -448,11 +448,11 @@ section h3.section-subheading {
     background: #3cb371;
 }
 
-#speakers .speakers-item .speakers-link .speakers-hover:hover {
+#writing .writing-item .writing-link .writing-hover:hover {
     opacity: 1;
 }
 
-#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content {
+#writing .writing-item .writing-link .writing-hover .writing-hover-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -463,16 +463,16 @@ section h3.section-subheading {
     color: #fff;
 }
 
-#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content i {
+#writing .writing-item .writing-link .writing-hover .writing-hover-content i {
     margin-top: -12px;
 }
 
-#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content h3,
-#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content h4 {
+#writing .writing-item .writing-link .writing-hover .writing-hover-content h3,
+#writing .writing-item .writing-link .writing-hover .writing-hover-content h4 {
     margin: 0;
 }
 
-#speakers .speakers-item .speakers-caption {
+#writing .writing-item .writing-caption {
     margin: 0 auto;
     padding-top: 25px;
     padding-bottom: 5px;
@@ -482,13 +482,13 @@ section h3.section-subheading {
     background-color: #fff;
 }
 
-#speakers .speakers-item .speakers-caption h4 {
+#writing .writing-item .writing-caption h4 {
     margin: 0;
     text-transform: none;
 }
 
 /*
-#speakers .speakers-item .speakers-caption p {
+#writing .writing-item .writing-caption p {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 100%;
@@ -496,12 +496,12 @@ section h3.section-subheading {
 }
 */
 
-#speakers * {
+#writing * {
     z-index: 2;
 }
 
 @media(min-width:767px) {
-    #speakers .speakers-item {
+    #writing .writing-item {
         margin: 0 0 30px;
     }
 }
