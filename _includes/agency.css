@@ -324,9 +324,10 @@ fieldset[disabled] .btn-xl.active {
 	}
 }
 
-header {
+.welcome {
 	height: 100vh;
 	text-align: center;
+	padding: 0 0; /* for vertical centering */
 	color: #fff;
 	background-attachment: scroll;
 	background-image: url('{{ site.baseurl }}/assets/purple_stars.jpg');
@@ -338,21 +339,7 @@ header {
 	-o-background-size: cover;
 }
 
-header .intro-text {
-	padding-top: 25vh;
-	padding-bottom: 50px;
-}
-
-header .intro-text .intro-lead-in {
-	margin-bottom: 25px;
-	font-family: {{ site.data.template.font.secondary }};
-	font-size: 22px;
-	font-style: italic;
-	line-height: 22px;
-}
-
-header .intro-text .intro-heading {
-	margin-bottom: 25px;
+.welcome .intro-heading {
 	text-transform: uppercase;
 	font-family: {{ site.data.template.font.primary }};
 	font-size: 40px;
@@ -360,21 +347,20 @@ header .intro-text .intro-heading {
 	line-height: 40px;
 }
 
+.welcome .intro-lead-in {
+	font-family: {{ site.data.template.font.secondary }};
+	font-size: 22px;
+	font-style: italic;
+	line-height: 22px;
+}
+
 @media(min-width:768px) {	
-	header .intro-text {
+	.welcome {
 		padding-top: 300px;
 		padding-bottom: 200px;
 	}
 
-	header .intro-text .intro-lead-in {
-		margin-bottom: 25px;
-		font-family: {{ site.data.template.font.secondary }};
-		font-size: 40px;
-		font-style: italic;
-		line-height: 40px;
-	}
-
-	header .intro-text .intro-heading {
+	.welcome .intro-heading {
 		margin-bottom: 50px;
 		text-transform: uppercase;
 		font-family: {{ site.data.template.font.primary }};
@@ -382,10 +368,18 @@ header .intro-text .intro-heading {
 		font-weight: 700;
 		line-height: 75px;
 	}
+
+	.welcome .intro-lead-in {
+		margin-bottom: 25px;
+		font-family: {{ site.data.template.font.secondary }};
+		font-size: 40px;
+		font-style: italic;
+		line-height: 40px;
+	}
 }
 
 section {
-	padding: 100px 0;
+	padding: 0 0;
 }
 
 aside.clients h2,
