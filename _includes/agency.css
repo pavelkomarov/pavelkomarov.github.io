@@ -246,16 +246,9 @@ fieldset[disabled] .btn-xl.active {
 	background-color: #222;
 }
 
-.navbar-default .navbar-brand {
+.navbar-default {
 	font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
 	color: #{{ site.data.template.color.primary }};
-}
-
-.navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus,
-.navbar-default .navbar-brand:active,
-.navbar-default .navbar-brand.active {
-	color: #{{ site.data.template.color.secondary }};
 }
 
 .navbar-default .navbar-collapse {
@@ -277,34 +270,30 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .nav li a {
+	height: 40px;
+	line-height: 5px;
 	text-transform: uppercase;
 	font-family: {{ site.data.template.font.primary }};
-	font-weight: 400;
+	font-weight: bold;
 	letter-spacing: 1px;
 	color: #fff;
 }
 
-.navbar-default .nav li a:hover,
-.navbar-default .nav li a:focus {
-	outline: 0;
-	color: #{{ site.data.template.color.primary }};
+.navbar-default .nav li a:hover {
+    color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .navbar-nav>.active>a {
-	border-radius: 0;
-	color: #fff;
+.navbar-default .nav>.active>a:focus {
 	background-color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .navbar-nav>.active>a:hover,
-.navbar-default .navbar-nav>.active>a:focus {
-	color: #fff;
+.navbar-default .nav>.active>a:hover {
 	background-color: #{{ site.data.template.color.secondary }};
 }
 
 @media(min-width:768px) {
 	.navbar-default-color {
-		padding: 25px 0;
+		padding: 10px 0;
 		background-color: transparent;
 	}
 	.navbar-default {
@@ -322,6 +311,7 @@ fieldset[disabled] .btn-xl.active {
 
 	.navbar-default .navbar-nav>.active>a {
 		border-radius: 3px;
+		background-color: #{{ site.data.template.color.primary }};
 	}
 
 	.navbar-default.navbar-shrink {
@@ -812,13 +802,11 @@ ul.social-buttons li a {
 	line-height: 40px;
 	outline: 0;
 	color: #fff;
-	background-color: #00283c;
+	background-color: #{{ site.data.template.color.secondary-dark }};
 	transition: all .3s;
 }
 
-ul.social-buttons li a:hover,
-ul.social-buttons li a:focus,
-ul.social-buttons li a:active {
+ul.social-buttons li a:hover {
 	background-color: #{{ site.data.template.color.primary }};
 }
 
