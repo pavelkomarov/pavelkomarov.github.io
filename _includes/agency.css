@@ -1,7 +1,6 @@
-/*!
- * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+/* This file overrides the default formatting of some Bootstrap objects and defines
+ * a few new things for use with this theme (originally called "agency", adapted in
+ * to "event", and now mine).
  */
 
 html {
@@ -28,6 +27,7 @@ body {
 	color: #{{ site.data.template.color.secondary-dark }};
 }
 
+/* does it actually look better to have more padding as screen gets narrower? */
 @media screen and (max-width : 1200px){
   body {
 	  padding-bottom: 100px;
@@ -40,21 +40,17 @@ body {
   }
 }
 
+.bg-light-gray {
+	background-color: #f7f7f7;
+}
+
 .text-muted {
 	color: #{{ site.data.template.color.muted }};
 }
 
-.text-primary {
-	color: #{{ site.data.template.color.primary }};
-}
-
 p {
-	line-height: 1.75;
+	line-height: 1.5;
 	font-size: 110%;
-}
-
-p.large {
-	font-size: 120%;
 }
 
 a,
@@ -84,78 +80,11 @@ h5,
 h6 {
 	text-transform: uppercase;
 	font-family: {{ site.data.template.font.primary }};
-	font-weight: 700;
-}
-
-h4 {
-	font-size: 120%;
+	font-weight: 700; /* 700 is standard bold */
 }
 
 .img-centered {
 	margin: 0 auto;
-}
-
-aside.clients {
-	padding-top: 150px;
-	padding-bottom: 100px;
-}
-
-aside.clients,
-.bg-light-gray {
-	background-color: #f7f7f7;
-}
-
-.bg-darkest-gray {
-	background-color: #222;
-}
-
-.btn-primary {
-	border-color: #{{ site.data.template.color.primary }};
-	text-transform: uppercase;
-	font-family: {{ site.data.template.font.primary }};
-	font-weight: 700;
-	color: #fff;
-	background-color: #{{ site.data.template.color.primary }};
-}
-
-.btn-primary:hover,
-.btn-primary:focus,
-.btn-primary:active,
-.btn-primary.active,
-.open .dropdown-toggle.btn-primary {
-	border-color: #{{ site.data.template.color.primary }};
-	color: #fff;
-	background-color: #{{ site.data.template.color.secondary }};
-}
-
-.btn-primary:active,
-.btn-primary.active,
-.open .dropdown-toggle.btn-primary {
-	background-image: none;
-}
-
-.btn-primary.disabled,
-.btn-primary[disabled],
-fieldset[disabled] .btn-primary,
-.btn-primary.disabled:hover,
-.btn-primary[disabled]:hover,
-fieldset[disabled] .btn-primary:hover,
-.btn-primary.disabled:focus,
-.btn-primary[disabled]:focus,
-fieldset[disabled] .btn-primary:focus,
-.btn-primary.disabled:active,
-.btn-primary[disabled]:active,
-fieldset[disabled] .btn-primary:active,
-.btn-primary.disabled.active,
-.btn-primary[disabled].active,
-fieldset[disabled] .btn-primary.active {
-	border-color: #{{ site.data.template.color.primary }};
-	background-color: #{{ site.data.template.color.primary }};
-}
-
-.btn-primary .badge {
-	color: #{{ site.data.template.color.primary }};
-	background-color: #fff;
 }
 
 .btn-xl {
@@ -173,8 +102,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-sm, .btn-xl {
 	color: #fff;
 	background-color: #{{ site.data.template.color.primary }};
-	border-color: #{{ site.data.template.color.primary }};
-	border-radius: 3px;
+	border: none;
 	text-transform: uppercase;
 	font-family: {{ site.data.template.font.primary }};
 }
@@ -182,77 +110,24 @@ fieldset[disabled] .btn-primary.active {
 .btn-sm:hover,
 .btn-sm:focus,
 .btn-sm:active,
-.btn-sm.active,
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
-.btn-xl.active,
 .open .dropdown-toggle.btn-xl {
 	border-color: #{{ site.data.template.color.primary }};
 	color: #fff;
 	background-color: #{{ site.data.template.color.secondary }};
 }
 
-.btn-sm:active,
-.btn-sm.active,
-.open .dropdown-toggle.btn-sm,
-.btn-xl:active,
-.btn-xl.active,
-.open .dropdown-toggle.btn-xl {
-	background-image: none;
-}
-.btn-sm.disabled,
-.btn-sm[disabled],
-fieldset[disabled] .btn-sm,
-.btn-sm.disabled:hover,
-.btn-sm[disabled]:hover,
-fieldset[disabled] .btn-sm:hover,
-.btn-sm.disabled:focus,
-.btn-sm[disabled]:focus,
-fieldset[disabled] .btn-sm:focus,
-.btn-sm.disabled:active,
-.btn-sm[disabled]:active,
-fieldset[disabled] .btn-sm:active,
-.btn-sm.disabled.active,
-.btn-sm[disabled].active,
-fieldset[disabled] .btn-sm.active,
-.btn-xl.disabled,
-.btn-xl[disabled],
-fieldset[disabled] .btn-xl,
-.btn-xl.disabled:hover,
-.btn-xl[disabled]:hover,
-fieldset[disabled] .btn-xl:hover,
-.btn-xl.disabled:focus,
-.btn-xl[disabled]:focus,
-fieldset[disabled] .btn-xl:focus,
-.btn-xl.disabled:active,
-.btn-xl[disabled]:active,
-fieldset[disabled] .btn-xl:active,
-.btn-xl.disabled.active,
-.btn-xl[disabled].active,
-fieldset[disabled] .btn-xl.active {
-	border-color: #{{ site.data.template.color.primary }};
-	background-color: #{{ site.data.template.color.primary }};
-}
-
-.btn-sm .badge,
-.btn-xl .badge {
-	color: #{{ site.data.template.color.primary }};
-	background-color: #fff;
-}
-
 .navbar-default {
 	border-color: transparent;
 	background-color: #222;
-}
-
-.navbar-default {
 	font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
 	color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-collapse {
-	border-color: rgba(255,255,255,.02);
+	border-color: rgba(255,255,255,.2);
 }
 
 .navbar-default .navbar-toggle {
@@ -291,45 +166,43 @@ fieldset[disabled] .btn-xl.active {
 	background-color: #{{ site.data.template.color.secondary }};
 }
 
-@media(min-width:768px) {
-	.navbar-default-color {
-		padding: 10px 0;
-		background-color: transparent;
-	}
+.navbar-default-color {
+	padding: 10px 0;
+	background-color: transparent;
+}
 
-	.navbar-default {
-		border: 0;
-		-webkit-transition: padding .3s;
-		-moz-transition: padding .3s;
-		transition: padding .3s;
-	}
-	
-	.navbar-default .navbar-brand {
-		font-size: 2em;
-		-webkit-transition: all .3s;
-		-moz-transition: all .3s;
-		transition: all .3s;
-	}
+.navbar-default {
+	border: 0;
+	-webkit-transition: padding .3s;
+	-moz-transition: padding .3s;
+	transition: padding .3s;
+}
 
-	.navbar-default .navbar-nav>.active>a {
-		border-radius: 3px;
-		background-color: #{{ site.data.template.color.primary }};
-	}
+.navbar-default .navbar-brand {
+	font-size: 2em;
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	transition: all .3s;
+}
 
-	.navbar-default.navbar-shrink {
-		padding: 10px 0;
-		background-color: #222;
-	}
+.navbar-default .navbar-nav>.active>a {
+	border-radius: 3px;
+	background-color: #{{ site.data.template.color.primary }};
+}
 
-	.navbar-default.navbar-shrink .navbar-brand {
-		font-size: 1.5em;
-	}
+.navbar-default.navbar-shrink {
+	padding: 10px 0;
+	background-color: #222;
+}
+
+.navbar-default.navbar-shrink .navbar-brand {
+	font-size: 1.5em;
 }
 
 .welcome {
-	height: 100vh;
+	height: 100vh; /* This section is adaptively exactly one screenheight tall. Pretty slick. */
 	text-align: center;
-	padding: 0 0; /* for vertical centering */
+	padding: 35vh 0; /* for vertical centering */
 	color: #fff;
 	background-attachment: scroll;
 	background-image: url('{{ site.baseurl }}/assets/purple_stars.jpg');
@@ -344,44 +217,33 @@ fieldset[disabled] .btn-xl.active {
 .welcome .intro-heading {
 	text-transform: uppercase;
 	font-family: {{ site.data.template.font.primary }};
-	font-size: 40px;
+	font-size: 75px;
 	font-weight: 700;
-	line-height: 40px;
+	line-height: 75px;
+	margin-bottom: 25px;
 }
 
 .welcome .intro-lead-in {
 	font-family: {{ site.data.template.font.secondary }};
-	font-size: 22px;
+	font-size: 40px;
 	font-style: italic;
-	line-height: 22px;
+	line-height: 40px;
 }
 
-@media(min-width:768px) {	
-	.welcome {
-		padding-top: 300px;
-		padding-bottom: 200px;
-	}
-
+@media(max-width:768px) {
 	.welcome .intro-heading {
-		margin-bottom: 50px;
-		text-transform: uppercase;
-		font-family: {{ site.data.template.font.primary }};
-		font-size: 75px;
-		font-weight: 700;
-		line-height: 75px;
+		font-size: 40px;
+		line-height: 40px;
 	}
 
 	.welcome .intro-lead-in {
-		margin-bottom: 25px;
-		font-family: {{ site.data.template.font.secondary }};
-		font-size: 40px;
-		font-style: italic;
-		line-height: 40px;
+		font-size: 22px;
+		line-height: 22px;
 	}
 }
 
 section {
-	padding: 0 0;
+	padding: 30px 30px;
 }
 
 aside.clients h2,
@@ -398,12 +260,6 @@ section h3.section-subheading {
 	font-size: 120%;
 	font-style: italic;
 	font-weight: 400;
-}
-
-@media(min-width:768px) {
-	section {
-		padding: 150px 0;
-	}
 }
 
 .service-heading {
@@ -472,15 +328,6 @@ section h3.section-subheading {
 	margin: 0;
 	text-transform: none;
 }
-
-/*
-#writing .writing-item .writing-caption p {
-	margin: 0;
-	font-family: {{ site.data.template.font.secondary }};
-	font-size: 100%;
-	font-style: italic;
-}
-*/
 
 #writing * {
 	z-index: 2;
@@ -784,10 +631,6 @@ footer ul.quicklinks {
 	line-height: 40px;
 }
 
-ul.social-buttons {
-	margin-bottom: 0;
-}
-
 ul.social-buttons li a {
 	display: block;
 	text-align: center;
@@ -804,6 +647,16 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:hover {
 	background-color: #{{ site.data.template.color.primary }};
+}
+
+@media(max-width: 768px) {
+	ul.social-buttons li a {
+		width: 35px;
+		height: 35px;
+		font-size: 18px;
+		line-height: 35px;
+		margin-right: -7px;
+	}
 }
 
 .btn:focus,

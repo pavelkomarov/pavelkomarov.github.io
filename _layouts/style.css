@@ -1,3 +1,3 @@
 {% include bootstrap.min.css %}
-{% include agency.css %}
+{% include agency.css %} /* by putting agency after bootstrap, agency overrides bootstrap */
 {{ content }}
