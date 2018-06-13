@@ -120,33 +120,31 @@ h6 {
 }
 
 .navbar-default {
-	border-color: transparent;
-	background-color: #222;
+	padding: 10px 0;
+	-webkit-transition: padding .3s;
+	-moz-transition: padding .3s;
+	transition: padding .3s;
 	font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-	color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .navbar-collapse {
-	border-color: rgba(255,255,255,.2);
-}
-
-.navbar-default .navbar-toggle {
-	border-color: #{{ site.data.template.color.primary }};
+.navbar-toggle { /* the toggle is the thing seen on mobile */
+	border: 0;
+	margin-top: 0px;
 	background-color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .navbar-toggle .icon-bar {
-	background-color: #fff;
-}
-
+/* Using navbar-toggle alone here isn't specific enough for reasons that are
+ unclear to me, since I use only navbar-toggle above.
+ https://stackoverflow.com/questions/20540563/change-icon-bar-color-in-bootstrap */
 .navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
-	background-color: #{{ site.data.template.color.primary }};
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:active {
+	background-color: #{{ site.data.template.color.secondary }};
 }
 
-.navbar-default .nav li a {
+.navbar-default .nav li a { /* the buttons in the navbar */
 	height: 40px;
-	line-height: 5px;
+	line-height: 0px;
 	text-transform: uppercase;
 	font-family: {{ site.data.template.font.primary }};
 	font-weight: bold;
@@ -166,37 +164,29 @@ h6 {
 	background-color: #{{ site.data.template.color.secondary }};
 }
 
-.navbar-default-color {
-	padding: 10px 0;
-	background-color: transparent;
-}
-
-.navbar-default {
-	border: 0;
-	-webkit-transition: padding .3s;
-	-moz-transition: padding .3s;
-	transition: padding .3s;
-}
-
-.navbar-default .navbar-brand {
-	font-size: 2em;
-	-webkit-transition: all .3s;
-	-moz-transition: all .3s;
-	transition: all .3s;
-}
-
 .navbar-default .navbar-nav>.active>a {
 	border-radius: 3px;
 	background-color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default.navbar-shrink {
+.navbar-default.navbar-shrink { /* This sets the background dark below the welcome */
 	padding: 10px 0;
 	background-color: #222;
 }
 
-.navbar-default.navbar-shrink .navbar-brand {
+.navbar-brand { /* this keeps the buttons from getting larger below the welcome */
 	font-size: 1.5em;
+}
+
+@media(max-width:768px) {
+	.navbar-collapse {
+		width: 120px;
+	}
+
+	.navbar-collapse li a {
+		line-height: 1000px;
+		background-color: #222;
+	}
 }
 
 .welcome {
@@ -620,7 +610,7 @@ footer span.copyright {
 	text-transform: uppercase;
 	text-transform: none;
 	font-family: {{ site.data.template.font.primary }};
-	line-height: 40px;
+	line-height: 25px;
 }
 
 footer ul.quicklinks {
@@ -629,6 +619,10 @@ footer ul.quicklinks {
 	text-transform: none;
 	font-family: {{ site.data.template.font.primary }};
 	line-height: 40px;
+}
+
+.social-buttons {
+	float: left;
 }
 
 ul.social-buttons li a {
@@ -641,8 +635,8 @@ ul.social-buttons li a {
 	line-height: 40px;
 	outline: 0;
 	color: #fff;
-	background-color: #{{ site.data.template.color.secondary-dark }};
 	transition: all .3s;
+	background-color: #{{ site.data.template.color.secondary-dark }};
 }
 
 ul.social-buttons li a:hover {
