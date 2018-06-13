@@ -20,18 +20,6 @@
 4. Start your localhost server with `jekyll serve` at the project's root directory.
 5. Your site should be accessible at `localhost:4000`
 
-I got this from melvinchng, and I'm working through understanding all the features listed in his description:
 
-## Features
-### Index Page
-- About section with options to navigate to subpages
-- Contact Us page
-### Agenda Page
-- Table with time and event title columns
-- Speaker's name is hilighted in different color and speaker's position/title is in italic.
-### Event's Location
-- Google Map (need to replace it with your own API key)
-### FAQs Page
-- Just a typical FAQs page
-### More features
-- Google Analytics built in (replace `UA-xxxxxxxx-x` with your personal analytics verification key in `_includes/2017_data/head.html`)
+
+Based on the Event theme by melvinchng.
