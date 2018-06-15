@@ -44,10 +44,6 @@ body {
 	background-color: #f7f7f7;
 }
 
-.bg-222 {
-	background-color: rgba(34, 34, 34, 0);
-}
-
 .text-muted {
 	color: #{{ site.data.template.color.muted }};
 }
@@ -605,6 +601,8 @@ footer ul.quicklinks {
 
 .social-buttons {
 	float: left;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 ul.social-buttons li a {
