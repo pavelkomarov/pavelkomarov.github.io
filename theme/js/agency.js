@@ -1,15 +1,9 @@
-/*!
- * Start Bootstrap - Agnecy Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
-
 // jQuery for page page-scrolling feature - requires jQuery Easing plugin
 $(function() {
 	$('a.page-scroll').bind('click', function(event) {
 		var $anchor = $(this);
 		$('html, body').stop().animate({
-			scrollTop: $($anchor.attr('href')).offset().top - 65
+			scrollTop: $($anchor.attr('href')).offset().top - 49
 		}, 1500, 'easeInOutExpo');
 		event.preventDefault();
 	});
@@ -33,8 +27,8 @@ $(window).bind('scroll', navbar_opacity);
 $(window).bind('load', navbar_opacity);
 
 // Closes the Responsive Menu on Menu Item Click
-$('.navbar-collapse ul li a').click(function() {
-	$('.navbar-toggle:visible').click();
+$('.navbar-collapse ul a').click(function() {
+	$('.navbar-toggler:visible').click();
 });
 
 //??

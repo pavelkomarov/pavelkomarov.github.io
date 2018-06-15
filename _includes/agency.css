@@ -161,6 +161,14 @@ h6 {
 	color: #fff;
 }
 
+@media(max-width: 768px) {
+	.page-scroll {
+		padding-right: 0px;
+		margin-left: 10px;
+		font-size: 12px;
+	}
+}
+
 .welcome {
 	height: 100vh; /* This section is adaptively exactly one screenheight tall. Pretty slick. */
 	text-align: center;
