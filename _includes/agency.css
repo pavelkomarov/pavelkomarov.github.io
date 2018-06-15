@@ -130,7 +130,17 @@ h6 {
 	background-color: #{{ site.data.template.color.secondary }};
 }
 
+.navbar-toggler {
+	margin-top: -15px;
+	color: #fff;
+	background-color: #{{ site.data.template.color.primary }};
+}
 
+.navbar-toggler:hover,
+.navbar-toggler:active,
+.navbar-toggler:focus {
+	background-color: #{{ site.data.template.color.secondary }};
+}
 
 /* .navbar-default {
 	padding: 10px 0;
@@ -138,21 +148,6 @@ h6 {
 	-moz-transition: padding .3s;
 	transition: padding .3s;
 	font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-}
-
-.navbar-toggle { /* the toggle is the thing seen on mobile */
-/*	border: 0;
-	margin-top: 0px;
-	background-color: #{{ site.data.template.color.primary }};
-}
-
-/* Using navbar-toggle alone here isn't specific enough for reasons that are
- unclear to me, since I use only navbar-toggle above.
- https://stackoverflow.com/questions/20540563/change-icon-bar-color-in-bootstrap */
-/*.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus,
-.navbar-default .navbar-toggle:active {
-	background-color: #{{ site.data.template.color.secondary }};
 }
 
 .navbar-default .nav li a { /* the buttons in the navbar */
