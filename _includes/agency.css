@@ -81,6 +81,7 @@ a:focus,
 a:active,
 a.active {
 	color: #{{ site.data.template.color.secondary }};
+	text-decoration: none; /* no underlining links */
 }
 
 h1,
@@ -131,28 +132,14 @@ h6 {
 }
 
 .navbar-toggler {
-	margin-top: -15px;
 	color: #fff;
 	background-color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-toggler:hover,
-.navbar-toggler:active,
-.navbar-toggler:focus {
-	background-color: #{{ site.data.template.color.secondary }};
-}
-
-/* .navbar-default {
-	padding: 10px 0;
-	-webkit-transition: padding .3s;
-	-moz-transition: padding .3s;
-	transition: padding .3s;
-	font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-}
-
-.navbar-default .nav li a { /* the buttons in the navbar */
-/*	height: 40px;
-	line-height: 0px;
+.page-scroll { /* the buttons in the navbar */
+	margin-left: 20px;
+	border-radius: 3px;
+	background-color: transparent;
 	text-transform: uppercase;
 	font-family: {{ site.data.template.font.primary }};
 	font-weight: bold;
@@ -160,22 +147,18 @@ h6 {
 	color: #fff;
 }
 
-.navbar-default .nav li a:hover {
-    color: #{{ site.data.template.color.primary }};
+.page-scroll:hover {
+	color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .nav>.active>a:focus {
+.page-scroll:focus,
+.page-scroll:active {
 	background-color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .nav>.active>a:hover {
-	background-color: #{{ site.data.template.color.secondary }};
-}
 
-.navbar-default .navbar-nav>.active>a {
-	border-radius: 3px;
-	background-color: #{{ site.data.template.color.primary }};
-}
+/*
+
 
 .navbar-default.navbar-shrink { /* This sets the background dark below the welcome */
 /*	padding: 10px 0;
