@@ -121,27 +121,21 @@ h6 {
 }
 
 .navbar-toggler {
+	transition: all .3s;
 	color: #fff;
 	background-color: #{{ site.data.template.color.primary }};
 }
 
-.page-scroll { /* the buttons in the navbar */
-	border-radius: 3px;
-	padding: 0.33rem 0.75rem;
-	background-color: transparent;
-	text-transform: uppercase;
-	font-family: {{ site.data.template.font.primary }};
-	font-weight: bold;
-	letter-spacing: 1px;
-	color: #fff;
+.navbar-toggler:hover{
+	background-color: #{{ site.data.template.color.secondary }};
 }
 
-.page-scroll:hover {
+.nav>a:focus {
+	color: #fff; /* override the default links in focus being colored thing */
+}
+
+.nav>a:hover { /* override the override in the case of hovering a focused link */
 	color: #{{ site.data.template.color.primary }};
-}
-
-.page-scroll:active {
-	background-color: #{{ site.data.template.color.primary }};
 }
 
 .nav>a.active {
@@ -154,18 +148,18 @@ h6 {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-@grid-float-breakpoint: 1000px;
-
-/*
-@media(max-width:1000px) {
-	.navbar-collapse {
-		width: 120px;
-	}
-
-	.navbar-collapse li a {
-		background-color: #222;
-	}
-}*/
+.page-scroll { /* the buttons in the navbar */
+	transition: all .3s;
+	border-radius: 3px;
+	margin-left: 20px;
+	padding: 0.15rem 0.5rem;
+	background-color: transparent;
+	text-transform: uppercase;
+	font-family: {{ site.data.template.font.primary }};
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: #fff;
+}
 
 .welcome {
 	height: 100vh; /* This section is adaptively exactly one screenheight tall. Pretty slick. */
