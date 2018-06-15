@@ -3,13 +3,6 @@
  * to "event", and now mine).
  */
 
-.anchor{
-  display: block;
-  height: 115px; /*same height as header*/
-  margin-top: -115px; /*same height as header*/
-  visibility: hidden;
-}
-
 html {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -52,7 +45,7 @@ body {
 }
 
 .bg-222 {
-	background-color: #222;
+	background-color: rgba(34, 34, 34, 0);
 }
 
 .text-muted {
@@ -137,8 +130,8 @@ h6 {
 }
 
 .page-scroll { /* the buttons in the navbar */
-	margin-left: 20px;
 	border-radius: 3px;
+	padding: 0.33rem 0.75rem;
 	background-color: transparent;
 	text-transform: uppercase;
 	font-family: {{ site.data.template.font.primary }};
@@ -151,26 +144,23 @@ h6 {
 	color: #{{ site.data.template.color.primary }};
 }
 
-.page-scroll:focus,
 .page-scroll:active {
 	background-color: #{{ site.data.template.color.primary }};
 }
 
-
-/*
-
-
-.navbar-default.navbar-shrink { /* This sets the background dark below the welcome */
-/*	padding: 10px 0;
-	background-color: #222;
+.nav>a.active {
+    border-radius: 3px;
+    color: #fff;
+    background-color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-brand { /* this keeps the buttons from getting larger below the welcome */
-/*	font-size: 1.5em;
+.nav>a.active:hover {
+    background-color: #{{ site.data.template.color.secondary }};
 }
 
 @grid-float-breakpoint: 1000px;
 
+/*
 @media(max-width:1000px) {
 	.navbar-collapse {
 		width: 120px;
