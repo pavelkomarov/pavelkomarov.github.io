@@ -3,6 +3,13 @@
  * to "event", and now mine).
  */
 
+.anchor{
+  display: block;
+  height: 115px; /*same height as header*/
+  margin-top: -115px; /*same height as header*/
+  visibility: hidden;
+}
+
 html {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -42,6 +49,10 @@ body {
 
 .bg-light-gray {
 	background-color: #f7f7f7;
+}
+
+.bg-222 {
+	background-color: #222;
 }
 
 .text-muted {
@@ -119,7 +130,9 @@ h6 {
 	background-color: #{{ site.data.template.color.secondary }};
 }
 
-.navbar-default {
+
+
+/* .navbar-default {
 	padding: 10px 0;
 	-webkit-transition: padding .3s;
 	-moz-transition: padding .3s;
@@ -128,7 +141,7 @@ h6 {
 }
 
 .navbar-toggle { /* the toggle is the thing seen on mobile */
-	border: 0;
+/*	border: 0;
 	margin-top: 0px;
 	background-color: #{{ site.data.template.color.primary }};
 }
@@ -136,14 +149,14 @@ h6 {
 /* Using navbar-toggle alone here isn't specific enough for reasons that are
  unclear to me, since I use only navbar-toggle above.
  https://stackoverflow.com/questions/20540563/change-icon-bar-color-in-bootstrap */
-.navbar-default .navbar-toggle:hover,
+/*.navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:active {
 	background-color: #{{ site.data.template.color.secondary }};
 }
 
 .navbar-default .nav li a { /* the buttons in the navbar */
-	height: 40px;
+/*	height: 40px;
 	line-height: 0px;
 	text-transform: uppercase;
 	font-family: {{ site.data.template.font.primary }};
@@ -170,24 +183,25 @@ h6 {
 }
 
 .navbar-default.navbar-shrink { /* This sets the background dark below the welcome */
-	padding: 10px 0;
+/*	padding: 10px 0;
 	background-color: #222;
 }
 
 .navbar-brand { /* this keeps the buttons from getting larger below the welcome */
-	font-size: 1.5em;
+/*	font-size: 1.5em;
 }
 
-@media(max-width:768px) {
+@grid-float-breakpoint: 1000px;
+
+@media(max-width:1000px) {
 	.navbar-collapse {
 		width: 120px;
 	}
 
 	.navbar-collapse li a {
-		line-height: 1000px;
 		background-color: #222;
 	}
-}
+}*/
 
 .welcome {
 	height: 100vh; /* This section is adaptively exactly one screenheight tall. Pretty slick. */
