@@ -20,6 +20,6 @@
 4. Start your localhost server with `jekyll serve` at the project's root directory.
 5. Your site should be accessible at `localhost:4000`
 
-
-
+<br/>
+<br/>
 Based on the Event theme by melvinchng.

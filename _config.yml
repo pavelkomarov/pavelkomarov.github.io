@@ -7,8 +7,6 @@ url: "pavelkomarov.github.io" # the base hostname & protocol for your site
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_pages']
-
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

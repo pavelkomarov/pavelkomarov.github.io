@@ -152,7 +152,7 @@ h6 {
 	transition: all .3s;
 	border-radius: 3px;
 	margin-left: 20px;
-	padding: 0.15rem 0.5rem;
+	padding: 0.2rem 0.6rem;
 	background-color: transparent;
 	text-transform: uppercase;
 	font-family: {{ site.data.template.font.primary }};
