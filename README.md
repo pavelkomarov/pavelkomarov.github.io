@@ -51,6 +51,13 @@ Jekyll converts your site in the following order:
 - `CNAME` (short for "custom domain name") is necessary so github's servers know where to forward queries.
 - Jekyll outputs pages by default at `/name/index.html`. `permalink: /name.html` in the "front matter" to avoid this behavior.
 - Navigating down to the `_site` folder and opening the htmls causes all the relative paths to break, so the pages don't look right. Instead go to `localhost:4000/page.html`.
+- The `\_layouts` directory can be used to house `html` files peppered with Jekyll's liquid tags which can then be referenced in commonly-structured pages with calls in the "front matter":
+
+```
+---
+layout: home
+---
+```
 
 <br/>
 <br/>
