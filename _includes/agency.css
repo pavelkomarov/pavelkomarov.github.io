@@ -24,7 +24,7 @@ body {
 	width: 100%;
 	overflow-x: hidden;
 	font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-	color: #{{ site.data.template.color.secondary-dark }};
+	color: #{{ site.color.secondary-dark }};
 }
 
 /* does it actually look better to have more padding as screen gets narrower? */
@@ -45,7 +45,7 @@ body {
 }
 
 .text-muted {
-	color: #{{ site.data.template.color.muted }};
+	color: #{{ site.color.muted }};
 }
 
 p {
@@ -62,14 +62,14 @@ a.active {
 }
 
 a {
-	color: #{{ site.data.template.color.primary }};
+	color: #{{ site.color.primary }};
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-	color: #{{ site.data.template.color.secondary }};
+	color: #{{ site.color.secondary }};
 	text-decoration: none; /* no underlining links */
 }
 
@@ -80,7 +80,7 @@ h4,
 h5,
 h6 {
 	text-transform: uppercase;
-	font-family: {{ site.data.template.font.primary }};
+	font-family: {{ site.font.primary }};
 	font-weight: 700; /* 700 is standard bold */
 }
 
@@ -102,10 +102,10 @@ h6 {
 
 .btn-sm, .btn-xl {
 	color: #fff;
-	background-color: #{{ site.data.template.color.primary }};
+	background-color: #{{ site.color.primary }};
 	border: none;
 	text-transform: uppercase;
-	font-family: {{ site.data.template.font.primary }};
+	font-family: {{ site.font.primary }};
 }
 
 .btn-sm:hover,
@@ -115,19 +115,19 @@ h6 {
 .btn-xl:focus,
 .btn-xl:active,
 .open .dropdown-toggle.btn-xl {
-	border-color: #{{ site.data.template.color.primary }};
+	border-color: #{{ site.color.primary }};
 	color: #fff;
-	background-color: #{{ site.data.template.color.secondary }};
+	background-color: #{{ site.color.secondary }};
 }
 
 .navbar-toggler {
 	transition: all .3s;
 	color: #fff;
-	background-color: #{{ site.data.template.color.primary }};
+	background-color: #{{ site.color.primary }};
 }
 
 .navbar-toggler:hover{
-	background-color: #{{ site.data.template.color.secondary }};
+	background-color: #{{ site.color.secondary }};
 }
 
 .nav>a:focus {
@@ -135,17 +135,17 @@ h6 {
 }
 
 .nav>a:hover { /* override the override in the case of hovering a focused link */
-	color: #{{ site.data.template.color.primary }};
+	color: #{{ site.color.primary }};
 }
 
 .nav>a.active {
     border-radius: 3px;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #{{ site.color.primary }};
 }
 
 .nav>a.active:hover {
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #{{ site.color.secondary }};
 }
 
 .page-scroll { /* the buttons in the navbar */
@@ -155,7 +155,7 @@ h6 {
 	padding: 0.2rem 0.6rem;
 	background-color: transparent;
 	text-transform: uppercase;
-	font-family: {{ site.data.template.font.primary }};
+	font-family: {{ site.font.primary }};
 	font-weight: bold;
 	letter-spacing: 1px;
 	color: #fff;
@@ -186,7 +186,7 @@ h6 {
 
 .welcome .intro-heading {
 	text-transform: uppercase;
-	font-family: {{ site.data.template.font.primary }};
+	font-family: {{ site.font.primary }};
 	font-size: 75px;
 	font-weight: 700;
 	line-height: 75px;
@@ -194,7 +194,7 @@ h6 {
 }
 
 .welcome .intro-lead-in {
-	font-family: {{ site.data.template.font.secondary }};
+	font-family: {{ site.font.secondary }};
 	font-size: 40px;
 	font-style: italic;
 	line-height: 40px;
@@ -226,7 +226,7 @@ section h2.section-heading {
 section h3.section-subheading {
 	margin-bottom: 75px;
 	text-transform: none;
-	font-family: {{ site.data.template.font.secondary }};
+	font-family: {{ site.font.secondary }};
 	font-size: 120%;
 	font-style: italic;
 	font-weight: 400;
@@ -374,7 +374,7 @@ section h3.section-subheading {
 	border-radius: 100%;
 	text-align: center;
 	color: #fff;
-	background-color: #{{ site.data.template.color.primary }};
+	background-color: #{{ site.color.primary }};
 }
 
 .timeline>li .timeline-image h4 {
@@ -541,34 +541,34 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-	border-color: #{{ site.data.template.color.primary }};
+	border-color: #{{ site.color.primary }};
 	box-shadow: none;
 }
 
 section#contact::-webkit-input-placeholder {
 	text-transform: uppercase;
-	font-family: {{ site.data.template.font.primary }};
+	font-family: {{ site.font.primary }};
 	font-weight: 700;
 	color: #bbb;
 }
 
 section#contact:-moz-placeholder {
 	text-transform: uppercase;
-	font-family: {{ site.data.template.font.primary }};
+	font-family: {{ site.font.primary }};
 	font-weight: 700;
 	color: #bbb;
 }
 
 section#contact::-moz-placeholder {
 	text-transform: uppercase;
-	font-family: {{ site.data.template.font.primary }};
+	font-family: {{ site.font.primary }};
 	font-weight: 700;
 	color: #bbb;
 }
 
 section#contact:-ms-input-placeholder {
 	text-transform: uppercase;
-	font-family: {{ site.data.template.font.primary }};
+	font-family: {{ site.font.primary }};
 	font-weight: 700;
 	color: #bbb;
 }
@@ -589,7 +589,7 @@ footer {
 footer span.copyright {
 	text-transform: uppercase;
 	text-transform: none;
-	font-family: {{ site.data.template.font.primary }};
+	font-family: {{ site.font.primary }};
 	line-height: 25px;
 }
 
@@ -597,7 +597,7 @@ footer ul.quicklinks {
 	margin-bottom: 0;
 	text-transform: uppercase;
 	text-transform: none;
-	font-family: {{ site.data.template.font.primary }};
+	font-family: {{ site.font.primary }};
 	line-height: 40px;
 }
 
@@ -618,11 +618,11 @@ ul.social-buttons li a {
 	outline: 0;
 	color: #fff;
 	transition: all .3s;
-	background-color: #{{ site.data.template.color.secondary-dark }};
+	background-color: #{{ site.color.secondary-dark }};
 }
 
 ul.social-buttons li a:hover {
-	background-color: #{{ site.data.template.color.primary }};
+	background-color: #{{ site.color.primary }};
 }
 
 @media(max-width: 768px) {
@@ -663,7 +663,7 @@ ul.social-buttons li a:hover {
 
 .portfolio-modal .modal-content p.item-intro {
 	margin: 20px 0 30px;
-	font-family: {{ site.data.template.font.secondary }};
+	font-family: {{ site.font.secondary }};
 	font-size: 100%;
 	font-style: italic;
 }
@@ -714,7 +714,7 @@ ul.social-buttons li a:hover {
 
 ::-moz-selection {
 	text-shadow: none;
-	background: #{{ site.data.template.color.primary }};
+	background: #{{ site.color.primary }};
 }
 
 ::selection {
@@ -731,5 +731,5 @@ img::-moz-selection {
 }
 
 body {
-	webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+	webkit-tap-highlight-color: #{{ site.color.primary }};
 }
