@@ -33,5 +33,3 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
-sass:
-  sass_dir: theme/_sass
