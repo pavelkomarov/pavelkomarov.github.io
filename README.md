@@ -1,5 +1,16 @@
 # Pavel's Site
 
+## How Jekyll works
+
+markdown
++html						---> [Jekyll]   ---> static website
++liquid template language			^
+									|
+								 configs
+
+\_folder means `jekyll build` doesn't include these with the final \_site. These should be used for reference materials that will be compiled in to other files.
+
+
 ## Structure
 - `_config.yaml` contains basic Jekyll configuration.
 - `_data/template.yaml` contains some variables accessible via `site.data.whatever` for use by the theme.
