@@ -1,0 +1,1 @@
+Keep site assets that need to be stably referenced on webpages here. This folder, not being prepended with `_`, is included in the final generated site.

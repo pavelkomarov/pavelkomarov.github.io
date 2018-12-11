@@ -2,13 +2,13 @@
 
 ## How Jekyll works
 
-markdown
-+html						---> [Jekyll]   ---> static website
-+liquid template language			^
-									|
+markdown<br/>
++html						---> [Jekyll]   ---> static website<br/>
++liquid template language			^<br/>
+									|<br/>
 								 configs
 
-\_folder means `jekyll build` doesn't include these with the final \_site. These should be used for reference materials that will be compiled in to other files.
+`\_folder` means `jekyll build` doesn't include these with the final `\_site`. These should be used for reference materials that will be compiled in to other files.
 
 
 ## Structure
@@ -30,6 +30,10 @@ markdown
 3. `gem install jekyll jekyll-sitemap jekyll-seo-tag`
 4. Start your localhost server with `jekyll serve` at the project's root directory.
 5. Your site should be accessible at `localhost:4000`
+
+## Miscellanea
+- `CNAME` (short for "custom domain name") is necessary so github's servers know where to forward queries.
+
 
 <br/>
 <br/>
