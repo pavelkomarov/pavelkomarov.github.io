@@ -10,6 +10,22 @@
 
 `\_folder` means `jekyll build` doesn't include these with the final `\_site`. These should be used for reference materials that will be compiled in to other files.
 
+According to https://jekyllrb.com/tutorials/orderofinterpretation/:
+
+### Order of interpretation
+
+Jekyll converts your site in the following order:
+
+1. **Site variables**. Jekyll looks across your files and populates site variables, such as `site`, `page`, `post`, and collection objects. (From these objects, Jekyll determines the values for permalinks, tags, categories, and other details.)
+2. **Liquid**. Jekyll processes any Liquid formatting in pages that contain front matter. You can identify Liquid as follows:
+	- **Liquid tags** start with `{%` and end with a `%}`. For example: `{% highlight %}` or `{% seo %}`. Tags can define blocks or be inline. Block-defining tags will also come with a corresponding end tag — for example, `{% endhighlight %}`.
+	- **Liquid variables** start and end with double curly braces. For example: `{{ site.myvariable }}` or `{{ content }}`.
+	- **Liquid filters** start with a pipe character (`|`) and can only be used within **Liquid variables** after the variable string. For example: the **relative_url** filter in **{{ "css/main.css" | relative_url }}**.
+
+3. **Markdown**. Jekyll converts Markdown to HTML using the Markdown filter specified in your config file. Files must have a Markdown file extension and front matter in order for Jekyll to convert them.
+4. **Layout**. Jekyll pushes content into the layouts specified by the page’s front matter (or as specified in the config file). The content from each page gets pushed into the `{{ content }}` tags within the layouts.
+5. **Files**. Jekyll writes the generated content into files in the directory structure in `\_site`. Pages, posts, and collections get structured based on their permalink setting. Directories that begin with `_` (such as `\_includes` and `\_data`) are usually hidden in the output.
+
 
 ## Structure
 - `_config.yaml` contains basic Jekyll configuration.
