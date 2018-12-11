@@ -8,6 +8,8 @@ and all that other jazz. Doesn't appear on the page; very different from the hea
 	<meta name="description" content="{{ site.description }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+	<!-- This is from that one gem. That package gathers together a bunch of basic site
+		data and holds it in this variable.-->
 	{% seo %}
 
 	<!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->

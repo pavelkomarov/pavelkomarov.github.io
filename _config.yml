@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "pavelkomarov.github.io" # the base hostname & protocol for your site
 # Build settings
 
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
+#google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 plugins:
   - jekyll-sitemap
