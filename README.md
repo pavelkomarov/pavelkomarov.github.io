@@ -2,11 +2,11 @@
 
 ## How Jekyll works
 
-markdown<br/>
-+html						---> [Jekyll]   ---> static website<br/>
-+liquid template language			^<br/>
-									|<br/>
-								 configs
+<pre>markdown
++html				---> [Jekyll]   ---> static website
++liquid template language		^
+					|
+				     configs</pre>
 
 `\_folder` means `jekyll build` doesn't include these with the final `\_site`. These should be used for reference materials that will be compiled in to other files.
 
