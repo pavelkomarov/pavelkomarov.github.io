@@ -25,8 +25,8 @@ html {
 
 body {
 	position: absolute;
-	margin: 0;
 	padding-bottom: 90px;
+	padding-top: 65px;
 	min-height: 100%;
 	width: 100%;
 	overflow-x: hidden;
