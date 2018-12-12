@@ -8,8 +8,6 @@
 					|
 				     configs</pre>
 
-`\_folder` means `jekyll build` doesn't include these with the final `\_site`. These should be used for reference materials that will be compiled in to other files.
-
 According to https://jekyllrb.com/tutorials/orderofinterpretation/:
 
 ### Order of interpretation
