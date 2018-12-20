@@ -34,8 +34,8 @@ function navbar_opacity() {
 	}
 	$('.navbar').css('background-color', 'rgba(34,34,34,'+opacity+')');
 }
-$(window).scroll(navbar_opacity);
-$(window).on('load', navbar_opacity);
+window.addEventListener('scroll', navbar_opacity);// avoid jQuery where easy
+window.addEventListener('load', navbar_opacity);
 
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul a').click(() => {
