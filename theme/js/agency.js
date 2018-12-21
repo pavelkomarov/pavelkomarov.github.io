@@ -1,7 +1,7 @@
 
 // Set the action of the navbar buttons. jQuery for page page-scrolling feature
 // (requires jQuery Easing plugin); snap to correct url if not on home page.
-$('a.page-scroll').click(event => {
+$('a.page-scroll').click(function(event) {
 	event.preventDefault();
 	let link = $(this).attr('href');
 	let site_root = window.location.protocol + '//' + window.location.host + '/';
