@@ -7,16 +7,18 @@
 				<h2 class="section-heading">Writing</h2>
 			</div>
 		</div>
+
 		<div class="row">
-		{% for post in site.categories.writing %}
+		{% for post in site.writing %}
+			<!-- Adaptively use 3 columns on medium and large screens and 2 on small ones. -->
 			<div class="col-md-4 col-sm-6 writing-item">
-				<a href="#{{ post.name }}" class="writing-link" data-toggle="modal">
+				<a href="{{ post.permalink }}" class="writing-link">
 					<div class="writing-hover">
 						<div class="writing-hover-content">
 							<i class="fa fa-plus fa-3x"></i>
 						</div>
 					</div>
-					<img src="../assets/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+					<img src="../assets/{{ post.img }}" class="img-responsive img-centered" alt="">
 				</a>
 				<div class="writing-caption">
 					<h4>{{ post.title }}</h4>

@@ -52,6 +52,10 @@ section h3.section-subheading {
 	color: #{{ site.color.muted }};
 }
 
+blockquote {
+	margin: 30px;
+}
+
 p {
 	line-height: 1.5;
 	font-size: 110%;

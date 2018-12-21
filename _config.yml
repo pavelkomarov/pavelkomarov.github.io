@@ -1,11 +1,7 @@
 title: Pavel's Site
-description: > # this means to ignore newlines until "baseurl:"
-  A place for things I write and projects I've worked on
-baseurl: "" # the subpath of your site, e.g. /blog
+description: A place for things I write and projects I've worked on
+baseurl: "" # the subpath of your site from root folder, e.g. /blog
 url: "pavelkomarov.github.io" # the base hostname & protocol for your site
-# Build settings
-
-#google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 plugins:
   - jekyll-sitemap
@@ -18,6 +14,13 @@ permalink: pretty
 
 # Site data below, because I don't want a whole /_data/template.yml file to access only these few things.
 # Variables defined here are accessible via {{ site.color.secondary }}, for example.
+
+collections: # https://jekyllrb.com/docs/collections
+  - writing # things in the _writing folder are now a collection accessible via site.writing
+
+include:  # kludgy solution: Jekyll ignores underscore-prepended folders at write-time yet needs
+  # underscores for collections, so a collection of written pages needs to be specifically re-included.
+  - _writing
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
