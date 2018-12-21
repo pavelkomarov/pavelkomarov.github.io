@@ -181,13 +181,14 @@ footer span.copyright {
 /* welcome screen */
 .welcome {
 	height: 100vh; /* This section is adaptively exactly one screenheight tall. Pretty slick. */
-	text-align: center;
-	padding: 35vh 0; /* for vertical centering */
-	color: #fff; /* text color */
+	background: lightgray; /* So if everything but the image loads a visitor can still see something */
 	background-attachment: fixed; /* alternatively this can "scroll" with the page" */
 	background-image: url('{{ site.baseurl }}/theme/img/purple_stars.jpg');
 	background-position: center center;
 	background-size: cover;
+	text-align: center;
+	padding: 35vh 0; /* for vertical centering */
+	color: #fff; /* text color */
 }
 
 .welcome .intro-heading {

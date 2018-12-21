@@ -9,20 +9,11 @@ layout: post
 <a href="#{{ letter }}">{{ letter }}</a>{% endfor %}
 
 
-"Official favor, grades, and other trinkets of subordination have no connection with education; they are the paraphernalia of servitude, not of freedom."  
---Gatto
-
-"Aristotle saw, a long time ago, that fully participating in a complex range of human affairs was the only way to become fully human."  
---Gatto
-
 "At some level Peterson is offering assertiveness training to men whom society is trying to turn into emasculated snowflakes."  
 --David Brooks, nytimes
 
 "I you do not love yourself entirely and actively ensure your own needs are met, you will find it difficult to do the same for others."  
 --Zaid Dahhaj
-
-"A goal without a plan is just a wish."  
---Harold Tharp
 
 "When action grows unprofitable, gather information; when information grows unprofitable, sleep."  
 --Ursula K. Le Guin, The Left Hand of Darkness
@@ -228,7 +219,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "In case you're worried about what's going to become of the younger generation, it's going to grow up and start worrying about the younger generation."  
 --Roger Allen
 
-"Tuez-les tous; Dieu reconnaitra les siens."
+"Tuez-les tous; Dieu reconnaitra les siens."  
 "Kill them all; God will recognize his."  
 --Arnaud Amalric
 
@@ -238,7 +229,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."  
 --Anonymous
 
-"It is the mark of an educated mind to be able to entertain a thought without accepting it."
+"It is the mark of an educated mind to be able to entertain a thought without accepting it."  
 –Aristotle
 
 "The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' (I  found it!) but 'That's funny ...'"  
@@ -409,9 +400,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."  
 --Winston Churchill
 
-"1. When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.
-2. The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
-3. Any sufficiently advanced technology is indistinguishable from magic."  
+"1. When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.  
+2\. The only way of discovering the limits of the possible is to venture a little way past them into the impossible.  
+3\. Any sufficiently advanced technology is indistinguishable from magic."  
 --Arthur C. Clarke
 
 "Fiction is more than non-fiction in some ways ... You can stretch people's minds, altering them to the possibilities of the futures, which is very important in an age where things are changing rapidly."  
@@ -750,6 +741,12 @@ And know the place for the first time.
 
 "Measuring programming progress by lines of code is like measuring aircraft building progress by weight."  
 ―Bill Gates
+
+"Official favor, grades, and other trinkets of subordination have no connection with education; they are the paraphernalia of servitude, not of freedom."  
+--John Taylor Gatto, Dumbing Us Down
+
+"Aristotle saw, a long time ago, that fully participating in a complex range of human affairs was the only way to become fully human."  
+--John Taylor Gatto, Dumbing Us Down
 
 "A philosopher once wrote you need three things to have a good life. One, a meaningful relationship. Two, a decent job of work. And three, to make a difference. And it was always that third one that stressed me, to make a difference. And I realized that I do, every day. We all do. It's how we interact with our fellow man."  
 --Ricky Gervais (as David, The Office (UK)
@@ -1127,9 +1124,9 @@ may God hold you in the palm of his hand."
 "Our name is Legion, for we are many."  
 --Mark 5:9
 
-"No llores porque ya se terminó ... sonríe, porque sucedió."
+"No llores porque ya se terminó ... sonríe, porque sucedió."  
 "Do not cry because it's over; smile because it happened."  
---Gabriel Garcia Marquez
+--Gabriel Garcia Marquez  
 Often satirized as "Smile because it's over; cry because it happened."
 
 "I bought a cactus. A week later it died. And I got depressed, because I thought, Damn. I am less nurturing than a desert."  
@@ -1716,6 +1713,9 @@ If I had to relive my life I would be even more stubborn and uncompromising than
 "All that was great in the past was ridiculed, condemned, combated, supressed--only to emerge all the more powerfully, all the more triumphantly from the struggle."  
 --Nikola Tesla
 
+"A goal without a plan is just a wish."  
+--Harold Tharp
+
 "...and they have windows, and your lab doesn't have windows because why don't they put windows in labs?"  
 --Andrea Thomaz, on why robots often don't work in the field
 
@@ -2115,22 +2115,22 @@ Oscar Wilde
 <a class="anchor" id="Z"></a>
 ### Z
 
-"Es mejor morir de pie que vivir de rodillas."
+"Es mejor morir de pie que vivir de rodillas."  
 "It's better to die on your feet than to live on your knees."
 –Emiliano Zapata
 
 "Life is trouble. Only Death is not. To be alive is to undo your belt and look for trouble!"  
---Alexis Zorba
+--[Alexis Zorba](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
 
 "Now I look at a man, any man, and I say 'He is good. He is bad.' ... Good or bad--what is the difference? They all end up the same way."  
---Alexis Zorba
+--[Alexis Zorba](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
 
-"You don't understand."
+"You don't understand."  
 "Understand what? I understand you're young and full of energy, and I don't understand what what the hell you are doing with it."  
---Alexis Zorba
+--[Alexis Zorba](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
 
 "On a deaf man's door, you can knock forever."  
---Alexis Zorba
+--[Alexis Zorba](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
 
 "You've got everything except one thing: Madness. A man needs a little madness or else he never dares cut the rope and be free."  
---Alexis Zorba
+--[Alexis Zorba](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
