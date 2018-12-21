@@ -16,12 +16,34 @@ html {
 body {
 	position: absolute;
 	margin: 0;
-	padding: 90px 0;
+	padding-top: 90px;
 	min-height: 100%;
 	width: 100%;
 	overflow-x: hidden;
 	font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #{{ site.color.secondary-dark }};
+}
+
+
+/* sections */
+section {
+	padding: 30px 30px;
+}
+
+section h2.section-heading {
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-bottom: 15px;
+	font-size: 40px;
+}
+
+section h3.section-subheading {
+	margin-bottom: 75px;
+	text-transform: none;
+	font-family: {{ site.font.secondary }};
+	font-size: 120%;
+	font-style: italic;
+	font-weight: 400;
 }
 
 
@@ -61,13 +83,12 @@ h3,
 h4,
 h5,
 h6 {
-	text-transform: uppercase;
 	font-family: {{ site.font.primary }};
 	font-weight: 700; /* 700 is standard bold */
 }
 
 
-/* navbar */
+/* header */
 .navbar-toggler {
 	transition: all .3s;
 	color: #fff;
@@ -146,23 +167,27 @@ ul.social-buttons li a:hover {
 	}
 }
 
+/* footer */
+footer {
+	padding: 25px 0;
+	text-align: center;
+}
+
+footer span.copyright {
+	font-family: {{ site.font.primary }};
+}
 
 
-
-/* */
+/* welcome screen */
 .welcome {
 	height: 100vh; /* This section is adaptively exactly one screenheight tall. Pretty slick. */
 	text-align: center;
 	padding: 35vh 0; /* for vertical centering */
-	color: #fff;
-	background-attachment: scroll;
+	color: #fff; /* text color */
+	background-attachment: fixed; /* alternatively this can "scroll" with the page" */
 	background-image: url('{{ site.baseurl }}/theme/img/purple_stars.jpg');
 	background-position: center center;
-	background-repeat: none;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
 	background-size: cover;
-	-o-background-size: cover;
 }
 
 .welcome .intro-heading {
@@ -193,31 +218,17 @@ ul.social-buttons li a:hover {
 	}
 }
 
-section {
-	padding: 30px 30px;
-}
 
-aside.clients h2,
-section h2.section-heading {
-	margin-top: 0;
-	margin-bottom: 15px;
-	font-size: 40px;
-}
 
-section h3.section-subheading {
-	margin-bottom: 75px;
-	text-transform: none;
-	font-family: {{ site.font.secondary }};
-	font-size: 120%;
-	font-style: italic;
-	font-weight: 400;
-}
 
-.service-heading {
-	margin: 15px 0;
-	text-transform: none;
-}
 
+
+
+
+
+
+
+/* writing links */
 #writing .writing-item {
 	right: 0;
 	margin: 0 0 15px;
@@ -290,6 +301,9 @@ section h3.section-subheading {
 	}
 }
 
+
+
+/* timeline stuff */
 .timeline {
 	position: relative;
 	padding: 0;
@@ -489,10 +503,9 @@ section h3.section-subheading {
 	}
 }
 
-aside.clients img {
-	margin: 50px auto;
-}
 
+
+/* contact form */
 section#contact {
 	background-color: #222;
 	background-image: url('{{ site.baseurl }}/theme/img/map-image.png');
@@ -556,30 +569,6 @@ section#contact:-ms-input-placeholder {
 
 section#contact .text-danger {
 	color: #e74c3c;
-}
-
-footer {
-	padding: 25px 0;
-	text-align: center;
-	background-color: white;
-	position: absolute;
-	right: 0;
-	left: 0;
-}
-
-footer span.copyright {
-	text-transform: uppercase;
-	text-transform: none;
-	font-family: {{ site.font.primary }};
-	line-height: 25px;
-}
-
-footer ul.quicklinks {
-	margin-bottom: 0;
-	text-transform: uppercase;
-	text-transform: none;
-	font-family: {{ site.font.primary }};
-	line-height: 40px;
 }
 
 
