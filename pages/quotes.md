@@ -1,35 +1,13 @@
 ---
 permalink: /quotes.html
-layout: post  
+layout: post
 ---
 ## Favorite Quotations
 
-"Big breakthroughs happen when what is suddenly possible meets what is desperately necessary."  
---Thomas Friedman
+{% assign alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ" | split: "" %}
+{% for letter in alphabet %}
+<a href="#{{ letter }}">{{ letter }}</a>{% endfor %}
 
-"How much richer would the whole world be if the reinforcers in daily life were more effectively contingent on productive work?"  
---B. F. Skinner
-
-"College is a place where a professor's lecture notes go straight to the students' lecture notes without passing through the brains of either."  
---Mark Twain
-
-"The mind is not a vessel that needs filling, but wood that needs igniting."  
---Plutarch
-
-"Bull markets are born on pessimism, grown on skepticism, mature on optimism and die on euphoria."  
---Sir John Templeton
-
-"The spirit of liberty is the spirit which is not too sure that it is right."  
---Learned Hand
-
-"The intellectual wants the whole society to be a school writ large, to be like the environment where he did so well and was so well appreciated. By incorporating standards of reward that are different from the wider society, the schools guarantee that some will experience downward mobility later. Those at the top of the school’s hierarchy will feel entitled to a top position, not only in that micro-society but in the wider one, a society whose system they will resent when it fails to treat them according to their self-prescribed wants and entitlements."  
---Robert Nozick
-
-" To the intellectually meritorious went the praise, the teacher’s smiles, and the highest grades. In the currency the schools had to offer, the smartest constituted the upper class. Though not part of the official curricula, in the schools the intellectuals learned the lessons of their own greater value in comparison with the others, and of how this greater value entitled them to greater rewards."  
---Nozick
-
-"You have power over your mind—not outside events. Realize this, and you will find strength."
-Marcus Aurelius, Meditations
 
 "Official favor, grades, and other trinkets of subordination have no connection with education; they are the paraphernalia of servitude, not of freedom."  
 --Gatto
@@ -40,12 +18,6 @@ Marcus Aurelius, Meditations
 "At some level Peterson is offering assertiveness training to men whom society is trying to turn into emasculated snowflakes."  
 --David Brooks, nytimes
 
-"Rather, I want to suggest what may be a wider lesson about software, (and probably about every kind of creative or professional work). Human beings generally take pleasure in a task when it falls in a sort of optimal-challenge zone; not so easy as to be boring, not too hard to achieve. A happy programmer is one who is neither underutilized nor weighed down with ill-formulated goals and stressful process friction. *Enjoyment predicts efficiency.*"  
---Steven Raymond, Cathedral vs Bazaar
-
-"It may well turn out that one of the most important effects of open source's success will be to teach us that play is the most economically efficient mode of creative work."  
---Steven Raymond, Cathedral vs Bazaar
-
 "I you do not love yourself entirely and actively ensure your own needs are met, you will find it difficult to do the same for others."  
 --Zaid Dahhaj
 
@@ -55,66 +27,19 @@ Marcus Aurelius, Meditations
 "When action grows unprofitable, gather information; when information grows unprofitable, sleep."  
 --Ursula K. Le Guin, The Left Hand of Darkness
 
-"There are those who will say terrible things about JavaScript. Many of these things are true. When I was required to write something in JavaScript for the first time, I quickly came to despise it. It would accept almost anything I typed but interpret it in a way that was completely different from what I meant. This had a lot to do with the fact that I did not have a clue what I was doing, of course, but there is a real issue here: JavaScript is ridiculously liberal in what it allows. The idea behind this design was that it would make programming in JavaScript easier for beginners. In actuality, it mostly makes finding problems in your programs harder because the system will not point them out to you."  
---Marijn Haverbeke, Eloquent Javascript
-
-"Solzhenitsyn said in his Nobel Prize acceptance speech 'A single person who stops lying can bring down a tyranny.', which is a stunning thing to say, but I would also say something that's been amply demonstrated in the 20th century, because we have historical examples of people who did precisely that. Gandhi did it. Vaclav Havel did it. Nelson Mandela did it. Solzhenitsyn's Gulag Archipelago was definitely one of the axe-blows that brought down the Soviet Union, a stunning achievement for a person who started writing that book by memorizing it when he was a concentration camp victim this [holds up pinched fingers] far away from starvation. It shows you as-as clearly as anything possibly can how powerful the human spirit can be if it's willing to take on the obligation of its relationship with the divine and also how terrible things can become if the responsibility of that burden is not shouldered."  
---[Jordan Peterson](https://www.youtube.com/watch?v=MLp7vWB0TeY&t=33m17s)
-
-"Hello learned and astonishingly attractive pupils. My name is John Green, and I want to welcome you to Crash Course: World History. Over the next 40 weeks together we will learn how in a mere 15,000 years humans went from hunting and gathering—  
-Mr. Green, Mr. Green! Mr.—Is this gonna be on the test?  
-Yeah, about the test: The test will measure whether you are an informed, engaged, and productive citizen of the world, and it will take place in schools and bars and hospitals and dormrooms and in places of worship. You will be tested on first dates, in job interviews, while watching football, and while scrolling through your Twitter feed. The test will judge your ability to think about things other than celebrity marriages, whether you’ll be easily persuaded by empty political rhetoric, and whether you’ll be able to place your life and your community in a broader context. The test will last your entire life, and it will be comprised of the millions of decisions that when taken together make your life yours. And everything, *everything* will be on it.
-I know, right? So pay attention."  
---John Green
-
-
-
-
-
-"Your noble prehistoric heritage as a scavenger has prepared you to eat anything, anything that is food."  
---John Green
-
-"There is perhaps nothing worse than reaching the top of the ladder and discovering that you’re on the wrong wall."  
---Joseph Campbell
-
-"I came to understand that radicalization is about pain. It's the pain of young people facing racism, exclusion from society, isolation from the opposite sex, overwhelming pressure from families and communities, a crisis of identity, and feeling powerless and insignificant. Yes, many of them have material comforts, but I believe too many of them lead lives of emotional poverty."  
---Deeyah Khan, Jihad
-
-"The greatest happiness is to vanquish your enemies, to drive them before you, to rob them of their wealth, to see those dear to them bathed in tears, to clasp to your bosom their wives and daughters."  
---Ghengis Khan
-
-
-"Where the heart leads, the mind can follow."  
---Maajid Nawaz
-
-
-"All religion carry same message: message of Love, Compassion, Forgiveness, Tolerance, Contentment, Self-Discipline. I think we need these qualities as human beings, irrespective of whether you say you are believer or non-believer, because these are the source of a happy life."  
---Tenzin Gyazo
-
-
-"You only get in trouble for telling the truth. Nobody gets in trouble for lying or making up crap. But when you tell something that's really true, they go crazy, and you're fired."  
---Chris Matthews
-
-
-
 "Courage is the solution to despair. Reason provides no answers. I can't know what the future will bring. We have to choose despite uncertainty. Wisdom is holding two contradictory truths in our mind simultaneously."  
 --Ethan Hawke's character in First Reformed
 
 "Despair is a development of pride so great that it chooses one's certitude rather than admit God is more creative than we are."  
 --Ethan Hawke's character in First Reformed
 
-"It’s only old people who say that young people feel “invincible”; it takes a writer of some wisdom to see that youth looks invincible only in retrospect, from the outside."  
---Rob Goodman
-
 "I've seen enough real sin to know the difference."  
 --Ethan Hawke's character in First Reformed
 
 "Where were you when I laid the Earth's foundations, marked out its dimensions, laid its cornerstone? When the morning stars sang, and the angels shouted with joy, where were you?"  --God, Book of Job
 
-
-
-"I've suffered thousands of tragedies in my life, most of them never happened." -de Montaigue
-
+"I've suffered thousands of tragedies in my life, most of them never happened."  
+--de Montaigue
 
 "Happiness is reality minus expectations."
 --?
@@ -122,102 +47,44 @@ I know, right? So pay attention."
 "If you want a flying car, just put some wheels on a helicopter"  
 --[Elon Musk](???)﻿
 
-
-
-
-"The most important learning is the ability to accept and expect mistakes and deal with the disappointments that they bring." -Fred Rogers
-
-"We need to help our children become more and more aware that what is essential in life is invisible to the eye." -Fred Rogers
-
-"The only thing that ever really changes the world is when somebody gets the idea that love can abound and can be shared." -Fred Rogers
-
-"When I was a boy and I would hear about something scary, my mother would tell us 'Always look for the people who are helping; you'll always find somebody who's trying to help.'" -Fred Rogers
-
-"This is what I give. I give an expression of care every day to each child, to help him realize that he is unique. I end the program by saying 'You've made this day a special day by just your being you. There's no person in the whole world like you, and I like you just the way you are.' And I feel that if we in public television can only make it clear that feelings are mentionable and manageable, we will have done a great service." -Fred Rogers
-
-"On the show he would say 'I love you just the way you are.' One day I said 'Fred, were you talking to me?' And he looked at me and he said 'Yes, I've been talking to you for two years. You finally heard me today.' And I just collapsed in to his arms. I-I started crying. That's when I knew that I loved him. No man had ever told me he loved me like that. I needed to hear it all my life." -Francois Clemmens
+"On the show he would say 'I love you just the way you are.' One day I said 'Fred, were you talking to me?' And he looked at me and he said 'Yes, I've been talking to you for two years. You finally heard me today.' And I just collapsed in to his arms. I-I started crying. That's when I knew that I loved him. No man had ever told me he loved me like that. I needed to hear it all my life." 
+--Francois Clemmens
 
 "The criticism goes like this: You told everyone they're special. They don't have to do anything to earn that 'special'. That's what's wrong with our country. That's what's wrong with children today.
 I'm sure by then Fred had heard the criticisms, but it's not talking about entitlement, and if you don't believe that everyone has inherent value, you might as well go against the fundamental notion of Christianity, that you are the beloved son or daughter of God.
-At the very end of Fred's very last commencement speech he said what he meant when he said 'You are special.'"
-"And what that ultimately means, of course, is that you don't ever have to do anything sensational for people to love you."
-"It is really a matter of believing that you're endowed by your creator with good." -Junlei Li
+At the very end of Fred's very last commencement speech he said what he meant when he said 'You are special.'"  
+"And what that ultimately means, of course, is that you don't ever have to do anything sensational for people to love you."  
+"It is really a matter of believing that you're endowed by your creator with good."  
+--Junlei Li
 
-"From the time you were very little, you've had people who have smiled you in to smiling, people who have talked you in to talking, sung you in to singing, loved you in to loving." -Fred Rogers
+"Fred's theology was 'Love your neighbor, and love yourself.'"  
+--George Wirth?
 
-"What we see and hear on the screen is part of who we become." -Fred Rogers
+"He never forgot how vulnerable it was to be a kid."  
+--That one grey-bobbed producer
 
-"'I like you as you are, exactly and precisely. I think you turned out nicely, and I like you as you are.' And children need to hear that. I don't think that anybody can grow unless he really is accepted exactly as he is." -Fred Rogers
-
-"Mr. Rogers, I like you as you are." -child to Fred
-
-"Fred's theology was 'Love your neighbor, and love yourself.'" -George Wirth?
-
-"In this country a child is appreciated for what he will be. He will be a great consumer some day." -Fred Rogers
-
-"He never forgot how vulnerable it was to be a kid." -That one grey-bobbed producer
-
-"A plea not to leave the children isolated and at the mercy of their own fantasies of loss and destruction." -Fred Rogers
-
-"He realized that if he really wanted to communicate, the most important thing is to listen." -scientist lady
+"He realized that if he really wanted to communicate, the most important thing is to listen."  
+--scientist lady
 
 "His questions are direct, simple, short, and then he waits. And some times after they answer, he doesn't say anything else. So they say a little bit more. It's a perfect interviewing trick." -39 minutes about
 
-"He interviewed me. And he put his face about three inches away from my face, says 'It's so nice to see you and to be with you.' It scared the living daylights out of me. But I realized this is what children do with adults." -Yo Yo Ma
-
 When a child gifts him drawings, rather than looking at the drawings, he looks intently at the child.
-
-"I am tired of hearing people who have long ago set aside the concerns of childhood telling everybody what children really need. I'll tell you what children need. They need adults who will protect them from the ever-ready moulders of their world." -Fred Rogers
 
 "He was cool with *every* kid. That's the whole thing. I mean, there were little kids that were, they were little bastards. They were just rowdy and--Fred never said '*scoff* This kid's a dick. Get him out of here.' You know, I mean, I sure would've."
 
-"I felt that the adults around me were pressuring me to be what I couldn't be yet. 'Act like a grown-up.' I'd hear them say. Well, I was afraid they'd laugh at me when I tried." -Fred Rogers
+"That was one of the things that I responded to. I definitely saw an other way of-of being a man."  
+--journalist friend
 
-"I think that those who would try to make you feel less than who you are, I think that's the greatest evil." -Fred Rogers
-
-"That was one of the things that I responded to. I definitely saw an other way of-of being a man." -journalist friend
-
-"It's you I like.
-It's not the things you wear.
-It's not the way you do your hair.
-But it's you I like,
-the way you are right now,
-the way down deep inside you
-not the things that hide you." -Fred Rogers
-
-"because it's not all clowns and balloons." -Fred Rogers on childhood
-
-"Years ago it wasn't so wierd that-that somebody as nice as Fred was around. Now there isn't room for a nice person on TV." -Producer guy
-
-"I think everybody longs to be loved and longs to know that he or she is loveable. And consequently the greatest thing that we can do is to help somebody know that they're loved and capable of loving." -Fred Rogers
+"Years ago it wasn't so wierd that-that somebody as nice as Fred was around. Now there isn't room for a nice person on TV."  
+--Producer guy
 
 He truly embodies Carnegie's (and Jesus') principles of being genuinely interested in other people, showing them genuine appreciation, and giving away vast quantities of love never stopping to become embittered by a world that may not show love initially.
-
-
-
-
-
-
 
 "You know what makes you feel okay about losing? Winning."  
 --Molly Bloom (character, movie)
 
-"Lighthouses are more useful than churches." -Benjamin Franklin
-
-"In one particularly telling real-world example from 2016 of how such cuts affected students in the “brick and mortar” district, high school junior Jameria Miller talks about why she starts every morning running through the school to get a good seat near the front of the room in her first-period Spanish class. It’s not because she is just excited about the class. It’s because the school is cold. As she explains, “The cold is definitely a distraction. We race to class to get the best blankets.” What she means is that because the classroom where she begins her day has uninsulated metal walls, Jameria’s teacher hands out blankets to the students on a first come, first served basis. It’s the only way for them to stay warm. Miller’s school in the William Penn District is situated in Philadelphia’s “inner-ring” suburbs and serves a student body that is majority Black and overwhelmingly impoverished. Though concentrating in the cold is hard enough, Miller says the hardest part of her daily ordeal is the knowledge that life isn’t like this for students in other districts. She means students in wealthier districts. “It’s never going to be fair, they’re always going to be a step ahead of us. They’ll have more money than us, and they’ll get better jobs than us, always.” She says she doesn’t believe that either funding or systemic school improvement will ever truly equalize: “What I’m about to say might not be very nice, but rich people aren’t going to want [funding fairness]. They want their kids to have better things so that their kids can get a jump start in life and be ahead of everyone else. And, as long as people feel that way, we all won’t be equal. We won’t receive equal education ever, because education is what gets you success.”" -Noliwe Rooks
-
-"They may forget what you said — but they will never forget how you made them feel."  
---Carl Buehner
-
-
-"I see people as equals; I have to pretend to look up to them."  
---Gail Finkelstein LeVine
-
-"People with wisdom know that it is important to correct their own mistakes, while people without wisdom find it necessary to point out the mistakes of others."  
---Bawa Muhaiyaddeen
-
-
-“Adapt or perish, now as ever, is nature’s inexorable imperative.” – H.G. Wells
+"In one particularly telling real-world example from 2016 of how such cuts affected students in the “brick and mortar” district, high school junior Jameria Miller talks about why she starts every morning running through the school to get a good seat near the front of the room in her first-period Spanish class. It’s not because she is just excited about the class. It’s because the school is cold. As she explains, “The cold is definitely a distraction. We race to class to get the best blankets.” What she means is that because the classroom where she begins her day has uninsulated metal walls, Jameria’s teacher hands out blankets to the students on a first come, first served basis. It’s the only way for them to stay warm. Miller’s school in the William Penn District is situated in Philadelphia’s “inner-ring” suburbs and serves a student body that is majority Black and overwhelmingly impoverished. Though concentrating in the cold is hard enough, Miller says the hardest part of her daily ordeal is the knowledge that life isn’t like this for students in other districts. She means students in wealthier districts. “It’s never going to be fair, they’re always going to be a step ahead of us. They’ll have more money than us, and they’ll get better jobs than us, always.” She says she doesn’t believe that either funding or systemic school improvement will ever truly equalize: “What I’m about to say might not be very nice, but rich people aren’t going to want [funding fairness]. They want their kids to have better things so that their kids can get a jump start in life and be ahead of everyone else. And, as long as people feel that way, we all won’t be equal. We won’t receive equal education ever, because education is what gets you success.”"  
+--Noliwe Rooks
 
 "Common sense tells us that consciously thinking about a problem or deliberating about the options is the best strategy for making a decision. Consider the possibility that *not* consciously thinking can produce an outcome superior to that of consciously thinking. In a study be Ap Dijksterhuis (2004), participants evaluated complex information regarding real-world choices. One situation involved selecting an apartment. In each case, the participants chose between alternatives that had negative features (e.g., high rent, bad location) and positive features (e.g., nice landlord, good view). Objectively, one apartment was the best choice. Some participants were required to make an immediate choice (no thought). Some had to think for 3 minutes and then choose (conscious thought). Others had to work for 3 minues on a difficult, distracting task and then choose (unconscious thought). Across three separate trials, those in the unconscious thought condition made the best decisions. According to Dijksterhuis and Nordgren (2006), unconscious processing is especially valuable for complex decisions in which it is difficult to weigh the pros and cons consciously. Perhaps this is why, for very important decisions, people often choose to "sleep on it.
 Consider also the possibility that consciously thinking can undermine good decision making. The social psychologist Tim Wilson and the cognitive psychologist Jonathan Schooler (1991) asked research participants to rate james. When the participants simply tasted the james, their ratings were very similar to experts' ratings. However, whent he participants had to explain their ratings jam by jam, their ratings differed substantially from the experts'. Unless the experts were wrong, the participants had made poorer judgements: Having to reflect consciously about their reasons apparently altered their perceptions of the jams."  
@@ -229,23 +96,11 @@ Consider also the possibility that consciously thinking can undermine good decis
 "Everyone is being satirical, everything is a send-up. There’s an infuriating frivolity, cynicism and finally a vacuousness."  
 --Barry Humphries
 
-"Everything is a branch of comedy now. Everybody is a comedian. Everything is subversive. And I find that very tiresome."  
---John Bird
-
 "Conceivably the demand arose because after ten years of stable Conservative government, with no prospect in 1961 of its ever ending, the middle classes felt some vague guilt accumulating for the discrepancy between their prosperous security and the continuing misery of those who persisted in failing to conform, by being black, or queer, or mad, or old. Conceivably they felt the need to disclaim with laughter any responsibility for this situation, and so relieve their consciences without actually voting for anything which might have reduced their privileges."  
 --Michael Frayn
 
-"In an age when politicians are judged first of all on personality, when the public assumes all of them to be deceitful, and when it’s easier and much more pleasurable to laugh about a political issue than to think about it, Johnson’s apparent self-deprecating honesty and lack of concern for his own dignity were bound to make him a hit."  
---Jonathan Coe
-
-"These days, every politician is a laughing-stock, and the laughter which occasionally used to illuminate the dark corners of the political world with dazzling, unexpected shafts of hilarity has become an unthinking reflex on our part, a tired Pavlovian reaction to situations that are too difficult or too depressing to think about clearly."  
---Jonathan Coe
-
 "Show me any guy who ever said he didn't want to be popular, and I'll show you a scared guy. I've studied the entire history of music. Most of the time the best stuff is the popular stuff. It's much safer to say popularity sucks, because that allows you to forgive yourself if you suck. And I don't forgive myself. Do you?"  
 --Jeff Bebe, Almost Famous
-
-"Be bold, and mighty forces will come to your aid."  
---Goethe
 
 "Oh, man. You made friends with them. See, friendship is the booze they feed you. They want you to get drunk on feeling like you belong."
 "Well, it was fun."
@@ -263,14 +118,9 @@ Consider also the possibility that consciously thinking can undermine good decis
 "Think like an American; you have to know where you're going."  
 --Brooklyn
 
-". . . someone able to speak the truth, a . . . courageous and angry individual for whom no worldly power is too big and imposing to be criticised and pointedly taken to task. The real or true intellectual is therefore always an outsider, living in self-imposed exile, and on the margins of society. He or she speaks to, as well as for, a public, necessarily in public, and is properly on the side of the dispossessed, the un-represented and the forgotten."
-— Edward Saïd
 
-"When you see a good move, look for a better one."  
---Emmanuel Lasker
-
-
-
+<a class="anchor" id="A"></a>
+### A
 
 "Anarchism is founded on the observation that since few men are wise enough to rule themselves, even fewer are wise enough to rule others." 
 –Edward Abbey
@@ -360,15 +210,15 @@ The argument goes something like this: "I refuse to prove that I exist," says Go
 "It is easier to fight for one's principles than to live up to them."  
 --Alfred Adler
 
-"What about you, Colonel?
-My job isn't to believe or disbelieve. It's to act or not to act.
-...
+"What about you, Colonel?  
+My job isn't to believe or disbelieve. It's to act or not to act.  
+...  
 The other day, a young researcher asked me something.
-He wondered if their power was the form the next stage of human evolution was taking, and perhaps that we'll all be able to control it some day.
-Scientists are a bunch of romantics. Military men always consider the risks first. It's taken thirty long years. We've come so far from the rubble. We can't just trade one for the other.
-I've always thought that you hated this city, Colonel.
-The passion to build has cooled and the joy of reconstruction forgotten, and now it's just a garbage heap made up of hedonistic fools.
-So you're trying to save the city, then?
+He wondered if their power was the form the next stage of human evolution was taking, and perhaps that we'll all be able to control it some day.  
+Scientists are a bunch of romantics. Military men always consider the risks first. It's taken thirty long years. We've come so far from the rubble. We can't just trade one for the other.  
+I've always thought that you hated this city, Colonel.  
+The passion to build has cooled and the joy of reconstruction forgotten, and now it's just a garbage heap made up of hedonistic fools.  
+So you're trying to save the city, then?  
 It's how a soldier thinks. A scientist wouldn't understand."  
 --Akira (Film)
 
@@ -397,6 +247,12 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "One reason I don't drink is that I want to know when I am having a good time."  
 --Nancy Astor
 
+"You have power over your mind—not outside events. Realize this, and you will find strength."  
+--Marcus Aurelius, Meditations
+
+<a class="anchor" id="B"></a>
+### B
+
 "Although golf was originally restricted to wealthy, overweight Protestants, today it's open to anybody who owns hideous clothing."  
 --David Barry
 
@@ -413,7 +269,10 @@ It's how a soldier thinks. A scientist wouldn't understand."
 --Ambrose Bierce
 
 "Logic: The art of thinking and reasoning in strict accordance with the limitations and incapacities of the human misunderstanding."  
---Ambrose Bierce (I disagree)
+--Ambrose Bierce
+
+"Everything is a branch of comedy now. Everybody is a comedian. Everything is subversive. And I find that very tiresome."  
+--John Bird
 
 "Don't search for excuses for failure; cause reasons for success."
 –Rocky Bleier
@@ -457,6 +316,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned."  
 --Buddha
 
+"They may forget what you said, but they will never forget how you made them feel."  
+--Carl Buehner
+
 "A simple answer that is clear and precise will always have more power in the world than a complex one that is true."  
 --Nolan Bushnell
 
@@ -469,17 +331,23 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "You will never find time for anything. If you want time you must make it."  
 --Charles Buxton
 
+<a class="anchor" id="C"></a>
+### C
+
+"Veni. Vidi. Vici."   
+--Julius Caesar
+
 "Let them hate us as long as they fear us."  
 --Caligula
+
+"There is perhaps nothing worse than reaching the top of the ladder and discovering that you’re on the wrong wall."  
+--Joseph Campbell
 
 "Nobody realizes that some people expend tremendous energy merely to be normal."   
 --Albert Camus
 
 "On this earth there are pestilences, and there are victims. And it's up to us, so far as possible, not to join forces with the pestilences."  
 --Albert Camus
-
-"Veni. Vidi. Vici."   
---Julius Caesar
 
 "You can get more with a kind word and a gun than you can a kind word alone."  
 --Al Capone
@@ -504,6 +372,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "You can prick your finger, just don't finger your prick. That's all."  
 --George Carlin
+
+"Any fool can criticize, condemn, and complain--and most fools do."  
+--Dale Carnegie
 
 "We accept the love we think we deserve."  
 --Stephen Chbosky (The Perks of Being a Wallflower)
@@ -549,6 +420,12 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Two possibilities exist; ether we are alone in the universe, or we are not. Both are equally terrifying."  
 --Arthur C. Clarke
 
+"In an age when politicians are judged first of all on personality, when the public assumes all of them to be deceitful, and when it’s easier and much more pleasurable to laugh about a political issue than to think about it, Johnson’s apparent self-deprecating honesty and lack of concern for his own dignity were bound to make him a hit."  
+--Jonathan Coe
+
+"These days, every politician is a laughing-stock, and the laughter which occasionally used to illuminate the dark corners of the political world with dazzling, unexpected shafts of hilarity has become an unthinking reflex on our part, a tired Pavlovian reaction to situations that are too difficult or too depressing to think about clearly."  
+--Jonathan Coe
+
 "In my experience, you truly serve only what you love; because service is love made visible."  
 --Stephen Colbert
 
@@ -593,24 +470,27 @@ So do it."
 "Nothing in life is to be feared; it is only to be understood."  
 --Marie Curie
 
+<a class="anchor" id="D"></a>
+### D
+
 "One last drink, please."  
 --Jack Daniels (allegedly his last words)
 
 "The only competitor for the title of champion constructive mistranslation of all time also concerns virgins. Ibn Warraq has hilariously argued that in the famous promise of seventy-two virgins to every Muslim martyr, 'virgins' is a mistranslation of 'white raisins of crystal clarity'. Now, if only that had been more widely known, how many innocent victims of suicide missions might have been saved?"  
 --Richard Dawkins
 
-	"[S]tudents from elite schools expect success, and expect it now. They have, by definition, never experienced anything else, and their sense of self has been built around their ability to succeed. The idea of not being successful terrifies them, disorients them, defeats them. They’ve been driven their whole lives by a fear of failure—often, in the first instance, by their parents’ fear of failure. The first time I blew a test, I walked out of the room feeling like I no longer knew who I was. The second time, it was easier; I had started to learn that failure isn’t the end of the world.
-	But if you’re afraid to fail, you’re afraid to take risks, which begins to explain the final and most damning disadvantage of an elite education: that it is profoundly anti-intellectual. This will seem counterintuitive. Aren’t kids at elite schools the smartest ones around, at least in the narrow academic sense? Don’t they work harder than anyone else—indeed, harder than any previous generation? They are. They do. But being an intellectual is not the same as being smart. Being an intellectual means more than doing your homework.
-	If so few kids come to college understanding this, it is no wonder. They are products of a system that rarely asked them to think about something bigger than the next assignment. The system forgot to teach them, along the way to the prestige admissions and the lucrative jobs, that the most important achievements can’t be measured by a letter or a number or a name. It forgot that the true purpose of education is to make minds, not careers.
-	Being an intellectual means, first of all, being passionate about ideas—and not just for the duration of a semester, for the sake of pleasing the teacher, or for getting a good grade. A friend who teaches at the University of Connecticut once complained to me that his students don’t think for themselves. Well, I said, Yale students think for themselves, but only because they know we want them to. I’ve had many wonderful students at Yale and Columbia, bright, thoughtful, creative kids whom it’s been a pleasure to talk with and learn from. But most of them have seemed content to color within the lines that their education had marked out for them. Only a small minority have seen their education as part of a larger intellectual journey, have approached the work of the mind with a pilgrim soul. These few have tended to feel like freaks, not least because they get so little support from the university itself. Places like Yale, as one of them put it to me, are not conducive to searchers. [explorers]
-	Places like Yale are simply not set up to help students ask the big questions. I don’t think there ever was a golden age of intellectualism in the American university, but in the 19th century students might at least have had a chance to hear such questions raised in chapel or in the literary societies and debating clubs that flourished on campus. Throughout much of the 20th century, with the growth of the humanistic ideal in American colleges, students might have encountered the big questions in the classrooms of professors possessed of a strong sense of pedagogic mission. Teachers like that still exist in this country, but the increasingly dire exigencies of academic professionalization have made them all but extinct at elite universities. Professors at top research institutions are valued exclusively for the quality of their scholarly work; time spent on teaching is time lost. If students want a conversion experience, they’re better off at a liberal arts college.
-	When elite universities boast that they teach their students how to think, they mean that they teach them the analytic and rhetorical skills necessary for success in law or medicine or science or business. But a humanistic education is supposed to mean something more than that, as universities still dimly feel. So when students get to college, they hear a couple of speeches telling them to ask the big questions, and when they graduate, they hear a couple more speeches telling them to ask the big questions. And in between, they spend four years taking courses that train them to ask the little questions—specialized courses, taught by specialized professors, aimed at specialized students. Although the notion of breadth is implicit in the very idea of a liberal arts education, the admissions process increasingly selects for kids who have already begun to think of themselves in specialized terms—the junior journalist, the budding astronomer, the language prodigy. We are slouching, even at elite schools, toward a glorified form of vocational training.
-	Indeed, that seems to be exactly what those schools want. There’s a reason elite schools speak of training leaders, not thinkers—holders of power, not its critics. An independent mind is independent of all allegiances, and elite schools, which get a large percentage of their budget from alumni giving, are strongly invested in fostering institutional loyalty. As another friend, a third-generation Yalie, says, the purpose of Yale College is to manufacture Yale alumni. Of course, for the system to work, those alumni need money. At Yale, the long-term drift of students away from majors in the humanities and basic sciences toward more practical ones like computer science and economics has been abetted by administrative indifference. The college career office has little to say to students not interested in law, medicine, or business, and elite universities are not going to do anything to discourage the large percentage of their graduates who take their degrees to Wall Street. In fact, they’re showing them the way. The liberal arts university is becoming the corporate university, its center of gravity shifting to technical fields where scholarly expertise can be parlayed into lucrative business opportunities.
-	It’s no wonder that the few students who are passionate about ideas find themselves feeling isolated and confused. I was talking with one of them last year about his interest in the German Romantic idea of bildung, the upbuilding of the soul. But, he said—he was a senior at the time—it’s hard to build your soul when everyone around you is trying to sell theirs.
-	Yet there is a dimension of the intellectual life that lies above the passion for ideas, though so thoroughly has our culture been sanitized of it that it is hardly surprising if it was beyond the reach of even my most alert students. Since the idea of the intellectual emerged in the 18th century, it has had, at its core, a commitment to social transformation. Being an intellectual means thinking your way toward a vision of the good society and then trying to realize that vision by speaking truth to power. It means going into spiritual exile. It means foreswearing your allegiance, in lonely freedom, to God, to country, and to Yale. It takes more than just intellect; it takes imagination and courage. “I am not afraid to make a mistake,” Stephen Dedalus says, “even a great mistake, a lifelong mistake, and perhaps as long as eternity, too.”
-	...
-	The world that produced John Kerry and George Bush is indeed giving us our next generation of leaders. The kid who’s loading up on AP courses junior year or editing three campus publications while double-majoring, the kid whom everyone wants at their college or law school but no one wants in their classroom, the kid who doesn’t have a minute to breathe, let alone think, will soon be running a corporation or an institution or a government. She will have many achievements but little experience, great success but no vision. The disadvantage of an elite education is that it’s given us the elite we have, and the elite we’re going to have."
-	-William Deresiewicz
+"[S]tudents from elite schools expect success, and expect it now. They have, by definition, never experienced anything else, and their sense of self has been built around their ability to succeed. The idea of not being successful terrifies them, disorients them, defeats them. They’ve been driven their whole lives by a fear of failure—often, in the first instance, by their parents’ fear of failure. The first time I blew a test, I walked out of the room feeling like I no longer knew who I was. The second time, it was easier; I had started to learn that failure isn’t the end of the world.  
+But if you’re afraid to fail, you’re afraid to take risks, which begins to explain the final and most damning disadvantage of an elite education: that it is profoundly anti-intellectual. This will seem counterintuitive. Aren’t kids at elite schools the smartest ones around, at least in the narrow academic sense? Don’t they work harder than anyone else—indeed, harder than any previous generation? They are. They do. But being an intellectual is not the same as being smart. Being an intellectual means more than doing your homework.  
+If so few kids come to college understanding this, it is no wonder. They are products of a system that rarely asked them to think about something bigger than the next assignment. The system forgot to teach them, along the way to the prestige admissions and the lucrative jobs, that the most important achievements can’t be measured by a letter or a number or a name. It forgot that the true purpose of education is to make minds, not careers.  
+Being an intellectual means, first of all, being passionate about ideas—and not just for the duration of a semester, for the sake of pleasing the teacher, or for getting a good grade. A friend who teaches at the University of Connecticut once complained to me that his students don’t think for themselves. Well, I said, Yale students think for themselves, but only because they know we want them to. I’ve had many wonderful students at Yale and Columbia, bright, thoughtful, creative kids whom it’s been a pleasure to talk with and learn from. But most of them have seemed content to color within the lines that their education had marked out for them. Only a small minority have seen their education as part of a larger intellectual journey, have approached the work of the mind with a pilgrim soul. These few have tended to feel like freaks, not least because they get so little support from the university itself. Places like Yale, as one of them put it to me, are not conducive to searchers. [explorers]  
+Places like Yale are simply not set up to help students ask the big questions. I don’t think there ever was a golden age of intellectualism in the American university, but in the 19th century students might at least have had a chance to hear such questions raised in chapel or in the literary societies and debating clubs that flourished on campus. Throughout much of the 20th century, with the growth of the humanistic ideal in American colleges, students might have encountered the big questions in the classrooms of professors possessed of a strong sense of pedagogic mission. Teachers like that still exist in this country, but the increasingly dire exigencies of academic professionalization have made them all but extinct at elite universities. Professors at top research institutions are valued exclusively for the quality of their scholarly work; time spent on teaching is time lost. If students want a conversion experience, they’re better off at a liberal arts college.  
+When elite universities boast that they teach their students how to think, they mean that they teach them the analytic and rhetorical skills necessary for success in law or medicine or science or business. But a humanistic education is supposed to mean something more than that, as universities still dimly feel. So when students get to college, they hear a couple of speeches telling them to ask the big questions, and when they graduate, they hear a couple more speeches telling them to ask the big questions. And in between, they spend four years taking courses that train them to ask the little questions—specialized courses, taught by specialized professors, aimed at specialized students. Although the notion of breadth is implicit in the very idea of a liberal arts education, the admissions process increasingly selects for kids who have already begun to think of themselves in specialized terms—the junior journalist, the budding astronomer, the language prodigy. We are slouching, even at elite schools, toward a glorified form of vocational training.  
+Indeed, that seems to be exactly what those schools want. There’s a reason elite schools speak of training leaders, not thinkers—holders of power, not its critics. An independent mind is independent of all allegiances, and elite schools, which get a large percentage of their budget from alumni giving, are strongly invested in fostering institutional loyalty. As another friend, a third-generation Yalie, says, the purpose of Yale College is to manufacture Yale alumni. Of course, for the system to work, those alumni need money. At Yale, the long-term drift of students away from majors in the humanities and basic sciences toward more practical ones like computer science and economics has been abetted by administrative indifference. The college career office has little to say to students not interested in law, medicine, or business, and elite universities are not going to do anything to discourage the large percentage of their graduates who take their degrees to Wall Street. In fact, they’re showing them the way. The liberal arts university is becoming the corporate university, its center of gravity shifting to technical fields where scholarly expertise can be parlayed into lucrative business opportunities.  
+It’s no wonder that the few students who are passionate about ideas find themselves feeling isolated and confused. I was talking with one of them last year about his interest in the German Romantic idea of bildung, the upbuilding of the soul. But, he said—he was a senior at the time—it’s hard to build your soul when everyone around you is trying to sell theirs.  
+Yet there is a dimension of the intellectual life that lies above the passion for ideas, though so thoroughly has our culture been sanitized of it that it is hardly surprising if it was beyond the reach of even my most alert students. Since the idea of the intellectual emerged in the 18th century, it has had, at its core, a commitment to social transformation. Being an intellectual means thinking your way toward a vision of the good society and then trying to realize that vision by speaking truth to power. It means going into spiritual exile. It means foreswearing your allegiance, in lonely freedom, to God, to country, and to Yale. It takes more than just intellect; it takes imagination and courage. “I am not afraid to make a mistake,” Stephen Dedalus says, “even a great mistake, a lifelong mistake, and perhaps as long as eternity, too.”  
+...  
+The world that produced John Kerry and George Bush is indeed giving us our next generation of leaders. The kid who’s loading up on AP courses junior year or editing three campus publications while double-majoring, the kid whom everyone wants at their college or law school but no one wants in their classroom, the kid who doesn’t have a minute to breathe, let alone think, will soon be running a corporation or an institution or a government. She will have many achievements but little experience, great success but no vision. The disadvantage of an elite education is that it’s given us the elite we have, and the elite we’re going to have."  
+--William Deresiewicz
 
 "The greatest minds are capable of the greatest vices as well as of the greatest virtues."  
 --Rene Descartes
@@ -624,11 +504,8 @@ So do it."
 "How we spend our days is how we spend our lives."
 –Annie Dillard
 
- "So there was a kid back in February from, ah, Baltimore--ah, 14 years old [Jack Andraka]--who, ah, had access to Jstor. And he'd been spelunking through Jstor after reading something, and he figured out a way to do early tests for pancreatic cancer [by infusing a conductive carbon mesh with a chemical that bonds to a biomarker from blood of a testee, thereby changing the conductivity of the material]. And pancreatic cancer kills the shit out of you because we detect it way too late: By the time we detect it, it's already too late to do anything about it. Ah, and, um, He sent emails off to the entire oncology department at Johns Hopkins, you know, hundreds of them .. and most of them ignored it, right. But one of them, like, sent him an email back and said 'This is not an entirely stupid idea. Why don't you come on over.' And this kid worked evenings and weekends with this researcher, and in February I heard him on the news, just a couple of weeks after Aaron died, when Aaron was in the news a lot. *pauses and tears up* Sorry *breathes* And, ah, he said, um, the reason he was on the news is cause they'd done it; they were shipping, ah, an early test for pancreatic cancer that was gonna save lives. And he said, ah, this is why what Aaron did was so important: Because you never know, right? This truth of the universe is not only something *wipes tear* that policy makers use to figure out, you know, what the speed limit should be; it's where the, the thing that's gonna keep, you know, your kid from dying of pancreatic cancer comes from. And, without access, the person who might come up with the thing that's got your number on it may never find that answer."
- -Cory Doctorow (The Internet's Own Boy)
-
-"Go for it now. The future is promised to no one."  
---Wayne Dyer
+"So there was a kid back in February from, ah, Baltimore--ah, 14 years old [Jack Andraka]--who, ah, had access to Jstor. And he'd been spelunking through Jstor after reading something, and he figured out a way to do early tests for pancreatic cancer [by infusing a conductive carbon mesh with a chemical that bonds to a biomarker from blood of a testee, thereby changing the conductivity of the material]. And pancreatic cancer kills the shit out of you because we detect it way too late: By the time we detect it, it's already too late to do anything about it. Ah, and, um, He sent emails off to the entire oncology department at Johns Hopkins, you know, hundreds of them .. and most of them ignored it, right. But one of them, like, sent him an email back and said 'This is not an entirely stupid idea. Why don't you come on over.' And this kid worked evenings and weekends with this researcher, and in February I heard him on the news, just a couple of weeks after Aaron died, when Aaron was in the news a lot. *pauses and tears up* Sorry *breathes* And, ah, he said, um, the reason he was on the news is cause they'd done it; they were shipping, ah, an early test for pancreatic cancer that was gonna save lives. And he said, ah, this is why what Aaron did was so important: Because you never know, right? This truth of the universe is not only something *wipes tear* that policy makers use to figure out, you know, what the speed limit should be; it's where the, the thing that's gonna keep, you know, your kid from dying of pancreatic cancer comes from. And, without access, the person who might come up with the thing that's got your number on it may never find that answer."
+--Cory Doctorow (The Internet's Own Boy)
 
 "Only a man who has felt ultimate despair is capable of feeling ultimate bliss." 
 Also traslated as: "There is neither happiness nor misery in the world; there is only the comparison of one state with another, —nothing more. He who has felt the deepest grief is best able to experience supreme happiness. We must have felt what it is to die, Morrel, that we may appreciate the enjoyments of living."
@@ -646,7 +523,13 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 "Whether it's space exploration or quantum exploration, we do it because we must. We do it because that's what it means to be human."  
 --D-Wave (quantum comuting company)
 
-"They say marriages are made in Heaven. But so is thunder and lightning."  
+"Go for it now. The future is promised to no one."  
+--Wayne Dyer
+
+<a class="anchor" id="E"></a>
+### E
+
+"They say marriages a re made in Heaven. But so is thunder and lightning."  
 --Clint Eastwood
 
 "Creativity is intelligence having fun."  
@@ -666,9 +549,6 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 
 "Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions."  
 --Albert Einstein
-
-"Any intelligent fool can make things bigger and more complex. It takes a touch of genius and a lot of courage to move in the opposite direction."  
---E. F. Schumacher
 
 "I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world."  
 --Albert Einstein
@@ -740,6 +620,9 @@ And know the place for the first time.
 "Public speaking is the art of diluting a two-minute idea with a two-hour vocabulary."  
 --Evan Esar
 
+<a class="anchor" id="F"></a>
+### F
+
 "Don't bother just to be better than your contemporaries or predecessors. Try to be better than yourself."  
 --William Faulkner
 
@@ -756,6 +639,9 @@ And know the place for the first time.
 
 "What I can not create I do not understand. Kow how to solve every problem that has been solved."  
 --Richard Feynman
+
+"I see people as equals; I have to pretend to look up to them."  
+--Gail Finkelstein LeVine
 
 "I shall not waste my days in trying to prolong them."  
 --Ian Flemming
@@ -787,11 +673,17 @@ And know the place for the first time.
 "Lost time is never found again."  
 --Benjamin Franklin
 
-"Any fool can criticize, condemn, and complain--and most fools do."  
+"Lighthouses are more useful than churches."  
 --Benjamin Franklin
+
+"Big breakthroughs happen when what is suddenly possible meets what is desperately necessary."  
+--Thomas Friedman
 
 "The brain is a wonderful organ; it starts working the moment you get up in the morning, and does  not stop until you get to the office."  
 --Robert Frost
+
+<a class="anchor" id="G"></a>
+### G
 
 "Faced with the choice between changing one's mind and proving that there is no need to do so, almost everyone gets busy on the proof."  
 --John Kenneth Galbraith
@@ -802,7 +694,7 @@ And know the place for the first time.
 "Meetings ... are indispensable when you don't want to do anything."  
 --John Kenneth Galbraith
 
-"All the great leaders have had one characteristic in common: it was the willingness to confront unequivocally they major anxiety of their people in their time. This, and not much else, is the essence of leadership."  
+"All the great leaders have had one characteristic in common: it was the willingness to confront unequivocally the major anxiety of their people in their time. This, and not much else, is the essence of leadership."  
 --John Kenneth Galbraith
 
 "The conventional view serves to protect us from the painful job of thinking."  
@@ -826,10 +718,10 @@ And know the place for the first time.
 "The weak can never forgive; forgiveness is the attribute of the strong."  
 --Mohandas Gandhi
 
-"An eye for an eye makes the whole world blind."
+"An eye for an eye makes the whole world blind."  
 –Mohandas Gandhi
 
-"A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history."
+"A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history."  
 –Mohandas Gandhi
 
 "Freedom is not worth having if it does not include the freedom to make mistakes."  
@@ -841,22 +733,22 @@ And know the place for the first time.
 "If we could change ourselves, the tendencies in the world would also change."  
 --Mohandas Gandhi (Be the change you wish to see in the world.)
 
-"I choose a lazy person to do a hard job because a lazy person will find an easy way to do it."
+"I choose a lazy person to do a hard job because a lazy person will find an easy way to do it."  
 ―Bill Gates (and, independently, Harold Tharp)
 
 "Most people overestimate what they can do in one year and underestimate what they can do in ten years."  
 --Bill Gates
 
-"Success is a lousy teacher. It seduces smart people into thinking they can't lose."
+"Success is a lousy teacher. It seduces smart people into thinking they can't lose."  
 ―Bill Gates
 
 "If you give people tools, and they use their natural abilities and their curiosity, they will develop things in ways that will surprise you very much beyond what you might have expected."
 ―Bill Gates
 
-"As we look ahead into the next century, leaders will be those who empower others."
+"As we look ahead into the next century, leaders will be those who empower others."  
 ―Bill Gates
 
-"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." 
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."  
 ―Bill Gates
 
 "A philosopher once wrote you need three things to have a good life. One, a meaningful relationship. Two, a decent job of work. And three, to make a difference. And it was always that third one that stressed me, to make a difference. And I realized that I do, every day. We all do. It's how we interact with our fellow man."  
@@ -865,20 +757,26 @@ And know the place for the first time.
 "Failure is when you stop dreaming."  
 --Public defender's father in Gideon's Army
 
-"If you work hard enough and assert yourself, and use your mind and imagination, you can shape the world to your desires."
+"If you work hard enough and assert yourself, and use your mind and imagination, you can shape the world to your desires."  
 –Malcolm Gladwell
 
 "Whether or not you win this thing, you've got to decide how you're gonna walk out of here when it's all said and done, 'cause the game is going to go on. And there's only one rule you're going to need to know about: There are no second chances. There is only this moment, and the next moment. Every one of those moments is a test, that you get to take one time, and only one time. So if you see an opening, tear into it. If you get a shot at victory, make damn sure you take it. Seize that moment. That moment is a crossroads where everything you want will collide with everything standing in your way. You've got momentum at your back. Fear and doubt are thundering like a freight train straight at you. And all you got, the only difference between making history and being history, the only thing, the ONLY thing you can count on at any given moment is YOU! It's you versus them, you versus "no", you versus "can't", you versus "next year", "last year", statistics, excuses! It's you versus history, you versus the odds. It's you versus second place. The clock is ticking. Let's see what you've got."  
 --GodfatherCA, Inspirational AMV - You vs Them HD 1080p (Sent by professor Greco to his physics students before a final)
 
-"Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it."
+"Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it."  
 –Johann Wolfgang von Goethe
 
-"We are never deceived; we deceive ourselves."
+"We are never deceived; we deceive ourselves."  
 –Goethe
 
-"Enjoy when you can, and endure when you must."
+"Enjoy when you can, and endure when you must."  
 –Goethe
+
+"Be bold, and mighty forces will come to your aid."  
+--Goethe
+
+"It’s only old people who say that young people feel “invincible”; it takes a writer of some wisdom to see that youth looks invincible only in retrospect, from the outside."  
+--Rob Goodman, [How To Be Intoxicated](https://www.chronicle.com/interactives/alcohol_essay)
 
 "A great engineer is someone who knows a little about a lot and a lot about a little."  
 --Google Developer's Ph.D. Advisor
@@ -886,12 +784,16 @@ And know the place for the first time.
 "Explore your passions and discover new ones by getting involved. Stretch your boundaries and you’ll be surprised at what you can achieve."  
 --Google
 
-"Think of an experience from your childhood. Something you remember clearly, something you can  see, feel, maybe even smell, as if you were really there. After all, you really were there at the time,  weren't you? How else would you remember it? But here is the bombshell: you weren't there. Not a  single atom that is in your body today was there when that event took place ... Matter flows from  place to place and momentarily comes together to be you. Whatever you are, therefore, you are not the stuff of which you are made. If that doesn't make the hair stand up on the back of your neck, read it again until it does, because it is important.  
+"Think of an experience from your childhood. Something you remember clearly, something you can  see, feel, maybe even smell, as if you were really there. After all, you really were there at the time,  weren't you? How else would you remember it? But here is the bombshell: you weren't there. Not a single atom that is in your body today was there when that event took place ... Matter flows from place to place and momentarily comes together to be you. Whatever you are, therefore, you are not the stuff of which you are made. If that doesn't make the hair stand up on the back of your neck, read it again until it does, because it is important.  
 --Steve Grand
 
-"Mr. Green, Mr. Green! Is this going to be on the test?
-Yeah, about the test: The test will measure whether you are an informed, engaged, and productive citizen of the world, and it will take place in schools and bars and hospitals and dorm rooms and in places of worship. You will be tested on first dates, in job interviews, while watching football, and while scrolling through your Twitter feed. The test will judge your ability to think about things other than celebrity marriages, whether you'll be easily persuaded by empty political rhetoric, and whether you'll be able to place your life and your community in a broader context. The test will last your entire life, and it will be comprised of the millions of decisions that when taken together make your life yours. And everything, *everything*, will be on it.
+"Hello learned and astonishingly attractive pupils. My name is John Green, and I want to welcome you to Crash Course: World History. Over the next 40 weeks together we will learn how in a mere 15,000 years humans went from hunting and gathering—  
+Mr. Green, Mr. Green! Mr.—Is this gonna be on the test?  
+Yeah, about the test: The test will measure whether you are an informed, engaged, and productive citizen of the world, and it will take place in schools and bars and hospitals and dormrooms and in places of worship. You will be tested on first dates, in job interviews, while watching football, and while scrolling through your Twitter feed. The test will judge your ability to think about things other than celebrity marriages, whether you’ll be easily persuaded by empty political rhetoric, and whether you’ll be able to place your life and your community in a broader context. The test will last your entire life, and it will be comprised of the millions of decisions that when taken together make your life yours. And everything, *everything* will be on it.
 I know, right? So pay attention."  
+--John Green
+
+"Your noble prehistoric heritage as a scavenger has prepared you to eat anything, anything that is food."  
 --John Green
 
 "An eye for an eye makes the whole world monocular."  
@@ -912,26 +814,29 @@ I know, right? So pay attention."
 "I think that if you're passionate about something and you're driven and focused, you can pretty much do anything you want to do."  
 --Dave Grohl
 
-"99 little bugs in the code, 
-99 little bugs, 
-track one down, patch it around, 
+"99 little bugs in the code,  
+99 little bugs,  
+track one down, patch it around,  
 117 little bugs in the code"  
 --Ashu Gupta
 
-"We must conduct research and then accept the results. If they don’t stand up to experimentation, Buddha’s own words must be rejected."
+"We must conduct research and then accept the results. If they don’t stand up to experimentation, Buddha’s own words must be rejected."  
 –Tenzin Gyatso
 
-"He who exalts himself will be humbled, and he who humbles himself will be exalted."  
---Jesus, Luke 14:11
+"All religion carry same message: message of Love, Compassion, Forgiveness, Tolerance, Contentment, Self-Discipline. I think we need these qualities as human beings, irrespective of whether you say you are believer or non-believer, because these are the source of a happy life."  
+--Tenzin Gyatso
 
-"The truth will set you free."  
---Jesus, John 8:32
-
-"What good is it that a man gain the whole world but lose his soul?"  
---Jesus, Luke 9:25
+<a class="anchor" id="H"></a>
+### H
 
 "When somebody calls themselves a job creator, they aren't describing the economy, although that's what it sounds like. What they are really doing is making a claim on status, privilege and power."  
 --Nick Hanauer
+
+"The spirit of liberty is the spirit which is not too sure that it is right."  
+--Learned Hand
+
+"There are those who will say terrible things about JavaScript. Many of these things are true. When I was required to write something in JavaScript for the first time, I quickly came to despise it. It would accept almost anything I typed but interpret it in a way that was completely different from what I meant. This had a lot to do with the fact that I did not have a clue what I was doing, of course, but there is a real issue here: JavaScript is ridiculously liberal in what it allows. The idea behind this design was that it would make programming in JavaScript easier for beginners. In actuality, it mostly makes finding problems in your programs harder because the system will not point them out to you."  
+--Marijn Haverbeke, Eloquent Javascript
 
 "There is no reason why, in a society which has reached the general level of wealth ours has, the first kind of security should not be guaranteed to all without endangering general freedom; that is: some minimum of food, shelter and clothing, sufficient to preserve health. Nor is there any reason why the state should not help to organize a comprehensive system of social insurance in providing for those common hazards of life against which few can make adequate provision."  
 --Friedrich von Hayek
@@ -1003,6 +908,9 @@ track one down, patch it around,
 There is in every village a torch - the teacher: and an extinguisher - the clergyman.  
 --Victor Hugo
 
+<a class="anchor" id="I"></a>
+### I
+
 "A superstition is a premature explanation that overstays its time."  
 --George Iles
 
@@ -1020,11 +928,14 @@ And until we meet again,
 may God hold you in the palm of his hand."  
 --Irish blessing
 
+<a class="anchor" id="J"></a>
+### J
+
 "Shake off all the fears of servile prejudices, under which weak minds are servilely crouched. Fix reason firmly in her seat, and call on her tribunal for every fact, every opinion. Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason than that of blindfolded fear."
 –Thomas Jefferson
 
 "A government big enough to give you everything you want is strong enough to take everything you have."
-–Thomas Jefferson (I disagree: socialism works when it operates according to careful laws.)
+–Thomas Jefferson
 
 "Information is the currency of democracy."  
 --Thomas Jefferson
@@ -1034,6 +945,15 @@ may God hold you in the palm of his hand."
 
 "I like the dreams of the future better than the history of the past."  
 --Thomas Jefferson
+
+"He who exalts himself will be humbled, and he who humbles himself will be exalted."  
+--Jesus, Luke 14:11
+
+"The truth will set you free."  
+--Jesus, John 8:32
+
+"What good is it that a man gain the whole world but lose his soul?"  
+--Jesus, Luke 9:25
 
 "In the broadest context, the goal [of life] is to seek enlightenment--however you define it."  
 --Steve Jobs
@@ -1062,6 +982,9 @@ may God hold you in the palm of his hand."
 "I don't think that most of the really best people that I've worked with have worked with computers for the sake of working with computers. They've worked with computers because they are the medium that is best capable of transmitting some feeling that you have that you want to share with other people."  
 --Steve Jobs
 
+<a class="anchor" id="K"></a>
+### K
+
 "There art two cardinal sins from which all others spring: Impatience and Laziness."  
 --Franz Kafka
 
@@ -1089,6 +1012,12 @@ may God hold you in the palm of his hand."
 "How can I adopt a creed which, preferring the mud to the fish, exalts the boorish proletariat above the bourgeoisie and the intelligentsia, who with all their faults, are the quality of life and surely carry the seeds of all human achievement?"  
 --John Maynard Keynes
 
+"I came to understand that radicalization is about pain. It's the pain of young people facing racism, exclusion from society, isolation from the opposite sex, overwhelming pressure from families and communities, a crisis of identity, and feeling powerless and insignificant. Yes, many of them have material comforts, but I believe too many of them lead lives of emotional poverty."  
+--Deeyah Khan, Jihad
+
+"The greatest happiness is to vanquish your enemies, to drive them before you, to rob them of their wealth, to see those dear to them bathed in tears, to clasp to your bosom their wives and daughters."  
+--Ghengis Khan
+
 "One has a moral responsibility to disobey unjust laws."  
 --Martin Luther King, Jr.
 
@@ -1096,10 +1025,10 @@ may God hold you in the palm of his hand."
 --Martin Luther King, Jr.
 
 "An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity."   
---Martin Luther King
+--Martin Luther King, Jr.
 
 "The Arc of the Moral Universe Is Long, but It Bends Toward Justice"  
---MLK
+--Martin Luther King, Jr.
 
 "Death is the irreducible common denominator of all men."
 –Dr. Martin Luther King, Jr.
@@ -1126,7 +1055,7 @@ may God hold you in the palm of his hand."
 "I learn a new thing; I see it everywhere; I realize I've been missing it my whole life; I wonder how many other things I'm missing all the time."  
 --Pavel Komarov
 
-"[Musk quote \n\n] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb. #staywithit"  
+"[Musk quote] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb. #staywithit"  
 --Pavel Komarov
 
 "You have to surrender to the fact that you are of too many in a highly competitive field where it is difficult to stand out. Over time, through your work, you will demonstrate who you are and what you bring to the field. Just stay with it and keep working."   
@@ -1135,8 +1064,14 @@ may God hold you in the palm of his hand."
 "Thanks to the Interstate Highway System, it is now possible to travel from coast to coast without seeing anything."  
 --Charles Kuralt
 
+<a class="anchor" id="L"></a>
+### L
+
 "What some people mistake for the high cost of living is really the cost of high living."  
 --Doug Larson
+
+"When you see a good move, look for a better one."  
+--Emmanuel Lasker
 
 "Despite what some adults seem to think, teenagers are fully human."  
 --Ursula K. Le Guin
@@ -1174,6 +1109,12 @@ may God hold you in the palm of his hand."
 "Better to reign in Hell, than serve in Heaven."  
 --Lucifer, Paradise Lost
 
+<a class="anchor" id="M"></a>
+### M
+
+"He [Fred Rogers] interviewed me. And he put his face about three inches away from my face, says 'It's so nice to see you and to be with you.' It scared the living daylights out of me. But I realized this is what children do with adults."  
+--Yo-Yo Ma
+
 "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."   
 --Nelson Mandela
 
@@ -1196,6 +1137,9 @@ Often satirized as "Smile because it's over; cry because it happened."
 
 "Last words are for fools who haven't said enough."  
 --Karl Marx
+
+"You only get in trouble for telling the truth. Nobody gets in trouble for lying or making up crap. But when you tell something that's really true, they go crazy, and you're fired."  
+--Chris Matthews
 
 "Irrigation of the land with seawater desalinated by fusion power is ancient. It's called 'rain'."  
 --Michael McClary
@@ -1227,8 +1171,14 @@ Steven Mithen
 "I think that inside every adult is the heart of a child. We just gradually convince ourselves that we have to act more like adults."  
 --Shigeru Miyamoto
 
+"People with wisdom know that it is important to correct their own mistakes, while people without wisdom find it necessary to point out the mistakes of others."  
+--Bawa Muhaiyaddeen
+
 "An engineer is the closest thing to a magician that exists in the real world."  
 --Elon Musk
+
+<a class="anchor" id="N"></a>
+### N
 
 "I am committed to making Microsoft the best place for smart, curious, ambitious people to do their best work."  
 --Satya Nadella
@@ -1244,6 +1194,9 @@ Steven Mithen
 
 "Religion is what keeps the poor from murdering the rich."  
 --Napoleon
+
+"Where the heart leads, the mind can follow."  
+--Maajid Nawaz
 
 "Can't believe how strange it is to be anything at all."  
 --Neutral Milk Hotel (In The Aeroplane Over The Sea) 
@@ -1272,6 +1225,15 @@ Steven Mithen
 
 "Tomorrow I shall no longer be here."  
 --Nostradamus
+
+"The intellectual wants the whole society to be a school writ large, to be like the environment where he did so well and was so well appreciated. By incorporating standards of reward that are different from the wider society, the schools guarantee that some will experience downward mobility later. Those at the top of the school’s hierarchy will feel entitled to a top position, not only in that micro-society but in the wider one, a society whose system they will resent when it fails to treat them according to their self-prescribed wants and entitlements."  
+--[Robert Nozick](https://www.libertarianism.org/publications/essays/why-do-intellectuals-oppose-capitalism)
+
+"To the intellectually meritorious went the praise, the teacher’s smiles, and the highest grades. In the currency the schools had to offer, the smartest constituted the upper class. Though not part of the official curricula, in the schools the intellectuals learned the lessons of their own greater value in comparison with the others, and of how this greater value entitled them to greater rewards."  
+--[Robert Nozick](https://www.libertarianism.org/publications/essays/why-do-intellectuals-oppose-capitalism)
+
+<a class="anchor" id="O"></a>
+### O
 
 "Making your mark on the world is hard. If it were easy, everybody would do it. But it’s not. It takes patience, it takes commitment, and it comes with plenty of failure along the way. The real test is not whether you avoid failure, because you won’t. It’s whether you let it harden or shame you into inaction, or whether you learn from it, whether you choose to persevere."  
 --Barack Obama
@@ -1318,6 +1280,9 @@ Steven Mithen
 "Anybody who wants to make a revolution, shouldn't grab a gun, just go and start working like we do to change the world by using science and technology."  
 --Stan Ovshinsky
 
+<a class="anchor" id="P"></a>
+### P
+
 "Chance favors only the prepared mind."  
 --Louis Pasteur
 
@@ -1336,6 +1301,9 @@ Steven Mithen
 "Speak when you are angry--and you will make the best speech you'll ever regret."  
 --Laurence J. Peter
 
+"Solzhenitsyn said in his Nobel Prize acceptance speech 'A single person who stops lying can bring down a tyranny.', which is a stunning thing to say, but I would also say something that's been amply demonstrated in the 20th century, because we have historical examples of people who did precisely that. Gandhi did it. Vaclav Havel did it. Nelson Mandela did it. Solzhenitsyn's Gulag Archipelago was definitely one of the axe-blows that brought down the Soviet Union, a stunning achievement for a person who started writing that book by memorizing it when he was a concentration camp victim this [holds up pinched fingers] far away from starvation. It shows you as-as clearly as anything possibly can how powerful the human spirit can be if it's willing to take on the obligation of its relationship with the divine and also how terrible things can become if the responsibility of that burden is not shouldered."  
+--[Jordan Peterson](https://www.youtube.com/watch?v=MLp7vWB0TeY&t=33m17s)
+
 "My mother said to me, 'If you are a soldier, you will become a general. If you are a monk, you will become the Pope.' Instead, I was a painter, and became Picasso."  
 --Pablo Picasso
 
@@ -1345,13 +1313,13 @@ Steven Mithen
 "We will never have a perfect world, but it's not romantic or naive to work toward a better one."  
 --Steven Pinker
 
-"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."
+"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
 –Plato
 
-"Wise men talk because they have something to say; fools, because they have to say something."
+"Wise men talk because they have something to say; fools, because they have to say something."  
 –Plato
 
-"The mind is not a vessel that needs filling, but wood that needs igniting."
+"The mind is not a vessel that needs filling, but wood that needs igniting."  
 –Plutarch
 
 "What we achieve inwardly will change outer reality."  
@@ -1360,17 +1328,26 @@ Steven Mithen
 "Expect greatness."  
 --Some sort of proverb
 
-"He who asks is fool for a moment, but he who does not ask remains a fool forever."
+"He who asks is fool for a moment, but he who does not ask remains a fool forever."  
 –Chinese Proverb
 
 "Enjoy yourself. It's later than you think."  
 --Chinese Proverb
 
-"The hammer of hard times shatters glass, but forges steel."
+"The hammer of hard times shatters glass, but forges steel."  
 –Russian Proverb
+
+<a class="anchor" id="R"></a>
+### R
 
 "Life is a comedy to those who think, a tragedy to those who feel."  
 --Jean Racine
+
+"Rather, I want to suggest what may be a wider lesson about software, (and probably about every kind of creative or professional work). Human beings generally take pleasure in a task when it falls in a sort of optimal-challenge zone; not so easy as to be boring, not too hard to achieve. A happy programmer is one who is neither underutilized nor weighed down with ill-formulated goals and stressful process friction. *Enjoyment predicts efficiency.*"  
+--Steven Raymond, [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
+
+"It may well turn out that one of the most important effects of open source's success will be to teach us that play is the most economically efficient mode of creative work."  
+--Steven Raymond, [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
 "I don't know if God exists, but it would be better for His reputation if He didn't."  
 --Jules Renard
@@ -1395,6 +1372,51 @@ Steven Mithen
 
 "Reality is incredibly larger, infinitely more exciting, than the flesh and blood vehicle we travel in here. If you read science fiction, the more you read it the more you realize that you and the universe are part of the same thing. Science knows still practically nothing about the real nature of matter, energy, dimension, or time; and even less about those remarkable things called life and thought. But whatever the meaning and purpose of this universe, you are a legitimate part of it. And since you are part of the all that is, part of its purpose, there is more to you than just this brief speck of existence. You are just a visitor here in this time and this place, a traveler through it."  
 --Gene Roddenberry
+
+"..because it's not all clowns and balloons."  
+--Fred Rogers
+
+"The most important learning is the ability to accept and expect mistakes and deal with the disappointments that they bring."
+--Fred Rogers
+
+"We need to help our children become more and more aware that what is essential in life is invisible to the eye."  
+--Fred Rogers
+
+"The only thing that ever really changes the world is when somebody gets the idea that love can abound and can be shared."  
+--Fred Rogers
+
+"When I was a boy and I would hear about something scary, my mother would tell us 'Always look for the people who are helping; you'll always find somebody who's trying to help.'"  
+--Fred Rogers
+
+"This is what I give. I give an expression of care every day to each child, to help him realize that he is unique. I end the program by saying 'You've made this day a special day by just your being you. There's no person in the whole world like you, and I like you just the way you are.' And I feel that if we in public television can only make it clear that feelings are mentionable and manageable, we will have done a great service."  
+--Fred Rogers
+
+"From the time you were very little, you've had people who have smiled you in to smiling, people who have talked you in to talking, sung you in to singing, loved you in to loving."  
+--Fred Rogers
+
+"What we see and hear on the screen is part of who we become."  
+--Fred Rogers
+
+"'I like you as you are, exactly and precisely. I think you turned out nicely, and I like you as you are.' And children need to hear that. I don't think that anybody can grow unless he really is accepted exactly as he is."  
+--Fred Rogers
+
+"In this country a child is appreciated for what he will be. He will be a great consumer some day."  
+--Fred Rogers
+
+"A plea not to leave the children isolated and at the mercy of their own fantasies of loss and destruction."  
+--Fred Rogers
+
+"I am tired of hearing people who have long ago set aside the concerns of childhood telling everybody what children really need. I'll tell you what children need. They need adults who will protect them from the ever-ready moulders of their world."  
+--Fred Rogers
+
+"I felt that the adults around me were pressuring me to be what I couldn't be yet. 'Act like a grown-up.' I'd hear them say. Well, I was afraid they'd laugh at me when I tried."  
+--Fred Rogers
+
+"I think that those who would try to make you feel less than who you are, I think that's the greatest evil."  
+--Fred Rogers
+
+"I think everybody longs to be loved and longs to know that he or she is loveable. And consequently the greatest thing that we can do is to help somebody know that they're loved and capable of loving."  
+--Fred Rogers
 
 "A conservative is a man with two perfectly good legs who, however, has never learned to walk forward."  
 --Franklin Delano Roosevelt
@@ -1423,6 +1445,9 @@ Steven Mithen
 "One should as a rule respect public opinion in so far as is necessary to avoid starvation and to keep  out of prison, but anything that goes beyond this is voluntary submission to an unnecessary tyranny,  and is likely to interfere with happiness in all kinds of ways."  
 --Bertrand Russell
 
+<a class="anchor" id="S"></a>
+### S
+
 "The illegality of cannabis is outrageous, an impediment to full utilization of a drug which helps produce serenity and insight, sensitivity and fellowship so desperately needed in this increasingly mad and dangerous world."  
 --Carl Sagan
 
@@ -1435,11 +1460,11 @@ Steven Mithen
 "The universe is not required to be in perfect harmony with human ambition."  
 --Carl Sagan
 
-        “From this distant vantage point, the Earth might not seem of any particular interest. But for us, it's different. Consider again that dot. That's here, that's home, that's us. On it, everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar", every "supreme leader", every saint and sinner in the history of our species lived there––on a mote of dust suspended in a sunbeam.
-        The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. 
-        Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves. 
-        The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand. 
-        It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conciets than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.”   
+“From this distant vantage point, the Earth might not seem of any particular interest. But for us, it's different. Consider again that dot. That's here, that's home, that's us. On it, everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar", every "supreme leader", every saint and sinner in the history of our species lived there––on a mote of dust suspended in a sunbeam.
+The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. 
+Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves. 
+The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand. 
+It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conciets than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.”   
 --Carl Sagan
 
 "Those worlds in space are as countless as all the grains of sand on all the beaches of the earth. Each  of those worlds is as real as ours. In every one of them there’s a succession of incidents, events, occurrences which influence its future. Countless worlds, numberless moments, an immensity of space and time. And our small planet at this moment: here we face a critical branch point in history. What we do with our world right now will propagate down through the centuries and powerfully affect the destiny of our descendents. It is well within our power to destroy our civilization and perhaps our species as well. If we capitulate to superstition or greed or stupidity, we could plunge our world into a darkness deeper than the time between the collapse of classical civilization and the Italian  Renaissance. But we’re also capable of using our compassion and our intelligence, our technology and our wealth, to make an abundant and meaningful life for every inhabitant of this planet, to enhance  enormously our understanding of the universe and to carry us to the stars."  
@@ -1466,6 +1491,9 @@ Steven Mithen
 "Imagination will often carry us to worlds that never were. But without it we go no where."
 –Carl Sagan
 
+"... someone able to speak the truth, a ... courageous and angry individual for whom no worldly power is too big and imposing to be criticised and pointedly taken to task. The real or true intellectual is therefore always an outsider, living in self-imposed exile, and on the margins of society. He or she speaks to, as well as for, a public, necessarily in public, and is properly on the side of the dispossessed, the un-represented and the forgotten."  
+—Edward Saïd
+
 "If you want to build a ship, don't herd people together to collect wood, and don't assign them tasks and work, but teach them to long for the endless immensity of the sea."  
 --Antoine de Saint-Exupery
 
@@ -1474,6 +1502,9 @@ Steven Mithen
 
 "I have found that people who can resist temptation invariably lead depressingly stunted lives."  
 --Sheeni Saunders, Youth in Revolt
+
+"Any intelligent fool can make things bigger and more complex. It takes a touch of genius and a lot of courage to move in the opposite direction."  
+--E. F. Schumacher
 
 "As you grow older, you'll find the only things you regret are the things you didn't do."  
 --Zachary Scott
@@ -1592,6 +1623,9 @@ And yet, to me, what is this quintessence of dust?"
 "Eccentricity is not, as dull people would have us believe, a form of madness. It is often a kind of innocent pride, and the man of genius and the aristocrat are frequently regarded as eccentrics because genius and aristocrat are entirely unafraid of and uninfluenced by the opinions and vagaries of the crowd."  
 --Edith Sitwell
 
+"How much richer would the whole world be if the reinforcers in daily life were more effectively contingent on productive work?"  
+--B. F. Skinner
+
 "All wars are civil wars because all men are brothers."  
 --Slogan, Vietnam-era antiwar
 
@@ -1648,7 +1682,10 @@ And yet, to me, what is this quintessence of dust?"
 "Say you do not know, and then you learn everything."  
 --Louis Szekely (CK)
 
-"I hesitate to give advice because every major single piece of advice I was given turned out to be wrong and I am glad I didn’t follow them. I was told to focus and I never did. I was told to never procrastinate and I waited 20 years for the Black Swan and it sold 3 million copies. I was told to avoid putting fictional characters in my books and I did put in Nero Tulip and Fat Tony because I got bored otherwise. I was told to not insult the New York Times and the Wall Street Journal, the more I insulted them the nicer they were to me and solicit Op-Eds. I was told to avoid lifting weights for a back pain and became a weightlifter: never had a back problem since.
+<a class="anchor" id="T"></a>
+### T
+
+"I hesitate to give advice because every major single piece of advice I was given turned out to be wrong and I am glad I didn’t follow them. I was told to focus and I never did. I was told to never procrastinate and I waited 20 years for the Black Swan and it sold 3 million copies. I was told to avoid putting fictional characters in my books and I did put in Nero Tulip and Fat Tony because I got bored otherwise. I was told to not insult the New York Times and the Wall Street Journal, the more I insulted them the nicer they were to me and solicit Op-Eds. I was told to avoid lifting weights for a back pain and became a weightlifter: never had a back problem since.  
 If I had to relive my life I would be even more stubborn and uncompromising than I have been. One should never do anything without skin in the game. If you give advice, you need to be exposed to losses from it."  
 --Nassim Nicholas Taleb
 
@@ -1660,6 +1697,9 @@ If I had to relive my life I would be even more stubborn and uncompromising than
 
 "If there's an enormous problem with the world, and we can convince ourselves that over some long but not unreasonable period of time we can make that problem go away, then we don't need a business plan. We should be focused on making the world a better place, and once we do that, the money will come back and find us."  
 --Astro Teller
+
+"Bull markets are born on pessimism, grown on skepticism, mature on optimism and die on euphoria."  
+--Sir John Templeton
 
 "If we have no peace, it is because we have forgotten that we belong to each other."   
 --Mother Teresa
@@ -1711,6 +1751,9 @@ If I had to relive my life I would be even more stubborn and uncompromising than
 
 "It is amazing what you can accomplish if you do not care who gets the credit."   
 --Harry S. Truman
+
+"College is a place where a professor's lecture notes go straight to the students' lecture notes without passing through the brains of either."  
+--Mark Twain
 
 "Patriotism is supporting your country always and your government when it deserves it."  
 --Mark Twain
@@ -1781,10 +1824,16 @@ If I had to relive my life I would be even more stubborn and uncompromising than
 "In making tactical dispositions, the highest pitch you can attain is to conceal them; conceal your dispositions, and you will be safe from the prying of the subtlest spies, from the mechinations of the wisest brains."  
 --Lao Tzu
 
+<a class="anchor" id="U"></a>
+### U
+
 "Let all come who by merit deserve the most reward."  
 --UCL Motto
 
-"Felix, qui potuit rerum cognoscere causas"
+<a class="anchor" id="V"></a>
+### V
+
+"Felix, qui potuit rerum cognoscere causas"  
 "Fortunate who was able to know the causes of things"  
 --Virgil, London School of Economics Motto
 
@@ -1796,6 +1845,9 @@ If I had to relive my life I would be even more stubborn and uncompromising than
 
 "Everything was beautiful, and nothing hurt."  
 --Kurt Vonnegut
+
+<a class="anchor" id="W"></a>
+### W
 
 "You can't spell 'engineering' without 'autism'."  
 --Charlie Walker
@@ -1818,37 +1870,37 @@ If I had to relive my life I would be even more stubborn and uncompromising than
 "The Jack of one trade is the connector of none."  
 --Eric Weinstein, https://www.youtube.com/watch?v=MmXq97do-tQ&t=2h37m
 
-"Run on, Rabbit, run!
-Before the East sky wakes the sun!
-Sails set to the dreadful cold,
-Until your anchor-heart takes hold
-Run on, Fox & Bear,
-From this dismal dream’s despair!
-Cast thoughts to in the open ocean of air
+"Run on, Rabbit, run!  
+Before the East sky wakes the sun!  
+Sails set to the dreadful cold,  
+Until your anchor-heart takes hold  
+Run on, Fox & Bear,  
+From this dismal dream’s despair!  
+Cast thoughts to in the open ocean of air  
 Until your thread catch somewhere"  
 --Aaron Weiss (February 1878)
 
-"My tusks are dull, my eyes, half-blind,
-too old to run, too big to hide,
-and have neither friend nor enemy,
-nor that phantom, ‘self’-identity
-nor concern for what ‘they’ll’ do to ‘me’
+"My tusks are dull, my eyes, half-blind,  
+too old to run, too big to hide,  
+and have neither friend nor enemy,  
+nor that phantom, ‘self’-identity  
+nor concern for what ‘they’ll’ do to ‘me’  
 now, my children, run free!"  
 --Aaron Weiss (February 1878)
 
-"But Tiger, why sit still,
-As the officers climb the hill?
-What stars cast down their spears,
-cooled your fire with their tears?
-TIGER: 'Gone that siren's sound,
-it's a silence now pours down
-Gone, my next of kin,
+"But Tiger, why sit still,  
+As the officers climb the hill?  
+What stars cast down their spears,  
+cooled your fire with their tears?  
+TIGER: 'Gone that siren's sound,  
+it's a silence now pours down  
+Gone, my next of kin,  
 and all once without now lives within'"  
 --Aaron Weiss (February 1878)
 
-"Elephant refused to swear the oath
-said 'I don't know anything about all truth,
-but I know falsehood when I see it,
+"Elephant refused to swear the oath  
+said 'I don't know anything about all truth,  
+but I know falsehood when I see it,  
 and it looks like this whole world you've made."  
 --Aaron Weiss (Elephant in the Dock)
 
@@ -1857,96 +1909,96 @@ and then sometimes think things are just thoughts"
 --Aaron Weiss (Elephant in the Dock)
 
 "This mock trial can no more determine my lot, 
-than can driftwood determine the ocean's waves"
-Aaron Weiss (Elephant in the Dock)
+than can driftwood determine the ocean's waves"  
+--Aaron Weiss (Elephant in the Dock)
 
-"What is there can punish like a conscience ignored?"
-Aaron Weiss (Elephant in the Dock)
+"What is there can punish like a conscience ignored?"  
+--Aaron Weiss (Elephant in the Dock)
 
-"Yes, my body did just as you implied, 
+"Yes, my body did just as you implied,  
 while some ghost we'll call 'I' idly watched through its eyes"  
 --Aaron Weiss (Elephant in the Dock)
 
-"Cultivating unsophistication in my face,
-trying to think of nothing to say"
-Aaron Weiss (Aubergine)
+"Cultivating unsophistication in my face,  
+trying to think of nothing to say"  
+--Aaron Weiss (Aubergine)
 
 "When doing as you please doesn't please you any more"  
 --Aaron Weiss (Fiji Mermaid)
 
-"But you'll miss having someone to blame
-For your sadness, now won't you?
-Maybe there'll be a bakery hiring
+"But you'll miss having someone to blame  
+For your sadness, now won't you?  
+Maybe there'll be a bakery hiring  
 We'll knead a little bit of dough to get by"  
 --Aaron Weiss (Fiji Mermaid)
 
-"There wasn't much to her dress,
+"There wasn't much to her dress,  
 and I felt stuck in my body like a horse in quicksand"  
 --Aaron Weiss (Fiji Mermaid)
 
-"We pretend to care and like we understand
-Our eyes go soft, but know it now
-what we're thinking about's your mammary glands
+"We pretend to care and like we understand  
+Our eyes go soft, but know it now  
+what we're thinking about's your mammary glands  
 and how to sail your birth canal"  
 --Aaron Weiss (Fig with a Bellyache)
 
-"Our thoughts are like like a teabag on
+"Our thoughts are like like a teabag on  
 the saucer, all the flavor gone"  
 --Aaron Weiss (Fig with a Bellyache)
 
-"The dog below our waists aroused
-as arms embraced the pretty gals
-It came much more as a surprise,
+"The dog below our waists aroused  
+as arms embraced the pretty gals  
+It came much more as a surprise,  
 it happening while I hugged the guys.  
 --Aaron Weiss (Fig with a Bellyache)
 
-"Then a speckled bird, 
-humbly inspired,
-ran across the road
-when it could have flown
+"Then a speckled bird,  
+humbly inspired,  
+ran across the road  
+when it could have flown  
 And it made me smile"  
 --Aaron Weiss (O, Porcupine!)
 
-"You have a decent ear for notes,
+"You have a decent ear for notes,  
 but you can't yet appreciate harmony"  
 --Aaron Weiss (O, Porcupine!)
 
-"You don't know where you came from
-You don't know where you're going
-You think you're you
-You don't know who you are
-You're not you
+"You don't know where you came from  
+You don't know where you're going  
+You think you're you  
+You don't know who you are  
+You're not you  
 You're everyone else"  
 --Aaron Weiss (Cattail Down)
 
-"Looking down was the hungry crow
-'When the time is right I'll strike
-and condescend to the earth below
+"Looking down was the hungry crow  
+'When the time is right I'll strike  
+and condescend to the earth below  
 and take whichever treat I'd like'"  
 --Aaron Weiss (The Fox, the Crow and the Cookie)
 
-"Your subtle acclaimation's true
-best to give praise where praise is due
+"Your subtle acclaimation's true  
+best to give praise where praise is due  
 every rook and jay in the corvidae's been raven about me too"  
 --Aaron Weiss (The Fox, the Crow and the Cookie)
 
-"When letting all attachments go
-is the only prayer we know
+"When letting all attachments go  
+is the only prayer we know  
 may it be so"  
 --Aaron Weiss (The, the Crow, and the Cookie)
 
-"The Potato called from underground:
-You’ve got it all turned upside-down.
-Does the Rain that’s sent each spring anew
-to fall on her not fall on you?
-You project on her your inward scenes,
+"The Potato called from underground:  
+You’ve got it all turned upside-down.  
+Does the Rain that’s sent each spring anew  
+to fall on her not fall on you?  
+You project on her your inward scenes,  
 she’s a blank, external movie screen."  
 --Aaron Weiss (Bullet to Binary, part ii)
 
 "If I come without a thing, then I come with all I need."  
 --Aaron Weiss (In A Sweater Poorly Knit)
 
-"Angel, no, I think you come too soon
+"Angel, no, I think you come too soon  
 It's not my time to go"  
 --Aaron Weiss (The Angel of Death Came to David's Room)
 
@@ -1960,56 +2012,59 @@ It's not my time to go"
 "I felt the crowd bring a loneliness"  
 --Aaron Weiss (My Exit, Unfair)
 
-"Rehearsed indifference tossed aside,
+"Rehearsed indifference tossed aside,  
 Our narrow arms spread wide"  
 --Aaron Weiss (My Exit, Unfair)
 
-"When they swear their love is real
+"When they swear their love is real  
 The mean 'I like the way you make me feel'"  
 --Aaron Weiss (Every Thought a Thought of You)
 
-"Those who know don't talk
+"Those who know don't talk  
 And those who talk don't know"  
 --Aaron Weiss (Goodbye, I!)
 
-"Where we’re the spiraling arms of all galaxies
-And we’re the microscopic sand
-Suffering from delusions of ungrandeur on middling display
+"Where we’re the spiraling arms of all galaxies  
+And we’re the microscopic sand  
+Suffering from delusions of ungrandeur on middling display  
 Beside the Cardiff giant with the alabaster eyes"  
 --Aaron Weiss (Cardiff Giant)
 
 "Megalomania’s only mania if you’re wrong!"  
 --Aaron Weiss (Cardiff Giant)
 
-"such distance from our friends,
-like a scratch across a lens,
-made everything look wrong from anywhere we stood
-And our paper blew away before we'd left the bay
+"such distance from our friends,  
+like a scratch across a lens,  
+made everything look wrong from anywhere we stood  
+And our paper blew away before we'd left the bay  
 So half-blind we wrote these songs on sheets of salty wood"  
 --Aaron Weiss (Messes of Men)
  
 "There's mistakes I've made no rowing could outrun"  
 --Aaron Weiss (Messes of Men)
  
-"We keep our confessions long
+"We keep our confessions long  
 And when we pray we keep it short"  
 --Aaron Weiss (Messes of Men)
 
-"And if ever you come near,
-I'll hold up high a mirror.
+"And if ever you come near,  
+I'll hold up high a mirror.  
 Lord, I could never show you anything as beautiful as you."  
 --Aaron Weiss (Messes of Men)
 
 "She put on happiness like a loose dress over pain I'll never know."  
 --Aaron Weiss (Silencer)
 
-“Do all the good you can, by all the means you can, in all the ways you can, in all the places you can, at all the times you can, to all the people you can, as long as you ever can.”
+“Adapt or perish, now as ever, is nature’s inexorable imperative.”  
+–H.G. Wells
+
+“Do all the good you can, by all the means you can, in all the ways you can, in all the places you can, at all the times you can, to all the people you can, as long as you ever can.”  
 –John Wesley
 
 "If only we'd stop trying to be happy we could have a pretty good time."  
 --Edith Wharton
 
-"We must take sides. Neutrality helps the oppressor, never the victim."
+"We must take sides. Neutrality helps the oppressor, never the victim."  
 –Eli Wiesel
 
 "Our lives no longer belong to us alone; they belong to all those who need us desperately."  
@@ -2043,13 +2098,22 @@ Oscar Wilde
 --Ludwig Wittgenstein
 
 "Man has to awaken to wonder, and so perhaps do peoples. Science is a way of sending him to sleep again."  
---Ludwig Wittgenstein (I couldn't disagree more. Wittgenstein was an idiot.)
+--Ludwig Wittgenstein
+
+<a class="anchor" id="X"></a>
+### X
 
 "The future belongs to those who prepare for it today."
 –Malcolm X
 
+<a class="anchor" id="Y"></a>
+### Y
+
 "You can only indulge in so many pleasurable activities and behaviors before you realize that you really just want to feel good about who you are rather than what you're doing in the moment."  
 --Anonymous Yakker (ATL, 7/2/2015)
+
+<a class="anchor" id="Z"></a>
+### Z
 
 "Es mejor morir de pie que vivir de rodillas."
 "It's better to die on your feet than to live on your knees."
