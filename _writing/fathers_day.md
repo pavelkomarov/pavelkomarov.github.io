@@ -11,9 +11,9 @@ My father once told me of an experience he had in college. He needed an English 
 
 The moral is to be unafraid of adversity. Embrace challenge, even at the cost of pride. If you know an opportunity will provide you with a chance to better yourself, then sieze it without reservation and without regret. Sieze every moment.
 
-My father once told me of an experience he had after college. He had just met my mother and was incredibly taken with her. Armed only with knowledge of her name and the name of the hospital at which she worked, he called the front desk and asked foolishly if he could be put in touch, intent to ask her out. Though most might regard this as extreme, he could not consider it so: His determination paid off, he said, and cited the story as but one example of how this quality is extraordinarily valuable in life.
+My father once told me of an experience he had after college. He had just met my mother and was incredibly taken with her. Armed only with knowledge of her name and the name of the hospital at which she worked, he called the front desk and asked foolishly if he could be put in touch, intent to ask her out. He could not consider this strange: His determination paid off, he said, and cited the story as but one example of how this quality is extraordinarily valuable in life.
 
-The moral is to "Always be persistent." Whatever you lack, you can make up for it with an insistence to never give up.
+The moral is to "Always be persistent." Whatever you lack, you can make up for it with an insistence to never give up and find fulfillment through action.
 
 My father often told me of the wider world, of exciting things happening everywhere. He repeatedly reported and related how vast, complicated, mysterious, and fascinating is reality. He expected no one to understand, calling his words "random trivia and information no one cares about except me", yet he shared eagerly and with great enthusiasm. And I took notice.
 

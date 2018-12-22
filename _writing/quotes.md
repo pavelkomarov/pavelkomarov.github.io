@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /quotes.html
-title: Favorite Quotations
+title: Quotations
 subtitle: long collection
 img: quotation_mark.png
 ---

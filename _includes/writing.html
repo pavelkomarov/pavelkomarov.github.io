@@ -11,18 +11,17 @@
 		<div class="row">
 		{% for post in site.writing %}
 			<!-- Adaptively use 3 columns on medium and large screens and 2 on small ones. -->
-			<div class="col-md-4 col-sm-6 writing-item">
-				<a href="{{ post.permalink }}" class="writing-link">
-					<div class="writing-hover">
-						<div class="writing-hover-content">
-							<i class="fa fa-plus fa-3x"></i>
-						</div>
-					</div>
-					<img src="../assets/{{ post.img }}" class="img-responsive img-centered" alt="">
-				</a>
-				<div class="writing-caption">
-					<h4>{{ post.title }}</h4>
-					<p class="text-muted">{{ post.subtitle }}</p>
+			<div class="col-md-4 col-sm-6 gallery-item">
+				<div class="gallery-thumbnail">
+					<i class="fa fa-plus fa-3x"></i>
+					<a href="{{ post.permalink }}" >	
+						<img src="../assets/{{ post.img }}" />
+					</a>
+				</div>
+
+				<div class="gallery-caption">
+					<h4>{{post.title}}</h4>
+					<p class="text-muted">{{post.subtitle}}</p>
 				</div>
 			</div>
 		{% endfor %}
