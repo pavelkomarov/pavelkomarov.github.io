@@ -235,6 +235,27 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "At some level [Peterson](#P) is offering assertiveness training to men whom society is trying to turn into emasculated snowflakes."  
 --David Brooks, New York Times
 
+"Any book on happiness is likely to tell you to set clear goals on what you want to achieve and then work towards achieving them. The problem is it doesn't really work. You might become a millionaire by the time you're 40, but then you realize you haven't been able to sustain a happy relationship. Or when it doesn't work out you feel lost, and you blame yourself. When we live for our goals, we forget to live *now*. The philosopher Allen Watts made the point that when you listen to a piece of music, you don't just skip to the end because that's where it all comes together. You don't just read the last chapter of a book because that's the climax. Yet in life we're obsessed with endings. So you study for these exams so you can go to this university to get this job to work your way up to what? Eventually you reach some position in your 50s and you think "Is this it? Is this the thing. Is this what I've been working for?" And you forget that maybe life should be more like a piece of music, and you're supposed to be dancing."  
+--Derren Brown
+
+"We tend to dwell on our pasts and think that they somehow define who we are. But our pasts are just stories that we tell ourselves in the present...And we can be more skeptical of those stories if it helps us...We forget to apply the same natural skepticism to the most important stories we have, the ones we tell ourselves every day about who we are. And we can choose to change those stories."  
+--Derren Brown
+
+"This idea that those stories define us, in other words that it isn't really events that cause our problems but more our reactions to them, this all goes back to a Roman philosopher called Epictetus 2000 years ago. And Epictetus also gave us a great piece of advice, which I find helfpul every day. Epictetus said there are things in your life that you're in control of, and then there are things in your life that you're not in control of. So if you stop trying to control or change things that are not under your control anyway, you will of course remove a whole lot of pointless frustration and anxiety from your life. Right? He added to that: There are only two things that you are in control of: Your thoughts and your actions. That's it. So everything else, what other people do, what they think, what they think of you, how they behave, you can't control any of that anyway, so if you stop trying to, if you stop trying to fix it or change it in some way, if you just decide that anything on that side is fine and just let it go, nothing bad happens. You just feel better. You feel happier. You feel relief like you just put down a big heavy case of bricks."  
+--Derren Brown
+
+"...That is a miracle. And we can remember that when we tell ourselves we're a bit fat or our lives are a bit rubbish. This is the one life and the one body we have. We can tell ourselves a different story about it at least. We can be kinder to ourselves."  
+--Derren Brown
+
+"I strongly believe that engaging with life is about understanding that it's the choices we make right now that are important, not the habits of our past."  
+--Derren Brown
+
+"Living life fully is not just about fulfilling ambition, regardless of what motivational books tell you. It's also about being kinder."  
+--Derren Brown
+
+"Courage is not the absence of fear; it's the mastery of it."  
+--Derren Brown
+
 "About all you can do in life is be who you are. Some people will love you for you. Most will love you for what you can do for them, and some won't like you at all."  
 --Rita Mae Brown
 
@@ -621,6 +642,10 @@ And know the place for the first time.
 
 "The shadow proves the sunshine."  
 --Jon Foreman
+
+"Woe to him who saw no more sense in his life, no aim, no purpose, and therefore no point in carrying on. He was soon lost. The typical reply with which such a man rejected all encouraging arguments was, 'I have nothing to expect from life any more.' What sort of answer can one give to that?  
+&emsp;&emsp;&emsp;What was really needed was a fundamental change in our attitude toward life. We had to learn ourselves and, furthermore, we had to teach the despairing men, that *it did not really matter what we expected from life, but rather what life expected from us.* We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life--daily and hourly. Our answer must consist, not in talk and meditation, but in right action and in right conduct. Life ultimately means taking the responsibility to find the right answer to its problems and to fulfill the tasks which it constantly sets for each individual."  
+--Viktor Frankel, *Man's Search for Meaning*
 
 "The constitution only guarantees the American people the right to pursue happiness. You have to catch it yourself."  
 --Benjamin Franklin
