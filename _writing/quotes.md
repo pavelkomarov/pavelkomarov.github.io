@@ -616,6 +616,9 @@ And know the place for the first time.
 "What I can not create I do not understand. Kow how to solve every problem that has been solved."  
 --Richard Feynman
 
+"For a successful technology, reality must take precedence over public relations, for nature cannot be fooled."  
+--Richard Feynman
+
 "I see people as equals; I have to pretend to look up to them."  
 --Gail Finkelstein LeVine
 
