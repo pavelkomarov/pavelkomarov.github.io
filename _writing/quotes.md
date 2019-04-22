@@ -202,9 +202,6 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "You know what makes you feel okay about losing? Winning."  
 --[Molly Bloom](https://en.wikipedia.org/wiki/Molly%27s_Game)
 
-"Anyone who is not shocked by quantum theory has not understood it."  
---Niels Bohr
-
 "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge."  
 --Daniel J. Boorstin
 
@@ -613,6 +610,10 @@ And know the place for the first time.
 "Ignorance is never better than knowledge."  
 --Enrico Fermi
 
+"Et meme si ce nest, pas vrai, faut croire a I'histoire ancienne."  
+"And even if it is not true, you need to believe in ancient history."  
+--Leo Ferre, as quoted by Pierre Briant in intro to *From Cyrus to Alexander*, as quoted by Dan Carlin in the *King of Kings* series of *Hardcore History*
+
 "What I can not create I do not understand. Kow how to solve every problem that has been solved."  
 --Richard Feynman
 
@@ -624,9 +625,6 @@ And know the place for the first time.
 
 "Courage is the solution to despair. Reason provides no answers. I can't know what the future will bring. We have to choose despite uncertainty. Wisdom is holding two contradictory truths in our mind simultaneously."  
 --[First Reformed](https://en.wikipedia.org/wiki/First_Reformed), Ernst Toller
-
-"Despair is a development of pride so great that it chooses one's certitude rather than admit God is more creative than we are."  
---First Reformed, Ernst Toller
 
 "I've seen enough real sin to know the difference."  
 --First Reformed, Ernst Toller
@@ -671,6 +669,9 @@ And know the place for the first time.
 "A clean desk is a sign of a sick mind."  
 --Lester Freamon, The Wire
 
+"I’ve definitely made more mistakes in my personal than my professional life...[W]hat we call love is often more about ego, self-projection, validation and fear of loneliness."  
+--Hadley Freeman
+
 "Big breakthroughs happen when what is suddenly possible meets what is desperately necessary."  
 --Thomas Friedman
 
@@ -707,8 +708,8 @@ And know the place for the first time.
 "In questions of science the authority of a thousand is not worth the humble reasoning of a single individual."  
 --Galileo Galilei
 
-"Sober words are drunken thoughts... Wait."  
---Reese Gallagher
+"[O]ne of the defining characteristics of true transformation is self redefinition....Indeed, rather than be swept away by life and force of habit, the individual can seize control of their life. They can fight against 'inevitability' and the idea of settling for whatever life hands them. We are either compliant with our seemingly preordained fate or we fight. We who choose to embrace the fight understand that life itself is a struggle and embrace it. Compliant living is mere existing. We want more--we want to improve our quality of life by methodically engaging in our parallel disciplines. Over time our practices will transform us."  
+--Marty Gallagher, *Strong Medicine* epilogue
 
 "The weak can never forgive; forgiveness is the attribute of the strong."  
 --Mohandas Gandhi
@@ -873,6 +874,9 @@ track one down, patch it around,
 "I drink to make other people more interesting."  
 --Ernest Hemingway
 
+"There is nothing noble in being superior to your fellow man. True nobility is being superior to your former self."  
+--Ernest Hemingway
+
 "Life can be wildly tragic at times, and I've had my share. But whatever happens to you, you have to keep a slightly comic attitude. In the final analysis, you have got not to forget to laugh."  
 --Katherine Hepburn
 
@@ -1010,14 +1014,14 @@ may God hold you in the palm of his hand."
 "You are what you love, not what loves you."  
 --Donald Kaufman (character), Adaptation (the one good thing anyone said in that worthless movie)
 
-"[A Liberal is] someone who looks ahead and not behind, someone who welcomes new ideas without  rigid reactions, someone who cares about the welfare of the people -- their health, their housing,  their schools, their jobs, their civil rights, and their civil liberties -- someone who believes we can  break through the stalemate and suspicions that grip us in our policies abroad, if that is what they  mean by a 'Liberal,' then I'm proud to say I'm a 'Liberal.'"  
+"[A Liberal is] someone who looks ahead and not behind, someone who welcomes new ideas without rigid reactions, someone who cares about the welfare of the people--their health, their housing, their schools, their jobs, their civil rights, and their civil liberties--someone who believes we can break through the stalemate and suspicions that grip us in our policies abroad, if that is what they mean by a 'Liberal,' then I'm proud to say I'm a 'Liberal.'"  
 --John F. Kennedy
 
 "Those who make peaceful revolution impossible will make violent revolution inevitable."  
 --John F. Kennedy
 
-"We choose to go to the moon and do the other things [like climb the highest mountain] not because they are easy, but because they are hard."  
---John F. Kennedy
+"Victory has a hundred fathers; defeat is an orphan."  
+--JFK
 
 "How can I adopt a creed which, preferring the mud to the fish, exalts the boorish proletariat above the bourgeoisie and the intelligentsia, who with all their faults, are the quality of life and surely carry the seeds of all human achievement?"  
 --John Maynard Keynes
@@ -1064,10 +1068,13 @@ may God hold you in the palm of his hand."
 "With freedom comes responsibility."  
 --Lubomir Komarov quoting Eleanor Roosevelt
 
+"Don't fight the statistics."  
+--Me
+
 "Many know what to think; few know how to think. Every one has answers; few know how to ask the right questions."  
 --Me
 
-"[Musk quote] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb. #staywithit"  
+"[[Musk quote](#musk)] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb. #staywithit"  
 --Me
 
 "You have to surrender to the fact that you are of too many in a highly competitive field where it is difficult to stand out. Over time, through your work, you will demonstrate who you are and what you bring to the field. Just stay with it and keep working."   
@@ -1188,6 +1195,9 @@ I felt like I could just fly
 But nothing happened every time I tried"  
 --James Mercer (Australia)
 
+"Despair is a development of pride so great that it chooses one's certitude rather than admit God is more creative than we are."  
+--Thomas Merton, as paraphrased in [First Reformed](https://en.wikipedia.org/wiki/First_Reformed)
+
 "Understanding the past enables us to see the present more clearly."  
 --Steven Mithen
 
@@ -1200,6 +1210,7 @@ But nothing happened every time I tried"
 "People with wisdom know that it is important to correct their own mistakes, while people without wisdom find it necessary to point out the mistakes of others."  
 --Bawa Muhaiyaddeen
 
+<a class="anchor" id="musk"></a>
 "An engineer is the closest thing to a magician that exists in the real world."  
 --Elon Musk
 
@@ -1710,6 +1721,9 @@ And yet, to me, what is this quintessence of dust?"
 "Wisdom is the chief element in happiness."  
 --Sophocles
 
+"Emotion, which is suffering, ceases to be suffering as soon as we form a clear and precise picture of it."
+--Spinoza, as translated by Viktor Frankel
+
 "Aaron [Swartz] believed that you literally ought to be asking yourself all of the time 'What is the most important thing I could be working on in the world right now?' And if you're not working on that, why aren't you?"  
 --Taren Stinebrickner-Kauffman
 
@@ -1721,9 +1735,6 @@ And yet, to me, what is this quintessence of dust?"
 
 "Socialism never took root in America because the poor see themselves not as an exploited proletariat, but as temporarily embarrassed millionaires."  
 --John Steinbeck
-
-"Oh my God! Jeremy's still in the trunk. Let's see how long has it been, two... two weeks? Yep, he's  dead. Definately dead."  
---Stewie
 
 "The bitterest tears shed over graves are for words left unsaid and for deeds left undone."  
 --Harriet Beecher Stowe, Little Foxes, 1865
