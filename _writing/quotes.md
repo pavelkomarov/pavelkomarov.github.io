@@ -93,7 +93,7 @@ The argument goes something like this: "I refuse to prove that I exist," says Go
 "The left-hand tower of the Hitchhiker's Guide to the Galaxy offices streaked through interstellar space at a speed never equaled either before or since by any other office block in the Universe."  
 --Douglas Adams
 
-"In the beginning the Universe was created. This has made a lot of people very angry and has been widely regarded as a bad move."
+"In the beginning the Universe was created. This has made a lot of people very angry and has been widely regarded as a bad move."  
 --Douglas Adams
 
 "The creator of the universe works in mysterious ways. But he uses a base ten counting system and likes round numbers."  
@@ -220,7 +220,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "There is no point in starting your own business unless you do it out of a sense of frustration."  
 --Richard Branson
 
-"There is just one thing I can promise you about the outer-space program: your tax-dollar will go further."
+"There is just one thing I can promise you about the outer-space program: your tax-dollar will go further."  
 --Wernher von Braun
 
 "But the whirlwind [war] is empty: horse or tank, Gengis Khan or Hitler or Stalin, it can only feed on the labours of other men."  
@@ -368,6 +368,27 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "Two possibilities exist; ether we are alone in the universe, or we are not. Both are equally terrifying."  
 --Arthur C. Clarke
+
+"It's not so bad getting old...As somebody once said to me--He was a general in the British Army--he said 'Very little matters much, and most things don't matter at all.' And I think now that that's sunk in--I think it's hard when you're younger to realize that. But very little matters, really."  
+--[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=0m30s)
+
+"I think the main thing is to understand that happiness or adjustment is much more an emotional state than an intellectual state."  
+--[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=2m8s)
+
+"I think the more that we have a disrespectful attitude towards our own egos, I think the happier life becomes. And I think the great problem of growing up in the moment, particularly for young people, is that you're told that if you're not rich and famous, your life is not really worthwhile. And that is such pernicious crap."  
+--[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=2m29s)
+
+"Extroverted values, which are to do with fame and money and status and positions, these are all things you have no control over. Do you see what I mean? Whereas you have a certain amount of control over your inner life, because you can somehow--you can not control your thoughts, but you can decide how much energy to give to a specific thought."  
+--[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=3m56s)
+
+"So when I started to discover at Cambridge I could write stuff that made people laugh, then I began to watch the process. And I am quite convinced that anything of importance creatively comes up from the unconscious. There's a lot of *very* very bright, highly intellectual, immensely smart people, but they're 'left-brained', and they'll never, I think, be very, um, very creative."  
+--[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=6m37s)
+
+"When your unconscious gives you an idea, it doesn't give it neatly printed out on a piece of paper; it'll just give you an image or a feeling or something. And if you can stay with that and move around, eventually it'll make, make sense."
+--[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=7m14s)
+
+"What I notice about scientists is they don't want to know about the philosophy of science." \[followed by great annecdote about Steven J. Gould and description of [a study](http://deanradin.com/articles/2004%20presentiments.pdf) [suggesting presentiment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3971164/)\]  
+--[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=33m13s)
 
 "On the show he [Fred Rogers] would say 'I love you just the way you are.' One day I said 'Fred, were you talking to me?' And he looked at me and he said 'Yes, I've been talking to you for two years. You finally heard me today.' And I just collapsed in to his arms. I-I started crying. That's when I knew that I loved him. No man had ever told me he loved me like that. I needed to hear it all my life."  
 --Francois Clemmens, co-star on Mr. Rogers' Neighborhood
@@ -915,6 +936,18 @@ track one down, patch it around,
 
 "You have a grace upon your words, and there is sound sense within them, and expertly, as a singer would do, you have told the story"  
 --Homer, The Odyssey
+
+"When people talk about trying to suppress your fear, I mean, I look at it a different way: I try to expand my comfort zone by practicing the moves over and over again. I work through the fear until it's just not scary anymore."  
+--Alex Honnold
+
+"\[For her\] the point of life is, like, happiness, to be with people that make you feel fulfilled and to have a good time. For me it's all about performance. The thing is anybody can be happy and cozy. Nothing good happens in the world by being happy and cozy. You know, like, nobody achieves anything great because they're happy and cozy."  
+--Alex Honnold
+
+"It's about being a warrior. It doesn't matter about the cause, necessarily. This is your path, and you will pursue it with excellence. You face your fear because your goal demands it. That is the goddamn warrior spirit."  
+--Alex Honnold
+
+"I think there's a kind of metaphysical dimension, that speed becomes a way of walling ourselves off from the bigger, deeper questions: We fill our heads with distraction, with busy-ness so that we don't have to ask 'Am I well?' 'Am I happy?'"  
+--[Carl Honore](https://www.youtube.com/watch?v=UhXiHJ8vfuk&t=13m47s)
 
 There is in every village a torch - the teacher: and an extinguisher - the clergyman.  
 --Victor Hugo
