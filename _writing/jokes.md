@@ -54,3 +54,6 @@ img: cheese.jpg
 
 ### Philosophy
 - Is it solipsistic in here, or is it just me?
+
+### Psychology
+- Why was Pavlov's hair so soft? Classical conditioning.
