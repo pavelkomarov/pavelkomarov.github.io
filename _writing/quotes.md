@@ -358,6 +358,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."  
 --Winston Churchill
 
+"Fanatic: One who can’t change his opinion and won’t change the subject."  
+--Winston Churchill (popularized), actually from Evan Esar's *Comic Dictionary*
+
 "1. When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.  
 2\. The only way of discovering the limits of the possible is to venture a little way past them into the impossible.  
 3\. Any sufficiently advanced technology is indistinguishable from magic."  
@@ -508,7 +511,7 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 <a class="anchor" id="E"></a>
 ### E
 
-"They say marriages a re made in Heaven. But so is thunder and lightning."  
+"They say marriages are made in Heaven. But so is thunder and lightning."  
 --Clint Eastwood
 
 "Creativity is intelligence having fun."  
@@ -591,7 +594,7 @@ And know the place for the first time.
 —Ralph Waldo Emerson 
 
 "If it isn't broken, take it apart and see how it works."  
---Engineer's Motto
+--Engineer's Motto, as cleverly stated by classmate Troy O'Neal
 
 "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."  
 --Epictetus
@@ -729,6 +732,66 @@ And know the place for the first time.
 "In questions of science the authority of a thousand is not worth the humble reasoning of a single individual."  
 --Galileo Galilei
 
+"[W]e must learn to live with Systems, to control *them* lest *they* control *us*."  
+--John Gall, *The Systems Bible*
+
+"Failure is perhaps our most taboo subject."  
+--John Gall
+
+"[M]alfunction is the rule and flawless operation the exception."  
+--John Gall
+
+"The microprocessor, like the multinational corporation, is even now providing material for new chapters in the Annals of Egregious and Unexpected Misbehavior."  
+--John Gall
+
+"[W]e humans do not yet understand the basic laws governing the behavior of complex organizations. A great enterprise can flounder helplessly or even wither away before our very eyes, as a result of malignant but as yet unnamed disorders, or in response to the operations of natural laws whose Newton has not yet been born to announce them to Mankind."  
+--John Gall
+
+"...the headlong rush into Systemism that charictarizes our age."  
+--John Gall
+
+"We are forced to report that in the interval since the original edition of *Systemantics*, no significant improvement in Systems-behavior has taken place."  
+--John Gall, preface to 2nd Ed.
+
+"[T]he height and depth of practical wisdom lies in the ability to recognize and not to fight against the Laws of Systems."  
+--John Gall
+
+"A System, after all, is a partial Intelligence; it participates in the great Mind of the Universe..."  
+--John Gall
+
+"...but the one thing they all agree on is that whatever the problem may be, the answer lies in setting up some system to deal with it. There seems to be no hint of awareness that there could be a pitfall in all this..."  
+--John Gall
+
+"[E]rror is our existential situation, and ... our successes are destined to be temporary and partial."  
+--John Gall
+
+"...humor and irony. Those are the qualities that people have called upon down the ages to enable them to cope with the permanently provisional human situation."  
+--John Gall
+
+"[T]he fundamental problem does not lie in any particular System but rather Systems As Such. Salvation, if it is attainable at all, even partially, is to be sought in a deeper understanding of the ways of all Systems, not simply in a criticism of the errors of a particular System."  
+--John Gall
+
+"At all times there have been people who felt that things weren't working out very well. This observation has gradually come to be recognized as an ongoing fact of life, an inseparable component of the Human Condition."  
+--John Gall
+
+"[F]ailure to function as expected is to be expected"  
+--John Gall
+
+"The power of the Naming Effect should not be underestimated. It is literally the power to bring new 'realities' in to existence."  
+--John Gall
+
+"[E]ach specific System tends to attract people with specific sets of traits...[T]he particular attributes that a given System fosters can only rarely be correctly inferred in advance; the actual situation is likely to contain surprises. And such attributes are not necessarily the attributes required for successful operation of the System itself; e.g., the qualities necessary for being elected President are not the qualities needed for properly running the country."  
+--John Gall 
+
+"Simple Systems that work are rare and precious additions to the armamentarium of human technology. They should be treasured."  
+--John Gall
+
+"[M]any of the world's frustrations are rooted in the malfunctions of complex Systems"  
+--John Gall
+
+"Nothing is more useless than struggling against a Law of Nature."  
+--John Gall
+
 "[O]ne of the defining characteristics of true transformation is self redefinition....Indeed, rather than be swept away by life and force of habit, the individual can seize control of their life. They can fight against 'inevitability' and the idea of settling for whatever life hands them. We are either compliant with our seemingly preordained fate or we fight. We who choose to embrace the fight understand that life itself is a struggle and embrace it. Compliant living is mere existing. We want more--we want to improve our quality of life by methodically engaging in our parallel disciplines. Over time our practices will transform us."  
 --Marty Gallagher, *Strong Medicine* epilogue
 
@@ -801,6 +864,9 @@ And know the place for the first time.
 
 "Be bold, and mighty forces will come to your aid."  
 --Goethe
+
+"If we do not create and control our environment, our environment creates and controls us."  
+--Marshall Goldmish
 
 "It’s only old people who say that young people feel “invincible”; it takes a writer of some wisdom to see that youth looks invincible only in retrospect, from the outside."  
 --Rob Goodman, [How To Be Intoxicated](https://www.chronicle.com/interactives/alcohol_essay)
