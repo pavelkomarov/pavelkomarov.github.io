@@ -1668,6 +1668,12 @@ He truly embodied the principles of being genuinely interested in other people, 
 "Any intelligent fool can make things bigger and more complex. It takes a touch of genius and a lot of courage to move in the opposite direction."  
 --E. F. Schumacher
 
+"As you witness the fruits of your labor, your self-worth and self-confidence improve, and these traits will color your work and interpersonal relationships long past your competitive days."  
+--Arnold Schwarzenegger, Foreward to *The New Encyclopedia of Modern Bodybuilding*
+
+"I know I can succeed in anything I choose, and I know this because I understand what it takes to sacrifice, struggle, persist, and eventually overcome and obstacle."  
+--Arnold Schwarzenegger
+
 "As you grow older, you'll find the only things you regret are the things you didn't do."  
 --Zachary Scott
 
