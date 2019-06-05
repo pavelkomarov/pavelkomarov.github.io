@@ -458,6 +458,9 @@ So do it."
 "One last drink, please."  
 --Jack Daniels (allegedly his last words)
 
+"How could they possibly need more conflict? What they don’t realize is that they’re mired in all those negative emotions because they’re unwilling to work through them. As long as they avoid the topics that are creating anger, guilt, and frustration, they’re stuck with them."  
+--[Liane Davey](https://www.fastcompany.com/90325341/why-conflict-is-good-in-the-workplace)
+
 "The only competitor for the title of champion constructive mistranslation of all time also concerns virgins. Ibn Warraq has hilariously argued that in the famous promise of seventy-two virgins to every Muslim martyr, 'virgins' is a mistranslation of 'white raisins of crystal clarity'. Now, if only that had been more widely known, how many innocent victims of suicide missions might have been saved?"  
 --Richard Dawkins
 
@@ -485,6 +488,9 @@ So do it."
 
 "How we spend our days is how we spend our lives."  
 --Annie Dillard
+
+"I’ve learned that there is nothing more consistent with unhappiness than spending your time in a way that doesn’t serve who you are."  
+--Scott Dinsmore
 
 "So there was a kid back in February from, ah, Baltimore--ah, 14 years old [Jack Andraka]--who, ah, had access to Jstor. And he'd been spelunking through Jstor after reading something, and he figured out a way to do early tests for pancreatic cancer [by infusing a conductive carbon mesh with a chemical that bonds to a biomarker from blood of a testee, thereby changing the conductivity of the material]. And pancreatic cancer kills the shit out of you because we detect it way too late: By the time we detect it, it's already too late to do anything about it. Ah, and, um, He sent emails off to the entire oncology department at Johns Hopkins, you know, hundreds of them .. and most of them ignored it, right. But one of them, like, sent him an email back and said 'This is not an entirely stupid idea. Why don't you come on over.' And this kid worked evenings and weekends with this researcher, and in February I heard him on the news, just a couple of weeks after Aaron died, when Aaron was in the news a lot. [*pauses and tears up*] Sorry [*breathes*] And, ah, he said, um, the reason he was on the news is cause they'd done it; they were shipping, ah, an early test for pancreatic cancer that was gonna save lives. And he said, ah, this is why what Aaron did was so important: Because you never know, right? This truth of the universe is not only something [*wipes tear*] that policy makers use to figure out, you know, what the speed limit should be; it's where the, the thing that's gonna keep, you know, your kid from dying of pancreatic cancer comes from. And, without access, the person who might come up with the thing that's got your number on it may never find that answer."  
 --Cory Doctorow (The Internet's Own Boy)
@@ -885,7 +891,7 @@ And know the place for the first time.
 
 "Hello learned and astonishingly attractive pupils. My name is John Green, and I want to welcome you to Crash Course: World History. Over the next 40 weeks together we will learn how in a mere 15,000 years humans went from hunting and gathering—  
 Mr. Green, Mr. Green! Mr.—Is this gonna be on the test?  
-Yeah, about the test: The test will measure whether you are an informed, engaged, and productive citizen of the world, and it will take place in schools and bars and hospitals and dormrooms and in places of worship. You will be tested on first dates, in job interviews, while watching football, and while scrolling through your Twitter feed. The test will judge your ability to think about things other than celebrity marriages, whether you’ll be easily persuaded by empty political rhetoric, and whether you’ll be able to place your life and your community in a broader context. The test will last your entire life, and it will be comprised of the millions of decisions that when taken together make your life yours. And everything, *everything* will be on it.
+&emsp;&emsp;&emsp;Yeah, about the test: The test will measure whether you are an informed, engaged, and productive citizen of the world, and it will take place in schools and bars and hospitals and dormrooms and in places of worship. You will be tested on first dates, in job interviews, while watching football, and while scrolling through your Twitter feed. The test will judge your ability to think about things other than celebrity marriages, whether you’ll be easily persuaded by empty political rhetoric, and whether you’ll be able to place your life and your community in a broader context. The test will last your entire life, and it will be comprised of the millions of decisions that when taken together make your life yours. And everything, *everything* will be on it.
 I know, right? So pay attention."  
 --[John Green](https://www.youtube.com/watch?v=Yocja_N5s1I)
 
@@ -1367,6 +1373,9 @@ But nothing happened every time I tried"
 
 "Tomorrow I shall no longer be here."  
 --Nostradamus
+
+"Honestly, man, there are few guarantees in life, but if you intend or expect to have a bad time, it's guaranteed you will. That's really all I've got to say about it."  
+-Austin Randolph Matthew Nova
 
 "The intellectual wants the whole society to be a school writ large, to be like the environment where he did so well and was so well appreciated. By incorporating standards of reward that are different from the wider society, the schools guarantee that some will experience downward mobility later. Those at the top of the school’s hierarchy will feel entitled to a top position, not only in that micro-society but in the wider one, a society whose system they will resent when it fails to treat them according to their self-prescribed wants and entitlements."  
 --[Robert Nozick](https://www.libertarianism.org/publications/essays/why-do-intellectuals-oppose-capitalism)
