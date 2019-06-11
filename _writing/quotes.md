@@ -732,7 +732,7 @@ And know the place for the first time.
 "Please be quiet; I'm very interesting."  
 --Zach Galifianakis
 
-"I have never met a man so ignorant that I could not learn something from him."
+"I have never met a man so ignorant that I could not learn something from him."  
 --Galileo Galilei
 
 "In questions of science the authority of a thousand is not worth the humble reasoning of a single individual."  
@@ -1824,7 +1824,7 @@ And yet, to me, what is this quintessence of dust?"
 --Ralph W. Sockman
 
 "Oppression breeds the power to oppose it."  
---Andrew Solomon (one of the greatest TED talkers ever)
+--[Andrew Solomon](https://www.ted.com/talks/andrew_solomon_how_the_worst_moments_in_our_lives_make_us_who_we_are)
 
 "Wisdom is its own reward."  
 --Solomon, Proverbs 9:12
