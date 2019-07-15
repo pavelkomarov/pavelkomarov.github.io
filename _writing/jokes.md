@@ -51,6 +51,7 @@ img: cheese.jpg
 - I held the door open for a clown today. Seemed like a nice jester.
 - I had a pun about insanity, but I lost it.
 - Pick up artists and garbage men should switch names.
+- Analogies are hard; they're like ...
 
 ### Philosophy
 - Is it solipsistic in here, or is it just me?
