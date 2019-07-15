@@ -732,7 +732,7 @@ And know the place for the first time.
 "Please be quiet; I'm very interesting."  
 --Zach Galifianakis
 
-"I have never met a man so ignorant that I could not learn something from him."
+"I have never met a man so ignorant that I could not learn something from him."  
 --Galileo Galilei
 
 "In questions of science the authority of a thousand is not worth the humble reasoning of a single individual."  
@@ -1824,7 +1824,7 @@ And yet, to me, what is this quintessence of dust?"
 --Ralph W. Sockman
 
 "Oppression breeds the power to oppose it."  
---Andrew Solomon (one of the greatest TED talkers ever)
+--[Andrew Solomon](https://www.ted.com/talks/andrew_solomon_how_the_worst_moments_in_our_lives_make_us_who_we_are)
 
 "Wisdom is its own reward."  
 --Solomon, Proverbs 9:12
@@ -1856,7 +1856,7 @@ And yet, to me, what is this quintessence of dust?"
 "If you don't build your dream, then someone else will hire you to help build theirs."  
 --Sulibreezy https://www.youtube.com/watch?feature=player_embedded&v=y_ZmM7zPLyI
 
-"Underlying our approach to this subject is our conviction that 'computer science' is not a science and that its significance has little to do with computers. The computer revolution is a revolution in the way we think and in the way we express what we thing. The essence of this change is the emergence of what might best be called *procedural epistemology*--the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects. Mathematics provides a framework for dealing precisely with notions of 'what is'. Computation provides a framework for dealing precisely with notions of 'how to'."  
+"Underlying our approach to this subject is our conviction that 'computer science' is not a science and that its significance has little to do with computers. The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called *procedural epistemology*--the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects. Mathematics provides a framework for dealing precisely with notions of 'what is'. Computation provides a framework for dealing precisely with notions of 'how to'."  
 --Gerald and Julie Sussman, Harold Abelson (Structure and Interpretation of Computer Programs)
 
 "If a lump of soot falls into the soup and you can not conveniently get it out, stir it well in and it will give the soup a French taste."  
