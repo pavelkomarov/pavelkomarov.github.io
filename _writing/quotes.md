@@ -937,8 +937,8 @@ track one down, patch it around,
 "The spirit of liberty is the spirit which is not too sure that it is right."  
 --Learned Hand
 
-"The next time something happens in your life that makes you angry or afraid or sad, how long will you spend locked in the prison of one of those emotions? And what will you do there? What indelible mark might you make in your life or in our world on the basis of one of those emotions?"
--[Sam Harris](https://samharris.org/podcasts/145-information-war/)
+"The next time something happens in your life that makes you angry or afraid or sad, how long will you spend locked in the prison of one of those emotions? And what will you do there? What indelible mark might you make in your life or in our world on the basis of one of those emotions?"  
+--[Sam Harris](https://samharris.org/podcasts/145-information-war/)
 
 "There are those who will say terrible things about JavaScript. Many of these things are true. When I was required to write something in JavaScript for the first time, I quickly came to despise it. It would accept almost anything I typed but interpret it in a way that was completely different from what I meant. This had a lot to do with the fact that I did not have a clue what I was doing, of course, but there is a real issue here: JavaScript is ridiculously liberal in what it allows. The idea behind this design was that it would make programming in JavaScript easier for beginners. In actuality, it mostly makes finding problems in your programs harder because the system will not point them out to you."  
 --Marijn Haverbeke, *Eloquent Javascript*
@@ -952,7 +952,7 @@ track one down, patch it around,
 "Our grandchildren will say that we died not because of heart disease, cancer, or stroke, but instead that we died pathetically out of ignorance and superstition."  
 --Kenneth Hayworth
 
-"I like an escalator because an escalator can never break, it can only become stairs. There would  never be an escalator temporarily out of order sign, only an escalator temporarily stairs. Sorry for the  convenience."  
+"I like an escalator because an escalator can never break, it can only become stairs. There would never be an escalator temporarily out of order sign, only an escalator temporarily stairs. Sorry for the convenience."  
 --Mitch Hedberg
 
 "I like rice. Rice is great if you're hungry and want 2000 of something."  
@@ -973,10 +973,7 @@ track one down, patch it around,
 "There is nothing noble in being superior to your fellow man. True nobility is being superior to your former self."  
 --Ernest Hemingway
 
-"Life can be wildly tragic at times, and I've had my share. But whatever happens to you, you have to keep a slightly comic attitude. In the final analysis, you have got not to forget to laugh."  
---Katherine Hepburn
-
-"We are taught you must blame your father, your sisters, your brothers, the school, the teachers - but never blame yourself. It's never your fault. But it's always your fault, because if you wanted to change you're the one who has got to change."  
+"We are taught you must blame your father, your sisters, your brothers, the school, the teachers--but never blame yourself. It's never your fault. But it's always your fault, because if you wanted to change you're the one who has got to change."  
 --Katherine Hepburn
 
 "Enemies are so stimulating."  
@@ -1002,6 +999,9 @@ track one down, patch it around,
 
 "Most people are brought up to believe they are as good as the person next to them, I was told I was better."  
 --Katherine Hepburn
+
+"What can be asserted without evidence can also be dismissed without evidence."  
+--Hitchens Razor  
 
 "It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts."  
 --Sherlock Holmes
