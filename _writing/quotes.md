@@ -1698,9 +1698,9 @@ He truly embodied the principles of being genuinely interested in other people, 
 "One of life's curious ironies is that individuals who are overweight also have a tendency to be tired, while those who expend a lot of energy exercising seem to have more."  
 --Arnold Schwarzenegger [Similar: "The gluttony and the sloth are the *result* of the biochemistry, not the cause." --Dr. Lustig]
 
-"If it suits you, think of me as your private personal trainer.
-&emsp;&emsp;&emsp;*Here's what you must do for me.* It's pretty simple, really, but I didn't say easy--after all, as I said, the slogan "No pain, no gain" originated in bodybuilding circles. It's what sets those who succeed apart from those who don't: You must have a sincere and burning desire to achieve what you dream, dedicate yourself to making progress, and take control of your circumstances to change your body. ... Understand that bodybuilding isn't an overnight process, but rather a lifelong one. Personal factors like your attitude, commitment, and desire to improve your appearance play an important role in your ultimate success. Endeavor to learn all you can, train smart, listen to your body, and combine it with a good diet. ...
-&emsp;&emsp;&emsp;If you're with me so far, you're miles ahead of everybody else and are destined for greatness.
+"If it suits you, think of me as your private personal trainer.  
+&emsp;&emsp;&emsp;*Here's what you must do for me.* It's pretty simple, really, but I didn't say easy--after all, as I said, the slogan "No pain, no gain" originated in bodybuilding circles. It's what sets those who succeed apart from those who don't: You must have a sincere and burning desire to achieve what you dream, dedicate yourself to making progress, and take control of your circumstances to change your body. ... Understand that bodybuilding isn't an overnight process, but rather a lifelong one. Personal factors like your attitude, commitment, and desire to improve your appearance play an important role in your ultimate success. Endeavor to learn all you can, train smart, listen to your body, and combine it with a good diet. ...  
+&emsp;&emsp;&emsp;If you're with me so far, you're miles ahead of everybody else and are destined for greatness.  
 &emsp;&emsp;&emsp; I've tried to make this book as honest, accurate, and practical as possible. Study it ... You hold the answers right here in your hands."  
 --Arnold Schwarzenegger
 
