@@ -1680,11 +1680,8 @@ He truly embodied the principles of being genuinely interested in other people, 
 "Any intelligent fool can make things bigger and more complex. It takes a touch of genius and a lot of courage to move in the opposite direction."  
 --E. F. Schumacher
 
-"As you witness the fruits of your labor, your self-worth and self-confidence improve, and these traits will color your work and interpersonal relationships long past your competitive days."  
---Arnold Schwarzenegger, Foreward to *The New Encyclopedia of Modern Bodybuilding*
-
 "You'll find, as I did, that building muscle builds you up in every part of your life. What you learn here will affect everything else that you do in your life. As you witness the fruits of your labor, your self-worth and self-confidence improve, and these traits will color your work and interpersonal relationships long past your competitive days."  
---Arnold Schwarzenegger
+--Arnold Schwarzenegger, Foreward to *The New Encyclopedia of Modern Bodybuilding*
 
 "I know I can succeed in anything I choose, and I know this because I understand what it takes to sacrifice, struggle, persist, and eventually overcome and obstacle."  
 --Arnold Schwarzenegger
