@@ -1695,7 +1695,7 @@ He truly embodied the principles of being genuinely interested in other people, 
 "[S]tart by having a clear vision of your ultimate physique, then follow it up with a plan on how you'll create it. Nothing happens by accident."  
 --Arnold Schwarzenegger
 
-"On of life's curious ironies is that individuals who are overweight also have a tendency to be tired, while those who expend a lot of energy exercising seem to have more."  
+"One of life's curious ironies is that individuals who are overweight also have a tendency to be tired, while those who expend a lot of energy exercising seem to have more."  
 --Arnold Schwarzenegger [Similar: "The gluttony and the sloth are the *result* of the biochemistry, not the cause." --Dr. Lustig]
 
 "If it suits you, think of me as your private personal trainer.
