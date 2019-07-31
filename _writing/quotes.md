@@ -148,7 +148,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Look back over the past, with its changing empires that rose and fell, and you can foresee the future too."  
 --Marcus Aurelius
 
-"Be like the cliff againsts which the wave continually break; but it stands firm and tames the fury of the waters around it."  
+"Be like the cliff against which the waves continually break; but it stands firm and tames the fury of the waters around it."  
 --Marcus Aurelius
 
 "That which is really beautiful has no need of anything; not more than law, not more than truth, not more than benevolence or modesty."  
