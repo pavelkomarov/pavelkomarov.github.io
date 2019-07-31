@@ -1683,7 +1683,28 @@ He truly embodied the principles of being genuinely interested in other people, 
 "As you witness the fruits of your labor, your self-worth and self-confidence improve, and these traits will color your work and interpersonal relationships long past your competitive days."  
 --Arnold Schwarzenegger, Foreward to *The New Encyclopedia of Modern Bodybuilding*
 
+"You'll find, as I did, that building muscle builds you up in every part of your life. What you learn here will affect everything else that you do in your life. As you witness the fruits of your labor, your self-worth and self-confidence improve, and these traits will color your work and interpersonal relationships long past your competitive days."  
+--Arnold Schwarzenegger
+
 "I know I can succeed in anything I choose, and I know this because I understand what it takes to sacrifice, struggle, persist, and eventually overcome and obstacle."  
+--Arnold Schwarzenegger
+
+"It all comes back to discipline. If you make a commitment to better your physical health, you'll find the same self-discipline, focus, and drive for success carries through into the rest of your life's activities."  
+--Arnold Schwarzenegger
+
+"Though I'm known mainly as a bodybuilder-turned-actor and businessman [and politician], on various occasions I've been able to take on another role, one that brings me the greatest amount of personal pride, and that's the role of teacher."  
+--Arnold Schwarzenegger
+
+"[S]tart by having a clear vision of your ultimate physique, then follow it up with a plan on how you'll create it. Nothing happens by accident."  
+--Arnold Schwarzenegger
+
+"On of life's curious ironies is that individuals who are overweight also have a tendency to be tired, while those who expend a lot of energy exercising seem to have more."  
+--Arnold Schwarzenegger [Similar: "The gluttony and the sloth are the *result* of the biochemistry, not the cause." --Dr. Lustig]
+
+"If it suits you, think of me as your private personal trainer.
+&emsp;&emsp;&emsp;*Here's what you must do for me.* It's pretty simple, really, but I didn't say easy--after all, as I said, the slogan "No pain, no gain" originated in bodybuilding circles. It's what sets those who succeed apart from those who don't: You must have a sincere and burning desire to achieve what you dream, dedicate yourself to making progress, and take control of your circumstances to change your body. ... Understand that bodybuilding isn't an overnight process, but rather a lifelong one. Personal factors like your attitude, commitment, and desire to improve your appearance play an important role in your ultimate success. Endeavor to learn all you can, train smart, listen to your body, and combine it with a good diet. ...
+&emsp;&emsp;&emsp;If you're with me so far, you're miles ahead of everybody else and are destined for greatness.
+&emsp;&emsp;&emsp; I've tried to make this book as honest, accurate, and practical as possible. Study it ... You hold the answers right here in your hands."  
 --Arnold Schwarzenegger
 
 "As you grow older, you'll find the only things you regret are the things you didn't do."  
