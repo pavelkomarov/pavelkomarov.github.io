@@ -124,8 +124,8 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Kill them all; God will recognize his."  
 --Arnaud Amalric
 
-"The emperor has no clothes."  
---Hans Christian Andersen
+"But he isn't wearing anything at all!"  
+--Hans Christian Andersen, *The Emperor's New Clothes*
 
 "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."  
 --Anonymous
