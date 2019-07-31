@@ -547,7 +547,7 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 "The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science. He to whom this emotion is a stranger, who can no longer pause to wonder and stand rapt in awe, is as good as dead. His eyes are closed."  
 --Albert Einstein
 
-"The important thing is not to stop questioning."
+"The important thing is not to stop questioning."  
 --Albert Einstein
 
 "Peace cannot be kept by force; it can only be achieved by understanding."  
@@ -577,14 +577,14 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 "A sense of humor is part of the art of leadership, of getting along with people, of getting things done."  
 --Dwight D. Eisenhower
 
-"This is the way the world ends
+"This is the way the world ends  
 Not with a bang but a whimper."  
 --T.S. Eliot (The Hollow Men)
 
-We shall not cease from exploration 
-And the end of all our exploring 
-Will be to arrive where we started 
-And know the place for the first time.   
+We shall not cease from exploration  
+And the end of all our exploring  
+Will be to arrive where we started  
+And know the place for the first time.  
 --T.S. Eliot (Little Gidding)
 
 "Blessed is the man who, having nothing to say, abstains from giving wordy evidence of the fact."  
