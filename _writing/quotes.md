@@ -449,6 +449,10 @@ So do it."
 "Nothing in life is to be feared; it is only to be understood."  
 --Marie Curie
 
+"Co je na srdci je na dlani."
+"What is on the heart is on the palm of your hand."
+--Czech Proverb, according to Babi
+
 <a class="anchor" id="D"></a>
 ### D
 
