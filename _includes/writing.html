@@ -9,20 +9,7 @@
 
 		<div class="row">
 		{% for post in site.writing %}
-			<!-- Adaptively use 3 columns on medium and large screens and 2 on small ones. -->
-			<div class="col-md-4 col-sm-6 gallery-item">
-				<div class="gallery-thumbnail">
-					<i class="fa fa-plus fa-3x"></i>
-					<a href="{{ post.permalink }}" >	
-						<img src="../assets/{{ post.img }}" />
-					</a>
-				</div>
-
-				<div class="gallery-caption">
-					<h4>{{post.title}}</h4>
-					<p class="text-muted">{{post.subtitle}}</p>
-				</div>
-			</div>
+			<a href="{{ post.permalink }}" >{{ post.title }}, {{ post.subtitle }}</a>&emsp;
 		{% endfor %}
 		</div>
 	</div>

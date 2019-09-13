@@ -5,84 +5,26 @@
 		<div class="row">
 			<div class="col-lg-12 text-center">
 				<h2 class="section-heading">Projects</h2>
-                <h3 class="section-subheading"></h3>
 			</div>
 		</div>
+
 		<div class="row">
-			<div class="col-lg-12">
-				<ul class="timeline">
-					<li>
-						<div class="timeline-image">
-							<img class="rounded-circle img-fluid" src="" alt="">
-						</div>
-						<div class="timeline-panel">
-							<div class="timeline-heading">
-								<h4>Theme, Vision, Mission</h4>
-							</div>
-							<div class="timeline-heading">
-								<p>Read more about our Theme, Vision, and Mission</p>
-							</div>
-							<a href="/about" class="page-scroll btn btn-sm">Learn More</a>
-						</div>
-					</li>
-					<li class="timeline-inverted">
-						<div class="timeline-image">
-							<img class="rounded-circle img-fluid" src="" alt="">
-						</div>
-						<div class="timeline-panel">
-							<div class="timeline-heading">
-								<h4>Agenda</h4>
-							</div>
-							<div class="timeline-heading">
-								<p>Check out the agenda</p>
-							</div>
-							<a href="/agenda" class="page-scroll btn btn-sm">Learn More</a>
-						</div>
-					</li>
-					<li class="timeline-inverted">
-						<div class="timeline-image">
-							<img class="rounded-circle img-fluid" src="" alt="">
-						</div>
-						<div class="timeline-panel">
-							<div class="timeline-heading">
-								<h4>Venue</h4>
-							</div>
-							<div class="timeline-heading">
-								<p>Learn more about our location</p>
-							</div>
-							<a href="/venue" class="page-scroll btn btn-sm">Learn More</a>
-						</div>
-					</li>
-					<li>
-						<div class="timeline-image">
-							<img class="rounded-circle img-fluid" src="" alt="">
-						</div>
-						<div class="timeline-panel">
-							<div class="timeline-heading">
-								<h4>FAQs</h4>
-							</div>
-							<div class="timeline-heading">
-								<p>Have a Question? Many answers can be found right here in our FAQs</p>
-							</div>
-							<a href="/faqs" class="page-scroll btn btn-sm">Learn More</a>
-						</div>
-					</li>
-					<li class="timeline-inverted">
-						<div class="timeline-image">
-							<img class="rounded-circle img-fluid" src="" alt="">
-						</div>
-						<div class="timeline-panel">
-							<div class="timeline-heading">
-								<h4>Event Booklet</h4>
-							</div>
-							<div class="timeline-heading">
-								<p>View or Download our event booklet</p>
-							</div>
-							<a href="/booklet" class="page-scroll btn btn-sm">Learn More</a>
-						</div>
-					</li>
-				</ul>
+		{% for post in site.projects %}
+			<!-- Adaptively use 3 columns on medium and large screens and 2 on small ones. -->
+			<div class="col-md-4 col-sm-6 gallery-item">
+				<div class="gallery-thumbnail">
+					<p>description text from somewhere</p>
+					<a href="{{ post.permalink }}" >	
+						<img src="../assets/{{ post.img }}" />
+					</a>
+				</div>
+
+				<div class="gallery-caption">
+					<h4>{{post.title}}</h4>
+					<p class="text-muted">{{post.subtitle}}</p>
+				</div>
 			</div>
+		{% endfor %}
 		</div>
 	</div>
 </section>
