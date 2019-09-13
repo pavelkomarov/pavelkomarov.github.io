@@ -346,6 +346,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Success is not final; failure is not fatal: It's the courage to continue that counts."  
 --Winston Churchill
 
+"Never give in. Never give in. Never, never, never--in nothing, great or small, large or petty--never give in, except to convictions of honour and good sense. Never yield to force. Never yield to the apparently overwhelming might of the enemy."  
+--[Winston Churchill](https://www.youtube.com/watch?v=ywDZKfZ-iZA)
+
 "To improve is to change; to be perfect is to change often."  
 --Winston Churchill
 
@@ -410,6 +413,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "So congratulations on the extra effort, Mercedes, which of course was a complete waste because Bloomberg Businessweek crunched the data this week comparing the satisfaction rankings with each company's stock price and found that '...customer-service scores have no relevance to stock market returns... the most-hated companies perform better...' and 'Your contempt really, truly doesn't matter... If anything, it might hurt company profits to spend money making customers happy.' That's right, folks, the Free Market has spoken, and it said 'Fuck you.'"  
 --Stephen Colbert
+
+"Everybody wanna be a bodybuilder, but don't nobody wanna lift no heavy-ass weight."  
+--Ronnie Coleman
 
 "La vida tiene más imaginación que nuestros sueños se llevan."  
 "Life has more imagination than we carry in our dreams."  
@@ -625,6 +631,9 @@ And know the place for the first time.
 
 <a class="anchor" id="F"></a>
 ### F
+
+"Men's greatest weakness is their facade of strength, and women's greatest strength is their facade of weakness."  
+--[Warren Farrell](https://www.youtube.com/watch?v=S1xxcKCGljY)
 
 "Don't bother just to be better than your contemporaries or predecessors. Try to be better than yourself."  
 --William Faulkner
@@ -937,6 +946,9 @@ track one down, patch it around,
 "The spirit of liberty is the spirit which is not too sure that it is right."  
 --Learned Hand
 
+"Never attribute to malice that which is adequately explained by stupidity."  
+--Hanlon's Razor
+
 "The next time something happens in your life that makes you angry or afraid or sad, how long will you spend locked in the prison of one of those emotions? And what will you do there? What indelible mark might you make in your life or in our world on the basis of one of those emotions?"  
 --[Sam Harris](https://samharris.org/podcasts/145-information-war/)
 
@@ -1026,6 +1038,9 @@ track one down, patch it around,
 
 There is in every village a torch - the teacher: and an extinguisher - the clergyman.  
 --Victor Hugo
+
+"Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them."  
+--[David Hume](https://www.youtube.com/watch?v=4LqZdkkBDas)
 
 "Everyone is being satirical, everything is a send-up. There’s an infuriating frivolity, cynicism and finally a vacuousness."  
 --Barry Humphries
@@ -2285,6 +2300,9 @@ Lord, I could never show you anything as beautiful as you."
 
 "Often philosophy is seen as an investigation into an area not sufficiently well understood to be its own branch of knowledge. For example, what were once philosophical pursuits have evolved into the modern day fields such as psychology, sociology, linguistics, and economics."  
 --Wikipedia, Philosophy
+
+"On August 19, 2019, the group updated its decades-old definition of the purpose of a corporation, doing away with its bedrock principle that shareholder interests must be placed above all else. The statement, signed by nearly 200 chief executive officers from major U.S. corporations, makes a "fundamental commitment to all of our stakeholders," including customers, employees, suppliers and local communities."  
+--Wikipedia, Business Roundtable
 
 Always forgive your enemies--nothing annoys them so much.  
 --Oscar Wilde
