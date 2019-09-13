@@ -21,9 +21,8 @@ body {
 	width: 100%;
 	overflow-x: hidden;
 	font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-	color: #{{site.color.secondary-dark}};
+	color: #{{site.color.muted}};
 }
-
 
 /* sections */
 section {
@@ -46,12 +45,6 @@ section h3.section-subheading {
 	font-weight: 400;
 }
 
-
-/* text and links */
-.text-muted {
-	color: #{{site.color.muted}};
-}
-
 blockquote {
 	margin: 30px;
 }
@@ -60,7 +53,6 @@ p {
 	line-height: 1.5;
 	font-size: 110%;
 }
-
 
 a {
 	outline: 0;
@@ -89,8 +81,8 @@ h5,
 h6 {
 	font-family: {{site.font.primary}};
 	font-weight: 700; /* 700 is standard bold */
+	color: #{{site.color.secondary-dark}}
 }
-
 
 /* header */
 .navbar-toggler {
@@ -263,13 +255,6 @@ footer span.copyright {
 .gallery-caption h4 {
 	margin: 0;
 }
-
-
-
-
-
-
-
 
 
 
