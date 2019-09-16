@@ -600,6 +600,9 @@ And know the place for the first time.
 "Blessed is the man who, having nothing to say, abstains from giving wordy evidence of the fact."  
 --George Elliot
 
+"What we fear of doing most is usually what we most need to do."  
+--Ralph Waldo Emerson
+
 "What lies behind us and what lies before us are small matter compared to what lies in us."  
 --Ralph Waldo Emerson
 
