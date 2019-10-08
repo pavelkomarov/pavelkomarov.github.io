@@ -814,7 +814,41 @@ And know the place for the first time.
 "Nothing is more useless than struggling against a Law of Nature."  
 --John Gall
 
-"[O]ne of the defining characteristics of true transformation is self redefinition....Indeed, rather than be swept away by life and force of habit, the individual can seize control of their life. They can fight against 'inevitability' and the idea of settling for whatever life hands them. We are either compliant with our seemingly preordained fate or we fight. We who choose to embrace the fight understand that life itself is a struggle and embrace it. Compliant living is mere existing. We want more--we want to improve our quality of life by methodically engaging in our parallel disciplines. Over time our practices will transform us."  
+"Creative reframing is the art of substituting useful metaphors for limiting metaphors."  
+--John Gall
+
+"If any intellectual tool offers hope of providing some degree of active mastery of systems, this [reframing] is it."  
+--John Gall
+
+"When Reframing is complete, the Problem is not 'solved'--it doesn't even exist any more. There is no longer any Problem to discuss, let alone a Solution [(which may cause its own consequences and problems)]. [Or, the Problem can be transformed to something more tractable.] In the fleeting moment of transition from the old Model to the New [(Paradigm Shift)], one has a brief opportunity to realize consciously what most of us seldom think about, namely, that labels such as ['crime', 'oppressor', 'socialism', etc.] are *artefacts of terminology*, not permanent attributes of the Universe or of Human Nature. With that awareness we are no longer locked into models that offer no solution. We are free to seek out ever more appropriate Models of the Universe."  
+--John Gall
+
+"In practice, truly suitable new Frames remain elusive. There is no surefire program for devising them. Even mathematicians do not understand how it comes about that they suddenly 'see' the elegant way to solve a problem. There is no formula for creativity"  
+--John Gall, but [John Cleese has devised some practical advice](https://www.youtube.com/watch?v=Pb5oIIPO62g)
+
+"...the experiences of adolescence, where two awkward beginners make all the standard errors and some new ones, fail to pick up on their partner's cues, and forget to send their own signals."  
+--John Gall
+
+"[W]ith long-continued practice in interacting with familiar Systems, moments can come when our interactions can take on the qualities suggested [by the word 'dance']--when the partners are no longer simply dancing, but also communicating about changing the dance itself to make it more satisfying for both...Such moments are the reward of those who recognize the dance for what it is and who persist in the dance."  
+--John Gall
+
+"...the necessity of a New Breed of Systems-student--one who, having absorbed the Axioms here collected and, more importantly, the *spirit* infusing them, can progress beyond technology to the kind of wisdom the world needs. the world already suffers from too many experts. They tell us more than we need to know or dare to ask about ingenious machines, fusion bombs, and management science. What we really need to know is much more subtle.
+&emsp;&emsp;&emsp;We need to know if setting up Management by Objectives in the Universities will bring on another Dark Age; if placing a microphone in the Oval Office can bring down the government; if permitting men and women everywhere the freedom to choose their own way of life and to make their own decisions can lead to a better world. For such questions your run-of-the-mill expert is of little value. What is required is a special, elusive talent, really an intuition--a feel for the wild, wierd, wonderful, and paradoxical ways of Large Systems. We offer no formula for recognizing or cultivating such a talent. But we suggest that its possessor will, more likely than not, have cut his/her eyeteeth on the Axioms of General Systemantics."  
+--John Gall
+
+"Systems are seductive. They promise to do a hard job faster, better, and more easily than you could do it yourself. But if you set up a System, you are likely to find your time and effort now being consumed in the care and feeding of the System itself. New Problems are created by its very presence (Fundamental Theorem). Once set up, it won't Go Away; it Grows and Encroaches (Laws of Growth). It begins to do Strange and Wonderful Things (Generalized Uncertainty Principle) and Breaks Down in Ways You Never Thought Possible (Fundamental Failure Theorem). It Kicks Back, Gets In The Way and Opposes Its Own Proper Function (Le Chatelier's Principle). Your own perspective becomes distorted by being In The System (Functionary's Fault). You become anxious and Push On It To Make It Work (Administrator's Anxiety). Eventually you come to believe that the misbegotten product it so grudgingly delivers is What You Really Wanted all the time (Systems-delusion). At that point, Encroachment has become complete. You have become absorbed. You are now a Systems-person."  
+--John Gall
+
+"Go with the flow. In human terms, this means working *with* human tendencies rather than against them. For example, a State-run lottery flourishes even in times of economic depression because its function is aligned with the basic human instinct to gamble a small stake in hopes of a large reward. The Public School System, on the other hand, although founded with the highest and most altruistic goals in mind, remains in a state of chronic failure because it violates the principle of spontaneity in human learning. It goes against the grain and therefore it does not ever really succeed. It has made literacy universal, but not truly popular."  
+--John Gall
+
+"With majestic disregard for man's plans and calculations..."  
+--John Gall
+
+"[T]he distinguishing mark of the resolute Systems-student is the determination to make the most of what can be done, given the limitations of reality."  
+--John Gall
+
+"[O]ne of the defining characteristics of true transformation is self redefinition....Indeed, rather than be swept away by life and force of habit, the individual can seize control of their life. They can fight against 'inevitability' and the idea of settling for whatever life hands them. We are either compliant with our seemingly preordained fate or we fight. We who choose to embrace the fight understand that life itself is a struggle and \[welcome\] it. Compliant living is mere existing. We want more--we want to improve our quality of life by methodically engaging in our parallel disciplines. Over time our practices will transform us."  
 --Marty Gallagher, *Strong Medicine* epilogue
 
 "The weak can never forgive; forgiveness is the attribute of the strong."  
@@ -882,9 +916,6 @@ And know the place for the first time.
 --Goethe
 
 "Enjoy when you can, and endure when you must."  
---Goethe
-
-"Be bold, and mighty forces will come to your aid."  
 --Goethe
 
 "If we do not create and control our environment, our environment creates and controls us."  
@@ -1161,6 +1192,9 @@ may God hold you in the palm of his hand."
 
 "The greatest happiness is to vanquish your enemies, to drive them before you, to rob them of their wealth, to see those dear to them bathed in tears, to clasp to your bosom their wives and daughters."  
 --Ghengis Khan
+
+"Be bold, and mighty forces will come to your aid."  
+--Basil King, referring to the divine, but can be true with regard to real higher powers
 
 "One has a moral responsibility to disobey unjust laws."  
 --Martin Luther King, Jr.
@@ -1889,6 +1923,9 @@ And yet, to me, what is this quintessence of dust?"
 
 "[W]e’ve misunderstood Frankenstein. The lesson is not that we shouldn’t try to create new technologies—or create life, even—the lesson is that we never abandon our creations. That’s what Dr. Frankenstein did. He saw the creation, it wasn’t like he expected it, and he abandoned it. That’s what turned his creature into a monster.”  
 --Michael Shellenberger
+
+"One of the joys of being born with a dick is that you can do whatever the hell you want and no one really cares."
+-Joel Stein, because no one pays attention
 
 "Socialism never took root in America because the poor see themselves not as an exploited proletariat, but as temporarily embarrassed millionaires."  
 --John Steinbeck
