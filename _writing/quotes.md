@@ -1214,6 +1214,9 @@ may God hold you in the palm of his hand."
 "A lie can not live."  
 --Martin Luther King, Jr.
 
+"Injustice anywhere is a threat to justice everywhere."  
+--Martin Luther King, Jr.
+
 "We strive for perfection and achieve excellence."  
 --Angela Kirkland (Nvidia interviewer)
 
@@ -1233,13 +1236,10 @@ may God hold you in the palm of his hand."
 --Lubomir Komarov quoting Eleanor Roosevelt
 
 "Don't fight the statistics."  
---Me
 
 "Many know what to think; few know how to think. Every one has answers; few know how to ask the right questions."  
---Me
 
 "[[Musk quote](#musk)] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb. #staywithit"  
---Me
 
 "You have to surrender to the fact that you are of too many in a highly competitive field where it is difficult to stand out. Over time, through your work, you will demonstrate who you are and what you bring to the field. Just stay with it and keep working."   
 --Lisa Kudrow
