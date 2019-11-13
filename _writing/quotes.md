@@ -2001,6 +2001,9 @@ If I had to relive my life I would be even more stubborn and uncompromising than
 "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived."  
 --Henry David Thoreau
 
+"So little pains do the vulgar take in the investigation of truth, accepting readily the first story that comes to hand."  
+--Thucydides (anticipating Fox News)
+
 "The whole earth is the sepulchre of famous men; they are honoured not only by columns and inscriptions in their own land, but in foreign nations on memorials graven not on stone but in the hearts and minds of men."  
 --Thucydides
 
