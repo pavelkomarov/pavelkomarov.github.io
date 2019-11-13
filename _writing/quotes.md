@@ -836,6 +836,7 @@ And know the place for the first time.
 &emsp;&emsp;&emsp;We need to know if setting up Management by Objectives in the Universities will bring on another Dark Age; if placing a microphone in the Oval Office can bring down the government; if permitting men and women everywhere the freedom to choose their own way of life and to make their own decisions can lead to a better world. For such questions your run-of-the-mill expert is of little value. What is required is a special, elusive talent, really an intuition--a feel for the wild, wierd, wonderful, and paradoxical ways of Large Systems. We offer no formula for recognizing or cultivating such a talent. But we suggest that its possessor will, more likely than not, have cut his/her eyeteeth on the Axioms of General Systemantics."  
 --John Gall
 
+<a class="anchor" id="systemantics"></a>
 "Systems are seductive. They promise to do a hard job faster, better, and more easily than you could do it yourself. But if you set up a System, you are likely to find your time and effort now being consumed in the care and feeding of the System itself. New Problems are created by its very presence (Fundamental Theorem). Once set up, it won't Go Away; it Grows and Encroaches (Laws of Growth). It begins to do Strange and Wonderful Things (Generalized Uncertainty Principle) and Breaks Down in Ways You Never Thought Possible (Fundamental Failure Theorem). It Kicks Back, Gets In The Way and Opposes Its Own Proper Function (Le Chatelier's Principle). Your own perspective becomes distorted by being In The System (Functionary's Fault). You become anxious and Push On It To Make It Work (Administrator's Anxiety). Eventually you come to believe that the misbegotten product it so grudgingly delivers is What You Really Wanted all the time (Systems-delusion). At that point, Encroachment has become complete. You have become absorbed. You are now a Systems-person."  
 --John Gall
 
@@ -1882,6 +1883,9 @@ And yet, to me, what is this quintessence of dust?"
 
 "[The Wire] is a treatise on the end of the American Empire and who we are as a people, what we've come to, and why we can no longer solve or even seriously address our own problems."  
 --David Simon
+
+"We have a saying, my people: Don’t kill if you can wound, don’t wound if you can subdue, don’t subdue if you can pacify, and don’t raise your hand at all until you’ve first extended it."  
+--Gail Simone
 
 "Eccentricity is not, as dull people would have us believe, a form of madness. It is often a kind of innocent pride, and the man of genius and the aristocrat are frequently regarded as eccentrics because genius and aristocrat are entirely unafraid of and uninfluenced by the opinions and vagaries of the crowd."  
 --Edith Sitwell
