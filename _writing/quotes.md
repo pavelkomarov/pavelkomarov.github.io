@@ -294,7 +294,6 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "Nobody realizes that some people expend tremendous energy merely to be normal."   
 --Albert Camus
-
 "On this earth there are pestilences, and there are victims. And it's up to us, so far as possible, not to join forces with the pestilences."  
 --Albert Camus
 
@@ -310,7 +309,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Say what you want about America--land of the free, home of the brave--; we've got some dumb-ass motherfuckers floating around this country. Dumb-ass motherfuckers. Now obviously that doesn't include this audience. I understand that. You seem intelligent and perceptive, but the rest of them? Holy jumping fucking shit balls. Dumber than a second coat of paint."  
 --George Carlin
 
-"Google in the words auto-erotic asphyxia. Auto-erotic asphyxia. It's the practise of cutting off the oxygen to the brain at the last moment during masturbation in order to heighten the orgasm. And when I say common, 1000 kids a year die this way. Okay? 1000 of them die. So think how many of them are trying to pull this off, if you pardon the little pun that I throw in there. It's just to, just to lighten the mood. . . . So let's recap: Standing on a chair, rope around your neck, Peter in your hand. Now you have to time it just right so that just before you cum you almost die. And sometimes you miscalculate."  
+"Google in the words auto-erotic asphyxia. Auto-erotic asphyxia. It's the practice of cutting off the oxygen to the brain at the last moment during masturbation in order to heighten the orgasm. And when I say common, 1000 kids a year die this way. Okay? 1000 of them die. So think how many of them are trying to pull this off, if you pardon the little pun that I throw in there. It's just to, just to lighten the mood. . . . So let's recap: Standing on a chair, rope around your neck, Peter in your hand. Now you have to time it just right so that just before you cum you almost die. And sometimes you miscalculate."  
 --George Carlin
 
 "We do think in language, and so the quality of our thoughts and ideas can only be as good as the quality of our language."  
@@ -353,9 +352,6 @@ It's how a soldier thinks. A scientist wouldn't understand."
 --Winston Churchill
 
 "You have enemies? Good. That means you've stood up for something at least once in your life."  
---Winston Churchill
-
-"Never, never, never, never give up."  
 --Winston Churchill
 
 "Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."  
