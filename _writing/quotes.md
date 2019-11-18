@@ -130,6 +130,10 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."  
 --Anonymous
 
+"Transire suum pectus mundoque potiri"  
+(Rise above oneself and grasp the world)  
+--Archimedes
+
 "It is the mark of an educated mind to be able to entertain a thought without accepting it."  
 --Aristotle
 
