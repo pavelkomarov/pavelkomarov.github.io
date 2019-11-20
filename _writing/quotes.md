@@ -130,6 +130,10 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."  
 --Anonymous
 
+"Transire suum pectus mundoque potiri"  
+(Rise above oneself and grasp the world)  
+--Archimedes
+
 "It is the mark of an educated mind to be able to entertain a thought without accepting it."  
 --Aristotle
 
@@ -294,7 +298,6 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "Nobody realizes that some people expend tremendous energy merely to be normal."   
 --Albert Camus
-
 "On this earth there are pestilences, and there are victims. And it's up to us, so far as possible, not to join forces with the pestilences."  
 --Albert Camus
 
@@ -310,7 +313,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Say what you want about America--land of the free, home of the brave--; we've got some dumb-ass motherfuckers floating around this country. Dumb-ass motherfuckers. Now obviously that doesn't include this audience. I understand that. You seem intelligent and perceptive, but the rest of them? Holy jumping fucking shit balls. Dumber than a second coat of paint."  
 --George Carlin
 
-"Google in the words auto-erotic asphyxia. Auto-erotic asphyxia. It's the practise of cutting off the oxygen to the brain at the last moment during masturbation in order to heighten the orgasm. And when I say common, 1000 kids a year die this way. Okay? 1000 of them die. So think how many of them are trying to pull this off, if you pardon the little pun that I throw in there. It's just to, just to lighten the mood. . . . So let's recap: Standing on a chair, rope around your neck, Peter in your hand. Now you have to time it just right so that just before you cum you almost die. And sometimes you miscalculate."  
+"Google in the words auto-erotic asphyxia. Auto-erotic asphyxia. It's the practice of cutting off the oxygen to the brain at the last moment during masturbation in order to heighten the orgasm. And when I say common, 1000 kids a year die this way. Okay? 1000 of them die. So think how many of them are trying to pull this off, if you pardon the little pun that I throw in there. It's just to, just to lighten the mood. . . . So let's recap: Standing on a chair, rope around your neck, Peter in your hand. Now you have to time it just right so that just before you cum you almost die. And sometimes you miscalculate."  
 --George Carlin
 
 "We do think in language, and so the quality of our thoughts and ideas can only be as good as the quality of our language."  
@@ -353,9 +356,6 @@ It's how a soldier thinks. A scientist wouldn't understand."
 --Winston Churchill
 
 "You have enemies? Good. That means you've stood up for something at least once in your life."  
---Winston Churchill
-
-"Never, never, never, never give up."  
 --Winston Churchill
 
 "Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."  
@@ -931,7 +931,7 @@ And know the place for the first time.
 "A great engineer is someone who knows a little about a lot and a lot about a little."  
 --Google Developer's Ph.D. Advisor
 
-"Explore your passions and discover new ones by getting involved. Stretch your boundaries and you’ll be surprised at what you can achieve."  
+"Stretch your boundaries and you’ll be surprised at what you can achieve."  
 --Google
 
 "Think of an experience from your childhood. Something you remember clearly, something you can  see, feel, maybe even smell, as if you were really there. After all, you really were there at the time,  weren't you? How else would you remember it? But here is the bombshell: you weren't there. Not a single atom that is in your body today was there when that event took place ... Matter flows from place to place and momentarily comes together to be you. Whatever you are, therefore, you are not the stuff of which you are made. If that doesn't make the hair stand up on the back of your neck, read it again until it does, because it is important.  
@@ -1312,6 +1312,15 @@ may God hold you in the palm of his hand."
 
 "He [Fred Rogers] interviewed me. And he put his face about three inches away from my face, says 'It's so nice to see you and to be with you.' It scared the living daylights out of me. But I realized this is what children do with adults."  
 --Yo-Yo Ma
+
+"[M]en ought either to be well treated or crushed, because they can avenge themselves of lighter injuries, of more serious ones they can not; therefore the injury that is to be done to a man ought to be of such a kind that one does not stand in fear of revenge."  
+-Niccolo Machiavelli
+
+"The Romans did in these instances what all prudent princes ought to do, who have to regard not only present troubles, but also future ones, for they must prepare with every energy, because, when foreseen, it is easy to remedy them; but if you wait until they approach, the medicine is no longer in time, because the malady has become incurable; for it happens in this as the physicians say it happens in hectic fever, that in the beginning of the malady it is easy to cure but difficult to detect, but in the course of time, not having been either detected or treated in the beginning, it becomes easy to detect but difficult to cure."  
+--Niccolo Machiavelli
+
+"[N]or did that ever please [the Romans] which is forever in the mouths of the wise ones of our time: 'Let us enjoy the benefits of the time', but rather the benefits of their own valor and prudence, for time drives everything before it, and is able to bring with it good as well as evil, and evil as well as good."  
+--Niccolo Machiavelli
 
 "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."   
 --Nelson Mandela
