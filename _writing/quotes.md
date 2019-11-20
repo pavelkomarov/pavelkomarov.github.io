@@ -820,6 +820,9 @@ And know the place for the first time.
 "If any intellectual tool offers hope of providing some degree of active mastery of systems, this [reframing] is it."  
 --John Gall
 
+"The thing about Bugs, Glitches, or Gremlins is that we really don't want to know about them, we just want them to Go Away. Studying Bugs for their own sake has all the charm of studying how the paint cracks on an Old Master or how many ways a typewriter key can stick. We don't want to know all that. We just want our Systems to work as smoothly in real life as they did in our fantasies."  
+--John Gall
+
 "When Reframing is complete, the Problem is not 'solved'--it doesn't even exist any more. There is no longer any Problem to discuss, let alone a Solution [(which may cause its own consequences and problems)]. [Or, the Problem can be transformed to something more tractable.] In the fleeting moment of transition from the old Model to the New [(Paradigm Shift)], one has a brief opportunity to realize consciously what most of us seldom think about, namely, that labels such as ['crime', 'oppressor', 'socialism', etc.] are *artefacts of terminology*, not permanent attributes of the Universe or of Human Nature. With that awareness we are no longer locked into models that offer no solution. We are free to seek out ever more appropriate Models of the Universe."  
 --John Gall
 
@@ -1651,6 +1654,9 @@ He truly embodied the principles of being genuinely interested in other people, 
 
 "A conservative is a man with two perfectly good legs who, however, has never learned to walk forward."  
 --Franklin Delano Roosevelt
+
+"It is hard to fail, but it is worse never to have tried to succeed."  
+--Theodore Roosevelt
 
 "The follies which a man regrets most, in his life, are those which he didn't commit when he had the opportunity."  
 --Helen Rowland
