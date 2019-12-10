@@ -1,5 +1,0 @@
----
----
-/* Jekyll's liquid engine doesn't run on files that don't have frontmatter, so add dummy dashes. */
-{% include bootstrap.min.css %}
-{% include agency.css %} /* by putting agency after bootstrap, agency overrides bootstrap */

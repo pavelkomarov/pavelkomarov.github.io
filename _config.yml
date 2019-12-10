@@ -1,6 +1,5 @@
 title: Pavel's Site
 description: A place for things I write and projects I've worked on
-baseurl: "" # the subpath of your site from root folder, e.g. /blog
 url: "pavelkomarov.github.io" # the base hostname & protocol for your site
 
 # Build settings

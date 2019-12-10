@@ -164,23 +164,12 @@ ul.social-buttons li a:hover {
 }
 
 
-/* footer */
-footer {
-	padding: 25px 0;
-	text-align: center;
-}
-
-footer span.copyright {
-	font-family: {{site.font.sans}};
-}
-
-
 /* welcome screen */
 .welcome {
 	height: 100vh; /* This section is adaptively exactly one screenheight tall. Pretty slick. */
 	background: lightgray; /* So if everything but the image loads a visitor can still see something */
 	background-attachment: fixed; /* alternatively this can "scroll" with the page" */
-	background-image: url('{{site.baseurl}}/theme/img/purple_stars.jpg');
+	background-image: url('purple_stars.jpg');
 	background-position: center center;
 	background-size: cover;
 	text-align: center;
@@ -261,7 +250,7 @@ footer span.copyright {
 /* contact form */
 section#contact {
 	background-color: #222;
-	background-image: url('{{site.baseurl}}/theme/img/map-image.png');
+	background-image: url('map-image.png');
 	background-position: center;
 	background-repeat: no-repeat;
 }
