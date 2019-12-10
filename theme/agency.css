@@ -84,7 +84,8 @@ h6 {
 	color: #{{site.color.secondary-dark}}
 }
 
-/* header */
+
+/* navbar */
 .navbar-toggler {
 	transition: all .3s;
 	color: #fff;
@@ -169,7 +170,7 @@ ul.social-buttons li a:hover {
 	height: 100vh; /* This section is adaptively exactly one screenheight tall. Pretty slick. */
 	background: lightgray; /* So if everything but the image loads a visitor can still see something */
 	background-attachment: fixed; /* alternatively this can "scroll" with the page" */
-	background-image: url('purple_stars.jpg');
+	background-image: url('purple_stars_light.jpg');
 	background-position: center center;
 	background-size: cover;
 	text-align: center;
@@ -191,6 +192,10 @@ ul.social-buttons li a:hover {
 	font-size: 40px;
 	font-style: italic;
 	line-height: 40px;
+}
+
+.hidden {
+	display: none;
 }
 
 @media(max-width:768px) {
