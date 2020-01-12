@@ -42,7 +42,6 @@ Jekyll converts your site in the following order:
 - `_includes` contains pieces of html and markdown that can be reused throughout the site, like the navbar.
 - `_layouts` contains overarching structures to be used by pages. These make use of components from `_includes`.
 - `projects/_posts` contains files named `YEAR-MO-DAY-title.md` which constitute project descriptions.
-- `theme` is where I have tried to put all the messy theme-specific css, scss, fonts, and javascript.
 
 ## Installation
 1. `sudo apt-get install ruby ruby-dev build-essential` if you do not have them already
