@@ -38,8 +38,6 @@ According to https://jekyllrb.com/tutorials/orderofinterpretation/:
 
 ## Structure
 - `_config.yaml` contains basic Jekyll configuration.
-- `_includes` contains pieces of html and markdown that can be reused throughout the site, like the navbar.
-- `_layouts` contains overarching structures to be used by pages. These make use of components from `_includes`.
 - `projects/_posts` contains files named `YEAR-MO-DAY-title.md` which constitute project descriptions.
 
 
