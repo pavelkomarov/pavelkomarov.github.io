@@ -1,7 +1,4 @@
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: pavelkomarov/pavel-theme
+remote_theme: pavelkomarov/hyde
 
 title: Pavel's Site
 description: A place for things I write and projects I've worked on
