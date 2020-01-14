@@ -20,22 +20,4 @@ include:  # kludgy solution: Jekyll ignores underscore-prepended folders at writ
   - _projects
 
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - icon: fab fa-facebook
-    url: https://www.facebook.com/hewhoiscalledpavel
-  - icon: fab fa-github
-    url: https://github.com/pavelkomarov
-  - icon: fab fa-linkedin
-    url: https://linkedin.com/pub/pavel-komarov/48/340/a28
-  - icon: fab fa-instagram
-    url: https://www.instagram.com/swamp_elf/
-  - icon: fab fa-stack-overflow
-    url: https://stackoverflow.com/users/story/2084503
-  - icon: fa fa-envelope
-    url: mailto:pvlkmrv@gmail.com
-  - icon: fa fa-file
-    url: https://pavelkomarov.com/assets/Resume%20abridged%202019-9-18.pdf
-  - icon: fab fa-flipboard
-    url: https://flipboard.com/@pavel_komarov/pavel%27s-favorites-78tpvu6pz
 
