@@ -36,7 +36,7 @@
 
 ## Structure
 - `_config.yaml` contains basic Jekyll configuration.
-- `projects/_posts` contains files named `YEAR-MO-DAY-title.md` which constitute project descriptions.
+- `_writing/` is a collections of not-repo-associated articles I've put together
 - `CNAME` (short for "custom domain name") is necessary so github's servers know where to forward queries.
 
 
