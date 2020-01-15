@@ -1,5 +1,6 @@
 plugins: # this is necessary to make it work locally
   - jekyll-remote-theme
+  - jekyll-tidy
 
 remote_theme: pavelkomarov/hyde
 
