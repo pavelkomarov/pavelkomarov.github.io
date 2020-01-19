@@ -9,7 +9,7 @@ img: quotation_mark.png
 
 {% assign alphabet = "ABCDEFGHIJKLMNOPRSTUVWXYZ" | split: "" %}
 {% for letter in alphabet %}
-<a href="#{{ letter }}">{{ letter }}</a>{% endfor %}
+<a class="page-scroll" href="#{{ letter }}">{{ letter }}</a>{% endfor %}
 
 <a class="anchor" id="A"></a>
 ### A
