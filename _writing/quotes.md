@@ -26,17 +26,17 @@ img: quotation_mark.png
 "superintelligent shades of the color blue"  
 --Douglas Adams
 
-“something almost, but not quite entirely unlike tea”   
+“something almost, but not quite entirely unlike tea”  
 --Douglas Adams
 
-“When you walk through the storm, hold your head high
-And don't be afraid of the dark!
-At the end of the storm is a golden sky
-And the sweet song of the lark.
-Walk on through the wind
-Walk on through the rain
-Though your dreams be tossed and blown
-Walk on, walk on, with hope in your heart
+“When you walk through the storm, hold your head high  
+And don't be afraid of the dark!  
+At the end of the storm is a golden sky  
+And the sweet song of the lark.  
+Walk on through the wind  
+Walk on through the rain  
+Though your dreams be tossed and blown  
+Walk on, walk on, with hope in your heart  
 And you'll never walk alone!”  
 --Douglas Adams
 
@@ -53,11 +53,11 @@ And you'll never walk alone!”
 The second worst is that of the Azgoths of Kria. During a recitation by their poet master Grunthos the Flatulent of his poem "Ode to a Small Lump of Green Putty I Found in My Armpit One Midsummer Morning" four of his audience died of internal haemorrhaging, and the president of the Mid-Galactic Arts Nobbling Council survived by gnawing one of his own legs off. Grunthos was reported to have been "disappointed" by the poem's reception, and was about to embark on a reading of his 12-book epic entitled "My Favourite Bathtime Gurgles" when his own major intestine, in a desperate attempt to save humanity, leapt straight up through his neck and throttled his brain."  
 --Douglas Adams
 
-“Now it is such a bizarrely improbable coincidence that anything so mind-bogglingly useful could have evolved purely by chance that some thinkers have chosen to see it as the final and clinching proof of the non-existence of God.
-The argument goes something like this: "I refuse to prove that I exist," says God, "for proof denies faith, and without faith I am nothing."
-"But," says Man, "The Babel fish is a dead giveaway, isn't it? It could not have evolved by chance. It proves you exist, and so therefore, by your own arguments, you don't. QED."
-"Oh dear," says God, "I hadn't thought of that," and promptly vanishes in a puff of logic.
-"Oh, that was easy," says Man, and for an encore goes on to prove that black is white and gets himself killed on the next zebra crossing.”  
+“Now it is such a bizarrely improbable coincidence that anything so mind-bogglingly useful could have evolved purely by chance that some thinkers have chosen to see it as the final and clinching proof of the non-existence of God.  
+&emsp;&emsp;&emsp;The argument goes something like this: "I refuse to prove that I exist," says God, "for proof denies faith, and without faith I am nothing."  
+&emsp;&emsp;&emsp;"But," says Man, "The Babel fish is a dead giveaway, isn't it? It could not have evolved by chance. It proves you exist, and so therefore, by your own arguments, you don't. QED."  
+&emsp;&emsp;&emsp;"Oh dear," says God, "I hadn't thought of that," and promptly vanishes in a puff of logic.  
+&emsp;&emsp;&emsp;"Oh, that was easy," says Man, and for an encore goes on to prove that black is white and gets himself killed on the next zebra crossing.”  
 --Douglas Adams
 
 "I love deadlines. I love the wooshing sound they make as they go by."  
@@ -131,7 +131,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 --Anonymous
 
 "Transire suum pectus mundoque potiri"  
-(Rise above oneself and grasp the world)  
+"Rise above oneself and grasp the world"
 --Archimedes
 
 "It is the mark of an educated mind to be able to entertain a thought without accepting it."  
@@ -455,8 +455,8 @@ So do it."
 "Nothing in life is to be feared; it is only to be understood."  
 --Marie Curie
 
-"Co je na srdci je na dlani."
-"What is on the heart is on the palm of your hand."
+"Co je na srdci je na dlani."  
+"What is on the heart is on the palm of your hand."  
 --Czech Proverb, according to Babi
 
 <a class="anchor" id="D"></a>
@@ -1186,7 +1186,7 @@ may God hold you in the palm of his hand."
 --John F. Kennedy
 
 "Victory has a hundred fathers; defeat is an orphan."  
---JFK
+--John F. Kennedy
 
 "How can I adopt a creed which, preferring the mud to the fish, exalts the boorish proletariat above the bourgeoisie and the intelligentsia, who with all their faults, are the quality of life and surely carry the seeds of all human achievement?"  
 --John Maynard Keynes
@@ -1240,10 +1240,10 @@ may God hold you in the palm of his hand."
 --Lubomir Komarov quoting Eleanor Roosevelt
 
 "Don't fight the statistics."  
-
-"Many know what to think; few know how to think. Every one has answers; few know how to ask the right questions."  
+--motto of mine
 
 "[[Musk quote](#musk)] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb. #staywithit"  
+--a favorite post of mine
 
 "You have to surrender to the fact that you are of too many in a highly competitive field where it is difficult to stand out. Over time, through your work, you will demonstrate who you are and what you bring to the field. Just stay with it and keep working."   
 --Lisa Kudrow
@@ -1271,9 +1271,6 @@ may God hold you in the palm of his hand."
 
 "A lie told often enough becomes the truth."  
 --Vladimir Lenin
-
-"I went into a McDonald's yesterday and said, 'I'd like some fries.' The girl at the counter said, 'Would  you like some fries with that?'"  
---Jay Leno
 
 "It was on my fifth birthday that Papa put his hand on my shoulder and said, 'Remember, my son, if you ever need a helping hand, you'll find one at the end of your arm.'"   
 --Sam Levenson
@@ -1412,6 +1409,9 @@ But nothing happened every time I tried"
 "Religion is what keeps the poor from murdering the rich."  
 --Napoleon
 
+"Quantity has a quality all its own."
+--Napoleon
+
 "Where the heart leads, the mind can follow."  
 --Maajid Nawaz
 
@@ -1447,7 +1447,7 @@ But nothing happened every time I tried"
 --Nostradamus
 
 "Honestly, man, there are few guarantees in life, but if you intend or expect to have a bad time, it's guaranteed you will. That's really all I've got to say about it."  
--Austin Randolph Matthew Nova
+--Austin Randolph Matthew Nova
 
 "The intellectual wants the whole society to be a school writ large, to be like the environment where he did so well and was so well appreciated. By incorporating standards of reward that are different from the wider society, the schools guarantee that some will experience downward mobility later. Those at the top of the school’s hierarchy will feel entitled to a top position, not only in that micro-society but in the wider one, a society whose system they will resent when it fails to treat them according to their self-prescribed wants and entitlements."  
 --[Robert Nozick](https://www.libertarianism.org/publications/essays/why-do-intellectuals-oppose-capitalism)
@@ -1779,7 +1779,7 @@ He truly embodied the principles of being genuinely interested in other people, 
 "As you grow older, you'll find the only things you regret are the things you didn't do."  
 --Zachary Scott
 
-"He who looks for advantage our of friendship strips it all of its nobility."  
+"He who looks for advantage out of friendship strips it all of its nobility."  
 --Seneca the Elder
 
 "Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful."  
@@ -1931,7 +1931,7 @@ And yet, to me, what is this quintessence of dust?"
 "Wisdom is the chief element in happiness."  
 --Sophocles
 
-"Emotion, which is suffering, ceases to be suffering as soon as we form a clear and precise picture of it."
+"Emotion, which is suffering, ceases to be suffering as soon as we form a clear and precise picture of it."  
 --Spinoza, as translated by Viktor Frankel
 
 "Aaron [Swartz] believed that you literally ought to be asking yourself all of the time 'What is the most important thing I could be working on in the world right now?' And if you're not working on that, why aren't you?"  
@@ -1943,8 +1943,8 @@ And yet, to me, what is this quintessence of dust?"
 "[W]e’ve misunderstood Frankenstein. The lesson is not that we shouldn’t try to create new technologies—or create life, even—the lesson is that we never abandon our creations. That’s what Dr. Frankenstein did. He saw the creation, it wasn’t like he expected it, and he abandoned it. That’s what turned his creature into a monster.”  
 --Michael Shellenberger
 
-"One of the joys of being born with a dick is that you can do whatever the hell you want and no one really cares."
--Joel Stein, because no one pays attention
+"One of the joys of being born with a dick is that you can do whatever the hell you want and no one really cares." [pays attention]  
+--Joel Stein
 
 "Socialism never took root in America because the poor see themselves not as an exploited proletariat, but as temporarily embarrassed millionaires."  
 --John Steinbeck
@@ -1953,7 +1953,7 @@ And yet, to me, what is this quintessence of dust?"
 --Harriet Beecher Stowe, Little Foxes, 1865
 
 "If you don't build your dream, then someone else will hire you to help build theirs."  
---Sulibreezy https://www.youtube.com/watch?feature=player_embedded&v=y_ZmM7zPLyI
+--[Sulibreezy](https://www.youtube.com/watch?feature=player_embedded&v=y_ZmM7zPLyI)
 
 "Underlying our approach to this subject is our conviction that 'computer science' is not a science and that its significance has little to do with computers. The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called *procedural epistemology*--the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects. Mathematics provides a framework for dealing precisely with notions of 'what is'. Computation provides a framework for dealing precisely with notions of 'how to'."  
 --Gerald and Julie Sussman, Harold Abelson (Structure and Interpretation of Computer Programs)
@@ -1968,7 +1968,7 @@ And yet, to me, what is this quintessence of dust?"
 ### T
 
 "I hesitate to give advice because every major single piece of advice I was given turned out to be wrong and I am glad I didn’t follow them. I was told to focus and I never did. I was told to never procrastinate and I waited 20 years for the Black Swan and it sold 3 million copies. I was told to avoid putting fictional characters in my books and I did put in Nero Tulip and Fat Tony because I got bored otherwise. I was told to not insult the New York Times and the Wall Street Journal, the more I insulted them the nicer they were to me and solicit Op-Eds. I was told to avoid lifting weights for a back pain and became a weightlifter: never had a back problem since.  
-If I had to relive my life I would be even more stubborn and uncompromising than I have been. One should never do anything without skin in the game. If you give advice, you need to be exposed to losses from it."  
+&emsp;&emsp;&emsp;If I had to relive my life I would be even more stubborn and uncompromising than I have been. One should never do anything without skin in the game. If you give advice, you need to be exposed to losses from it."  
 --Nassim Nicholas Taleb
 
 "We live in a stage of politics where legislators seem to regard the passage of laws as much more important than the results of their enforcement."  
@@ -2411,13 +2411,6 @@ Always forgive your enemies--nothing annoys them so much.
 --Emiliano Zapata
 
 "Life is trouble. Only Death is not. To be alive is to undo your belt and look for trouble!"  
---[Alexis Zorba](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
-
-"Now I look at a man, any man, and I say 'He is good. He is bad.' ... Good or bad--what is the difference? They all end up the same way."  
---[Alexis Zorba](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
-
-"You don't understand."  
-"Understand what? I understand you're young and full of energy, and I don't understand what what the hell you are doing with it."  
 --[Alexis Zorba](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
 
 "On a deaf man's door, you can knock forever."  
