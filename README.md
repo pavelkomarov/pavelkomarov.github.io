@@ -4,18 +4,18 @@
 ## Getting started on a new machine
 
 1. `sudo apt install ruby`
-2. `gem install jekyll` Doesn't work due to environment variables?  
-	`echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc`  
-	`echo 'export GEM_HOME=$HOME/gems' >> ~/.bashrc`  
-	`echo 'export PATH=$HOME/gems/bin:$PATH' >> ~/.bashrc`  
-	`source ~/.bashrc`  
-	Still doesn't work due to build errors?  
-	`sudo apt install ruby-dev`  
-	Still doesn't work?  
-	`sudo apt install g++`  
-`gem` is a package manager much like `pip`. They're going to tell you to use `bundler`, but I honestly think that shit is confusing, and it's hung on me before with no good explanation.
-3. Pay attention to where the gems were installed, and make a symlink with `ln -s /var/..path/jekyll /usr/bin/jekyll` so you can just call `jekyll` from command line.
-4. `gem install github-pages` should pull down and install basically everything gh-pages uses to render stuff, including `jekyll-remote-theme`
+2. Installing gems doesn't work due to environment variables?  
+  ```bash
+  echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+  echo 'export GEM_HOME=$HOME/gems' >> ~/.bashrc
+  echo 'export PATH=$HOME/gems/bin:$PATH' >> ~/.bashrc
+  source ~/.bashrc
+  ```
+  Still doesn't work due to build errors? `sudo apt install ruby-dev`  
+  Still doesn't work? `sudo apt install g++`  
+  `gem` is a package manager much like `pip`. They're going to tell you to use `bundler`, but I honestly think it's more confusion than it's worth. It's hung on me before with no good explanation.
+3. `gem install github-pages` should pull down and install basically everything gh-pages uses to render stuff, including `jekyll` and `jekyll-remote-theme`
+4. Pay attention to where the gems were installed, and make a symlink with `ln -s /var/..path/jekyll /usr/bin/jekyll` so you can just call `jekyll` from command line.
 5. `jekyll serve` from the site's root directory, and visit it at `localhost:4000` in a browser.
 
 
