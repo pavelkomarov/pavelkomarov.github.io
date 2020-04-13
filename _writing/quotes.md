@@ -1111,6 +1111,9 @@ may God hold you in the palm of his hand."
 <a class="anchor" id="J"></a>
 ### J
 
+"It is easier to act your way to a new way of thinking than to think your way to a new way of acting."
+--distillation of the ['act as if' principle from William James](https://books.google.com/books?id=IBrykBRv2B4C&pg=PA100&lpg=PA100&dq=it+is+easier+to+act+your+way+to+a+new+way+of+thinking+than+to+think+your+way+to+a+new+way+of+acting+william+james&source=bl&ots=SSIpVUJz4Z&sig=ACfU3U2PCpi9jxvhLaCatbTrJ4gW7_arSQ&hl=en&sa=X&ved=2ahUKEwio7dyM0OToAhVB2qwKHVP9DOAQ6AEwAHoECBIQLA#v=onepage&q=it%20is%20easier%20to%20act%20your%20way%20to%20a%20new%20way%20of%20thinking%20than%20to%20think%20your%20way%20to%20a%20new%20way%20of%20acting%20william%20james), first stated to me by Ken "Roberts" Pennacchini
+ 
 "Shake off all the fears of servile prejudices, under which weak minds are servilely crouched. Fix reason firmly in her seat, and call on her tribunal for every fact, every opinion. Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason than that of blindfolded fear."
 --Thomas Jefferson
 
@@ -1436,7 +1439,7 @@ But nothing happened every time I tried"
 --Neutral Milk Hotel (In The Aeroplane Over The Sea) 
 
 "Tact is the art of making a point without making an enemy."  
---Isaac Newton
+--[Howard Newton](https://quoteinvestigator.com/2018/07/18/tact/)
 
 "I can calculate the movement of the stars, but not the madness of men."  
 --Isaac Newton (after losing a fortune in the South Sea bubble)
