@@ -135,7 +135,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 --Archimedes
 
 "It is the mark of an educated mind to be able to entertain a thought without accepting it."  
---Aristotle
+--misattributed to Aristotle
 
 "The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' (I  found it!) but 'That's funny ...'"  
 --Isaac Asimov
@@ -197,6 +197,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Logic: The art of thinking and reasoning in strict accordance with the limitations and incapacities of the human misunderstanding."  
 --Ambrose Bierce
 
+"No man can change the nature of another."  
+--Chuck, *Billions*
+
 "Everything is a branch of comedy now. Everybody is a comedian. Everything is subversive. And I find that very tiresome."  
 --John Bird
 
@@ -226,6 +229,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "There is just one thing I can promise you about the outer-space program: your tax-dollar will go further."  
 --Wernher von Braun
+
+"[T]he reason why Trump was elected, and the reason why there is such incredible polarization in society right now, is because the top 10% of earners in the United States have been so focused on ensuring that they not only maintain but also extend their privilege. And for me the scandal that really summarized all of this was Varsity Blues and all of these very wealthy people that were doing everything possible to ensure that their kids--not deservant--found a way to get in to those best schools. And when I saw that Greenwich Connecticut, that *50%* of high schoolers taking the SAT out of Greenwich had, uh, letters from doctors that allowed them to take it with no time restrictions, unmonitored--that-that's not just rigged; I mean, that is *the* system. That's structural. That's: if you have any capacity, that's what you're gonna do. And-and I think that comes in every shape and every form, but we know what it's about."  
+-[Ian Bremmer, *Real Time with Bill Maher*, May 29th 2020](https://www.youtube.com/watch?v=N8a78lMXmAE&t=5m31s)
 
 "But the whirlwind [war] is empty: horse or tank, Gengis Khan or Hitler or Stalin, it can only feed on the labours of other men."  
 --Jacob Bronowski
@@ -333,6 +339,18 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "Most people never have to face the fact that at the right time in the right place they're capable of anything."  
 --[Noah Cross](https://en.wikipedia.org/wiki/Chinatown_(1974_film))
+
+"Son, some times you have to be a lion so you can be the lamb you really are."  
+--Dave Chappelle's mom
+
+"Fear does not make lasting peace."  
+--Dave Chappelle
+
+"That's a brittle spirit."  
+--Dave Chappelle, *The Bird Revelation*
+
+"The only difference between a poor black person and a poor white person is that a poor white person feels like it's not supposed to be happening to them."  
+--Dave Chappelle
 
 "Governments are power systems. They are trying to sustain their power and domination over their populations, and they will use what means are available to do this."  
 --Noam Chomsky
@@ -1013,8 +1031,11 @@ track one down, patch it around,
 "I like rice. Rice is great if you're hungry and want 2000 of something."  
 --Mitch Hedberg
 
+A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.  
+--Robert Heinlein, *Time Enough for Love*
+
 "The enemy is anybody who's going to get you killed, no matter which side he's on."  
---Joseph Heller
+--Joseph Heller, *Catch 22*
 
 "Cynicism is an unpleasant way of saying the truth."  
 --Lillian Hellman
@@ -1276,6 +1297,9 @@ may God hold you in the palm of his hand."
 "A lie told often enough becomes the truth."  
 --Vladimir Lenin
 
+"...it makes me think about how we use language to understand the world around us. ...[T]he name of a boat is just a word that we've invented to make this world easier to compute in our heads. We separate everything that we can see or experience in to tiny little squares that we can label. And that helps us make predictions and communicate about what's going on and so on. Uh, but the reality isn't like that; the world isn't made up of separate things. It's all just a big mass of gloop. And even if you look at it scientifically, it's very hard to make the distinction between, uh, separate people and objects. As a person I am constantly interacting [with] and part of my environment, both through sight and hearing and breathing and eating and--And at what point does that air or that food, uh, become part of me? And at what point is it part of the environment? And I guess my point here is that by thinking about this we can learn something deeper about our interaction with the world around us. And that is that we can choose to separate things in our minds and consider ourselves as separate from our environment, or we can consider that these labels that we make are not necessarily the ultimate reality of life."  
+--[Leo](https://www.youtube.com/watch?v=tW15VnkEmQ0&t=11m10s) on the [Ship of Theseus]https://en.wikipedia.org/wiki/Ship_of_Theseus)
+
 "It was on my fifth birthday that Papa put his hand on my shoulder and said, 'Remember, my son, if you ever need a helping hand, you'll find one at the end of your arm.'"   
 --Sam Levenson
 
@@ -1314,6 +1338,9 @@ may God hold you in the palm of his hand."
 "He [Fred Rogers] interviewed me. And he put his face about three inches away from my face, says 'It's so nice to see you and to be with you.' It scared the living daylights out of me. But I realized this is what children do with adults."  
 --Yo-Yo Ma
 
+"Mountains...challenge our arrogance, restore our wonder. More than ever we need their wildness."  
+--Robert MacFarlane, *Mountain (2017)*
+
 "[M]en ought either to be well treated or crushed, because they can avenge themselves of lighter injuries, of more serious ones they can not; therefore the injury that is to be done to a man ought to be of such a kind that one does not stand in fear of revenge."  
 -Niccolo Machiavelli
 
@@ -1323,7 +1350,7 @@ may God hold you in the palm of his hand."
 "[N]or did that ever please [the Romans] which is forever in the mouths of the wise ones of our time: 'Let us enjoy the benefits of the time', but rather the benefits of their own valor and prudence, for time drives everything before it, and is able to bring with it good as well as evil, and evil as well as good."  
 --Niccolo Machiavelli
 
-"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."   
+"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."  
 --Nelson Mandela
 
 "There is no passion to be found playing small, in settling for a life that is less than the one you are capable of living."  
@@ -1345,6 +1372,9 @@ Often satirized as "Smile because it's over; cry because it happened."
 
 "Last words are for fools who haven't said enough."  
 --Karl Marx
+
+"They say that human nature is competitive, that human nature is aggressive, that human nature is selfish. It's just the opposite. Human nature's actually cooperative. Human nature's actually generous. Human nature's actually community-minded."  
+--[Gabor Maté](https://www.youtube.com/watch?v=66cYcSak6nE&t=17m50s)
 
 "You only get in trouble for telling the truth. Nobody gets in trouble for lying or making up crap. But when you tell something that's really true, they go crazy, and you're fired."  
 --Chris Matthews
@@ -1375,6 +1405,9 @@ But nothing happened every time I tried"
 
 "Despair is a development of pride so great that it chooses one's certitude rather than admit God is more creative than we are."  
 --Thomas Merton, as paraphrased in [First Reformed](https://en.wikipedia.org/wiki/First_Reformed)
+
+"I think that a guy who's always interested in the condition of the world and changing it either has no problems of his own or refuses to face them."  
+--Henry Miller, *Reds (1981)*
 
 "Understanding the past enables us to see the present more clearly."  
 --Steven Mithen
@@ -1758,10 +1791,13 @@ He truly embodied the principles of being genuinely interested in other people, 
 --Carl Sagan
 
 "... someone able to speak the truth, a ... courageous and angry individual for whom no worldly power is too big and imposing to be criticised and pointedly taken to task. The real or true intellectual is therefore always an outsider, living in self-imposed exile, and on the margins of society. He or she speaks to, as well as for, a public, necessarily in public, and is properly on the side of the dispossessed, the un-represented and the forgotten."  
-—Edward Saïd
+--Edward Saïd
 
 "If you want to build a ship, don't herd people together to collect wood, and don't assign them tasks and work, but teach them to long for the endless immensity of the sea."  
 --Antoine de Saint-Exupery
+
+"Well it's your world now. Have fun with empowerment. It seems to make everyone that gets it really happy."  
+--Rick Sanchez
 
 "Life is what happens to us while we are making other plans."  
 --Allen Saunders
@@ -1991,6 +2027,9 @@ And yet, to me, what is this quintessence of dust?"
 &emsp;&emsp;&emsp;If I had to relive my life I would be even more stubborn and uncompromising than I have been. One should never do anything without skin in the game. If you give advice, you need to be exposed to losses from it."  
 --Nassim Nicholas Taleb
 
+"So when we look at religion and, to some extent ancestral superstitions, we should consider what purpose they serve, rather than focusing on the notion of “belief”, epistemic belief in its strict scientific definition. In science, belief is literal belief; it is right or wrong, never metaphorical. In real life, belief is an instrument to do things, not the end product. This is similar to vision: the purpose of your eyes is to orient you in the best possible way, and get you out of trouble when needed, or help you find a prey at distance. Your eyes are not sensors aimed at getting the electromagnetic spectrum of reality. Their job description is not to produce the most accurate scientific representation of reality; rather the most useful one for survival."  
+--Nassim Nicholas Taleb, *Skin in the Game*
+
 "We live in a stage of politics where legislators seem to regard the passage of laws as much more important than the results of their enforcement."  
 --William Taft
 
@@ -2078,7 +2117,8 @@ And yet, to me, what is this quintessence of dust?"
 "Better to keep your mouth shut and appear stupid than to open it and remove all doubt."  
 --Mark Twain
 
-"It's easier to fool people than it is to convince them they have been fooled."  
+"How easy it is to make people believe a lie, and how hard it is to undo that work again!”  
+Often paraphrased as: "It is easier to fool people than to convince them they have been fooled."  
 --Mark Twain
 
 "Facts are true whether or not you believe them."  
