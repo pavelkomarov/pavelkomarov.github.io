@@ -7,6 +7,8 @@ img: quotation_mark.png
 ---
 ## Favorite Quotations
 
+I've tried to make these as accurate as I can, but I'm sure there are still misattributions and errors. The point is each one has been uniquely meaningful or interesting or funny in some way at some point. May they guide you as well.
+
 {% assign alphabet = "ABCDEFGHIJKLMNOPRSTUVWXYZ" | split: "" %}
 {% for letter in alphabet %}
 <a class="page-scroll" href="#{{ letter }}">{{ letter }}</a>{% endfor %}
@@ -66,22 +68,22 @@ The second worst is that of the Azgoths of Kria. During a recitation by their po
 "The ships hung in the sky in much the same way that bricks don't."  
 --Douglas Adams
 
-"You talked to it?" exclaimed Ford. "What do you mean you talked to it?" "Simple. I got very bored and depressed, so I went and plugged myself in to its extermal computer feed. I talked to the computer at great length and explained my view of the Universe to it," said Marvin. "And what happened?" pressed Ford. "it commited suicide," said Marvin, and stalked off back to the Heart of Gold."  
+"'You talked to it?' exclaimed Ford. 'What do you mean you talked to it?' 'Simple. I got very bored and depressed, so I went and plugged myself in to its extermal computer feed. I talked to the computer at great length and explained my view of the Universe to it,' said Marvin. 'And what happened?' pressed Ford. 'it commited suicide,' said Marvin, and stalked off back to the Heart of Gold."  
 --Douglas Adams
 
-"Yes I passed on your message to Mr. Zarniwoop, but I'm afraid he's too cool to see you right now." "Look," said Zaphod, "I'm up to here with cool, okay? I am so amazingly cool you could keep a side of meat in me for a month. I am so hip I have difficulty seeing over my pelvis."  
+"'Yes I passed on your message to Mr. Zarniwoop, but I'm afraid he's too cool to see you right now.' 'Look,' said Zaphod, 'I'm up to here with cool, okay? I am so amazingly cool you could keep a side of meat in me for a month. I am so hip I have difficulty seeing over my pelvis.'"  
 --Douglas Adams
 
-"Listen, three eyes," he said, "don't you try to outweird me, I get stranger things than you free with my breakfast cereal."  
+"'Listen, three eyes,' he said, 'don't you try to outweird me, I get stranger things than you free with my breakfast cereal.'"  
 --Douglas Adams
 
-"Mr. Beeblebrox, sir," said the insect in awed wonder, "you're so weird you should be in movies." "Yeah," said Zaphod patting the thing on a glittering pink wing, "and you, baby, should be in real life."  
+"'Mr. Beeblebrox, sir,' said the insect in awed wonder, 'you're so weird you should be in movies.' 'Yeah,' said Zaphod patting the thing on a glittering pink wing, 'and you, baby, should be in real life.'"  
 --Douglas Adams
 
-"So, how are you?" he said aloud. "Oh, fine," said Marvin, "if you happend to like being me, which personally I don't."  
+"'So, how are you?' he said aloud. 'Oh, fine,' said Marvin, 'if you happend to like being me, which personally I don't.'"  
 --Douglas Adams
 
-"Hello," said the elevator sweetly, "I am to be your elevator for this trip to the floor of your choice. ..." "Yeah," said Zaphod, stepping into it, "what else do you do besides talk?" "I go up," said the elevator, "or down." "Good," said Zaphod, "we're going up." "Or down," the elevator reminded him. "Yeah, okay, up please." There was a moment of silence. "Down's very nice," suggested the elevator hopefully. "Oh yeah?" "Super." "Good," said Zaphod, "now will you take us up?" "May I ask you," inquired the elevator in its sweetest, most reasonable voice, "if you've considered all the possibilities that down might offer you?" Zaphod knocked one of his heads against the inside wall."  
+"'Hello,' said the elevator sweetly, 'I am to be your elevator for this trip to the floor of your choice. ...' 'Yeah,' said Zaphod, stepping into it, 'what else do you do besides talk?' 'I go up,' said the elevator, 'or down.' 'Good,' said Zaphod, 'we're going up.' 'Or down,' the elevator reminded him. 'Yeah, okay, up please.' There was a moment of silence. 'Down's very nice,' suggested the elevator hopefully. 'Oh yeah?' 'Super.' 'Good,' said Zaphod, 'now will you take us up?' 'May I ask you,' inquired the elevator in its sweetest, most reasonable voice, 'if you've considered all the possibilities that down might offer you?' Zaphod knocked one of his heads against the inside wall."  
 --Douglas Adams
 
 "Modern elevators are strange and complex entities. The ancient electric winch and "maximum-capacity-eight-persons" jobs bear as much relation to a Sirius Cybernetics Corporation Happy Vertical People Transporter as a packet of mixed nuts does to the entire west wing of the Sirian State Mental Hospital."  
@@ -98,6 +100,9 @@ The second worst is that of the Azgoths of Kria. During a recitation by their po
 
 "The creator of the universe works in mysterious ways. But he uses a base ten counting system and likes round numbers."  
 --Scott Adams
+
+"You are what you love, not what loves you."  
+--Donald Kaufman, *Adaptation* (the one good thing anyone said in that worthless movie)
 
 "It is easier to fight for one's principles than to live up to them."  
 --Alfred Adler
@@ -120,6 +125,12 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "In case you're worried about what's going to become of the younger generation, it's going to grow up and start worrying about the younger generation."  
 --Roger Allen
 
+"[T]he only true currency in this bankrupt world is what you share with someone else when you're uncool."  
+--Lester Bangs, *Almost Famous*
+
+"Show me any guy who ever said he didn't want to be popular, and I'll show you a scared guy...It's much safer to say popularity sucks, because that allows you to forgive yourself if you suck. And I don't forgive myself. Do you?"  
+--Jeff Bebe, *Almost Famous*
+
 "Tuez-les tous; Dieu reconnaitra les siens."  
 "Kill them all; God will recognize his."  
 --Arnaud Amalric
@@ -128,10 +139,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 --Hans Christian Andersen, *The Emperor's New Clothes*
 
 "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."  
---Anonymous
 
 "Transire suum pectus mundoque potiri"  
-"Rise above oneself and grasp the world"
+"Rise above oneself and grasp the world"  
 --Archimedes
 
 "It is the mark of an educated mind to be able to entertain a thought without accepting it."  
@@ -173,14 +183,8 @@ It's how a soldier thinks. A scientist wouldn't understand."
 <a class="anchor" id="B"></a>
 ### B
 
-"[T]he only true currency in this bankrupt world is what you share with someone else when you're uncool."  
---[Lester Bangs](https://en.wikipedia.org/wiki/Almost_Famous), as played by Philip Seymour Hoffman
-
 "Although golf was originally restricted to wealthy, overweight Protestants, today it's open to anybody who owns hideous clothing."  
 --David Barry
-
-"Show me any guy who ever said he didn't want to be popular, and I'll show you a scared guy...It's much safer to say popularity sucks, because that allows you to forgive yourself if you suck. And I don't forgive myself. Do you?"  
---[Jeff Bebe](https://en.wikipedia.org/wiki/Almost_Famous)
 
 "Drawing on my fine command of the English language, I said nothing."  
 --Robert Benchley
@@ -213,7 +217,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 --Daniel J. Boorstin
 
 "Most advances in science come when a person for one reason or another is forced to change fields."  
---Peter Borden (not the one I know personally)
+--Peter Borden
 
 "What do you want to do? No one ever asks us that; they just tell us what to do."  
 --Christina Bourgeois (ECE writing coach at GT)
@@ -237,22 +241,22 @@ It's how a soldier thinks. A scientist wouldn't understand."
 --Jacob Bronowski
 
 "Think like an American; you have to know where you're going."  
---[Brooklyn](https://en.wikipedia.org/wiki/Brooklyn_(film)) (Eilis)
+--Eilis, [*Brooklyn*](https://en.wikipedia.org/wiki/Brooklyn_(film))
 
 "At some level [Peterson](#P) is offering assertiveness training to men whom society is trying to turn into emasculated snowflakes."  
---David Brooks, New York Times
+--David Brooks, *New York Times*
 
-"Any book on happiness is likely to tell you to set clear goals on what you want to achieve and then work towards achieving them. The problem is it doesn't really work. You might become a millionaire by the time you're 40, but then you realize you haven't been able to sustain a happy relationship. Or when it doesn't work out you feel lost, and you blame yourself. When we live for our goals, we forget to live *now*. The philosopher Allen Watts made the point that when you listen to a piece of music, you don't just skip to the end because that's where it all comes together. You don't just read the last chapter of a book because that's the climax. Yet in life we're obsessed with endings. So you study for these exams so you can go to this university to get this job to work your way up to what? Eventually you reach some position in your 50s and you think "Is this it? Is this the thing. Is this what I've been working for?" And you forget that maybe life should be more like a piece of music, and you're supposed to be dancing."  
+"Any book on happiness is likely to tell you to set clear goals on what you want to achieve and then work towards achieving them. The problem is it doesn't really work. You might become a millionaire by the time you're 40, but then you realize you haven't been able to sustain a happy relationship. Or when it doesn't work out you feel lost, and you blame yourself. When we live for our goals, we forget to live *now*. The philosopher Allen Watts made the point that when you listen to a piece of music, you don't just skip to the end because that's where it all comes together. You don't just read the last chapter of a book because that's the climax. Yet in life we're obsessed with endings. So you study for these exams so you can go to this university to get this job to work your way up to what? Eventually you reach some position in your 50s and you think "Is this it? Is this the thing? Is this what I've been working for?" And you forget that maybe life should be more like a piece of music, and you're supposed to be dancing."  
 --Derren Brown
 
 "We tend to dwell on our pasts and think that they somehow define who we are. But our pasts are just stories that we tell ourselves in the present...And we can be more skeptical of those stories if it helps us...We forget to apply the same natural skepticism to the most important stories we have, the ones we tell ourselves every day about who we are. And we can choose to change those stories."  
 --Derren Brown
 
-"This idea that those stories define us, in other words that it isn't really events that cause our problems but more our reactions to them, this all goes back to a Roman philosopher called Epictetus 2000 years ago. And Epictetus also gave us a great piece of advice, which I find helfpul every day. Epictetus said there are things in your life that you're in control of, and then there are things in your life that you're not in control of. So if you stop trying to control or change things that are not under your control anyway, you will of course remove a whole lot of pointless frustration and anxiety from your life. Right? He added to that: There are only two things that you are in control of: Your thoughts and your actions. That's it. So everything else, what other people do, what they think, what they think of you, how they behave, you can't control any of that anyway, so if you stop trying to, if you stop trying to fix it or change it in some way, if you just decide that anything on that side is fine and just let it go, nothing bad happens. You just feel better. You feel happier. You feel relief like you just put down a big heavy case of bricks."  
+"This idea that those stories define us, in other words that it isn't really events that cause our problems but more our reactions to them, this all goes back to a Roman philosopher called Epictetus 2000 years ago. And Epictetus also gave us a great piece of advice, which I find helfpul every day. Epictetus said there are things in your life that you're in control of, and then there are things in your life that you're not in control of. So if you stop trying to control or change things that are not under your control anyway, you will of course remove a whole lot of pointless frustration and anxiety from your life. Right? He added to that: There are only two things that you are in control of: Your thoughts and your actions. That's it. So everything else, what other people do, what they think, what they think of you, how they behave, you can't control any of that anyway. So if you stop trying to, if you stop trying to fix it or change it in some way, if you just decide that anything on that side is fine and just let it go, nothing bad happens. You just feel better. You feel happier. You feel relief like you just put down a big heavy case of bricks."  
 --Derren Brown
 
 "...That is a miracle. And we can remember that when we tell ourselves we're a bit fat or our lives are a bit rubbish. This is the one life and the one body we have. We can tell ourselves a different story about it at least. We can be kinder to ourselves."  
---Derren Brown
+--Derren Brown, *Miracle*
 
 "I strongly believe that engaging with life is about understanding that it's the choices we make right now that are important, not the habits of our past."  
 --Derren Brown
@@ -269,7 +273,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Good judgment comes from experience, and often experience comes from bad judgment."  
 --Rita Mae Brown
 
-"There are many ways of breaking a heart. Stories were full of hearts broken by love, but what really broke a heart was taking away its dream - whatever that dream might be."  
+"There are many ways of breaking a heart. Stories were full of hearts broken by love, but what really broke a heart was taking away its dream--whatever that dream might be."  
 --Pearl S. Buck
 
 "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned."  
@@ -304,6 +308,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "Nobody realizes that some people expend tremendous energy merely to be normal."   
 --Albert Camus
+
 "On this earth there are pestilences, and there are victims. And it's up to us, so far as possible, not to join forces with the pestilences."  
 --Albert Camus
 
@@ -337,9 +342,6 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "We accept the love we think we deserve."  
 --[Stephen Chbosky](https://en.wikipedia.org/wiki/The_Perks_of_Being_a_Wallflower)
 
-"Most people never have to face the fact that at the right time in the right place they're capable of anything."  
---[Noah Cross](https://en.wikipedia.org/wiki/Chinatown_(1974_film))
-
 "Son, some times you have to be a lion so you can be the lamb you really are."  
 --Dave Chappelle's mom
 
@@ -351,6 +353,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "The only difference between a poor black person and a poor white person is that a poor white person feels like it's not supposed to be happening to them."  
 --Dave Chappelle
+
+"Most people never have to face the fact that at the right time in the right place they're capable of anything."  
+--Noah Cross, [*Chinatown*] (https://en.wikipedia.org/wiki/Chinatown_(1974_film))
 
 "Governments are power systems. They are trying to sustain their power and domination over their populations, and they will use what means are available to do this."  
 --Noam Chomsky
@@ -373,9 +378,6 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "To improve is to change; to be perfect is to change often."  
 --Winston Churchill
 
-"You have enemies? Good. That means you've stood up for something at least once in your life."  
---Winston Churchill
-
 "Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."  
 --Winston Churchill
 
@@ -387,7 +389,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 3\. Any sufficiently advanced technology is indistinguishable from magic."  
 --Arthur C. Clarke
 
-"Fiction is more than non-fiction in some ways ... You can stretch people's minds, altering them to the possibilities of the futures, which is very important in an age where things are changing rapidly."  
+"One of the biggest roles of science fiction is to prepare people to accept the future without pain and to encourage a flexibility of mind."  
 --Arthur C. Clarke
 
 "Two possibilities exist; ether we are alone in the universe, or we are not. Both are equally terrifying."  
@@ -408,14 +410,14 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "So when I started to discover at Cambridge I could write stuff that made people laugh, then I began to watch the process. And I am quite convinced that anything of importance creatively comes up from the unconscious. There's a lot of *very* very bright, highly intellectual, immensely smart people, but they're 'left-brained', and they'll never, I think, be very, um, very creative."  
 --[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=6m37s)
 
-"When your unconscious gives you an idea, it doesn't give it neatly printed out on a piece of paper; it'll just give you an image or a feeling or something. And if you can stay with that and move around, eventually it'll make, make sense."
+"When your unconscious gives you an idea, it doesn't give it neatly printed out on a piece of paper; it'll just give you an image or a feeling or something. And if you can stay with that and move around, eventually it'll make, make sense."  
 --[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=7m14s)
 
 "What I notice about scientists is they don't want to know about the philosophy of science." \[followed by great annecdote about Steven J. Gould and description of [a study](http://deanradin.com/articles/2004%20presentiments.pdf) [suggesting presentiment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3971164/)\]  
 --[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=33m13s)
 
 "On the show he [Fred Rogers] would say 'I love you just the way you are.' One day I said 'Fred, were you talking to me?' And he looked at me and he said 'Yes, I've been talking to you for two years. You finally heard me today.' And I just collapsed in to his arms. I-I started crying. That's when I knew that I loved him. No man had ever told me he loved me like that. I needed to hear it all my life."  
---Francois Clemmens, co-star on Mr. Rogers' Neighborhood
+--Francois Clemmens, co-star on *Mr. Rogers' Neighborhood*
 
 "In an age when politicians are judged first of all on personality, when the public assumes all of them to be deceitful, and when it’s easier and much more pleasurable to laugh about a political issue than to think about it, Johnson’s apparent self-deprecating honesty and lack of concern for his own dignity were bound to make him a hit."  
 --Jonathan Coe, *Sinking Giggling into the Sea*
@@ -447,25 +449,16 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "You're so young, way too young to be worried about not being smart enough. Until you're so old you start going senile, you have the opportunity to make yourself 'smarter'. And I put that in quotes because 'smart' is really just a way of saying 'has invested so much time and sweat that you make it look effortless'. You feel like you are burnt out or that you are on the verge of burning out, but in reality you are on the verge of deciding whether or not you will burn out. It's scary to acknowledge that it's a decision because it puts the onus on you to to do something about it, but it's empowering because it means there is something you can do about it.
 So do it."  
---Internet Commentor
+--Internet Commentor, forums after MIT admission results came out in 2011
 
 "It's not about being "smart", but about sustained focus, dedication, and discipline."  
---Internet Commentor
+--Internet Commentor, forums after MIT admission results came out in 2011
 
 "That one's so stupid it underflows and becomes awesome."  
 --StackOverflow Commentor
 
 "Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent. The slogan 'Press on' has solved and forever will solve the problems of the human race."  
---[Calvin Coolidge](https://quoteinvestigator.com/2016/01/12/persist/)
-
-"Never hate your enemies; it affects your judgement."  
---Michael Corleone
-
-"Never let anyone know what you're thinking."  
---Michael Corleone
-
-"No one gives it to ya; you have to take it."  
---Frank Costello, The Departed
+--[complicated origin](https://quoteinvestigator.com/2016/01/12/persist/), misattributed to Calvin Coolidge
 
 "I'm happy about the things I've done. Not always happy about the results, but happy about the decisions, because I made them myself. And I think that's an important way to go through life."  
 --Kevin Costner
@@ -480,7 +473,7 @@ So do it."
 <a class="anchor" id="D"></a>
 ### D
 
-"I you do not love yourself entirely and actively ensure your own needs are met, you will find it difficult to do the same for others."  
+"If you do not love yourself entirely and actively ensure your own needs are met, you will find it difficult to do the same for others."  
 --Zaid Dahhaj
 
 "One last drink, please."  
@@ -491,6 +484,9 @@ So do it."
 
 "The only competitor for the title of champion constructive mistranslation of all time also concerns virgins. Ibn Warraq has hilariously argued that in the famous promise of seventy-two virgins to every Muslim martyr, 'virgins' is a mistranslation of 'white raisins of crystal clarity'. Now, if only that had been more widely known, how many innocent victims of suicide missions might have been saved?"  
 --Richard Dawkins
+
+"No one gives it to ya; you have to take it."  
+--Frank Costello, *The Departed*
 
 "[S]tudents from elite schools expect success, and expect it now. They have, by definition, never experienced anything else, and their sense of self has been built around their ability to succeed. The idea of not being successful terrifies them, disorients them, defeats them. They’ve been driven their whole lives by a fear of failure—often, in the first instance, by their parents’ fear of failure. The first time I blew a test, I walked out of the room feeling like I no longer knew who I was. The second time, it was easier; I had started to learn that failure isn’t the end of the world.  
 &emsp;&emsp;&emsp;But if you’re afraid to fail, you’re afraid to take risks, which begins to explain the final and most damning disadvantage of an elite education: that it is profoundly anti-intellectual. This will seem counterintuitive. Aren’t kids at elite schools the smartest ones around, at least in the narrow academic sense? Don’t they work harder than anyone else—indeed, harder than any previous generation? They are. They do. But being an intellectual is not the same as being smart. Being an intellectual means more than doing your homework.  
@@ -512,7 +508,7 @@ So do it."
 --Rene Descartes
 
 "He had not a handsome face, but it was better than handsome, being extremely amiable and cheerful."  
---Charles Dickens
+--Charles Dickens, *Great Expectations*
 
 "How we spend our days is how we spend our lives."  
 --Annie Dillard
@@ -525,7 +521,7 @@ So do it."
 
 "Only a man who has felt ultimate despair is capable of feeling ultimate bliss." 
 Also traslated as: "There is neither happiness nor misery in the world; there is only the comparison of one state with another, —nothing more. He who has felt the deepest grief is best able to experience supreme happiness. We must have felt what it is to die, Morrel, that we may appreciate the enjoyments of living."  
---Alexandre Dumas (The Count of Monte Cristo)
+--Alexandre Dumas, *The Count of Monte Cristo*
 
 "Education is a progressive discovery of our own ignorance."  
 --Will Durant
@@ -570,7 +566,7 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 --Albert Einstein
 
 "The right to search for truth implies also a duty: one must not conceal any part of what one has recognized to be true."  
---Albert Einstein
+--Albert Einstein, written on the monument in D.C.
 
 "The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science. He to whom this emotion is a stranger, who can no longer pause to wonder and stand rapt in awe, is as good as dead. His eyes are closed."  
 --Albert Einstein
@@ -596,7 +592,7 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 "He who joyfully marches to music rank and file, has already earned my contempt. He has been given a large brain by mistake, since for him the spinal cord would surely suffice. This disgrace to civilization should be done away with at once. Heroism at command, how violently I hate all this, how despicable and ignoble war is. I would rather be torn to shreds than be a part of so base an action. It is my conviction that killing under the cloak of war is nothing but an act of murder."  
 --Albert Einstein
 
-"One of the strongest motives that lead men to art and science is escape from everyday life with its painful crudity and hopeless dreariness, from the fetters of one's own ever-shifting desires. A finely tempered nature longs to escape from the personal life into the world of objective perception and thought."  
+"One of the strongest motives that lead men to art and science is escape from everyday life with its painful crudity and hopeless dreariness, from the fetters of one's own ever-shifting desires. A finely tempered nature longs to escape from the personal life in to the world of objective perception and thought."  
 --Albert Einstein
 
 "Any fool can know. The point is to understand."  
@@ -605,18 +601,18 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 "A sense of humor is part of the art of leadership, of getting along with people, of getting things done."  
 --Dwight D. Eisenhower
 
+"Blessed is the man who, having nothing to say, abstains from giving wordy evidence of the fact."  
+--George Elliot
+
 "This is the way the world ends  
 Not with a bang but a whimper."  
---T.S. Eliot (The Hollow Men)
+--T.S. Eliot, *The Hollow Men*
 
 We shall not cease from exploration  
 And the end of all our exploring  
 Will be to arrive where we started  
 And know the place for the first time.  
---T.S. Eliot (Little Gidding)
-
-"Blessed is the man who, having nothing to say, abstains from giving wordy evidence of the fact."  
---George Elliot
+--T.S. Eliot, *Little Gidding*
 
 "What we fear of doing most is usually what we most need to do."  
 --Ralph Waldo Emerson
@@ -628,10 +624,7 @@ And know the place for the first time.
 --Ralph Waldo Emerson
 
 "Do not follow where the path may lead. Go instead where there is no path, and leave a trail."  
-—Ralph Waldo Emerson 
-
-"If it isn't broken, take it apart and see how it works."  
---Engineer's Motto, as cleverly stated by classmate Troy O'Neal
+--Ralph Waldo Emerson
 
 "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."  
 --Epictetus
@@ -688,10 +681,13 @@ And know the place for the first time.
 --Gail Finkelstein LeVine
 
 "Courage is the solution to despair. Reason provides no answers. I can't know what the future will bring. We have to choose despite uncertainty. Wisdom is holding two contradictory truths in our mind simultaneously."  
---[First Reformed](https://en.wikipedia.org/wiki/First_Reformed), Ernst Toller
+--Ernst Toller, [*First Reformed*](https://en.wikipedia.org/wiki/First_Reformed)
 
 "I've seen enough real sin to know the difference."  
---First Reformed, Ernst Toller
+--Ernst Toller, *First Reformed*
+
+"Money is but a fool's grasp at felicity's apparition."  
+--Tomas the poet, *Flapjack*
 
 "I shall not waste my days in trying to prolong them."  
 --Ian Flemming
@@ -702,11 +698,11 @@ And know the place for the first time.
 "An idealist is a person who helps other people to be prosperous."  
 --Henry Ford
 
-"If I'd asked customers what they wanted, they would have said a faster horse"  
---Henry Ford
+"If I had asked customers what they wanted, they would have said faster horses."  
+--somewhat dubiously attributed to Henry Ford
 
 "The shadow proves the sunshine."  
---Jon Foreman
+--Jon Foremanid="F
 
 <a class="anchor" id="frankel"></a>
 "Woe to him who saw no more sense in his life, no aim, no purpose, and therefore no point in carrying on. He was soon lost. The typical reply with which such a man rejected all encouraging arguments was, 'I have nothing to expect from life any more.' What sort of answer can one give to that?  
@@ -732,7 +728,7 @@ And know the place for the first time.
 --Benjamin Franklin
 
 "A clean desk is a sign of a sick mind."  
---Lester Freamon, The Wire
+--Lester Freamon, *The Wire*
 
 "I’ve definitely made more mistakes in my personal than my professional life...[W]hat we call love is often more about ego, self-projection, validation and fear of loneliness."  
 --Hadley Freeman
@@ -874,6 +870,9 @@ And know the place for the first time.
 "[O]ne of the defining characteristics of true transformation is self redefinition....Indeed, rather than be swept away by life and force of habit, the individual can seize control of their life. They can fight against 'inevitability' and the idea of settling for whatever life hands them. We are either compliant with our seemingly preordained fate or we fight. We who choose to embrace the fight understand that life itself is a struggle and \[welcome\] it. Compliant living is mere existing. We want more--we want to improve our quality of life by methodically engaging in our parallel disciplines. Over time our practices will transform us."  
 --Marty Gallagher, *Strong Medicine* epilogue
 
+"Sober words are drunken thoughts... Wait."  
+--Reese Gallagher
+
 "The weak can never forgive; forgiveness is the attribute of the strong."  
 --Mohandas Gandhi
 
@@ -932,8 +931,14 @@ And know the place for the first time.
 "Where were you when I laid the Earth's foundations, marked out its dimensions, laid its cornerstone? When the morning stars sang, and the angels shouted with joy, where were you?"  
 --God, Book of Job
 
-"Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it."  
---Johann Wolfgang von Goethe
+"Never hate your enemies; it affects your judgement."  
+--Michael Corleone, *The Godfather*
+
+"Never let anyone know what you're thinking."  
+--Michael Corleone, *The Godfather*
+
+"What you can do or dream you can, begin it. Boldness has genius, power, and magic in it."  
+--Anster translation of Johann Wolfgang von Goethe's *Faust*
 
 "We are never deceived; we deceive ourselves."  
 --Goethe
@@ -951,7 +956,7 @@ And know the place for the first time.
 --Google Developer's Ph.D. Advisor
 
 "Stretch your boundaries and you’ll be surprised at what you can achieve."  
---Google
+--Google recruitment literature, but also a principle I found true at college and since
 
 "Think of an experience from your childhood. Something you remember clearly, something you can  see, feel, maybe even smell, as if you were really there. After all, you really were there at the time,  weren't you? How else would you remember it? But here is the bombshell: you weren't there. Not a single atom that is in your body today was there when that event took place ... Matter flows from place to place and momentarily comes together to be you. Whatever you are, therefore, you are not the stuff of which you are made. If that doesn't make the hair stand up on the back of your neck, read it again until it does, because it is important.  
 --Steve Grand
@@ -1052,9 +1057,6 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 "We are taught you must blame your father, your sisters, your brothers, the school, the teachers--but never blame yourself. It's never your fault. But it's always your fault, because if you wanted to change you're the one who has got to change."  
 --Katherine Hepburn
 
-"Enemies are so stimulating."  
---Katherine Hepburn
-
 "To keep your character intact you cannot stoop to filthy acts. It makes it easier to stoop the next time."  
 --Katherine Hepburn
 
@@ -1063,9 +1065,6 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 
 "If you want to change attitudes, start with a change in behavior."  
 --Katherine Hepburn
-
-"If you need a helping hand, you can find one at the end of your arm."  
---Katherine Hepburn (also possibly an addage)
 
 "Everyone thought I was bold and fearless and even arrogant, but inside I was always quaking."  
 --Katherine Hepburn
@@ -1076,6 +1075,10 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 "Most people are brought up to believe they are as good as the person next to them, I was told I was better."  
 --Katherine Hepburn
 
+"Primum non nocere"  
+"Primarily do no harm"  
+--Hippocratic Oath
+
 "What can be asserted without evidence can also be dismissed without evidence."  
 --Hitchens Razor  
 
@@ -1085,8 +1088,8 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 "I am a brain, Watson. The rest of me is a mere appendix."  
 --Sherlock Holmes
 
-"You have a grace upon your words, and there is sound sense within them, and expertly, as a singer would do, you have told the story"  
---Homer, The Odyssey
+"You have a grace upon your words"  
+--Homer, *The Odyssey*
 
 "When people talk about trying to suppress your fear, I mean, I look at it a different way: I try to expand my comfort zone by practicing the moves over and over again. I work through the fear until it's just not scary anymore."  
 --Alex Honnold
@@ -1100,7 +1103,10 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 "I think there's a kind of metaphysical dimension, that speed becomes a way of walling ourselves off from the bigger, deeper questions: We fill our heads with distraction, with busy-ness so that we don't have to ask 'Am I well?' 'Am I happy?'"  
 --[Carl Honore](https://www.youtube.com/watch?v=UhXiHJ8vfuk&t=13m47s)
 
-There is in every village a torch - the teacher: and an extinguisher - the clergyman.  
+There is in every village a torch: the teacher; and an extinguisher: the clergyman.  
+--Victor Hugo
+
+"You have enemies? Why, it is the story of every man who has done a great deed or created a new idea."  
 --Victor Hugo
 
 "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them."  
@@ -1112,30 +1118,30 @@ There is in every village a torch - the teacher: and an extinguisher - the clerg
 <a class="anchor" id="I"></a>
 ### I
 
+"An important part of becoming an adult is realizing that a lot of people never become adults."  
+--Alex Ikonomides
+
 "A superstition is a premature explanation that overstays its time."  
 --George Iles
-
-"Do no harm."  
---Thomas Inman
 
 "If we admit that human life can be ruled by reason, the possibility of life is destroyed."  
 --Into the Wild
 
-"May the road rise up to meet you. 
-May the wind be ever at your back. 
-May the sun shine warm upon your face 
-and the rain fall softly on your fields. 
-And until we meet again, 
+"May the road rise up to meet you.  
+May the wind be ever at your back.  
+May the sun shine warm upon your face  
+and the rain fall softly on your fields.  
+And until we meet again,  
 may God hold you in the palm of his hand."  
---Irish blessing
+--Irish blessing, delivered to us at Southeast Graduation by Stephen Foster, really touches me for some reason
 
 <a class="anchor" id="J"></a>
 ### J
 
-"It is easier to act your way to a new way of thinking than to think your way to a new way of acting."
+"It is easier to act your way to a new way of thinking than to think your way to a new way of acting."  
 --distillation of the ['act as if' principle from William James](https://books.google.com/books?id=IBrykBRv2B4C&pg=PA100&lpg=PA100&dq=it+is+easier+to+act+your+way+to+a+new+way+of+thinking+than+to+think+your+way+to+a+new+way+of+acting+william+james&source=bl&ots=SSIpVUJz4Z&sig=ACfU3U2PCpi9jxvhLaCatbTrJ4gW7_arSQ&hl=en&sa=X&ved=2ahUKEwio7dyM0OToAhVB2qwKHVP9DOAQ6AEwAHoECBIQLA#v=onepage&q=it%20is%20easier%20to%20act%20your%20way%20to%20a%20new%20way%20of%20thinking%20than%20to%20think%20your%20way%20to%20a%20new%20way%20of%20acting%20william%20james), first stated to me by Ken "Roberts" Pennacchini
  
-"Shake off all the fears of servile prejudices, under which weak minds are servilely crouched. Fix reason firmly in her seat, and call on her tribunal for every fact, every opinion. Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason than that of blindfolded fear."
+"Shake off all the fears of servile prejudices, under which weak minds are servilely crouched. Fix reason firmly in her seat, and call on her tribunal for every fact, every opinion. Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason than that of blindfolded fear."  
 --Thomas Jefferson
 
 "A government big enough to give you everything you want is strong enough to take everything you have."  
@@ -1180,9 +1186,6 @@ may God hold you in the palm of his hand."
 "I read an article when I was very young in Scientific American, and it, um, it measured the efficiency of locomotion for various species on the planet. So for, you know, bears and chimpanzees and raccoons and birds and fish. How many kilocalories per kilometer did they spend to move? And, and humans were measured too. And, ah, the condor won; it was the most efficient. And mankind, the crown of creation, came in with a rather unimpressive showing about a third of the way down the list. Um, but somebody there had the brilliance to test a human riding a bicycle. *smiles* Blew away the condor--all the way off the charts! And I remember this really had an impact on me. I really remember this: that humans are tool-builders, and we build tools that can dramatically amplify our innate human abilities. And to me [the computer represents the ultimate tool.]--We actually ran an ad like this very early at Apple, that the personal computer was the bicycle of the mind. And I believe that with every bone in my body, that of all the inventions of humans the computer is going to rank near if not at the top as history unfolds and we look back."  
 --Steve Jobs
 
-"Good artists copy; great artists steal."  
---Steve Jobs (also a sort of saying. Jobs mistakenly attributes Picasso.)
-
 "I don't think that most of the really best people that I've worked with have worked with computers for the sake of working with computers. They've worked with computers because they are the medium that is best capable of transmitting some feeling that you have that you want to share with other people."  
 --Steve Jobs
 
@@ -1201,23 +1204,17 @@ may God hold you in the palm of his hand."
 "Dare to know."  
 --Kant (on what The Enlightenment was)
 
-"You are what you love, not what loves you."  
---Donald Kaufman (character), Adaptation (the one good thing anyone said in that worthless movie)
-
 "[A Liberal is] someone who looks ahead and not behind, someone who welcomes new ideas without rigid reactions, someone who cares about the welfare of the people--their health, their housing, their schools, their jobs, their civil rights, and their civil liberties--someone who believes we can break through the stalemate and suspicions that grip us in our policies abroad, if that is what they mean by a 'Liberal,' then I'm proud to say I'm a 'Liberal.'"  
 --John F. Kennedy
 
 "Those who make peaceful revolution impossible will make violent revolution inevitable."  
 --John F. Kennedy
 
-"Victory has a hundred fathers; defeat is an orphan."  
---John F. Kennedy
-
 "How can I adopt a creed which, preferring the mud to the fish, exalts the boorish proletariat above the bourgeoisie and the intelligentsia, who with all their faults, are the quality of life and surely carry the seeds of all human achievement?"  
 --John Maynard Keynes
 
 "I came to understand that radicalization is about pain. It's the pain of young people facing racism, exclusion from society, isolation from the opposite sex, overwhelming pressure from families and communities, a crisis of identity, and feeling powerless and insignificant. Yes, many of them have material comforts, but I believe too many of them lead lives of emotional poverty."  
---Deeyah Khan, Jihad
+--Deeyah Khan, *Jihad*
 
 "The greatest happiness is to vanquish your enemies, to drive them before you, to rob them of their wealth, to see those dear to them bathed in tears, to clasp to your bosom their wives and daughters."  
 --Ghengis Khan
@@ -1261,8 +1258,8 @@ may God hold you in the palm of his hand."
 "Every relationship is like fine piece of crystal: Beautiful and unique, but if you tap even lightly on just the the wrong spot, it can shatter."  
 --Lubomir Komarov
 
-"With freedom comes responsibility."  
---Lubomir Komarov quoting Eleanor Roosevelt
+"Justice Scalia called the Court's interpretation of the Obamacare ruling 'pure applesauce'. God, I love this country."  
+--Chris Komarov, 30th June 2015
 
 "Don't fight the statistics."  
 --motto of mine
@@ -1275,6 +1272,13 @@ may God hold you in the palm of his hand."
 
 "Thanks to the Interstate Highway System, it is now possible to travel from coast to coast without seeing anything."  
 --Charles Kuralt
+
+"I did it. Drop the mic. Wild applause. #thebest"  
+"I take Google Wallet and physical dollars and little creative gifts."  
+--Andrey Kurenkov, 8th April 2015
+
+"Imma flip the table."  
+--Andrey at Solar Racing regarding C2000 problems
 
 <a class="anchor" id="L"></a>
 ### L
@@ -1290,9 +1294,6 @@ may God hold you in the palm of his hand."
 
 "War as a moral metaphor is limited, limiting, and dangerous. By reducing the choices of action to 'a war against' whatever-it-is, you divide the world into Me or Us (good) and Them or It (bad) and reduce the ethical complexity and moral richness of our life to Yes/No, On/Off. This is peruile, misleading, and degrading."  
 --Ursula K. Le Guin
-
-"To hear, one must be silent."  
---Ursula K. Le Guin (Ogion)
 
 "A lie told often enough becomes the truth."  
 --Vladimir Lenin
@@ -1312,7 +1313,7 @@ may God hold you in the palm of his hand."
 "The criticism goes like this: You told everyone they're special. They don't have to do anything to earn that 'special'. That's what's wrong with our country. That's what's wrong with children today.  
 &emsp;&emsp;&emsp;I'm sure by then Fred had heard the criticisms, but it's not talking about entitlement, and if you don't believe that everyone has inherent value, you might as well go against the fundamental notion of Christianity, that you are the beloved son or daughter of God.  
 &emsp;&emsp;&emsp;At the very end of Fred's very last commencement speech he said what he meant when he said 'You are special:'"  
-<blockquote>"And what that ultimately means, of course, is that you don't ever have to do anything sensational for people to love you."</blockquote>  
+&emsp;&emsp;&emsp;"And what that ultimately means, of course, is that you don't ever have to do anything sensational for people to love you."  
 "It is really a matter of believing that you're endowed by your creator with good."  
 --Junlei Li, Fred Rogers Center
 
@@ -1330,7 +1331,7 @@ may God hold you in the palm of his hand."
 --James Russell Lowell
 
 "Better to reign in Hell, than serve in Heaven."  
---Lucifer, Paradise Lost
+--Lucifer, *Paradise Lost*
 
 <a class="anchor" id="M"></a>
 ### M
@@ -1407,7 +1408,7 @@ But nothing happened every time I tried"
 --Thomas Merton, as paraphrased in [First Reformed](https://en.wikipedia.org/wiki/First_Reformed)
 
 "I think that a guy who's always interested in the condition of the world and changing it either has no problems of his own or refuses to face them."  
---Henry Miller, *Reds (1981)*
+--Henry Miller, *Reds* (1981)
 
 "Understanding the past enables us to see the present more clearly."  
 --Steven Mithen
@@ -1446,7 +1447,7 @@ But nothing happened every time I tried"
 "Religion is what keeps the poor from murdering the rich."  
 --Napoleon
 
-"Quantity has a quality all its own."
+"Quantity has a quality all its own."  
 --Napoleon
 
 "Where the heart leads, the mind can follow."  
@@ -1518,7 +1519,7 @@ But nothing happened every time I tried"
 --Barack Obama
 
 "If you accept your misfortune and handle it right, your percieved failure can become a catalyst for profound reinvention."  
---Conan O'Brian
+--Conan O'Brian, in his Dartmouth commencement address, after not being selected for the Tonight Show
 
 "Is it hot in here or am I just lying?"  
 --John Oliver
@@ -1533,16 +1534,24 @@ But nothing happened every time I tried"
 --John Oliver
 
 "Have you ever heard of a Saint hiding in a church?"  
---Edie Doyle (On The Waterfront)
+--Edie Doyle, *On The Waterfront*, a call to action
 
-"It wasn't him, Charley, it was you. Remember that night in the Garden you came down to my dressing room and said 'Kid, this ain't your night. We're going for the price on Wilson'? You remember that? 'This ain't your night'! My night! I coulda taken Wilson apart. So what happens? He gets the title shot outdoors in a ballpark, and what do I get? A one-way ticket to Palookaville. You was my brother, Charley. You shoulda looked out for me a little bit. You shoulda taken care of me just a little bit so I wouldn't have to take them dives for the short-end money." "I had some bets down for you. You saw some money." "You don't understand! I coulda had class. I coulda been a contender. I coulda been somebody! instead of a bum, which is what I am. Let's face it. It was you, Charley."  
---Terry Malloy (On The Waterfront)
+"It wasn't him, Charley, it was you. Remember that night in the Garden you came down to my dressing room and said 'Kid, this ain't your night. We're going for the price on Wilson'? You remember that? 'This ain't your night'! My night! I coulda taken Wilson apart. So what happens? He gets the title shot outdoors in a ballpark, and what do I get? A one-way ticket to Palookaville. You was my brother, Charley. You shoulda looked out for me a little bit. You shoulda taken care of me just a little bit so I wouldn't have to take them dives for the short-end money."  
+"I had some bets down for you. You saw some money."  
+"You don't understand! I coulda had class. I coulda been a contender. I coulda been somebody! instead of a bum, which is what I am. Let's face it. It was you, Charley."  
+--Terry Malloy, *On The Waterfront*
+
+"If it isn't broken, take it apart and see how it works."  
+--Troy O'Neal's "Engineer's Motto"
+
+"'It's working, just need to test.' --all engineers before a failed test"  
+--Troy O'Neal, 17th April 2015
 
 "Science has profoundly altered the conditions of man's life."  
---J Robert Oppenheimer
+--J. Robert Oppenheimer
 
 "As long as men are free to ask what they will, free to say what they think, free to think what they must, science will never regress, and freedom itself will never be wholely lost."  
---J. Robert Oppenheimer (I disagree. Read the article "Scientific Regress")
+--J. Robert Oppenheimer ([I disagree. There is always a danger of moving backwards.](https://www.firstthings.com/article/2016/05/scientific-regress))
 
 "To mistrust science and deny the validity of the scientific method is to resign your job as a human. You'd better go look for work as a plant or wild animal."  
 --P. J. O'Rourke
@@ -1550,10 +1559,10 @@ But nothing happened every time I tried"
 "All animals are equal, but some animals are more equal than others."  
 --George Orwell
 
-"In a time of universal deciet, telling the truth is a revolutionary act."  
+"In a time of universal deceit, telling the truth is a revolutionary act."  
 --Commonly misattributed to George Orwell
 
-"Anybody who wants to make a revolution, shouldn't grab a gun, just go and start working like we do to change the world by using science and technology."  
+"Anybody who wants to make a revolution, shouldn't grab a gun; just go and start working like we do to change the world by using science and technology."  
 --Stan Ovshinsky
 
 <a class="anchor" id="P"></a>
@@ -1571,6 +1580,9 @@ But nothing happened every time I tried"
 "I was to blame for not having pressed my point. I had given in to authority when I believed I was right. If you are sure of your facts, you should defend your position."  
 --Cecilia Payne
 
+"Got back from racket ball, was like 'I'll just take a quick nap.' Woke up at 2am like '*gasp* What year is it?'"
+--Luis Pérez, 3rd March 2015
+
 "Fools ignore complexity. Pragmatists suffer it. Experts avoid it. Geniuses remove it."  
 --Alan Perlis
 
@@ -1584,7 +1596,7 @@ But nothing happened every time I tried"
 --Pablo Picasso
 
 "Art is a lie that makes us realize truth."  
---Pable Picasso
+--Pable Picasso, *The Arts* 1923
 
 "We will never have a perfect world, but it's not romantic or naive to work toward a better one."  
 --Steven Pinker
@@ -1631,7 +1643,7 @@ But nothing happened every time I tried"
 "I don't know if God exists, but it would be better for His reputation if He didn't."  
 --Jules Renard
 
-"He who lives without folly isn't so wise as he thinks." 
+"He who lives without folly isn't so wise as he thinks."  
 --Francois de La Rochefoucauld
 
 "The human race is a remarkable creature, one with great potential, and I hope that Star Trek has helped to show what we can be if we believe in ourselves and our abilities."  
@@ -1652,10 +1664,7 @@ But nothing happened every time I tried"
 "Reality is incredibly larger, infinitely more exciting, than the flesh and blood vehicle we travel in here. If you read science fiction, the more you read it the more you realize that you and the universe are part of the same thing. Science knows still practically nothing about the real nature of matter, energy, dimension, or time; and even less about those remarkable things called life and thought. But whatever the meaning and purpose of this universe, you are a legitimate part of it. And since you are part of the all that is, part of its purpose, there is more to you than just this brief speck of existence. You are just a visitor here in this time and this place, a traveler through it."  
 --Gene Roddenberry
 
-"..because it's not all clowns and balloons."  
---Fred Rogers
-
-"The most important learning is the ability to accept and expect mistakes and deal with the disappointments that they bring."
+"The most important learning is the ability to accept and expect mistakes and deal with the disappointments that they bring."  
 --Fred Rogers
 
 "We need to help our children become more and more aware that what is essential in life is invisible to the eye."  
@@ -1680,9 +1689,6 @@ But nothing happened every time I tried"
 --Fred Rogers
 
 "In this country a child is appreciated for what he will be. He will be a great consumer some day."  
---Fred Rogers
-
-"A plea not to leave the children isolated and at the mercy of their own fantasies of loss and destruction."  
 --Fred Rogers
 
 "I am tired of hearing people who have long ago set aside the concerns of childhood telling everybody what children really need. I'll tell you what children need. They need adults who will protect them from the ever-ready moulders of their world."  
@@ -1711,8 +1717,11 @@ When a child gave him drawings, rather than look at the drawings, he looked inte
 --journalist friend  
 He truly embodied the principles of being genuinely interested in other people, showing them real appreciation, and giving away vast quantities of love, never stopping to become embittered by a world that may not return those sentiments initially.  
 
-"In one particularly telling real-world example from 2016 of how such cuts affected students in the “brick and mortar” district, high school junior Jameria Miller talks about why she starts every morning running through the school to get a good seat near the front of the room in her first-period Spanish class. It’s not because she is just excited about the class. It’s because the school is cold. As she explains, “The cold is definitely a distraction. We race to class to get the best blankets.” What she means is that because the classroom where she begins her day has uninsulated metal walls, Jameria’s teacher hands out blankets to the students on a first come, first served basis. It’s the only way for them to stay warm. Miller’s school in the William Penn District is situated in Philadelphia’s “inner-ring” suburbs and serves a student body that is majority Black and overwhelmingly impoverished. Though concentrating in the cold is hard enough, Miller says the hardest part of her daily ordeal is the knowledge that life isn’t like this for students in other districts. She means students in wealthier districts. “It’s never going to be fair, they’re always going to be a step ahead of us. They’ll have more money than us, and they’ll get better jobs than us, always.” She says she doesn’t believe that either funding or systemic school improvement will ever truly equalize: “What I’m about to say might not be very nice, but rich people aren’t going to want [funding fairness]. They want their kids to have better things so that their kids can get a jump start in life and be ahead of everyone else. And, as long as people feel that way, we all won’t be equal. We won’t receive equal education ever, because education is what gets you success.”"  
+"In one particularly telling real-world example from 2016 of how such cuts affected students in the “brick and mortar” district, high school junior Jameria Miller talks about why she starts every morning running through the school to get a good seat near the front of the room in her first-period Spanish class. It’s not because she is just excited about the class. It’s because the school is cold. As she explains, “The cold is definitely a distraction. We race to class to get the best blankets.” What she means is that because the classroom where she begins her day has uninsulated metal walls, Jameria’s teacher hands out blankets to the students on a first come, first served basis. It’s the only way for them to stay warm. Miller’s school in the William Penn District is situated in Philadelphia’s “inner-ring” suburbs and serves a student body that is majority Black and overwhelmingly impoverished. Though concentrating in the cold is hard enough, Miller says the hardest part of her daily ordeal is the knowledge that life isn’t like this for students in other districts. She means students in wealthier districts. “It’s never going to be fair, they’re always going to be a step ahead of us. They’ll have more money than us, and they’ll get better jobs than us, always.” She says she doesn’t believe that either funding or systemic school improvement will ever truly equalize: 'What I'm about to say might not be very nice, but rich people aren’t going to want [funding fairness]. They want their kids to have better things so that their kids can get a jump start in life and be ahead of everyone else. And, as long as people feel that way, we all won’t be equal. We won’t receive equal education ever, because education is what gets you success.'"  
 --[Noliwe Rooks](https://longreads.com/2018/02/20/the-great-online-school-scam/)
+
+"With freedom comes responsibility."  
+--Eleanor Roosevelt, often said by Lubomir Komarov
 
 "A conservative is a man with two perfectly good legs who, however, has never learned to walk forward."  
 --Franklin Delano Roosevelt
@@ -1764,7 +1773,7 @@ He truly embodied the principles of being genuinely interested in other people, 
 &emsp;&emsp;&emsp;Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.  
 &emsp;&emsp;&emsp;The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.  
 &emsp;&emsp;&emsp;It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conciets than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.”   
---Carl Sagan
+--[Carl Sagan](https://www.youtube.com/watch?v=wupToqz1e2g)
 
 "Those worlds in space are as countless as all the grains of sand on all the beaches of the earth. Each  of those worlds is as real as ours. In every one of them there’s a succession of incidents, events, occurrences which influence its future. Countless worlds, numberless moments, an immensity of space and time. And our small planet at this moment: here we face a critical branch point in history. What we do with our world right now will propagate down through the centuries and powerfully affect the destiny of our descendents. It is well within our power to destroy our civilization and perhaps our species as well. If we capitulate to superstition or greed or stupidity, we could plunge our world into a darkness deeper than the time between the collapse of classical civilization and the Italian  Renaissance. But we’re also capable of using our compassion and our intelligence, our technology and our wealth, to make an abundant and meaningful life for every inhabitant of this planet, to enhance  enormously our understanding of the universe and to carry us to the stars."  
 --Carl Sagan
@@ -1801,9 +1810,6 @@ He truly embodied the principles of being genuinely interested in other people, 
 
 "Life is what happens to us while we are making other plans."  
 --Allen Saunders
-
-"I have found that people who can resist temptation invariably lead depressingly stunted lives."  
---Sheeni Saunders, Youth in Revolt
 
 "Any intelligent fool can make things bigger and more complex. It takes a touch of genius and a lot of courage to move in the opposite direction."  
 --E. F. Schumacher
@@ -1851,17 +1857,17 @@ He truly embodied the principles of being genuinely interested in other people, 
 --Dr. Seuss
 
 "The fool doth think he is wise, but the wise man knows himself to be a fool."  
---William Shakespeare (As You Like It)
+--William Shakespeare, *As You Like It*
 
 "Age can not not wither, nor custom stale her infinite variety."  
---William Shakespeare (Antony and Cleopatra)
+--William Shakespeare, *Antony and Cleopatra*
 
 "Out, out, brief candle! Life's but a walking  
 shadow, a poor player that struts and frets  
 his hour upon the stage and then is heard  
 no more: it is a tale told by an idiot,  
 full of sound and fury, signifying nothing."  
---William Shakespeare (Macbeth)
+--William Shakespeare, *Macbeth*
 
 "What a piece of work is a man! how noble in reason!  
 how infinite in faculty! in form and moving how  
@@ -1869,7 +1875,7 @@ express and admirable! in action how like an angel!
 in apprehension how like a god! the beauty of the  
 world! the paragon of animals!  
 And yet, to me, what is this quintessence of dust?"  
---William Shakespeare (Hamlet)
+--William Shakespeare, *Hamlet*
 
 "I would challenge you to a battle of wits, but see you are unarmed."  
 --William Shakespeare
@@ -1904,7 +1910,7 @@ And yet, to me, what is this quintessence of dust?"
 "The liar's punishment is not in the least that he is not believed, but that he can not believe any one else."  
 --George Bernard Shaw
 
-"A gentleman is one who puts more into the world than he takes out."  
+"A gentleman is one who puts more in to the world than he takes out."  
 --George Bernard Shaw
 
 "Without art, the crudeness of reality would make it unbearable."  
@@ -1946,6 +1952,9 @@ And yet, to me, what is this quintessence of dust?"
 "The moment we want to believe something, we suddenly see all the arguments for it, and become blind to the arguments against it."  
 --George Bernard Shaw
 
+"Every person who has mastered a profession is a skeptic concerning it."  
+--George Bernard Shaw
+
 "Real wealth is not so much what we have as what we are."  
 --Sterling W. Sill
 
@@ -1964,9 +1973,6 @@ And yet, to me, what is this quintessence of dust?"
 "How much richer would the whole world be if the reinforcers in daily life were more effectively contingent on productive work?"  
 --B. F. Skinner
 
-"All wars are civil wars because all men are brothers."  
---Slogan, Vietnam-era antiwar
-
 "Aww yeah! Are you ready to SOOOORT?!"  
 --Student in CS (David)  
 "It's stunningly easy to please you people isn't it?"  
@@ -1982,7 +1988,7 @@ And yet, to me, what is this quintessence of dust?"
 --Solomon, Proverbs 9:12
 
 "No one can bar the road to truth."  
---Aleksandr Solzhenitsyn, Russian dissident
+--Aleksandr Solzhenitsyn
 
 "Wisdom is the chief element in happiness."  
 --Sophocles
@@ -2002,9 +2008,6 @@ And yet, to me, what is this quintessence of dust?"
 "One of the joys of being born with a dick is that you can do whatever the hell you want and no one really cares." [pays attention]  
 --Joel Stein
 
-"Socialism never took root in America because the poor see themselves not as an exploited proletariat, but as temporarily embarrassed millionaires."  
---John Steinbeck
-
 "The bitterest tears shed over graves are for words left unsaid and for deeds left undone."  
 --Harriet Beecher Stowe, Little Foxes, 1865
 
@@ -2014,7 +2017,7 @@ And yet, to me, what is this quintessence of dust?"
 "Underlying our approach to this subject is our conviction that 'computer science' is not a science and that its significance has little to do with computers. The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called *procedural epistemology*--the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects. Mathematics provides a framework for dealing precisely with notions of 'what is'. Computation provides a framework for dealing precisely with notions of 'how to'."  
 --Gerald and Julie Sussman, Harold Abelson (Structure and Interpretation of Computer Programs)
 
-"If a lump of soot falls into the soup and you can not conveniently get it out, stir it well in and it will give the soup a French taste."  
+"If a lump of soot falls in to the soup and you can not conveniently get it out, stir it well in and it will give the soup a French taste."  
 --Jonathan Swift
 
 "Falsehood flies, and truth comes limping after it."  
@@ -2023,18 +2026,17 @@ And yet, to me, what is this quintessence of dust?"
 <a class="anchor" id="T"></a>
 ### T
 
+"Inquissima haec bellorum condicio est: prospera omnes sibi indicant, aduersa uni imputantur"  
+"This is an unfair thing about war: victory is claimed by all, failure to one alone"  
+modernized as "Victory has a hundred fathers; defeat is an orphan."  
+--Tacitus
+
 "I hesitate to give advice because every major single piece of advice I was given turned out to be wrong and I am glad I didn’t follow them. I was told to focus and I never did. I was told to never procrastinate and I waited 20 years for the Black Swan and it sold 3 million copies. I was told to avoid putting fictional characters in my books and I did put in Nero Tulip and Fat Tony because I got bored otherwise. I was told to not insult the New York Times and the Wall Street Journal, the more I insulted them the nicer they were to me and solicit Op-Eds. I was told to avoid lifting weights for a back pain and became a weightlifter: never had a back problem since.  
 &emsp;&emsp;&emsp;If I had to relive my life I would be even more stubborn and uncompromising than I have been. One should never do anything without skin in the game. If you give advice, you need to be exposed to losses from it."  
 --Nassim Nicholas Taleb
 
 "So when we look at religion and, to some extent ancestral superstitions, we should consider what purpose they serve, rather than focusing on the notion of “belief”, epistemic belief in its strict scientific definition. In science, belief is literal belief; it is right or wrong, never metaphorical. In real life, belief is an instrument to do things, not the end product. This is similar to vision: the purpose of your eyes is to orient you in the best possible way, and get you out of trouble when needed, or help you find a prey at distance. Your eyes are not sensors aimed at getting the electromagnetic spectrum of reality. Their job description is not to produce the most accurate scientific representation of reality; rather the most useful one for survival."  
 --Nassim Nicholas Taleb, *Skin in the Game*
-
-"We live in a stage of politics where legislators seem to regard the passage of laws as much more important than the results of their enforcement."  
---William Taft
-
-"Never try to convey your idea to the audience; it is a thankless and senseless task. Show them life, and they’ll find within themselves the means to assess and appreciate it."  
---Andrei Tarkovsky
 
 "If there's an enormous problem with the world, and we can convince ourselves that over some long but not unreasonable period of time we can make that problem go away, then we don't need a business plan. We should be focused on making the world a better place, and once we do that, the money will come back and find us."  
 --Astro Teller
@@ -2076,7 +2078,7 @@ And yet, to me, what is this quintessence of dust?"
 --Henry David Thoreau
 
 "So little pains do the vulgar take in the investigation of truth, accepting readily the first story that comes to hand."  
---Thucydides (anticipating Fox News)
+--Thucydides
 
 "The whole earth is the sepulchre of famous men; they are honoured not only by columns and inscriptions in their own land, but in foreign nations on memorials graven not on stone but in the hearts and minds of men."  
 --Thucydides
@@ -2092,9 +2094,6 @@ And yet, to me, what is this quintessence of dust?"
 
 "It is amazing how complete is the delusion that beauty is goodness."  
 --Leo Tolstoy
-
-"Money is but a fool's grasp at felicity's apparition."  
---Tomas the poet, Flapjack
 
 "It is amazing what you can accomplish if you do not care who gets the credit."   
 --Harry S. Truman
@@ -2197,8 +2196,8 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 <a class="anchor" id="W"></a>
 ### W
 
-"You can't spell 'engineering' without 'autism'."  
---Charlie Walker
+"You can't spell 'engineer' without 'autism'."  
+--Charlie Walker, 2012
 
 "Fiction's about what it is to be a fucking human being."  
 --David Foster Wallace
@@ -2451,6 +2450,9 @@ Always forgive your enemies--nothing annoys them so much.
 "Man has to awaken to wonder, and so perhaps do peoples. Science is a way of sending him to sleep again."  
 --Ludwig Wittgenstein
 
+"Socialism never took root in America because the poor see themselves not as an exploited proletariat, but as temporarily embarrassed millionaires."  
+--Ronald Wright
+
 <a class="anchor" id="X"></a>
 ### X
 
@@ -2463,6 +2465,9 @@ Always forgive your enemies--nothing annoys them so much.
 "You can only indulge in so many pleasurable activities and behaviors before you realize that you really just want to feel good about who you are rather than what you're doing in the moment."  
 --Anonymous Yakker (ATL, 7/2/2015)
 
+"I have found that people who can resist temptation invariably lead depressingly stunted lives."  
+--Sheeni Saunders, *Youth in Revolt*
+
 <a class="anchor" id="Z"></a>
 ### Z
 
@@ -2470,11 +2475,14 @@ Always forgive your enemies--nothing annoys them so much.
 "It's better to die on your feet than to live on your knees."  
 --Emiliano Zapata
 
-"Life is trouble. Only Death is not. To be alive is to undo your belt and look for trouble!"  
---[Alexis Zorba](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
+"Are we ready to drop the base?"  
+--Kathy Zhang, titrating NaOH, Fall 2013
+
+"Life is trouble. Only Death is not."  
+--Alexis Zorba, [*Zorba the Greek*](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
 
 "On a deaf man's door, you can knock forever."  
---[Alexis Zorba](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
+--Alexis Zorba, *Zorba the Greek*
 
 "You've got everything except one thing: Madness. A man needs a little madness or else he never dares cut the rope and be free."  
---[Alexis Zorba](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
+--Alexis Zorba, *Zorba the Greek*
