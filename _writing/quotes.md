@@ -186,6 +186,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Although golf was originally restricted to wealthy, overweight Protestants, today it's open to anybody who owns hideous clothing."  
 --David Barry
 
+"I think that what flat earthers can offer us is a way to have 99.9% of people say 'Well, that's ridiculous. *Imagine* believing that!' and then to turn it around and say 'How are you a flat earther? Where are you--and your people--the protagonist in a Disney movie? Where are you constructing your reality?'"  
+--Tim Urban, *Behind the Curve*, 2018
+
 "Drawing on my fine command of the English language, I said nothing."  
 --Robert Benchley
 
@@ -1213,6 +1216,9 @@ may God hold you in the palm of his hand."
 "How can I adopt a creed which, preferring the mud to the fish, exalts the boorish proletariat above the bourgeoisie and the intelligentsia, who with all their faults, are the quality of life and surely carry the seeds of all human achievement?"  
 --John Maynard Keynes
 
+"The difficulty lies, not in the new ideas, but in escaping from the old ones, which ramify, for those brought up as most of us have been, into every corner of our minds."  
+--John Maynard Keynes
+
 "I came to understand that radicalization is about pain. It's the pain of young people facing racism, exclusion from society, isolation from the opposite sex, overwhelming pressure from families and communities, a crisis of identity, and feeling powerless and insignificant. Yes, many of them have material comforts, but I believe too many of them lead lives of emotional poverty."  
 --Deeyah Khan, *Jihad*
 
@@ -1568,7 +1574,7 @@ But nothing happened every time I tried"
 <a class="anchor" id="P"></a>
 ### P
 
-"Chance favors only the prepared mind."  
+"[C]hance favors only the prepared mind."  
 --Louis Pasteur
 
 "If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing."  
@@ -1642,6 +1648,12 @@ But nothing happened every time I tried"
 
 "I don't know if God exists, but it would be better for His reputation if He didn't."  
 --Jules Renard
+
+"Let everything happen to you  
+Beauty and terror  
+Just keep going  
+No feeling is final."  
+--Rainer Maria Rilke
 
 "He who lives without folly isn't so wise as he thinks."  
 --Francois de La Rochefoucauld
@@ -1980,6 +1992,9 @@ And yet, to me, what is this quintessence of dust?"
 
 "The test of courage comes when we are in the minority. The test of tolerance comes when we are in  the majority."  
 --Ralph W. Sockman
+
+"Every difficulty is an opportunity for excellence."  
+--Brian Solar's commanding officer in the Army
 
 "Oppression breeds the power to oppose it."  
 --[Andrew Solomon](https://www.ted.com/talks/andrew_solomon_how_the_worst_moments_in_our_lives_make_us_who_we_are)
