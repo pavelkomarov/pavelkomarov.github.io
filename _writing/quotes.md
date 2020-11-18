@@ -705,7 +705,7 @@ And know the place for the first time.
 --somewhat dubiously attributed to Henry Ford
 
 "The shadow proves the sunshine."  
---Jon Foremanid="F
+--Jon Foreman
 
 <a class="anchor" id="frankel"></a>
 "Woe to him who saw no more sense in his life, no aim, no purpose, and therefore no point in carrying on. He was soon lost. The typical reply with which such a man rejected all encouraging arguments was, 'I have nothing to expect from life any more.' What sort of answer can one give to that?  
@@ -1078,6 +1078,9 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 "Most people are brought up to believe they are as good as the person next to them, I was told I was better."  
 --Katherine Hepburn
 
+"Don't wait. The time will never be just right."  
+--Napoleon Hill
+
 "Primum non nocere"  
 "Primarily do no harm"  
 --Hippocratic Oath
@@ -1416,11 +1419,17 @@ But nothing happened every time I tried"
 "I think that a guy who's always interested in the condition of the world and changing it either has no problems of his own or refuses to face them."  
 --Henry Miller, *Reds* (1981)
 
+"The secret of change is to focus all your energy not on fighting the old, but on building the new."  
+--[Dan Millman's Socrates](https://quoteinvestigator.com/2013/05/28/socrates-energy/)
+
 "Understanding the past enables us to see the present more clearly."  
 --Steven Mithen
 
 "I think that inside every adult is the heart of a child. We just gradually convince ourselves that we have to act more like adults."  
 --Shigeru Miyamoto
+
+"No plan survives contact with the enemy."  
+--Helmuth von Moltke the Elder (the catchy translation)
 
 "I've suffered thousands of tragedies in my life, most of which never happened."  
 --Michel de Montaigne (paraphrased from French)
@@ -1434,6 +1443,10 @@ But nothing happened every time I tried"
 
 "If you want a flying car, just put some wheels on a helicopter"  
 --[Elon Musk](https://www.youtube.com/watch?v=ycPr5-27vSI)﻿
+
+"Any existing specification is wrong. Any existing manufacturing method is wrong. Process, equipment: It's wrong, it's just a question of how wrong. Quote, Elon Musk."  
+"Yes, exactly. We're wrong; it's just a question of how wrong. Just try to be less wrong."  
+--[Elon, as paraphrased by Drew](https://www.youtube.com/watch?v=l6T9xIeZTds)
 
 <a class="anchor" id="N"></a>
 ### N
@@ -1817,6 +1830,10 @@ He truly embodied the principles of being genuinely interested in other people, 
 "If you want to build a ship, don't herd people together to collect wood, and don't assign them tasks and work, but teach them to long for the endless immensity of the sea."  
 --Antoine de Saint-Exupery
 
+"Il semble que la perfection soit atteinte non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retrancher."  
+"It seems that perfection is achieved not when there is nothing more to add, but when there is nothing more to take away"  
+--Antoine de Saint-Exupery
+
 "Well it's your world now. Have fun with empowerment. It seems to make everyone that gets it really happy."  
 --Rick Sanchez
 
@@ -2019,6 +2036,9 @@ And yet, to me, what is this quintessence of dust?"
 
 "[W]e’ve misunderstood Frankenstein. The lesson is not that we shouldn’t try to create new technologies—or create life, even—the lesson is that we never abandon our creations. That’s what Dr. Frankenstein did. He saw the creation, it wasn’t like he expected it, and he abandoned it. That’s what turned his creature into a monster.”  
 --Michael Shellenberger
+
+"I can eat a shit sandwich; you just have to tell me how long it's gonna be."  
+--Allen Starke's coworker at Harris
 
 "One of the joys of being born with a dick is that you can do whatever the hell you want and no one really cares." [pays attention]  
 --Joel Stein
@@ -2416,6 +2436,11 @@ Lord, I could never show you anything as beautiful as you."
 
 "She put on happiness like a loose dress over pain I'll never know."  
 --Aaron Weiss (Silencer)
+
+"Does my misery feed  
+a metaphysical need  
+that's long since passed me by?"  
+--Aaron Weiss (Winter Solstice)
 
 “Adapt or perish, now as ever, is nature’s inexorable imperative.”  
 --H.G. Wells
