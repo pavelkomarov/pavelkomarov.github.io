@@ -285,6 +285,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "They may forget what you said, but they will never forget how you made them feel."  
 --Carl Buehner
 
+"We’re here to laugh at the odds and live our lives so well that Death will tremble to take us."  
+--Charles Bukowski
+
 "A simple answer that is clear and precise will always have more power in the world than a complex one that is true."  
 --Nolan Bushnell
 
@@ -398,6 +401,12 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Two possibilities exist; ether we are alone in the universe, or we are not. Both are equally terrifying."  
 --Arthur C. Clarke
 
+"Often when people discuss behavior change, when they talk about habits they want to shift, it’s usually centered around some kind of goal. They start with like 'Oh I want to lose 40lbs' or 'I'd like to double my income' or 'I want to reduce stress.' They have some kind of outcome that they want. And so the implicit assumption behind that is 'If I can just achieve this thing, then I'll be the kind of person I want to be. Then I'll have', you know, 'the life I wanna have.'...Most of your outcomes in life are a lagging measure of your habits. So for example your knowledge is a lagging measure of your reading and learning habits. Your bank account is a lagging measure of your financial habits. Your physical fitness is a lagging measure of your eating and training habits. Even the clutter on your desk at work or in the garage or in your bedroom is a lagging measure of your cleaning habits. And so if you get really motivated and set a big goal like 'I have the goal to clean my room', and then you spend a couple hours doing that, you have a clean room--for now. But if you don’t change the sloppy, messy habits that led to a dirty room in the first place, then you turn around two weeks later, and you’ve got a dirty room again. So we often think that the outputs are the things that need to change, but it's not really the results that need to change; it’s like 'Fix the inputs, and the outputs will fix themselves.'...Process over outcome."  
+--[James Clear](https://samharris.org/subscriber-extras/200-creatures-habit/) (27min)
+
+"True behavior change is really identity change."  
+--James clear
+
 "It's not so bad getting old...As somebody once said to me--He was a general in the British Army--he said 'Very little matters much, and most things don't matter at all.' And I think now that that's sunk in--I think it's hard when you're younger to realize that. But very little matters, really."  
 --[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=0m30s)
 
@@ -418,6 +427,14 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "What I notice about scientists is they don't want to know about the philosophy of science." \[followed by great annecdote about Steven J. Gould and description of [a study](http://deanradin.com/articles/2004%20presentiments.pdf) [suggesting presentiment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3971164/)\]  
 --[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=33m13s)
+
+"Creativity is not a talent. It is *not* a talent. It is a way of operating."
+--[John Cleese](https://www.youtube.com/watch?v=Pb5oIIPO62g&t=4m26s)
+
+<a class="anchor" id="cleese"></a>
+"By the Closed Mode I mean the mode that we are in most of the time when we're at work. We have inside us a feel that there's lots to be done, and we have to get on with it if we're going to get through it all. It's an active, probably slightly anxious mode, although the anxiety can be exciting and pleasurable. It's a mode in which we're probably a little impatient, if only with ourselves. It has a little tension in it, not much humor. It's a mode in which we're very purposeful, and it's a mode in which we can get very stressed and even a bit manic, but not creative.
+&emsp;&emsp;&emsp;By contrast the Open Mode is a relaxed, expansive, less purposeful mode, in which we're probably more contemplative, more inclined to humor, which always accompanies a wider perspective, and consequently more playful. It's a mood in which curiosity for its own sake can operate, because we're not under pressure to get a specific thing done quickly. We can play. And that is what allows our natural creativity to surface."
+--[John Cleese](https://www.youtube.com/watch?v=Pb5oIIPO62g&t=7m24s) See also [Raymond](#raymond)
 
 "On the show he [Fred Rogers] would say 'I love you just the way you are.' One day I said 'Fred, were you talking to me?' And he looked at me and he said 'Yes, I've been talking to you for two years. You finally heard me today.' And I just collapsed in to his arms. I-I started crying. That's when I knew that I loved him. No man had ever told me he loved me like that. I needed to hear it all my life."  
 --Francois Clemmens, co-star on *Mr. Rogers' Neighborhood*
@@ -446,6 +463,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "Nothing that results from human progress is the result of unanimous consent. And those who are enlightened before the others are condemned to pursue that light in spite of others."  
 --[1492, Conquest of Paradise](https://www.youtube.com/watch?v=WYeDsa4Tw0c) (not a real Columbus quote)
+
+"Real Knowledge is to know the extent of one's ignorance."  
+--Confucius
 
 "Ethics are so annoying. I avoid them on principle."  
 --Darby Conley
@@ -522,6 +542,12 @@ So do it."
 "So there was a kid back in February from, ah, Baltimore--ah, 14 years old [Jack Andraka]--who, ah, had access to Jstor. And he'd been spelunking through Jstor after reading something, and he figured out a way to do early tests for pancreatic cancer [by infusing a conductive carbon mesh with a chemical that bonds to a biomarker from blood of a testee, thereby changing the conductivity of the material]. And pancreatic cancer kills the shit out of you because we detect it way too late: By the time we detect it, it's already too late to do anything about it. Ah, and, um, He sent emails off to the entire oncology department at Johns Hopkins, you know, hundreds of them .. and most of them ignored it, right. But one of them, like, sent him an email back and said 'This is not an entirely stupid idea. Why don't you come on over.' And this kid worked evenings and weekends with this researcher, and in February I heard him on the news, just a couple of weeks after Aaron died, when Aaron was in the news a lot. [*pauses and tears up*] Sorry [*breathes*] And, ah, he said, um, the reason he was on the news is cause they'd done it; they were shipping, ah, an early test for pancreatic cancer that was gonna save lives. And he said, ah, this is why what Aaron did was so important: Because you never know, right? This truth of the universe is not only something [*wipes tear*] that policy makers use to figure out, you know, what the speed limit should be; it's where the, the thing that's gonna keep, you know, your kid from dying of pancreatic cancer comes from. And, without access, the person who might come up with the thing that's got your number on it may never find that answer."  
 --Cory Doctorow (The Internet's Own Boy)
 
+"When I changed how I looked at myself, it changed how the world interacted with me."  
+--[James R. Doty](https://samharris.org/podcasts/219-power-compassion/)
+
+"It looks tame once it’s all laid out. Those little boxes help a lot. In fact, little boxes are the chief tool of computer science."  
+--[Gustavo Duarte](https://manybutfinite.com/post/journey-to-the-stack/)
+
 "Only a man who has felt ultimate despair is capable of feeling ultimate bliss." 
 Also traslated as: "There is neither happiness nor misery in the world; there is only the comparison of one state with another, —nothing more. He who has felt the deepest grief is best able to experience supreme happiness. We must have felt what it is to die, Morrel, that we may appreciate the enjoyments of living."  
 --Alexandre Dumas, *The Count of Monte Cristo*
@@ -546,6 +572,9 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 
 "They say marriages are made in Heaven. But so is thunder and lightning."  
 --Clint Eastwood
+
+"I ruined my last suit jacket when I got drunk and let a kraft single melt in the front pocket"  
+--Kevin Eickholt
 
 "Creativity is intelligence having fun."  
 --Albert Einstein
@@ -601,7 +630,13 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 "Any fool can know. The point is to understand."  
 --Albert Einstein
 
+"Try not to become a person of success, but rather try to become a person of value."  
+--Albert Einstein
+
 "A sense of humor is part of the art of leadership, of getting along with people, of getting things done."  
+--Dwight D. Eisenhower
+
+"Plans are nothing; Planning is everything."  
 --Dwight D. Eisenhower
 
 "Blessed is the man who, having nothing to say, abstains from giving wordy evidence of the fact."  
@@ -711,6 +746,9 @@ And know the place for the first time.
 "Woe to him who saw no more sense in his life, no aim, no purpose, and therefore no point in carrying on. He was soon lost. The typical reply with which such a man rejected all encouraging arguments was, 'I have nothing to expect from life any more.' What sort of answer can one give to that?  
 &emsp;&emsp;&emsp;What was really needed was a fundamental change in our attitude toward life. We had to learn ourselves and, furthermore, we had to teach the despairing men, that *it did not really matter what we expected from life, but rather what life expected from us.* We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life--daily and hourly. Our answer must consist, not in talk and meditation, but in right action and in right conduct. Life ultimately means taking the responsibility to find the right answer to its problems and to fulfill the tasks which it constantly sets for each individual."  
 --Viktor Frankel, *Man's Search for Meaning*
+
+"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."  
+--Victor Frankel
 
 "The constitution only guarantees the American people the right to pursue happiness. You have to catch it yourself."  
 --Benjamin Franklin
@@ -854,7 +892,7 @@ And know the place for the first time.
 --John Gall
 
 "...the necessity of a New Breed of Systems-student--one who, having absorbed the Axioms here collected and, more importantly, the *spirit* infusing them, can progress beyond technology to the kind of wisdom the world needs. The world already suffers from too many experts. They tell us more than we need to know or dare to ask about ingenious machines, fusion bombs, and management science. What we really need to know is much more subtle.<br/>
-&emsp;&emsp;&emsp;We need to know if setting up Management by Objectives in the Universities will bring on another Dark Age; if placing a microphone in the Oval Office can bring down the government; if permitting men and women everywhere the freedom to choose their own way of life and to make their own decisions can lead to a better world. For such questions your run-of-the-mill expert is of little value. What is required is a special, elusive talent, really an intuition--a feel for the wild, wierd, wonderful, and paradoxical ways of Large Systems. We offer no formula for recognizing or cultivating such a talent. But we suggest that its possessor will, more likely than not, have cut his/her eyeteeth on the Axioms of General Systemantics."  
+&emsp;&emsp;&emsp;We need to know if setting up Management by Objectives in the Universities will bring on another Dark Age; if placing a microphone in the Oval Office can bring down the government; if permitting men and women everywhere the freedom to choose their own way of life and to make their own decisions can lead to a better world. For such questions your run-of-the-mill expert is of little value. What is required is a special, elusive talent, really an intuition--a feel for the wild, weird, wonderful, and paradoxical ways of Large Systems. We offer no formula for recognizing or cultivating such a talent. But we suggest that its possessor will, more likely than not, have cut his/her eyeteeth on the Axioms of General Systemantics."  
 --John Gall
 
 <a class="anchor" id="systemantics"></a>
@@ -1009,6 +1047,18 @@ track one down, patch it around,
 <a class="anchor" id="H"></a>
 ### H
 
+"When you march to the beat of your own drum, you risk losin' the band."  
+--Bos, *Halt and Catch Fire*
+
+"You go through life, and you have this idea of who you are and what you do, and then..you discover it's total bullshit. It's a defense mechanism. And once you stop defending yourself, you can be all these other things."  
+--Cameron Howe, *Halt and Catch Fire*
+
+"I'm so sick of hearing about the future. What is that!? The future is just another crappy version of the present. It's--it's some bribe people offer you to make you do what they want instead of what you want."  
+--Cameron Howe, *Halt and Catch Fire*
+
+"Making him the villain takes the blame away."
+--Cameron Howe, *Halt and Catch Fire*
+
 "When somebody calls themselves a job creator, they aren't describing the economy, although that's what it sounds like. What they are really doing is making a claim on status, privilege and power."  
 --Nick Hanauer
 
@@ -1020,6 +1070,9 @@ track one down, patch it around,
 
 "The next time something happens in your life that makes you angry or afraid or sad, how long will you spend locked in the prison of one of those emotions? And what will you do there? What indelible mark might you make in your life or in our world on the basis of one of those emotions?"  
 --[Sam Harris](https://samharris.org/podcasts/145-information-war/)
+
+"You're making yourself based on what you're doing with your attention and the kinds of habits you're ramifying. And you are, quite literally, sculpting your neural circuitry in the mean time...All of these moments matter, and they deliver to you your future self who will have whatever competencies or weaknesses or mounting dissatisfaction with life to deal with. And if your life doesn't feel the way you want it to feel, there's a lot you have done on purpose and by accident to bring yourself to this point, and there's a lot you may yet do to feel differently."  
+--[Sam Harris](https://samharris.org/subscriber-extras/226-price-distraction/) (39min) on brain plasticity and the principle of getting more of what you pay attention to
 
 "There are those who will say terrible things about JavaScript. Many of these things are true. When I was required to write something in JavaScript for the first time, I quickly came to despise it. It would accept almost anything I typed but interpret it in a way that was completely different from what I meant. This had a lot to do with the fact that I did not have a clue what I was doing, of course, but there is a real issue here: JavaScript is ridiculously liberal in what it allows. The idea behind this design was that it would make programming in JavaScript easier for beginners. In actuality, it mostly makes finding problems in your programs harder because the system will not point them out to you."  
 --Marijn Haverbeke, *Eloquent Javascript*
@@ -1092,6 +1145,9 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 --Sherlock Holmes
 
 "I am a brain, Watson. The rest of me is a mere appendix."  
+--Sherlock Holmes
+
+"To a great mind, nothing is little."  
 --Sherlock Holmes
 
 "You have a grace upon your words"  
@@ -1267,6 +1323,9 @@ may God hold you in the palm of his hand."
 "Every relationship is like fine piece of crystal: Beautiful and unique, but if you tap even lightly on just the the wrong spot, it can shatter."  
 --Lubomir Komarov
 
+"I'm full of useless trivia and information no one cares about except me."  
+--Lubomir Komarov
+
 "Justice Scalia called the Court's interpretation of the Obamacare ruling 'pure applesauce'. God, I love this country."  
 --Chris Komarov, 30th June 2015
 
@@ -1291,6 +1350,9 @@ may God hold you in the palm of his hand."
 
 <a class="anchor" id="L"></a>
 ### L
+
+"The weight of the evidence should be proportioned to the strangeness of the facts."  
+--Principle of Laplace
 
 "What some people mistake for the high cost of living is really the cost of high living."  
 --Doug Larson
@@ -1369,6 +1431,9 @@ may God hold you in the palm of his hand."
 "As I walked out the door toward the gate that would lead to my freedom, I knew if I didn't leave my bitterness and hatred behind, I'd still be in prison."  
 --Nelson Mandela
 
+"The problem is when we’re on autopilot for so long that we forget we’re on autopilot. Because when we’re not even aware of our own habits, routines, impulses, and reactions, then we no longer control them—they control us."  
+--[Mark Manson](https://markmanson.net/self-awareness)
+
 "Our name is Legion, for we are many."  
 --Mark 5:9
 
@@ -1391,6 +1456,12 @@ Often satirized as "Smile because it's over; cry because it happened."
 
 "Irrigation of the land with seawater desalinated by fusion power is ancient. It's called 'rain'."  
 --Michael McClary
+
+"Grief is love with nowhere to go."  
+--Magnum BS on [Nora McInerny's TED talk](https://www.youtube.com/watch?v=khkJkR-ipfw)
+
+"Someone in your life needs to hear that they matter, that they are loved, that they have a future. Be the one to tell them."  
+--Toby McKeehan
 
 "People say we need religion when what they really mean is we need police."  
 --H. L. Mencken
@@ -1450,9 +1521,6 @@ But nothing happened every time I tried"
 
 <a class="anchor" id="N"></a>
 ### N
-
-"I am committed to making Microsoft the best place for smart, curious, ambitious people to do their best work."  
---Satya Nadella
 
 "[T]he true scarce commodity is increasingly human attention."  
 --Satya Nadella
@@ -1599,6 +1667,9 @@ But nothing happened every time I tried"
 "I was to blame for not having pressed my point. I had given in to authority when I believed I was right. If you are sure of your facts, you should defend your position."  
 --Cecilia Payne
 
+"It didn't help that the output was so criminally long with each run that I lost track of where it had dumped that mega-list of goals; if my terminal continued out the top of my monitor, I'm willing to bet that list would be in outer space. I wasn't feeling like scrolling into outer space that day, and I definitely didn't feel like running mvn with no arguments again just to print another copy, so I looked into my other options in the vain hope that they'd be simpler."  
+--[Costya Perepelitsa](https://qr.ae/TWAQA6)
+
 "Got back from racket ball, was like 'I'll just take a quick nap.' Woke up at 2am like '*gasp* What year is it?'"
 --Luis Pérez, 3rd March 2015
 
@@ -1653,6 +1724,10 @@ But nothing happened every time I tried"
 "Life is a comedy to those who think, a tragedy to those who feel."  
 --Jean Racine
 
+"Motivation conditions cognition."  
+--Jonathan Rauch
+
+<a class="anchor" id="raymond"></a>
 "Rather, I want to suggest what may be a wider lesson about software, (and probably about every kind of creative or professional work). Human beings generally take pleasure in a task when it falls in a sort of optimal-challenge zone; not so easy as to be boring, not too hard to achieve. A happy programmer is one who is neither underutilized nor weighed down with ill-formulated goals and stressful process friction. *Enjoyment predicts efficiency.*"  
 --Steven Raymond, [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
@@ -2016,6 +2091,9 @@ And yet, to me, what is this quintessence of dust?"
 "Oppression breeds the power to oppose it."  
 --[Andrew Solomon](https://www.ted.com/talks/andrew_solomon_how_the_worst_moments_in_our_lives_make_us_who_we_are)
 
+"There is no contradiction between loving someone and feeling burdened by that person. Indeed, love tends to magnify the burden."  
+--Andrew Solomon, *Far From the Tree*
+
 "Wisdom is its own reward."  
 --Solomon, Proverbs 9:12
 
@@ -2212,6 +2290,12 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 "Let all come who by merit deserve the most reward."  
 --UCL Motto
 
+"I think that what flat-earthers can offer us is a way to have 99.9% of people say 'Well, that's ridiculous. *Imagine* believing that.' and then to turn it around and say 'How are you a flat-earther? Where are you and your people the protagonist in a Disney movie? Where are you constructing your reality?'"  
+--Tim Urban, *Behind the Curve* (1:32:23)
+
+"Back when I was working on the Tesla and SpaceX posts, I asked Elon why he went into engineering and not science, and he explained that when it comes to progress, 'engineering is the limiting factor'. In other words, the progress of science, business, and industry are all at the whim of the progress of engineering. If you look at history, this makes sense: Behind each of the greatest revolutions in human progress is an engineering breakthrough."  
+--[Tim Urban](https://waitbutwhy.com/2017/04/neuralink.html)
+
 <a class="anchor" id="V"></a>
 ### V
 
@@ -2240,8 +2324,18 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 "Blind certainty: A closed-mindedness that amounts to an imprisonment so total that the prisoner doesn't even know he's locked up."  
 --David Foster Wallace
 
-"If you worship money and things, if they are where you tap real meaning in life, then you will never have enough. ... Worship your own body and beauty and sexual allure and you will always feel ugly, and when time and age start showing, you will die a million deaths before they finally plant you. ... Worship power; you will end up feeling weak and afraid, and you will need ever more power over others to numb you to your own fear. Worship your intellect, being seen as smart, you will end up feeling stupid, a fraud, always on the verge of being found out."  
---David Foster Wallace
+"But if you really *learn how to think*, how to pay attention, then you will know you have other options. It will actually be within your power to experience a crowded, hot, slow, consumer-hell-type situation as not only meaningful, but sacred, on fire with the same force that lit the stars: love, fellowship, the mystical oneness of all things deep down--not that that mystical stuff's necessarily true; the only thing that's capital-T True is that you get to decide how you're gonna try to see it.
+&emsp;&emsp;&emsp;This, I submit, is the freedom of real education, of learning how to be 'well adjusted': You get to consiously decide what has meaning and what doesn't. You get to decide what to *worship*. Because here's something else that's weird but true: In the day-to-day trenches of adult life, there is actually no such thing as atheism. There is no such thing as not worshiping. Everybody worships. The only choice we get is *what* to worship. And a compelling reason for *maybe* choosing some sort of God or spiritual-type thing to worship, be it JC or Allah, be it Yahweh or the Wiccan mother goddess or the four noble truths or some inviolable set of ethical principles, is that prettymuch anything else you worship will *eat you alive*.
+&emsp;&emsp;&emsp;If you worship money and things, if they are where you tap real meaning in life, then you will never have enough, never feel you have enough. It's the truth. Worship your own body and beauty and sexual allure, and you will always feel ugly. And when time and age start showing, you will die a million deaths before they finally plant you.
+&emsp;&emsp;&emsp;On one level we all know this stuff already. It's been codified as myths, proverbs, cliches, epigrams, parables, the skeleton of every great story. The whole trick is keeping the truth up front in daily consciouness.
+&emsp;&emsp;&emsp;Worship power; you will end up feeling weak and afraid, and you will need ever more power over others to numb you to your own fear. Worship your intellect, being seen as smart, you will end up feeling stupid, a fraud, always on the verge of being found out.
+&emsp;&emsp;&emsp;Look, the insidious thing about these forms of worship is not that they're evil or sinful; it is that they are *unconscious*. They are default settings. They're the kind of worship you just gradually slip in to, day after day, getting more and more selective about what you see and how you measure value, without ever being fully aware that that's what you're doing.
+&emsp;&emsp;&emsp;And the so-called 'real world' will not discourage you from operating on your default settings, because the so-called 'real world' of *men* and *money* and *power* hums merrily along on the fuel of *fear* and *anger* and *frustration* and *craving* and the worship of self. Our own present culture has harnessed these forces in ways that have yielded extraordinary wealth and comfort and personal freedom, the freedom all to be lords of our own tiny skull-sized kingdoms, alone at the center of all creation.
+&emsp;&emsp;&emsp;This kind of freedom has much to recommend it. But of course there are all different kinds of freedom, and the kind that is most precious you will not hear much talked about in the great outside world of wanting and achieving and displaying. The really important kind of freedom involves *attention* and *awareness* and *discipline* and being able truly to care about other people and to sacrifice for them, over and over, in myriad petty little unsexy ways, every day. That is real freedom. That is being educated and understanding *how to think*.
+&emsp;&emsp;&emsp;The alternative is unconsciousness, the default setting, the *rat race*, the constant gnawing sense of having had and lost some infinite thing. ...
+&emsp;&emsp;&emsp;None of this stuff is really about morality or religion or dogma or big fancy questions of life after death. The capital-T Truth is about life *before* death. It is about the *real* value of a *real* education, which has almost nothing to do with knowledge and everything to do with simple awareness, awareness of what is so real and essential, so hidden in plain sight all around us all the time that we have to keep reminding ourselves, over and over: 'This is water.' 'This is water.'
+&emsp;&emsp;&emsp;It is unimaginably hard to do this, to stay conscious and alive in the adult world day in and day out, which means yet another grand cliche turns out to be true: Your education really is the job of a lifetime, and it commences now. I wish you way more than luck."  
+--[David Foster Wallace](https://www.youtube.com/watch?v=8CrOL-ydFMI&t=17m3s)
 
 "The world is a tragedy to those who feel, but a comedy to those who think."  
 --Horace Walpole
@@ -2251,6 +2345,19 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 
 "The Jack of one trade is the connector of none."  
 --[Eric Weinstein](https://www.youtube.com/watch?v=MmXq97do-tQ&t=2h37m)
+
+"I'm down by the tracks  
+Watching trains go by  
+To remind me  
+There are places that aren't here"  
+--Aaron Weiss, (Carousel)
+
+"What good's a single wind chime hanging quiet all alone?"  
+--Aaron Weiss, (In A Market Dimly Lit)
+
+"And let there be no doubt:  
+So many things and pictures hold us"  
+--Aaron Weiss, (Red Cow)
 
 "Run on, Rabbit, run!  
 Before the East sky wakes the sun!  
