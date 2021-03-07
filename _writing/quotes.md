@@ -195,8 +195,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Although golf was originally restricted to wealthy, overweight Protestants, today it's open to anybody who owns hideous clothing."  
 --David Barry
 
-"I think that what flat earthers can offer us is a way to have 99.9% of people say 'Well, that's ridiculous. *Imagine* believing that!' and then to turn it around and say 'How are you a flat earther? Where are you--and your people--the protagonist in a Disney movie? Where are you constructing your reality?'"  
---Tim Urban, *Behind the Curve*, 2018
+Marianne: "*He* won the war."  
+Liz: "Nobody won the war. Each looks after his own wounds. We made peace."  
+--*La Belle Noiseuse*, on cooperation and conflict between partners
 
 "Drawing on my fine command of the English language, I said nothing."  
 --Robert Benchley
@@ -224,6 +225,9 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "You know what makes you feel okay about losing? Winning."  
 --[Molly Bloom](https://en.wikipedia.org/wiki/Molly%27s_Game)
+
+"A fool always finds a greater fool to admire him."  
+--Nicolas Boileau
 
 "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge."  
 --Daniel J. Boorstin
@@ -463,6 +467,12 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "So congratulations on the extra effort, Mercedes, which of course was a complete waste because Bloomberg Businessweek crunched the data this week comparing the satisfaction rankings with each company's stock price and found that '...customer-service scores have no relevance to stock market returns... the most-hated companies perform better...' and 'Your contempt really, truly doesn't matter... If anything, it might hurt company profits to spend money making customers happy.' That's right, folks, the Free Market has spoken, and it said 'Fuck you.'"  
 --Stephen Colbert
 
+"There are good and bad features of modern family life, in which relations are often based more on ties of affection than on duty or obedience. In these times, the people we choose to be close to represent not only a preference, but a profound statement of our identities. We are freed to surround ourselves with those who reflect our deepest values—parents included. We feel empowered to call on loved ones to be more sensitive to our needs, our emotions, and our aspirations. This freedom enables us to become untethered and protected from hurtful or abusive family members.  
+&emsp;&emsp;&emsp;Yet in less grave scenarios our American love affair with the needs and rights of the individual conceals how much sorrow we create for those we leave behind. We may see cutting off family members as courageous rather than avoidant or selfish. We can convince ourselves that it’s better to go it alone than to do the work it takes to resolve conflict. Some problems may be irresolvable, but there are also relationships that don’t need to be lost forever.  
+&emsp;&emsp;&emsp;It is sometimes tempting to see family members as one more burden in an already demanding life. It can be hard to see their awkward attempts to care for us, the confounding nature of their struggles, and the history they carry stumbling into the present. It can be difficult to apologize to those we’ve hurt and hard to forgive those who have hurt us. But sometimes the benefits outweigh the costs. Tara Westover wrote in her memoir, *Educated*, 'I know only this: that when my mother told me she had not been the mother to me that she wished she’d been, she became that mother for the first time.'  
+&emsp;&emsp;&emsp;We are all flawed. We should have that at the forefront of our minds when deciding who to keep in or out of our lives—and how to respond to those who no longer want us in theirs."  
+--[Joshua Coleman](https://www.theatlantic.com/family/archive/2021/01/why-parents-and-kids-get-estranged/617612/)
+
 "Everybody wanna be a bodybuilder, but don't nobody wanna lift no heavy-ass weight."  
 --Ronnie Coleman
 
@@ -532,6 +542,31 @@ So do it."
 ...  
 &emsp;&emsp;&emsp;The world that produced John Kerry and George Bush is indeed giving us our next generation of leaders. The kid who’s loading up on AP courses junior year or editing three campus publications while double-majoring, the kid whom everyone wants at their college or law school but no one wants in their classroom, the kid who doesn’t have a minute to breathe, let alone think, will soon be running a corporation or an institution or a government. She will have many achievements but little experience, great success but no vision. The disadvantage of an elite education is that it’s given us the elite we have, and the elite we’re going to have."  
 --William Deresiewicz
+
+"We have a crisis of leadership in America because our overwhelming power and wealth, earned under earlier generations of leaders, made us complacent, and for too long we have been training leaders who only know how to keep the routine going. Who can answer questions, but don’t know how to ask them. Who can fulfill goals, but don’t know how to set them. Who think about how to get things done, but not whether they’re worth doing in the first place. What we have now are the greatest technocrats the world has ever seen, people who have been trained to be incredibly good at one specific thing, but who have no interest in anything beyond their area of expertise. What we don’t have are leaders.  
+&emsp;&emsp;&emsp;What we don’t have, in other words, are thinkers. People who can think for themselves. People who can formulate a new direction: for the country, for a corporation or a college, for the Army—a new way of doing things, a new way of looking at things. People, in other words, with *vision*.  
+...  
+[T]rue leadership means being able to think for yourself and act on your convictions.  
+...  
+*Thinking means concentrating on one thing long enough to develop an idea about it.* Not learning other people’s ideas, or memorizing a body of information, however much those may sometimes be useful. Developing your own ideas. In short, thinking for yourself....  
+&emsp;&emsp;&emsp;I find for myself that my first thought is never my best thought. My first thought is always someone else’s; it’s always what I’ve already heard about the subject, always the conventional wisdom. It’s only by concentrating, sticking to the question, being patient, letting all the parts of my mind come into play, that I arrive at an original idea. By giving my brain a chance to make associations, draw connections, take me by surprise. And often even that idea doesn’t turn out to be very good. I need time to think about it, too, to make mistakes and recognize them, to make false starts and correct them, to outlast my impulses, to defeat my desire to declare the job done and move on to the next thing.  
+&emsp;&emsp;&emsp;I used to have students who bragged to me about how fast they wrote their papers. I would tell them that the great German novelist Thomas Mann said that a writer is someone for whom writing is more difficult than it is for other people. The best writers write much more slowly than everyone else, and the better they are, the slower they write. James Joyce wrote *Ulysses*, the greatest novel of the 20th century, at the rate of about a hundred words a day—half the length of the selection I read you earlier from *Heart of Darkness*—for seven years. T.S. Eliot, one of the greatest poets our country has ever produced, wrote about 150 pages of poetry over the course of his entire 25-year career. That’s half a page a month. So it is with any other form of thought. You do your best thinking by slowing down and concentrating.  
+&emsp;&emsp;&emsp;...Think about what the word [concentrating] means. It means gathering yourself together into a single point rather than letting yourself be dispersed everywhere into a cloud of electronic and social input. It seems to me that Facebook and Twitter and YouTube—and just so you don’t think this is a generational thing, TV and radio and magazines and even newspapers, too—are all ultimately just an elaborate excuse to run away from yourself. To avoid the difficult and troubling questions that being human throws in your way. Am I doing the right thing with my life? Do I believe the things I was taught as a child? What do the words I live by—words like *duty, honor, and country*—really mean? Am I happy?  
+&emsp;&emsp;&emsp;...Unless you know who you are, how will you figure out what you want to do with the rest of your life? Unless you’re able to listen to yourself, to that quiet voice inside that tells you what you really care about, what you really believe in—indeed, how those things might be evolving under the pressure of your experiences....  
+&emsp;&emsp;&emsp;...The very rigor and regimentation to which you are quite properly subject here [at West Point] naturally has a tendency to make you lose touch with the passion that brought you here in the first place. I saw exactly the same kind of thing at Yale. It’s not that my students were robots. Quite the reverse. They were intensely idealistic, but the overwhelming weight of their practical responsibilities, all of those hoops they had to jump through, often made them lose sight of what those ideals were. Why they were doing it all in the first place.  
+&emsp;&emsp;&emsp;So it’s perfectly natural to have doubts, or questions, or even just difficulties. The question is, what do you do with them? Do you suppress them, do you distract yourself from them, do you pretend they don’t exist? Or do you confront them directly, honestly, courageously? If you decide to do so, you will find that the answers to these dilemmas are not to be found on Twitter or Comedy Central or even in The New York Times. They can only be found within—without distractions, without peer pressure, in solitude.  
+...  
+'She had given me a chance to come out a bit—to find out what I could do. No, I don’t like work. I had rather laze about and think of all the fine things that can be done. I don’t like work—no man does—but I like what is in the work,—the chance to find yourself. Your own reality—for yourself, not for others—what no other man can ever know.' [--Joseph Conrad, *Heart of Darkness*]  
+...  
+Thinking for yourself means finding yourself, finding your own reality. Here’s the other problem with Facebook and Twitter and even The New York Times. When you expose yourself to those things, especially in the constant way that people do now—older people as well as younger people—you are continuously bombarding yourself with a stream of other people’s thoughts. You are marinating yourself in the conventional wisdom. In other people’s reality: for others, not for yourself. You are creating a cacophony in which it is impossible to hear your own voice, whether it’s yourself you’re thinking about or anything else...Leadership means finding a new direction, not simply putting yourself at the front of the herd that’s heading toward the cliff.  
+&emsp;&emsp;&emsp;So why is reading books any better than reading tweets or wall posts? Well, sometimes it isn’t. Sometimes, you need to put down your book, if only to think about what you’re reading, what you think about what you’re reading. But a book has two advantages over a tweet. First, the person who wrote it thought about it a lot more carefully. The book is the result of his solitude, his attempt to think for himself.  
+&emsp;&emsp;&emsp;Second, most books are old. This is not a disadvantage: this is precisely what makes them valuable. They stand against the conventional wisdom of today simply because they’re not from today. Even if they merely reflect the conventional wisdom of their own day, they say something different from what you hear all the time. But the great books, the ones you find on a syllabus, the ones people have continued to read, don’t reflect the conventional wisdom of their day. They say things that have the permanent power to disrupt our habits of thought. They were revolutionary in their own time, and they are still revolutionary today.  
+...  
+Introspection means talking to yourself, and one of the best ways of talking to yourself is by talking to another person. One other person you can trust, one other person to whom you can unfold your soul.
+This is what we call thinking out loud, discovering what you believe in the course of articulating it.  
+...  
+How will you find the strength and wisdom to challenge an unwise order or question a wrongheaded policy?"  
+--[William Deresiewicz](https://theamericanscholar.org/solitude-and-leadership/)
 
 "The greatest minds are capable of the greatest vices as well as of the greatest virtues."  
 --Rene Descartes
@@ -1083,6 +1118,9 @@ track one down, patch it around,
 "You're making yourself based on what you're doing with your attention and the kinds of habits you're ramifying. And you are, quite literally, sculpting your neural circuitry in the mean time...All of these moments matter, and they deliver to you your future self who will have whatever competencies or weaknesses or mounting dissatisfaction with life to deal with. And if your life doesn't feel the way you want it to feel, there's a lot you have done on purpose and by accident to bring yourself to this point, and there's a lot you may yet do to feel differently."  
 --[Sam Harris](https://samharris.org/subscriber-extras/226-price-distraction/) (39min) on brain plasticity and the principle of getting more of what you pay attention to
 
+"You have to figure out what it is you're doing with your attention moment-to-moment that's denying you access to the reality you just saw a mere two hours ago"  
+--Sam Harris, about LSD
+
 "There are those who will say terrible things about JavaScript. Many of these things are true. When I was required to write something in JavaScript for the first time, I quickly came to despise it. It would accept almost anything I typed but interpret it in a way that was completely different from what I meant. This had a lot to do with the fact that I did not have a clue what I was doing, of course, but there is a real issue here: JavaScript is ridiculously liberal in what it allows. The idea behind this design was that it would make programming in JavaScript easier for beginners. In actuality, it mostly makes finding problems in your programs harder because the system will not point them out to you."  
 --Marijn Haverbeke, *Eloquent Javascript*
 
@@ -1275,6 +1313,9 @@ may God hold you in the palm of his hand."
 "Dare to know."  
 --Kant (on what The Enlightenment was)
 
+"A change in perspective is worth 80 IQ points."  
+--[Alan Kay](https://www.youtube.com/watch?v=brU5yLm9DZM&t=14m5s)
+
 "[A Liberal is] someone who looks ahead and not behind, someone who welcomes new ideas without rigid reactions, someone who cares about the welfare of the people--their health, their housing, their schools, their jobs, their civil rights, and their civil liberties--someone who believes we can break through the stalemate and suspicions that grip us in our policies abroad, if that is what they mean by a 'Liberal,' then I'm proud to say I'm a 'Liberal.'"  
 --John F. Kennedy
 
@@ -1403,6 +1444,9 @@ may God hold you in the palm of his hand."
 "Whatever you are, be a good one."  
 --Abraham Lincoln
 
+"I have noticed that most people in this world are about as happy as they have made up their minds to be."  
+--Abraham Lincoln, [apocryphal](https://quoteinvestigator.com/2012/10/20/happy-minds/)
+
 "Dice no se, entonces aprendes todo."  
 "Say you do not know, and then you learn everything."  
 --Louie 3.3
@@ -1443,6 +1487,11 @@ may God hold you in the palm of his hand."
 "The problem is when we’re on autopilot for so long that we forget we’re on autopilot. Because when we’re not even aware of our own habits, routines, impulses, and reactions, then we no longer control them—they control us."  
 --[Mark Manson](https://markmanson.net/self-awareness)
 
+"Our responsibility for ourselves unleashes a deeper fulfillment by allowing us to construe whatever we confront into a value that fulfills our needs. Unruly kids grant us the opportunity to be a good parent and instill discipline and responsibility. A layoff at work grants us the opportunity to experiment with new career paths we had always daydreamed about. A terrible breakup gives us the chance to take an honest look at ourselves and how our behaviors affect our relationships with loved ones.  
+...  
+We don’t always control what happens to us. But we always control a) how we interpret what happens to us, and b) how we respond to what happens to us. Therefore, whether we consciously recognize it or not, we are always responsible for our experiences."  
+--[Mark Manson](https://markmanson.net/the-prime-belief)
+
 "Our name is Legion, for we are many."  
 --Mark 5:9
 
@@ -1457,7 +1506,10 @@ Interviewer: The private school I'll go to, the college I'll bribe.
 [Laughs] And I don't even mean any of that in a dispariaging way, like, I really understand there's such great comfort that comes in being able to feel like you--there's some safety and security in your future, and I don't judge it at all. But for me, in my body I was like reaching a place of, of dysfunction. And I, I couldn't, I couldn't bring myself to take the medication. And that was the moment that I was like..I was just like 'I can't--I have to find a different thing.'...  
 &emsp;&emsp;&emsp;I was thinking in my rational mind 'I'm on two projects that have IPOs. I should really spend all day Saturday and Sunday at the office.' But then here are my friends, and they want to do this fun thing. And so I took the leap, and we did it. And we got a topic. We didn't sleep for 48 hours; we just made this film over the weekend. It was a total piece of shit, but I had so much fun. And I was like 'Okay, I can work my butt off doing something that I love. And it's dangerous, and I might never make any money, you know, and I may be broke all the time, but I'll be *happy*, I'll be delighted, like--Or I can do this thing that doesn't feel right in my body, where I know there are predictable safe outcomes.' And to me suddenly then it just--It actually wasn't a choice anymore. I just seemed so obvious, like 'I have to go this other way.'  
 &emsp;&emsp;&emsp;So it's like suddenly you get rid of the safety net, and you're just like 'I accept that my life is gonna be on a high wire, and I'm gonna put one foot in front of the other every day. And it's gonna be dangerous, and I'm probably--and there's the fear of falling, but I'm gonna just keep going on this thing with no net, believing that it..believing that it will make a more interesting life.', like lived life, and that that will be better than the version where you're just, you're on the ground in the net."  
--[Brit Marling](https://www.youtube.com/watch?v=t6ZMaBAlgwM)
+--[Brit Marling](https://www.youtube.com/watch?v=t6ZMaBAlgwM)
+
+"No one is coming to the rescue. We have to save each other. Every day, in small and great ways."  
+--Brit Marling
 
 "No llores porque ya se terminó ... sonríe, porque sucedió."  
 "Do not cry because it's over; smile because it happened."  
@@ -1561,6 +1613,9 @@ But nothing happened every time I tried"
 
 "Where the heart leads, the mind can follow."  
 --Maajid Nawaz
+
+"Love is so short, forgetting so long."  
+--[Pablo Neruda](https://genius.com/2248225)
 
 "So, a rich little man with white hair died. What has that got to do with the price of rice, right? And *why* is that woe to us? Because you people and 62 million other Americans are listening to me right now, Because less than 3% of you people read *books*. Because less than 15 percent of you read newspapers. Because the only truth you know is what you get over this tube. Right now, there is a whole and entire generation that never knew anything that didn't come out of this tube. This tube is the Gospel, the Ultimate Revelation. This tube can make or break presidents, popes, prime ministers. This tube is the most awesome goddamn force in the whole godless world! And woe is us if it ever falls in to the hands of the wrong people....And when the 12th largest company in the world controls the most awesome goddamn propaganda force in the whole godless world, who knows what shit will be peddled for truth on this network!? So you listen to me. Listen to me! Television is not the truth. Television's a goddamned amusement park. Television is a circus, a carnival, a traveling troupe of acrobats, storytellers, dancers, singers, jugglers, sideshow freaks, lion-tamers, and football players. We're in the boredom-killing business! So if you want the truth, got to God. Go to your gurus. Go to yourselves. Because that's the only place you're ever gonna find any real truth. But, man, you're never gonna get any truth from us. We'll tell you anything you want to hear. We lie like hell. We'll tell you that, uh, Kojak always gets the killer, and that nobody ever gets cancer in Archie Bunker's house, and no matter now much trouble the hero is in, don't worry, just look at your watch; at the end of the hour he's going to win! We'll tell you any shit your want to hear. We deal in illusions, man. None of it is true! But you people sit there day after day, night after night, all ages, colors, creeds. We're all you know. You're beginning to believe the illusions we're spinning here. You're beginning to think that the tube is reality and that your own lives are unreal. You *do* whatever the tube tells you. You dress like the tube. You eat like the tube. You raise your children like the tube. You even think like the tube! This is mass madness, you maniacs! In God's name, you people are the real thing. *We* are the illusion!"  
 --[Howard Beale, *Network*, 1976](https://www.youtube.com/watch?v=3HQTNZRmJdg)
@@ -1731,6 +1786,9 @@ But nothing happened every time I tried"
 "Why is it that we talk and talk, or at least I certainly do, without somehow conveying what we're really like?"  
 --Michael Polley, *Stories We Tell*
 
+"At age 50 you get the face you deserve."  
+--English Proverb
+
 "Expect greatness."  
 --Some sort of proverb
 
@@ -1745,6 +1803,9 @@ But nothing happened every time I tried"
 
 "Happiness is reality minus expectations."  
 --Proverb
+
+"Sacred cows make the tastiest hamburger."  
+--[Proverb](https://quoteinvestigator.com/2016/12/12/cows/)
 
 <a class="anchor" id="R"></a>
 ### R
@@ -1764,6 +1825,12 @@ But nothing happened every time I tried"
 
 "I don't know if God exists, but it would be better for His reputation if He didn't."  
 --Jules Renard
+
+"Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come watch TV."  
+--Morty, *Rick and Morty*
+
+"It appears the lower tier of this society is being manipulated through sex and advanced technology by a hidden ruling class. Sound familiar?"  
+--Rick, *Rick and Morty*
 
 "Let everything happen to you  
 Beauty and terror  
@@ -2131,6 +2198,9 @@ And yet, to me, what is this quintessence of dust?"
 "Wisdom is the chief element in happiness."  
 --Sophocles
 
+"Most people that saw you on that screen knew calling their congressman wasn't going to do shit. If you get shown a problem but have no idea how to control it, then you just decide to get used to the problem."  
+--Squeeze, *Sorry to Bother You*
+
 "Emotion, which is suffering, ceases to be suffering as soon as we form a clear and precise picture of it."  
 --Spinoza, as translated by Viktor Frankel
 
@@ -2318,11 +2388,15 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 "Let all come who by merit deserve the most reward."  
 --UCL Motto
 
-"I think that what flat-earthers can offer us is a way to have 99.9% of people say 'Well, that's ridiculous. *Imagine* believing that.' and then to turn it around and say 'How are you a flat-earther? Where are you and your people the protagonist in a Disney movie? Where are you constructing your reality?'"  
+"I think that what flat-earthers can offer us is a way to have 99.9% of people say 'Well, that's ridiculous. *Imagine* believing that!' and then to turn it around and say 'How are you a flat-earther? Where are you and your people the protagonist in a Disney movie? Where are you constructing your reality?'"  
 --Tim Urban, *Behind the Curve* (1:32:23)
 
 "Back when I was working on the Tesla and SpaceX posts, I asked Elon why he went into engineering and not science, and he explained that when it comes to progress, 'engineering is the limiting factor'. In other words, the progress of science, business, and industry are all at the whim of the progress of engineering. If you look at history, this makes sense: Behind each of the greatest revolutions in human progress is an engineering breakthrough."  
 --[Tim Urban](https://waitbutwhy.com/2017/04/neuralink.html)
+
+"Long-term procrastination has made them feel like a spectator, at times, in their own lives. The frustration was not that they couldn't achieve their dreams, it's that they weren't even able to start chasing them."  
+"Everyone is procrastinating on something in life."  
+--[Tim Urban](https://www.youtube.com/watch?v=arj7oStGLkU)
 
 <a class="anchor" id="V"></a>
 ### V
@@ -2610,11 +2684,14 @@ Always forgive your enemies--nothing annoys them so much.
 "My wallpaper and I are fighting a duel to the death. One or the other of us has to go."  
 --Oscar Wilde
 
-"The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised. "  
+"The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised."  
 --George F. Will
 
 "[T]he monosyllable of the clock is Loss, loss, loss, unless you devote your heart to its opposition."  
 --Tennessee Williams
+
+"I can stil feel that emotion just leaping on me like a..like a panther."  
+--[Hugh Wilson](https://www.youtube.com/watch?v=3VZSJKbzyMc)
 
 "I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves."  
 --Ludwig Wittgenstein
