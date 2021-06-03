@@ -789,10 +789,10 @@ And know the place for the first time.
 <a class="anchor" id="frankel"></a>
 "Woe to him who saw no more sense in his life, no aim, no purpose, and therefore no point in carrying on. He was soon lost. The typical reply with which such a man rejected all encouraging arguments was, 'I have nothing to expect from life any more.' What sort of answer can one give to that?  
 &emsp;&emsp;&emsp;What was really needed was a fundamental change in our attitude toward life. We had to learn ourselves and, furthermore, we had to teach the despairing men, that *it did not really matter what we expected from life, but rather what life expected from us.* We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life--daily and hourly. Our answer must consist, not in talk and meditation, but in right action and in right conduct. Life ultimately means taking the responsibility to find the right answer to its problems and to fulfill the tasks which it constantly sets for each individual."  
---Viktor Frankel, *Man's Search for Meaning*
+--Viktor Frankl, *Man's Search for Meaning*
 
 "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."  
---Victor Frankel
+--Viktor Frankl
 
 "The constitution only guarantees the American people the right to pursue happiness. You have to catch it yourself."  
 --Benjamin Franklin
@@ -1012,6 +1012,9 @@ And know the place for the first time.
 
 "If you work hard enough and assert yourself, and use your mind and imagination, you can shape the world to your desires."  
 --Malcolm Gladwell
+
+"In Russian folklore, there is an archetype called *yurodivy*, or the holy fool. The holy fool is a social misfit, eccentric, offputting, sometimes even crazy, who nonetheless has access to the truth. 'Nonetheless' is actually the wrong word. The holy fool is a truth-teller, *because* he is an outcast. Those who are not part of existing social hierarchies are free to blurt out inconvenient truths or question things the rest of us take for granted....What sets the holy fool apart is a different sense of the *possibility* of deception."  
+--Malcolm Gladwell, *Talking to Strangers*
 
 "Where were you when I laid the Earth's foundations, marked out its dimensions, laid its cornerstone? When the morning stars sang, and the angels shouted with joy, where were you?"  
 --God, Book of Job
