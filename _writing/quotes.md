@@ -163,7 +163,7 @@ It's how a soldier thinks. A scientist wouldn't understand."
 --Nancy Astor
 
 "You have power over your mind—not outside events. Realize this, and you will find strength."  
---Marcus Aurelius, Meditations
+--Marcus Aurelius, *Meditations*
 
 "While you live, while it is in your power, be good."  
 --Marcus Aurelius
@@ -189,8 +189,17 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Look well into thyself; there is a source of strength which will always spring up if thou wilt always look there."  
 --Marcus Aurelius
 
+"Waste no more time arguing about what a good man should be. Be one."  
+--Marcus Aurelius
+
 <a class="anchor" id="B"></a>
 ### B
+
+"I bought a house, bought a car, bought a pair of jeans  
+bought a surfboard, bought a breakfast, bought beyond my means  
+bought the items that you told me would enrich me,  
+but it shits me: I feel exactly the same."  
+-Ball Park Music, *Spark Up*
 
 "Although golf was originally restricted to wealthy, overweight Protestants, today it's open to anybody who owns hideous clothing."  
 --David Barry
@@ -288,6 +297,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 
 "Good judgment comes from experience, and often experience comes from bad judgment."  
 --Rita Mae Brown
+
+"The problem today isn't that jobs are scarcer, or that positions in schools are fewer. It's that we live in a hypercompetitive order, where the competition is not just for arriving, but the competition is never-ending. Every human being is now requied to understand themselves as a little bit of human capital."  
+--Wendy Brown, *Take Your Pills*
 
 "There are many ways of breaking a heart. Stories were full of hearts broken by love, but what really broke a heart was taking away its dream--whatever that dream might be."  
 --Pearl S. Buck
@@ -402,6 +414,11 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 
 "Fanatic: One who can’t change his opinion and won’t change the subject."  
 --Winston Churchill (popularized), actually from Evan Esar's *Comic Dictionary*
+
+"I don't think the past is better, better  
+just cause it's cased in glass,  
+protecting us from our now and later"  
+--Annie Erin Clark (St Vincent), *Teenage Talk*
 
 "1. When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.  
 2\. The only way of discovering the limits of the possible is to venture a little way past them into the impossible.  
@@ -753,7 +770,7 @@ And know the place for the first time.
 "And even if it is not true, you need to believe in ancient history."  
 --Leo Ferre, as quoted by Pierre Briant in intro to *From Cyrus to Alexander*, as quoted by Dan Carlin in the *King of Kings* series of *Hardcore History*
 
-"What I can not create I do not understand. Kow how to solve every problem that has been solved."  
+"What I can not create I do not understand. Know how to solve every problem that has been solved."  
 --Richard Feynman
 
 "For a successful technology, reality must take precedence over public relations, for nature cannot be fooled."  
@@ -1297,6 +1314,9 @@ may God hold you in the palm of his hand."
 
 "I don't think that most of the really best people that I've worked with have worked with computers for the sake of working with computers. They've worked with computers because they are the medium that is best capable of transmitting some feeling that you have that you want to share with other people."  
 --Steve Jobs
+
+"Dare mighty things."  
+--JPL motto
 
 <a class="anchor" id="K"></a>
 ### K
@@ -2166,6 +2186,9 @@ And yet, to me, what is this quintessence of dust?"
 "We have a saying, my people: Don’t kill if you can wound, don’t wound if you can subdue, don’t subdue if you can pacify, and don’t raise your hand at all until you’ve first extended it."  
 --Gail Simone
 
+"It is difficult to get a man to understand something when his salary depends upon his not understanding it."  
+--Upton Sinclair
+
 "Eccentricity is not, as dull people would have us believe, a form of madness. It is often a kind of innocent pride, and the man of genius and the aristocrat are frequently regarded as eccentrics because genius and aristocrat are entirely unafraid of and uninfluenced by the opinions and vagaries of the crowd."  
 --Edith Sitwell
 
@@ -2447,6 +2470,12 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 
 "The Jack of one trade is the connector of none."  
 --[Eric Weinstein](https://www.youtube.com/watch?v=MmXq97do-tQ&t=2h37m)
+
+"The unquestionable is questioned but makes no reply"
+--Aaron Weiss, (A Glass Can Only Spill What It Contains)
+
+"My life's a cup of sugar I borrowed before time began and forgot to return"
+--Aaron Weiss, (January 1979)
 
 "I'm down by the tracks  
 Watching trains go by  
