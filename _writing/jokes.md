@@ -5,6 +5,9 @@ title: Jokes
 subtitle: I try to remember
 img: cheese.jpg
 ---
+### Geology
+- What did one tectonic plate say when it bumped in to another? "Sorry, my fault."
+
 ### Physics
 - Were I a particle and you a quantum potential, would you let me penetrate your classically forbidden regions?
 - What did the watt do to make extra money? Work overtime.
@@ -14,6 +17,7 @@ img: cheese.jpg
 - What kind of bear dissolves in water? A polar bear.
 - Helium floats into a bar. The bartender says: "We don't serve your kind here." He doesn't react.
 - What do you call a test tube with a college education? A graduated cylinder.
+- What did the thermometer tell the graduated cylinder? "I have more degrees."
 - A monk is asked to list the physical properties of acetic acid. He replies "A true ascetic has no need for physical property."
 - Why does it take 17 organic chemists to change a lightbulb? I don't know that's just the value we determined experimentally.
 

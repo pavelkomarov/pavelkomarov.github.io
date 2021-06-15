@@ -1120,7 +1120,7 @@ track one down, patch it around,
 "I'm so sick of hearing about the future. What is that!? The future is just another crappy version of the present. It's--it's some bribe people offer you to make you do what they want instead of what you want."  
 --Cameron Howe, *Halt and Catch Fire*
 
-"Making him the villain takes the blame away."
+"Making him the villain takes the blame away."  
 --Cameron Howe, *Halt and Catch Fire*
 
 "When somebody calls themselves a job creator, they aren't describing the economy, although that's what it sounds like. What they are really doing is making a claim on status, privilege and power."  
@@ -2102,6 +2102,11 @@ And yet, to me, what is this quintessence of dust?"
 "I would challenge you to a battle of wits, but see you are unarmed."  
 --William Shakespeare
 
+"And thus I clothe my naked villainy  
+With odd old ends stol'n out of holy writ;  
+And seem a saint, when most I play the devil."  
+--William Shakespeare, *Richard III*
+
 "When two people are under the influence of the most violent, most insane, most delusive, and most transient of passions, they are required to swear that they will remain in that excited, abnormal, and exhausting condition continuously until death do them part."  
 --George Bernard Shaw
 
@@ -2353,7 +2358,7 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 "Better to keep your mouth shut and appear stupid than to open it and remove all doubt."  
 --Mark Twain
 
-"How easy it is to make people believe a lie, and how hard it is to undo that work again!”  
+"How easy it is to make people believe a lie, and how hard it is to undo that work again!"  
 Often paraphrased as: "It is easier to fool people than to convince them they have been fooled."  
 --Mark Twain
 
@@ -2369,8 +2374,11 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 "Science is a way to keep from fooling ourselves and each other."  
 --Neil deGrasse Tyson
 
-"This adventure is made possible by generations of searchers strictly adhering to a simple set of rules: Test ideas by experiment and observation; Build on those ideas that pass the test; Reject the ones that fail; Follow the evidence wherever it leads; And question everything. Accept these terms, and the Cosmos is yours."  
+"This adventure is made possible by generations of searchers strictly adhering to a simple set of rules: Test ideas by experiment and observation. Build on those ideas that pass the test. Reject the ones that fail. Follow the evidence wherever it leads. And question everything. Accept these terms, and the Cosmos is yours."  
 --Neil deGrasse Tyson
+
+"It's not enough to be right; you also hav eto be effective."  
+--Neil deGrasse Tyson's dad
 
 "A scholar who cherishes the love of comfort is not fit to be deemed a scholar."  
 --Lao Tzu
@@ -2525,6 +2533,11 @@ and all once without now lives within'"
 said 'I don't know anything about all truth,  
 but I know falsehood when I see it,  
 and it looks like this whole world you've made."  
+--Aaron Weiss (Elephant in the Dock)
+
+"for sixty-some years I'd surrendered my love  
+To emblems of kindness  
+And not the kindness they were emblems of"  
 --Aaron Weiss (Elephant in the Dock)
 
 "Sometimes I think all our thoughts are just things
