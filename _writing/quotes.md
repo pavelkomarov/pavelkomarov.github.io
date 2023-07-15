@@ -1269,6 +1269,9 @@ may God hold you in the palm of his hand."
 
 "It is easier to act your way to a new way of thinking than to think your way to a new way of acting."  
 --distillation of the ['act as if' principle from William James](https://books.google.com/books?id=IBrykBRv2B4C&pg=PA100&lpg=PA100&dq=it+is+easier+to+act+your+way+to+a+new+way+of+thinking+than+to+think+your+way+to+a+new+way+of+acting+william+james&source=bl&ots=SSIpVUJz4Z&sig=ACfU3U2PCpi9jxvhLaCatbTrJ4gW7_arSQ&hl=en&sa=X&ved=2ahUKEwio7dyM0OToAhVB2qwKHVP9DOAQ6AEwAHoECBIQLA#v=onepage&q=it%20is%20easier%20to%20act%20your%20way%20to%20a%20new%20way%20of%20thinking%20than%20to%20think%20your%20way%20to%20a%20new%20way%20of%20acting%20william%20james), first stated to me by Ken "Roberts" Pennacchini
+
+"There are things you just can't fix, and darling I am one of them."
+-Taylor Janzen, *What I Do*
  
 "Shake off all the fears of servile prejudices, under which weak minds are servilely crouched. Fix reason firmly in her seat, and call on her tribunal for every fact, every opinion. Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason than that of blindfolded fear."  
 --Thomas Jefferson
@@ -2377,7 +2380,7 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 "This adventure is made possible by generations of searchers strictly adhering to a simple set of rules: Test ideas by experiment and observation. Build on those ideas that pass the test. Reject the ones that fail. Follow the evidence wherever it leads. And question everything. Accept these terms, and the Cosmos is yours."  
 --Neil deGrasse Tyson
 
-"It's not enough to be right; you also hav eto be effective."  
+"It's not enough to be right; you also have to be effective."  
 --Neil deGrasse Tyson's dad
 
 "A scholar who cherishes the love of comfort is not fit to be deemed a scholar."  
@@ -2674,6 +2677,12 @@ like a scratch across a lens,
 made everything look wrong from anywhere we stood  
 And our paper blew away before we'd left the bay  
 So half-blind we wrote these songs on sheets of salty wood"  
+--Aaron Weiss (Messes of Men)
+
+"Tarnish on my brass  
+And mildew on my glass  
+I'd never want someone so crass  
+As could want someone like me"  
 --Aaron Weiss (Messes of Men)
  
 "There's mistakes I've made no rowing could outrun"  

@@ -31,7 +31,7 @@
 ## How Github Pages works
 
 1. Continuous integration listens for a push and, when one is recieved, if there is a `_config.yml` file, Jekyll is called. For Project Pages, this occurs on the `gh-pages` branch. User Pages are confusingly a special case where this occurs on the master branch.
-2. Any remote themes are fetched, and Jekyll runs through its [order of operations](https://github.com/pavelkomarov/hyde#order-of-operations-for-jekyll) to produce static site output. There are so many gotchas in here that it's crazy, so I've started [writing down the most infuriating ones[(https://github.com/pavelkomarov/pavel-theme#important-notes)
+2. Any remote themes are fetched, and Jekyll runs through its [order of operations](https://github.com/pavelkomarov/hyde#order-of-operations-for-jekyll) to produce static site output. There are so many gotchas in here that it's crazy, so I've started [writing down the most infuriating ones](https://github.com/pavelkomarov/pavel-theme#important-notes)
 
 
 ## Structure

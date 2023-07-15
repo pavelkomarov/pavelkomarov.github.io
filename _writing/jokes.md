@@ -5,6 +5,9 @@ title: Jokes
 subtitle: I try to remember
 img: cheese.jpg
 ---
+### Astronomy
+- What does Earth say to make fun of the other planets? "You guys have no life"
+
 ### Geology
 - What did one tectonic plate say when it bumped in to another? "Sorry, my fault."
 
@@ -56,6 +59,7 @@ img: cheese.jpg
 - I had a pun about insanity, but I lost it.
 - Pick up artists and garbage men should switch names.
 - Analogies are hard; they're like ...
+- What do you call a cover of a cover? A duvet.
 
 ### Philosophy
 - Is it solipsistic in here, or is it just me?

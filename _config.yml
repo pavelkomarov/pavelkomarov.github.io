@@ -15,7 +15,7 @@ collections: # https://jekyllrb.com/docs/collections
   - writing # things in the _writing folder are now a collection accessible via site.writing
   - projects
 
-include:  # kludgy solution: Jekyll ignores underscore-prepended folders at write-time yet needs
+include: # kludgy solution: Jekyll ignores underscore-prepended folders at write-time yet needs
   # underscores for collections, so a collection of written pages needs to be specifically re-included.
   - _writing
   - _projects
