@@ -201,6 +201,11 @@ bought the items that you told me would enrich me,
 but it shits me: I feel exactly the same."  
 -Ball Park Music, *Spark Up*
 
+"So please stop staring at your hand  
+Please just be with me  
+You know one day we will never meet again"  
+--Ball Park Music, *Caramel*
+
 "Although golf was originally restricted to wealthy, overweight Protestants, today it's open to anybody who owns hideous clothing."  
 --David Barry
 
@@ -778,6 +783,9 @@ And know the place for the first time.
 
 "For a successful technology, reality must take precedence over public relations, for nature cannot be fooled."  
 --Richard Feynman
+
+"It's easy to assume that others think the worst of you. But when you assume what others think, maybe all you're doing is turning them into a character that only exists in your mind. The nice thing is sometimes all it takes is a change in perspective to make the world feel brand new."  
+--Nathan Fielder, The Rehearsal ep 4
 
 "I see people as equals; I have to pretend to look up to them."  
 --Gail Finkelstein LeVine
@@ -1578,6 +1586,9 @@ Often satirized as "Smile because it's over; cry because it happened."
 "The common man is a fool."  
 --H. L. Mencken
 
+"For every complex problem there is an answer that is clear, simple, and wrong."  
+--H. L. Mencken
+
 "Born to multiply  
 Born to gaze in to night skies  
 All you want's one more Saturday  
@@ -1595,6 +1606,9 @@ But nothing happened every time I tried"
 
 "I think that a guy who's always interested in the condition of the world and changing it either has no problems of his own or refuses to face them."  
 --Henry Miller, *Reds* (1981)
+
+"Time: In a post-religious, post-meaning society, it's the closest thing we have to a diety."  
+--TJ Miller
 
 "The secret of change is to focus all your energy not on fighting the old, but on building the new."  
 --[Dan Millman's Socrates](https://quoteinvestigator.com/2013/05/28/socrates-energy/)
@@ -2253,6 +2267,9 @@ And seem a saint, when most I play the devil."
 "Wisdom is the chief element in happiness."  
 --Sophocles
 
+"The problem isn't the problem. The problem is your attitude about the problem."  
+--Captain Jack Sparrow
+
 "All in all, in life, it's not whether we win or lose, but whether we get totally stoked."  
 --SpongeBob, Narrator in SpongeBob vs The Big One
 
@@ -2772,7 +2789,13 @@ Always forgive your enemies--nothing annoys them so much.
 --Tennessee Williams
 
 "I can stil feel that emotion just leaping on me like a..like a panther."  
---[Hugh Wilson](https://www.youtube.com/watch?v=3VZSJKbzyMc)
+--[Hugh Wilson](https://www.youtube.com/watch?v=3VZSJKbzyMc), land steward in NZ
+
+"Small talk is the glue that binds us all together and the armor that shields us from each others' darkest thoughts."  
+--John Wilson, ep 1.1
+
+"It's really easy to settle for something that you don't like because if you never admit you're unhappy with something then you never have to change anything...until you can't really imagine an alternative."  
+--John Wilson, ep 1.2
 
 "I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves."  
 --Ludwig Wittgenstein
