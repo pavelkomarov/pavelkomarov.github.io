@@ -736,6 +736,9 @@ And know the place for the first time.
 "Do not follow where the path may lead. Go instead where there is no path, and leave a trail."  
 --Ralph Waldo Emerson
 
+"God will not have his work made manifest by cowards."  
+--Emerson
+
 "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."  
 --Epictetus
 
@@ -1474,6 +1477,9 @@ may God hold you in the palm of his hand."
 "...it makes me think about how we use language to understand the world around us. ...[T]he name of a boat is just a word that we've invented to make this world easier to compute in our heads. We separate everything that we can see or experience in to tiny little squares that we can label. And that helps us make predictions and communicate about what's going on and so on. Uh, but the reality isn't like that; the world isn't made up of separate things. It's all just a big mass of gloop. And even if you look at it scientifically, it's very hard to make the distinction between, uh, separate people and objects. As a person I am constantly interacting [with] and part of my environment, both through sight and hearing and breathing and eating and--And at what point does that air or that food, uh, become part of me? And at what point is it part of the environment? And I guess my point here is that by thinking about this we can learn something deeper about our interaction with the world around us. And that is that we can choose to separate things in our minds and consider ourselves as separate from our environment, or we can consider that these labels that we make are not necessarily the ultimate reality of life."  
 --[Leo](https://www.youtube.com/watch?v=tW15VnkEmQ0&t=11m10s) on the [Ship of Theseus]https://en.wikipedia.org/wiki/Ship_of_Theseus)
 
+"The true value of a man is not determined by his possession, supposed or real, of truth, but rather by his sincere exertion to get to the truth. It is not possession of the truth, but rather the pursuit of truth by which he extends his powers and in which his ever-growing perfectability is to be found. Possession makes one passive, indolent, and proud. If God were to hold all truth concealed in his right hand, and in his left only the steady and diligent drive for truth, albeit with the proviso that I would always and forever err in the process, and to offer me the choice, I would, with all humility, take the left hand."  
+--Gotthold Lessing
+
 "It was on my fifth birthday that Papa put his hand on my shoulder and said, 'Remember, my son, if you ever need a helping hand, you'll find one at the end of your arm.'"   
 --Sam Levenson
 
@@ -1978,6 +1984,9 @@ When a child gave him drawings, rather than look at the drawings, he looked inte
 "That was one of the things that I responded to. I definitely saw an other way of-of being a man."  
 --journalist friend  
 He truly embodied the principles of being genuinely interested in other people, showing them real appreciation, and giving away vast quantities of love, never stopping to become embittered by a world that may not return those sentiments initially.  
+
+"Fortune favors the brave."  
+--Roman proverb
 
 "In one particularly telling real-world example from 2016 of how such cuts affected students in the “brick and mortar” district, high school junior Jameria Miller talks about why she starts every morning running through the school to get a good seat near the front of the room in her first-period Spanish class. It’s not because she is just excited about the class. It’s because the school is cold. As she explains, “The cold is definitely a distraction. We race to class to get the best blankets.” What she means is that because the classroom where she begins her day has uninsulated metal walls, Jameria’s teacher hands out blankets to the students on a first come, first served basis. It’s the only way for them to stay warm. Miller’s school in the William Penn District is situated in Philadelphia’s “inner-ring” suburbs and serves a student body that is majority Black and overwhelmingly impoverished. Though concentrating in the cold is hard enough, Miller says the hardest part of her daily ordeal is the knowledge that life isn’t like this for students in other districts. She means students in wealthier districts. “It’s never going to be fair, they’re always going to be a step ahead of us. They’ll have more money than us, and they’ll get better jobs than us, always.” She says she doesn’t believe that either funding or systemic school improvement will ever truly equalize: 'What I'm about to say might not be very nice, but rich people aren’t going to want [funding fairness]. They want their kids to have better things so that their kids can get a jump start in life and be ahead of everyone else. And, as long as people feel that way, we all won’t be equal. We won’t receive equal education ever, because education is what gets you success.'"  
 --[Noliwe Rooks](https://longreads.com/2018/02/20/the-great-online-school-scam/)
@@ -2503,6 +2512,9 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 
 "I have offended God and mankind because my work did not reach the quality it should have."  
 --Leonardo da Vinci
+
+"Those who can make you believe absurdities can make you commit atrocities."  
+--Voltaire
 
 "Everything was beautiful, and nothing hurt."  
 --Kurt Vonnegut
