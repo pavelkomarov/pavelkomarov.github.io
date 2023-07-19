@@ -107,6 +107,9 @@ The second worst is that of the Azgoths of Kria. During a recitation by their po
 "It is easier to fight for one's principles than to live up to them."  
 --Alfred Adler
 
+"He who learns must suffer. And even in our sleep, pain that can not forget falls drop by drop upon the heart. And in our own despite, against our will, comes wisdom to us by the awful grace of God."  
+--Aeschylus
+
 "What about you, Colonel?  
 My job isn't to believe or disbelieve. It's to act or not to act.  
 ...  
@@ -1040,6 +1043,15 @@ And know the place for the first time.
 
 "Failure is when you stop dreaming."  
 --Public defender's father in Gideon's Army
+
+"Be happy with what you have and are, be generous with both, and you won't have to hunt for happiness."  
+--William Gladstone
+
+"Men are apt to mistake the strength of their feeling for the strength of their argument. The heated mind resents the chill touch and relentless scrutiny of logic."  
+--William Gladstone
+
+"It is the duty of government to make it difficult for people to do wrong, easy to do right."  
+--William Gladstone
 
 "If you work hard enough and assert yourself, and use your mind and imagination, you can shape the world to your desires."  
 --Malcolm Gladwell
