@@ -337,6 +337,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "There is perhaps nothing worse than reaching the top of the ladder and discovering that you’re on the wrong wall."  
 --Joseph Campbell
 
+"The care you fear to enter holds the treasure you seek."  
+--Joseph Campbell
+
 "Nobody realizes that some people expend tremendous energy merely to be normal."   
 --Albert Camus
 
@@ -809,6 +812,9 @@ And know the place for the first time.
 --Viktor Frankl, *Man's Search for Meaning*
 
 "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."  
+--Viktor Frankl
+
+"When we are no longer able to change a sitation, we are challenged to change ourselves."  
 --Viktor Frankl
 
 "The constitution only guarantees the American people the right to pursue happiness. You have to catch it yourself."  
@@ -1593,6 +1599,9 @@ But nothing happened every time I tried"
 "The secret of change is to focus all your energy not on fighting the old, but on building the new."  
 --[Dan Millman's Socrates](https://quoteinvestigator.com/2013/05/28/socrates-energy/)
 
+"The mind is its own place and in itself can make a heaven of hell or a hell of heaven."  
+--John Milton
+
 "Understanding the past enables us to see the present more clearly."  
 --Steven Mithen
 
@@ -1607,6 +1616,12 @@ But nothing happened every time I tried"
 
 "People with wisdom know that it is important to correct their own mistakes, while people without wisdom find it necessary to point out the mistakes of others."  
 --Bawa Muhaiyaddeen
+
+"I've had recurring nightmares  
+That I was loved for who I am  
+And missed the opportunity  
+To be a better man"  
+--Muse, Hoodoo
 
 <a class="anchor" id="musk"></a>
 "An engineer is the closest thing to a magician that exists in the real world."  
@@ -1944,6 +1959,9 @@ He truly embodied the principles of being genuinely interested in other people, 
 "With freedom comes responsibility."  
 --Eleanor Roosevelt, often said by Lubomir Komarov
 
+"No one can make you feel inferior without your consent."  
+--Eleanor Roosevelt
+
 "A conservative is a man with two perfectly good legs who, however, has never learned to walk forward."  
 --Franklin Delano Roosevelt
 
@@ -1955,6 +1973,9 @@ He truly embodied the principles of being genuinely interested in other people, 
 
 "We do not need magic to transform our world. We carry all the power we need inside ourselves already. We have the power to imagine better."  
 --J. K. Rowling
+
+"Our task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."  
+--Rumi
 
 "Keynes' intellect was the sharpest and clearest that I have ever known. When I argued with him, I felt that I took my life in my hands, and I seldom emerged without feeling something of a fool."  
 --Bertrand Russell
@@ -2232,6 +2253,9 @@ And seem a saint, when most I play the devil."
 "Wisdom is the chief element in happiness."  
 --Sophocles
 
+"All in all, in life, it's not whether we win or lose, but whether we get totally stoked."  
+--SpongeBob, Narrator in SpongeBob vs The Big One
+
 "Most people that saw you on that screen knew calling their congressman wasn't going to do shit. If you get shown a problem but have no idea how to control it, then you just decide to get used to the problem."  
 --Squeeze, *Sorry to Bother You*
 
@@ -2315,6 +2339,9 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 
 "In a closed society where everybody’s guilty, the only crime is getting caught. In a world of thieves, the only final sin is stupidity."  
 --Hunter S. Thompson
+
+"It's always the same fight. The first fight is the last fight."  
+--Siobhan Thompson on breakups
 
 "Disobedience is the true foundation of liberty. The obedient must be slaves."  
 --Henry David Thoreau
@@ -2780,6 +2807,9 @@ Always forgive your enemies--nothing annoys them so much.
 "Es mejor morir de pie que vivir de rodillas."  
 "It's better to die on your feet than to live on your knees."  
 --Emiliano Zapata
+
+"Nothing is as it seems, nor is it otherwise."  
+Zen Koan, Sammy Brown's favorite
 
 "Are we ready to drop the base?"  
 --Kathy Zhang, titrating NaOH, Fall 2013
