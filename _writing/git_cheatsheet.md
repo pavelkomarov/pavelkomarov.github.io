@@ -13,7 +13,7 @@ p {
 
 ## Key Git Concepts/Commands with Basic Usage
 <br/>
-<p style="margin-left: 0">Remember you can always&emsp;<tt>git &lt;command&gt; --help</tt>&emsp;for further details about any command.</p>
+<p style="margin-left: 0">Remember you can always <code>git &lt;command&gt; --help</code> for further details about any command.</p>
 <br/>
 
 ###### “upstream”/“remote”/“origin"
@@ -33,9 +33,9 @@ At any time there may be changes “staged” for commit (shown in green), or no
 Adds a change to the “stage”, so git knows you want to include that change in the next commit.
 
 ###### `git rm`
-This is the same as using rm to remove files from the system and then using git add deleted-filename to stage the removals as part of a commit.
+This is the same as using rm to remove files from the system and then using `git add <deleted-filename>` to stage the removals as part of a commit.
 
-###### `git reset filename`
+###### `git reset <filename>`
 “Unstages” a file that you’ve added to the stage.
 
 ###### `git commit -m “<commit message>”`

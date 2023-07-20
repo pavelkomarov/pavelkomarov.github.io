@@ -80,17 +80,14 @@
 				</div>
 			</div>
 
-			<div class="row">
 			{% for post in site.writing %}
-				<a href="{{ post.permalink }}" >{{ post.title }}, {{ post.subtitle }}</a>&emsp;
+			<a href="{{ post.permalink }}" >{{ post.title }}, {{ post.subtitle }}</a>&emsp;
 			{% endfor %}
-			</div>
 		</div>
 	</section>
 	
 	{% include popup.html %} <!-- for "modals", which are basically popups. Good for image display -->
 	{% include intro.html %}
 	{% include js.html %}
-
 	</body>
 </html>
