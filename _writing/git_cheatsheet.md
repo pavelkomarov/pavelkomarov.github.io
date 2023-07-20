@@ -1,0 +1,88 @@
+---
+layout: post
+permalink: /git_cheatsheet.html
+title: Git Cheatsheet
+subtitle: key git things
+img: git.png
+---
+<style>
+p {
+	margin-left: 25px;
+}
+</style>
+
+## Key Concepts/Commands with Basic Usage
+<br/>
+
+###### “upstream”/“remote”/“origin"
+The server-side, “in the cloud” repo your local copy is pointed to.
+
+###### “commit” (n.)
+Refers to a set of changes, large or small. It forms a node in the code graph. Each has an associated message to describe what it was about and a hash so you can identify it uniquely (as for rolling code back to a particular spot).
+
+###### `git clone https://<github-token>@github.com/<username>/<repo-name>.git`
+###### `git clone git@github.com:<username>/<repo-name>.git`
+Get a copy of the remote locally for the first time. Note you'll also need to create a github access token through the website or `cd ~/.ssh && ssh-keygen`, `cat id_rsa.pub | pbcopy` and paste the public key on your github profile.
+
+###### `git status`
+At any time there may be changes “staged” for commit (shown in green), or not staged for commit (shown in red). If you commit, then those changes cease to be shown in the stage, but status will tell you you’re “ahead of” the remote copy by 1 or more commits. 
+
+###### `git add`
+Adds a change to the “stage”, so that git knows you want to include that change in the next commit. The equivalent in the desktop app seems to be check boxes.
+
+###### `git rm`
+This is the same as using rm to remove files from the system and then using git add deleted-filename to stage the removals as part of a commit.
+
+###### `git reset filename`
+“Unstages” a file that you’ve added to the stage.
+
+###### `git commit -m “<commit message>”`
+Wrap up your changes in a nice little package. Typically you want each commit to target some unified conceptual change, and you want messages to be descriptive, even if they’re long. Don’t shy away from creating lots of little commits if the scope of your intentions is broader than one thing.
+
+###### `git reset --soft HEAD~1`
+Undo the latest local commit, without reverting the code itself. If you mistakenly create a commit and would like to be popped back out at the stage as it was, this is the best way. “HEAD” refers to the last node in the code graph, so you’re pointing it 1 back from where it currently points.
+
+###### `git reset --hard HEAD~1`
+Undo the latest local commit, throwing away all code changes involved. This one is a bit dangerous, but useful.
+
+###### `git push`
+Send your local commits the cloud.
+
+###### “branch”
+A branch in the code graph. If working on the same files as others, it can be helpful to put one or a series of commits in a separate branch so they can’t break the mainline code.
+
+###### “master”
+The main branch. You typically want things in here to always stay unbroken. Some times everyone just commits here directly, and it’s fine. Some times an organization chooses to engage settings to “protect” the master branch, meaning it can only be modified via pull requests, some times only with several people’s review and approval.
+
+###### `git branch`
+Lists all the local branches, so you can see and select between them.
+
+###### `git checkout -b <branch-name>`
+Create a new local branch.
+
+###### `git checkout <branch-name>`
+Switch to a different branch locally. You might do some work in one branch and then decide you want to set it aside and work on something conceptually unrelated, which you’ve got stewing in a different branch.
+
+###### “pull request”
+Once you’re happy with the state of one of your branches, and you’d like the master code to reflect your gloriously helpful changes, “submit” your code via one of these. There is a “Pull Requests” tab on the website where others can view, comment on, and collaborators can accept/reject the changes.
+
+###### “merge”
+Once a pull request is accepted, the branches are combined. A “merge strategy” is necessary when the master branch has also undergone changes. “Merge conflicts” occur when those different changes interfere with each other and can’t be automatically resolved. In this case, git edits the conflicted files, adding big symbols to delimit sections the resolver wasn’t sure about: <<<<<< remote version ======= your version >>>>>>>. You’ll have to open and edit these manually, recommit, and repush. Resolving merge conflicts is famously the most painful part of git, but thankfully it’s rare.
+
+###### `git pull origin master`
+While on one of your own branches, use this to keep that branch up-to-date with changes others have made to master. This is the best way to avoid merge conflicts, because it keeps divergence small.
+
+###### `git branch -d <branch-name>`
+Delete the local branch when you’re done with it. Typically once code is merged you do this to reduce clutter.
+
+<br/>
+#### Extra credit
+
+###### .gitignore
+Signatures of filenames you'd like `git status` and `git add` to be blind to, each on a new line. E.g. `.DS_Store` to make git ignore the Mac custom folder attributes cache and `*.o` to ignore all intermediate output files in a C project.
+
+###### “fork” 
+If you want your own version of someone else’s public repo, and they haven’t made you a collaborator on theirs, you fork. Forks can evolve independently or be the basis for pull requests back to the original repo.
+
+###### “GitHub Actions”
+There is a concept called “continuous integration” (CI), which means when you push code, the server does a bunch of things for you automatically, like running tests, regenerating documentation, deploying packages, etc. This is all governed by configuration files, which have a lot of quirks and can be annoying to set up, but it's super helpful for giving you and others immediate feedback about the state of the code. There are numerous different systems, but Github’s built-in one is called “Actions”.

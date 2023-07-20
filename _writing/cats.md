@@ -7,12 +7,12 @@ img: cat.png
 ---
 <style>
 td, th {
-    /* border: 1px solid black; */
-    padding: 0.5em;
-    vertical-align: top;
+	/* border: 1px solid black; */
+	padding: 0.5em;
+	vertical-align: top;
 }
 td:nth-child(odd) { /* https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child */
-    width: 44.17%;
+	width: 44.17%;
 }
 </style>
 
