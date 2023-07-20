@@ -13,6 +13,8 @@ p {
 
 ## Key Concepts/Commands with Basic Usage
 <br/>
+<p style="margin-left: 0">Remember you can always&emsp;<tt>git &lt;command&gt; --help</tt>&emsp;for further details about any command.</p>
+<br/>
 
 ###### “upstream”/“remote”/“origin"
 The server-side, “in the cloud” repo your local copy is pointed to.
@@ -72,11 +74,15 @@ Once a pull request is accepted, the branches are combined. A “merge strategy�
 ###### `git pull origin master`
 While on one of your own branches, use this to keep that branch up-to-date with changes others have made to master. This is the best way to avoid merge conflicts, because it keeps divergence small.
 
+###### `git merge <other-branch>`
+Merge the commits from some other local branch in to the current branch.
+
 ###### `git branch -d <branch-name>`
 Delete the local branch when you’re done with it. Typically once code is merged you do this to reduce clutter.
 
 <br/>
-#### Extra credit
+#### Extra Credit
+<br/>
 
 ###### .gitignore
 Signatures of filenames you'd like `git status` and `git add` to be blind to, each on a new line. E.g. `.DS_Store` to make git ignore the Mac custom folder attributes cache and `*.o` to ignore all intermediate output files in a C project.
