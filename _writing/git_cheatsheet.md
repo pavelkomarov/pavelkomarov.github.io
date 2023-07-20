@@ -84,7 +84,7 @@ Delete the local branch when you’re done with it. Typically once code is merge
 #### Extra Credit
 <br/>
 
-###### .gitignore
+###### `.gitignore`
 Signatures of filenames you'd like `git status` and `git add` to be blind to, each on a new line. E.g. `.DS_Store` to make git ignore the Mac custom folder attributes cache and `*.o` to ignore all intermediate output files in a C project.
 
 ###### “fork” 
