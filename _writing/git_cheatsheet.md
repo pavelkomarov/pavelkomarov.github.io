@@ -30,7 +30,7 @@ Get a copy of the remote locally for the first time. Note you'll also need to cr
 At any time there may be changes “staged” for commit (shown in green), or not staged for commit (shown in red). If you commit, then those changes cease to be shown in the stage, but status will tell you you’re “ahead of” the remote copy by 1 or more commits. 
 
 ###### `git add`
-Adds a change to the “stage”, so that git knows you want to include that change in the next commit. The equivalent in the desktop app seems to be check boxes.
+Adds a change to the “stage”, so git knows you want to include that change in the next commit.
 
 ###### `git rm`
 This is the same as using rm to remove files from the system and then using git add deleted-filename to stage the removals as part of a commit.
