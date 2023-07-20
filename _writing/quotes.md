@@ -2547,6 +2547,22 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 "The world is a tragedy to those who feel, but a comedy to those who think."  
 --Horace Walpole
 
+"The reason there's smog in Los Angeles is 'cause if we could see the stars  
+If we could see the context of the universe in which we exist  
+If we could see how small each one of us is  
+Against the vastness of what we don't know  
+No one would ever audition for a McDonald's commercial again"  
+--George Watsky, Tiny Glowing Screens pt 2
+
+"We're every age at once and tucked inside ourselves like Russian nesting dolls  
+My mother is an 8 year old girl  
+My grandson is a 74 year old retiree whose kidneys just failed  
+And that's the glue between me and you  
+Taht's the screws and nails  
+We live in a house made of each other  
+And if that sounds strange that's because it is"  
+--George Watsky, Tiny Glowing Screens pt 2
+
 "Never pretend to a love which you do not actually feel, for love is not ours to command."  
 --Alan Watts
 
