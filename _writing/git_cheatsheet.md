@@ -11,7 +11,7 @@ p {
 }
 </style>
 
-## Key Concepts/Commands with Basic Usage
+## Key Git Concepts/Commands with Basic Usage
 <br/>
 <p style="margin-left: 0">Remember you can always&emsp;<tt>git &lt;command&gt; --help</tt>&emsp;for further details about any command.</p>
 <br/>
