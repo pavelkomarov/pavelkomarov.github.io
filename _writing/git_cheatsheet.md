@@ -88,7 +88,7 @@ Delete the local branch when you’re done with it. Typically once code is merge
 Signatures of filenames you'd like `git status` and `git add` to be blind to, each on a new line. E.g. `.DS_Store` to make git ignore the Mac custom folder attributes cache and `*.o` to ignore all intermediate output files in a C project.
 
 ###### “fork” 
-If you want your own version of someone else’s public repo, and they haven’t made you a collaborator on theirs, you fork. Forks can evolve independently or be the basis for pull requests back to the original repo.
+If you want to be owner of your own remote version of someone else’s public repo, and they haven’t made you a collaborator on theirs, you fork. Forks can evolve independently or be the basis for pull requests back to the original repo.
 
 ###### “GitHub Actions”
 There is a concept called “continuous integration” (CI), which means when you push code, the server does a bunch of things for you automatically, like running tests, regenerating documentation, deploying packages, etc. This is all governed by configuration files, which have a lot of quirks and can be annoying to set up, but it's super helpful for giving you and others immediate feedback about the state of the code. There are numerous different systems, but Github’s built-in one is called “Actions”.
