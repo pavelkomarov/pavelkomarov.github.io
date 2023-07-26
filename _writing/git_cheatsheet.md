@@ -63,9 +63,9 @@ Lists all the local branches, so you can see and select between them.
 Switch to a different branch locally. You might do some work in one branch and then decide you want to set it aside and work on something conceptually unrelated, which you’ve got stewing in a different branch. Note that all work has to be cleanly committed to your current branch (or <a href="#Advanced">stashed</a>) before git will let you switch.
 
 ###### `git checkout -b <branch-name>`
-Create a new local branch. Note that this branches *from the branch you've currently selected*. It is possible to have branches on branches, thereby enabling side-work on longer-living, larger-scope feature branches. Note this assumes all the changes of the first branch at the time of branching, thereby compounding divergence from master. You should branch with respect to the branch where your changes are meant to apply. Most commonly this means checking out master before new branch creation.
+Create a new local branch. Note that this branches *from the branch you've currently selected*. It is possible to have branches on branches, thereby enabling side-work on longer-living, larger-scope feature branches. The new branch assumes all the changes of the initial branch at the time of branching, which can compound divergence. You should branch with respect to the branch where your changes are meant to apply. Most commonly this means checking out master before new branch creation.
 
-###### “pull request”, (PR)
+###### “pull request” (PR)
 Once you’re happy with the state of one of your branches, and you’d like the master code to reflect your gloriously helpful changes, “submit” your code via one of these. There is a “Pull Requests” tab on GitHub where others can view, comment on, and collaborators can accept/reject the changes.
 
 ###### “merge”
