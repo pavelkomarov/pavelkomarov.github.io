@@ -19,15 +19,15 @@ p {
 ###### “upstream”/“remote”/“origin"
 The server-side, “in the cloud” repo your local copy is pointed to.
 
-###### “commit” (n.)
-Refers to a set of changes, large or small. It forms a node in the code graph. Each has an associated message to describe what it was about and a hash so you can identify it uniquely (as for rolling code back to a particular spot).
-
 ###### `git clone https://<github-token>@github.com/<username>/<repo-name>.git`
 ###### `git clone git@github.com:<username>/<repo-name>.git`
 Get a copy of the remote locally for the first time. Note you'll also need to create a github access token through the website or `cd ~/.ssh && ssh-keygen`, `cat id_rsa.pub | pbcopy` and paste the public key on your github profile.
 
+###### “commit” (n.)
+Refers to a set of changes, large or small. It forms a node in the code graph. Each has an associated message to describe what it was about and a hash so you can identify it uniquely (as for rolling code back to a particular spot).
+
 ###### `git status`
-At any time there may be changes “staged” for commit (shown in green), or not staged for commit (shown in red). If you commit, then those changes cease to be shown in the stage, but status will tell you you’re “ahead of” the remote copy by 1 or more commits. 
+At any time there may be changes “staged” for commit (shown in green), or not staged for commit (shown in red). If you commit (v.), then those changes cease to be shown in the stage, but `status` will tell you you’re “ahead of” the remote copy by 1 or more commits (n.). 
 
 ###### `git add`
 Adds a change to the “stage”, so git knows you want to include that change in the next commit.
