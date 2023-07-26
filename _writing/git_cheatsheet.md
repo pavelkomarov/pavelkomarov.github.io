@@ -48,7 +48,7 @@ Undo the latest local commit, without reverting the code itself. If you mistaken
 Undo the latest local commit, throwing away all code changes involved. This one is a bit dangerous, but useful.
 
 ###### `git push`
-Send your local commits the cloud. You typically want to do this at the end of your session, so your work can't be lost if your computer dies. Some times you push more frequently, or to intentionally kick off <a href="#Advanced">continuous integration</a>.
+Send your local commits the cloud. You should do this at the end of your session, so your work can't be lost if your computer dies. Some times you push more frequently, or to intentionally kick off <a href="#Advanced">continuous integration</a>.
 
 ###### “branch”
 A branch in the code graph. If working on the same files as others, it can be helpful to put one or a series of commits in a separate branch so they can’t break the mainline code. You can push branches and the commits you make to them up to the cloud, where they can happily live in parallel.
@@ -69,13 +69,16 @@ Create a new local branch. Note that this branches *from the branch you've curre
 Once you’re happy with the state of one of your branches, and you’d like the master code to reflect your gloriously helpful changes, “submit” your code via one of these. There is a “Pull Requests” tab on GitHub where others can view, comment on, and collaborators can accept/reject the changes.
 
 ###### “merge”
-Once a pull request is accepted, the branches are combined. A “merge strategy” is necessary when the master branch has also undergone changes. “Merge conflicts” occur when those different changes interfere with each other and can’t be automatically resolved. In this case, git edits the conflicted files, adding big symbols to delimit sections the resolver wasn’t sure about: `<<<<<<<` remote version `=======` your version `>>>>>>>`. You’ll have to open and edit these manually, recommit, and repush. Resolving merge conflicts is famously the most painful part of git, but thankfully it’s rare.
-
-###### `git pull origin master`
-While on one of your own branches, use this to keep that branch up-to-date with changes others have made to master. This is the best way to avoid merge conflicts, because it keeps divergence small.
+Once a pull request is accepted, the branches are combined. A “merge strategy” is necessary when the master branch has also undergone changes. “Merge conflicts” occur when those different changes interfere with each other and can’t be automatically resolved. In this case, git edits the conflicted files, adding big symbols to delimit sections the resolver wasn’t sure about: `<<<<<<<` remote version `=======` your version `>>>>>>>`. You’ll have to open and edit these manually, recommit, and repush. Resolving merge conflicts is infamously the most painful part of git, but thankfully it’s rare.
 
 ###### `git merge <other-branch>`
-Merge the commits from some other local branch in to the current branch.
+Merge the commits from some other branch in to the current branch. `pull` invokes `merge`, so you usually don't need to make this call separately.
+
+###### `git pull`
+Pull down commits to the current branch from the remote. You should do this when beginning work to make sure you're operating with the latest version. This averts merge conflicts by ensuring you're not writing changes to something that has already changed in an incompatible way.
+
+###### `git pull origin master`
+While on one of your own branches, use this to keep that branch up-to-date with changes others have made to master. This averts merge conflicts by keeping divergence small.
 
 ###### `git branch -d <branch-name>`
 Delete the local branch when you’re done with it. Typically once code is merged you do this to reduce clutter. This only deletes the local copy; the remote copy of your branch can be deleted manually on GitHub or, if you check the checkbox at pull request creation, gets cleaned up when an associated PR is merged.
