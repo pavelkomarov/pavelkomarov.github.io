@@ -51,7 +51,7 @@ Undo the latest local commit, throwing away all code changes involved. This one 
 Send your local commits the cloud.
 
 ###### “branch”
-A branch in the code graph. If working on the same files as others, it can be helpful to put one or a series of commits in a separate branch so they can’t break the mainline code. You can push branches and the commits you make to them up to the cloud.
+A branch in the code graph. If working on the same files as others, it can be helpful to put one or a series of commits in a separate branch so they can’t break the mainline code. You can push branches and the commits you make to them up to the cloud, where they can happily live in parallel.
 
 ###### “master”
 The main branch. You want things in here to always stay unbroken. Some times everyone just commits here directly, and it’s fine. Some times an organization chooses to engage settings to “protect” the master branch, meaning it can only be modified via pull requests, some times only with several people’s review and approval.
@@ -60,10 +60,10 @@ The main branch. You want things in here to always stay unbroken. Some times eve
 Lists all the local branches, so you can see and select between them.
 
 ###### `git checkout <branch-name>`
-Switch to a different branch locally. You might do some work in one branch and then decide you want to set it aside and work on something conceptually unrelated, which you’ve got stewing in a different branch.
+Switch to a different branch locally. You might do some work in one branch and then decide you want to set it aside and work on something conceptually unrelated, which you’ve got stewing in a different branch. Note that all work has to be cleanly committed to your current branch (or <a href="#Advanced">stashed</a>) before github will let you switch.
 
 ###### `git checkout -b <branch-name>`
-Create a new local branch. Note that this branches *from the branch you've currently selected*, so it's possible to have branches on branches. You want to branch with respect to the branch your new changes should , you checkout master to make sure they're all based from the canonical code. Otherwise your divergence from master compounds, including all the changes from the secondary branch at the time of branching.
+Create a new local branch. Note that this branches *from the branch you've currently selected*. It is possible to have branches on branches, thereby enabling side-work on longer-living, larger-scope feature branches, but note this also compounds divergence from master, assuming all the changes of the first branch at the time of branching. You should branch with respect to the branch where your changes are meant to apply. Most commonly this means checking out master (and pulling if you want to be extra sure you're up-to-date) before new branch creation.
 
 ###### “pull request”
 Once you’re happy with the state of one of your branches, and you’d like the master code to reflect your gloriously helpful changes, “submit” your code via one of these. There is a “Pull Requests” tab on the website where others can view, comment on, and collaborators can accept/reject the changes.
@@ -81,11 +81,20 @@ Merge the commits from some other local branch in to the current branch.
 Delete the local branch when you’re done with it. Typically once code is merged you do this to reduce clutter.
 
 <br/>
-#### Extra Credit
+#### Advanced
 <br/>
 
 ###### `.gitignore`
 Signatures of filenames you'd like `git status` and `git add` to be blind to, each on a new line. E.g. `.DS_Store` to make git ignore the Mac custom folder attributes cache and `*.o` to ignore all intermediate output files in a C project.
+
+###### `git stash`
+If you have changes on one branch that are preventing you from switching branches, but you don't want to commit them, you can stash them via this command.
+
+###### `git stash list`
+See your stashes with this command. They are shown with identifiers `stash@{0}`, `stash@{1}`, etc.
+
+###### `git stash pop stash@{<num>}`
+Take the named stash out of the list, and apply those changes to the current branch. You can see the changes reflected in the output of `git status`. 
 
 ###### “fork” 
 If you want to be owner of your own remote version of someone else’s public repo, and they haven’t made you a collaborator on theirs, you fork. Forks can evolve independently or be the basis for pull requests back to the original repo.
