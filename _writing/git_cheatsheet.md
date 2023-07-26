@@ -60,13 +60,13 @@ The main branch. You want things in here to always stay unbroken. Some times eve
 Lists all the local branches, so you can see and select between them.
 
 ###### `git checkout <branch-name>`
-Switch to a different branch locally. You might do some work in one branch and then decide you want to set it aside and work on something conceptually unrelated, which you’ve got stewing in a different branch. Note that all work has to be cleanly committed to your current branch (or <a href="#Advanced">stashed</a>) before github will let you switch.
+Switch to a different branch locally. You might do some work in one branch and then decide you want to set it aside and work on something conceptually unrelated, which you’ve got stewing in a different branch. Note that all work has to be cleanly committed to your current branch (or <a href="#Advanced">stashed</a>) before git will let you switch.
 
 ###### `git checkout -b <branch-name>`
-Create a new local branch. Note that this branches *from the branch you've currently selected*. It is possible to have branches on branches, thereby enabling side-work on longer-living, larger-scope feature branches, but note this also compounds divergence from master, assuming all the changes of the first branch at the time of branching. You should branch with respect to the branch where your changes are meant to apply. Most commonly this means checking out master (and pulling if you want to be extra sure you're up-to-date) before new branch creation.
+Create a new local branch. Note that this branches *from the branch you've currently selected*. It is possible to have branches on branches, thereby enabling side-work on longer-living, larger-scope feature branches. Note this assumes all the changes of the first branch at the time of branching, thereby compounding divergence from master. You should branch with respect to the branch where your changes are meant to apply. Most commonly this means checking out master before new branch creation.
 
-###### “pull request”
-Once you’re happy with the state of one of your branches, and you’d like the master code to reflect your gloriously helpful changes, “submit” your code via one of these. There is a “Pull Requests” tab on the website where others can view, comment on, and collaborators can accept/reject the changes.
+###### “pull request”, (PR)
+Once you’re happy with the state of one of your branches, and you’d like the master code to reflect your gloriously helpful changes, “submit” your code via one of these. There is a “Pull Requests” tab on GitHub where others can view, comment on, and collaborators can accept/reject the changes.
 
 ###### “merge”
 Once a pull request is accepted, the branches are combined. A “merge strategy” is necessary when the master branch has also undergone changes. “Merge conflicts” occur when those different changes interfere with each other and can’t be automatically resolved. In this case, git edits the conflicted files, adding big symbols to delimit sections the resolver wasn’t sure about: `<<<<<<<` remote version `=======` your version `>>>>>>>`. You’ll have to open and edit these manually, recommit, and repush. Resolving merge conflicts is famously the most painful part of git, but thankfully it’s rare.
@@ -78,9 +78,10 @@ While on one of your own branches, use this to keep that branch up-to-date with 
 Merge the commits from some other local branch in to the current branch.
 
 ###### `git branch -d <branch-name>`
-Delete the local branch when you’re done with it. Typically once code is merged you do this to reduce clutter.
+Delete the local branch when you’re done with it. Typically once code is merged you do this to reduce clutter. This only deletes the local copy; the remote copy of your branch can be deleted manually on GitHub or, if you check the checkbox at pull request creation, gets cleaned up when an associated PR is merged.
 
 <br/>
+<a class="anchor" id="Advanced"></a>
 #### Advanced
 <br/>
 
@@ -93,11 +94,11 @@ If you have changes on one branch that are preventing you from switching branche
 ###### `git stash list`
 See your stashes with this command. They are shown with identifiers `stash@{0}`, `stash@{1}`, etc.
 
-###### `git stash pop stash@{<num>}`
+###### `git stash pop stash@{<N>}`
 Take the named stash out of the list, and apply those changes to the current branch. You can see the changes reflected in the output of `git status`. 
 
 ###### “fork” 
 If you want to be owner of your own remote version of someone else’s public repo, and they haven’t made you a collaborator on theirs, you fork. Forks can evolve independently or be the basis for pull requests back to the original repo.
 
 ###### “GitHub Actions”
-There is a concept called “continuous integration” (CI), which means when you push code, the server does a bunch of things for you automatically, like running tests, regenerating documentation, deploying packages, etc. This is all governed by configuration files, which have a lot of quirks and can be annoying to set up, but it's super helpful for giving you and others immediate feedback about the state of the code. There are numerous different systems, but Github’s built-in one is called “Actions”.
+There is a concept called “continuous integration” (CI), which means when you push code, the server does a bunch of things for you automatically, like running tests, regenerating documentation, deploying packages, etc. This is all governed by configuration files, which have a lot of quirks and can be annoying to set up, but it's super helpful for giving you and others immediate feedback about the state of the code. There are numerous different systems, but GitHub’s built-in one is called “Actions”.
