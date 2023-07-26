@@ -33,7 +33,7 @@ At any time there may be changes “staged” for commit (shown in green), or no
 Adds a change to the “stage”, so git knows you want to include that change in the next commit.
 
 ###### `git rm`
-This is the same as using rm to remove files from the system and then using `git add <deleted-filename>` to stage the removals as part of a commit.
+This is the same as using `rm` to remove files from the system and then using `git add <deleted-filename>` to stage the removals as part of a commit.
 
 ###### `git reset <filename>`
 “Unstages” a file that you’ve added to the stage.
@@ -51,19 +51,19 @@ Undo the latest local commit, throwing away all code changes involved. This one 
 Send your local commits the cloud.
 
 ###### “branch”
-A branch in the code graph. If working on the same files as others, it can be helpful to put one or a series of commits in a separate branch so they can’t break the mainline code.
+A branch in the code graph. If working on the same files as others, it can be helpful to put one or a series of commits in a separate branch so they can’t break the mainline code. You can push branches and the commits you make to them up to the cloud.
 
 ###### “master”
-The main branch. You typically want things in here to always stay unbroken. Some times everyone just commits here directly, and it’s fine. Some times an organization chooses to engage settings to “protect” the master branch, meaning it can only be modified via pull requests, some times only with several people’s review and approval.
+The main branch. You want things in here to always stay unbroken. Some times everyone just commits here directly, and it’s fine. Some times an organization chooses to engage settings to “protect” the master branch, meaning it can only be modified via pull requests, some times only with several people’s review and approval.
 
 ###### `git branch`
 Lists all the local branches, so you can see and select between them.
 
-###### `git checkout -b <branch-name>`
-Create a new local branch.
-
 ###### `git checkout <branch-name>`
 Switch to a different branch locally. You might do some work in one branch and then decide you want to set it aside and work on something conceptually unrelated, which you’ve got stewing in a different branch.
+
+###### `git checkout -b <branch-name>`
+Create a new local branch. Note that this branches *from the branch you've currently selected*, so it's possible to have branches on branches. You want to branch with respect to the branch your new changes should , you checkout master to make sure they're all based from the canonical code. Otherwise your divergence from master compounds, including all the changes from the secondary branch at the time of branching.
 
 ###### “pull request”
 Once you’re happy with the state of one of your branches, and you’d like the master code to reflect your gloriously helpful changes, “submit” your code via one of these. There is a “Pull Requests” tab on the website where others can view, comment on, and collaborators can accept/reject the changes.
