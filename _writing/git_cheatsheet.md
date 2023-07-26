@@ -48,7 +48,7 @@ Undo the latest local commit, without reverting the code itself. If you mistaken
 Undo the latest local commit, throwing away all code changes involved. This one is a bit dangerous, but useful.
 
 ###### `git push`
-Send your local commits the cloud.
+Send your local commits the cloud. You typically want to do this at the end of your session, so your work can't be lost if your computer dies. Some times you push more frequently, or to intentionally kick off <a href="#Advanced">continuous integration</a>.
 
 ###### “branch”
 A branch in the code graph. If working on the same files as others, it can be helpful to put one or a series of commits in a separate branch so they can’t break the mainline code. You can push branches and the commits you make to them up to the cloud, where they can happily live in parallel.
