@@ -279,6 +279,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "At some level [Peterson](#P) is offering assertiveness training to men whom society is trying to turn into emasculated snowflakes."  
 --David Brooks, *New York Times*
 
+"The people who have a strong sense of love and belonging believe they're worthy of love and belonging. That's it."  
+--Brene Brown
+
 "Any book on happiness is likely to tell you to set clear goals on what you want to achieve and then work towards achieving them. The problem is it doesn't really work. You might become a millionaire by the time you're 40, but then you realize you haven't been able to sustain a happy relationship. Or when it doesn't work out you feel lost, and you blame yourself. When we live for our goals, we forget to live *now*. The philosopher Allen Watts made the point that when you listen to a piece of music, you don't just skip to the end because that's where it all comes together. You don't just read the last chapter of a book because that's the climax. Yet in life we're obsessed with endings. So you study for these exams so you can go to this university to get this job to work your way up to what? Eventually you reach some position in your 50s and you think "Is this it? Is this the thing? Is this what I've been working for?" And you forget that maybe life should be more like a piece of music, and you're supposed to be dancing."  
 --Derren Brown
 
@@ -345,7 +348,7 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "There is perhaps nothing worse than reaching the top of the ladder and discovering that you’re on the wrong wall."  
 --Joseph Campbell
 
-"The care you fear to enter holds the treasure you seek."  
+"The cave you fear to enter holds the treasure you seek."  
 --Joseph Campbell
 
 "Nobody realizes that some people expend tremendous energy merely to be normal."   
@@ -381,8 +384,11 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "Any fool can criticize, condemn, and complain--and most fools do."  
 --Dale Carnegie
 
+"If we approach the other person with our fists doubled, this will only lead the other person to double his fists twice as fast. If instead we come to him and say 'Why don't we sit down and talk this through so we can understand why we disagree?', we're likely to find that we're actually not so far apart after all, and that the points on which we differ are few, and the ones on which we agree are many."  
+--Dale Carnegie
+
 "We accept the love we think we deserve."  
---[Stephen Chbosky](https://en.wikipedia.org/wiki/The_Perks_of_Being_a_Wallflower)
+--[Stephen Chbosky](https://en.wikipedia.org/wiki/The_Perks_of_Being_a_Wallflower) see also Brene Brown
 
 "Son, some times you have to be a lion so you can be the lamb you really are."  
 --Dave Chappelle's mom
@@ -492,6 +498,23 @@ protecting us from our now and later"
 "In my experience, you truly serve only what you love; because service is love made visible."  
 --Stephen Colbert
 
+"A fatherless child thinks all things possible and nothing is safe."  
+...  
+"We're asked to accept the world that God gives us and to accept it with love. If God is everywhere, and God is in everything, then the world as it is is all just an expression of God and his love, and you have to accept it with gratitude. Because what is the option? What is the option?"  
+...  
+"There isn't another timeline. And this is it. And the bravest thing you can do is to accept with gratitude the world as it is. And then, as Gandalf says, 'So do all people who are in such times.'"  
+"You told an interviewer that you have learned to, in your words 'love the thing that I most wish had not happened. Ummm [voice breaks] You went on to say 'What punishments of God are not gifts?' Do you really believe that?"  
+[long pause] "Yes. It's a gift to exist. It's a gift to exist. And with existence comes suffering. There's no escaping that. And I guess I'm either a Catholic or a Buddhist when I say those things, 'cause I've heard those from both traditions. But I didn't learn it, that I was grateful for the thing I most wish hadn't happened; I realized it. And it's an oddly guilty feeling."  
+"It doesn't mean you are happy this--"  
+"I don't want it to have happened. I want it to not have happened. But, if you are grateful for your life, which I think is a positive thing to do. Not everybody is, and I'm not always, but it's the most positive thing to do. Then you have to be grateful for all of it. You can't pick and choose what you're grateful for. And then, so what do you get from loss? You get awareness of other people's loss"  
+"Well that's true, empathy."  
+"which allows you to connect with that other person, which allows you to love more deeply and to understand what it's like to be a human being, if it's true that all humans suffer. And so, at a young age I suffered something so that by the time I was in serious relationships in my life, with friends, or with my wife, or with my children, I have some understanding that everybody is suffering and, however imperfectly, acknowledge their suffering to connect with them and to love in a deep way that not only accepts that all of us suffer but then also makes you grateful that you have suffered so that you can know that about other people. And that's what I mean. It's but the fullness of your humanity. What's the point of being here and being human if you can't be the most human you can be? I'm not saying best, 'cause you can be a bad person and a most human. I want to be the most human I can be. And that involves acknowledging and ultimately being grateful for the things that I wish didn't happen, because they gave me a gift."  
+...  
+"I don't even have a well-defined enough cosmology to have a sense of what's going to happen [after death]."  
+...  
+"What punishments of God are not gifts? I'm quoting Tolkein there. That's not me."  
+--[Stephen Colbert and Anderson Cooper](https://www.youtube.com/watch?v=YB46h1koicQ)
+
 "So congratulations on the extra effort, Mercedes, which of course was a complete waste because Bloomberg Businessweek crunched the data this week comparing the satisfaction rankings with each company's stock price and found that '...customer-service scores have no relevance to stock market returns... the most-hated companies perform better...' and 'Your contempt really, truly doesn't matter... If anything, it might hurt company profits to spend money making customers happy.' That's right, folks, the Free Market has spoken, and it said 'Fuck you.'"  
 --Stephen Colbert
 
@@ -533,12 +556,11 @@ So do it."
 "I'm happy about the things I've done. Not always happy about the results, but happy about the decisions, because I made them myself. And I think that's an important way to go through life."  
 --Kevin Costner
 
+"You are shittin' in my mouth and callin' it a sundae."  
+--David Cross as Ronnie Dobbs on *Mr. Show*
+
 "Nothing in life is to be feared; it is only to be understood."  
 --Marie Curie
-
-"Co je na srdci je na dlani."  
-"What is on the heart is on the palm of your hand."  
---Czech Proverb, according to Babi
 
 <a class="anchor" id="D"></a>
 ### D
@@ -828,7 +850,7 @@ And know the place for the first time.
 "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."  
 --Viktor Frankl
 
-"When we are no longer able to change a sitation, we are challenged to change ourselves."  
+"When we are no longer able to change a situation, we are challenged to change ourselves."  
 --Viktor Frankl
 
 "The constitution only guarantees the American people the right to pursue happiness. You have to catch it yourself."  
@@ -1422,7 +1444,7 @@ may God hold you in the palm of his hand."
 "Good manners are never out of style."  
 --Lubomir Komarov
 
-"Your reputation is like your shadow: Some times it precedes you; some times it follows you. But it will always be with you."  
+"Your reputation is like your shadow: Some times it precedes you; some times it follows you; but it will always be with you."  
 --Lubomir Komarov
 
 "Every relationship is like fine piece of crystal: Beautiful and unique, but if you tap even lightly on just the the wrong spot, it can shatter."  
@@ -1439,6 +1461,9 @@ may God hold you in the palm of his hand."
 
 "[[Musk quote](#musk)] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb. #staywithit"  
 --a favorite post of mine
+
+“High, wild places are the closest thing I have to a church. They’ve nurtured my soul for more than 60 years. They’ve restored my emotional equilibrium during periods of despair. They are where I feel most at peace....There is no getting around the fact that steep terrain is inherently dangerous, however. And for those of us who spend as much time as possible on the heights, our dirty little secret is the hazards are actually part of the appeal. The danger sharpens the senses, rids the mind of trivialities, compels one to focus exclusively on the moment. Stepping out of your comfort zone and confronting your fears can be transformative....A life of excessive caution can be even more injurious than its opposite.”
+–Jon Krakauer, Foreword to *No Words for the Way Down*
 
 "You have to surrender to the fact that you are of too many in a highly competitive field where it is difficult to stand out. Over time, through your work, you will demonstrate who you are and what you bring to the field. Just stay with it and keep working."   
 --Lisa Kudrow
@@ -1622,6 +1647,9 @@ But nothing happened every time I tried"
 "Despair is a development of pride so great that it chooses one's certitude rather than admit God is more creative than we are."  
 --Thomas Merton, as paraphrased in [First Reformed](https://en.wikipedia.org/wiki/First_Reformed)
 
+"You are identifying yourself with the content of your own self model, and you're completely glued in to it."  
+--Thomas Mezinger, on *Making Sense*
+
 "I think that a guy who's always interested in the condition of the world and changing it either has no problems of his own or refuses to face them."  
 --Henry Miller, *Reds* (1981)
 
@@ -1640,7 +1668,7 @@ But nothing happened every time I tried"
 "I think that inside every adult is the heart of a child. We just gradually convince ourselves that we have to act more like adults."  
 --Shigeru Miyamoto
 
-"No plan survives contact with the enemy."  
+"A plan never survives contact with the enemy."  
 --Helmuth von Moltke the Elder (the catchy translation)
 
 "I've suffered thousands of tragedies in my life, most of which never happened."  
@@ -1682,7 +1710,7 @@ To be a better man"
 --Napoleon
 
 "Quantity has a quality all its own."  
---Napoleon
+--Napoleon, maybe
 
 "Where the heart leads, the mind can follow."  
 --Maajid Nawaz
@@ -1772,6 +1800,9 @@ To be a better man"
 
 "American politics, and I think Americans will be the first to agree with this, are inherently ludicrous."  
 --John Oliver
+
+"The more we progress, the more we tend to progress...We draw compound interest on the whole capital of knowledge and virtue which has been accumulated since the dawning of time."  
+--Sir Arthur Conan Doyle
 
 "Have you ever heard of a Saint hiding in a church?"  
 --Edie Doyle, *On The Waterfront*, a call to action
@@ -1868,17 +1899,33 @@ To be a better man"
 "He who asks is fool for a moment, but he who does not ask remains a fool forever."  
 --Chinese Proverb
 
-"Enjoy yourself. It's later than you think."  
---Chinese Proverb
-
 "The hammer of hard times shatters glass, but forges steel."  
---Russian Proverb
+--Russian proverb
+
+"Calm waters make poor sailors."  
+--Proverb
 
 "Happiness is reality minus expectations."  
 --Proverb
 
+"Character is destiny."  
+--Proverb
+
+"What gets measured gets managed."  
+--Proverb
+
 "Sacred cows make the tastiest hamburger."  
 --[Proverb](https://quoteinvestigator.com/2016/12/12/cows/)
+
+"Co je na srdci je na dlani."  
+"What is on the heart is on the palm of your hand."  
+--Czech proverb, according to Babi
+
+"Fortune favors the brave."  
+--Roman proverb
+
+"Enjoy yourself. It's later than you think."  
+--Roman proverb
 
 <a class="anchor" id="R"></a>
 ### R
@@ -1899,7 +1946,7 @@ To be a better man"
 "I don't know if God exists, but it would be better for His reputation if He didn't."  
 --Jules Renard
 
-"Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come watch TV."  
+"Don't run. Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die."  
 --Morty, *Rick and Morty*
 
 "It appears the lower tier of this society is being manipulated through sex and advanced technology by a hidden ruling class. Sound familiar?"  
@@ -1985,9 +2032,6 @@ When a child gave him drawings, rather than look at the drawings, he looked inte
 --journalist friend  
 He truly embodied the principles of being genuinely interested in other people, showing them real appreciation, and giving away vast quantities of love, never stopping to become embittered by a world that may not return those sentiments initially.  
 
-"Fortune favors the brave."  
---Roman proverb
-
 "In one particularly telling real-world example from 2016 of how such cuts affected students in the “brick and mortar” district, high school junior Jameria Miller talks about why she starts every morning running through the school to get a good seat near the front of the room in her first-period Spanish class. It’s not because she is just excited about the class. It’s because the school is cold. As she explains, “The cold is definitely a distraction. We race to class to get the best blankets.” What she means is that because the classroom where she begins her day has uninsulated metal walls, Jameria’s teacher hands out blankets to the students on a first come, first served basis. It’s the only way for them to stay warm. Miller’s school in the William Penn District is situated in Philadelphia’s “inner-ring” suburbs and serves a student body that is majority Black and overwhelmingly impoverished. Though concentrating in the cold is hard enough, Miller says the hardest part of her daily ordeal is the knowledge that life isn’t like this for students in other districts. She means students in wealthier districts. “It’s never going to be fair, they’re always going to be a step ahead of us. They’ll have more money than us, and they’ll get better jobs than us, always.” She says she doesn’t believe that either funding or systemic school improvement will ever truly equalize: 'What I'm about to say might not be very nice, but rich people aren’t going to want [funding fairness]. They want their kids to have better things so that their kids can get a jump start in life and be ahead of everyone else. And, as long as people feel that way, we all won’t be equal. We won’t receive equal education ever, because education is what gets you success.'"  
 --[Noliwe Rooks](https://longreads.com/2018/02/20/the-great-online-school-scam/)
 
@@ -1997,11 +2041,18 @@ He truly embodied the principles of being genuinely interested in other people, 
 "No one can make you feel inferior without your consent."  
 --Eleanor Roosevelt
 
+"You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face. You're able to say to yourself 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you can not do."  
+--Eleanor Roosevelt
+
 "A conservative is a man with two perfectly good legs who, however, has never learned to walk forward."  
 --Franklin Delano Roosevelt
 
 "It is hard to fail, but it is worse never to have tried to succeed."  
 --Theodore Roosevelt
+
+"I am what I am, and I'm good at it  
+And you don't like me, well that isn't fucking relevant"  
+--Ellie Roswell (of Wolf Alice), *Smile*
 
 "The follies which a man regrets most, in his life, are those which he didn't commit when he had the opportunity."  
 --Helen Rowland
