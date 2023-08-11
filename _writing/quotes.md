@@ -832,9 +832,12 @@ And know the place for the first time.
 
 *"What is the best beauty advice you've ever been given?"*  
 "I never felt beautiful growing up. I had freckles, red hair and pale lashes. I didn't tan, and I was stick thin. Usually redheads \[were\] portrayed as the geeky ugly girl or the mean one in movies and on TV. It wasn't like today where you have loads of gorgeous redhead actresses.  
-&emsp;&emsp;&emsp;"My mum told me, 'Sylvia, you don't have to be the most beautiful woman in the room. People are drawn to those who make them feel good about themselves. So look for the good qualities in people, and remember to acknowledge them for it. When you see the beauty in them, they will see the beauty in you.'  
+&emsp;&emsp;&emsp;My mum told me, 'Sylvia, you don't have to be the most beautiful woman in the room. People are drawn to those who make them feel good about themselves. So look for the good qualities in people, and remember to acknowledge them for it. When you see the beauty in them, they will see the beauty in you.'  
 &emsp;&emsp;&emsp;I still do this today. Whether it's something about how they look that day or how they are as a person, I don't just think it and keep it to myself, I let them know."  
 --Sylvia Flote
+
+"Whether you think you can or think you can't, you're right."  
+--Henry Ford
 
 "It has been my observation that most people get ahead during the time that others waste."  
 --Henry Ford
