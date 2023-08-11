@@ -830,6 +830,12 @@ And know the place for the first time.
 "I shall not waste my days in trying to prolong them."  
 --Ian Flemming
 
+*"What is the best beauty advice you've ever been given?"*  
+"I never felt beautiful growing up. I had freckles, red hair and pale lashes. I didn't tan, and I was stick thin. Usually redheads \[were\] portrayed as the geeky ugly girl or the mean one in movies and on TV. It wasn't like today where you have loads of gorgeous redhead actresses.  
+&emsp;&emsp;&emsp;"My mum told me, 'Sylvia, you don't have to be the most beautiful woman in the room. People are drawn to those who make them feel good about themselves. So look for the good qualities in people, and remember to acknowledge them for it. When you see the beauty in them, they will see the beauty in you.'  
+&emsp;&emsp;&emsp;I still do this today. Whether it's something about how they look that day or how they are as a person, I don't just think it and keep it to myself, I let them know."  
+--Sylvia Flote
+
 "It has been my observation that most people get ahead during the time that others waste."  
 --Henry Ford
 
@@ -1967,6 +1973,9 @@ To be a better man"
 
 "I don't know if God exists, but it would be better for His reputation if He didn't."  
 --Jules Renard
+
+"And they go 'I'm sorry, you're not good-looking enough.' And I know I'm not easy on the eyes. I know God did not tap me with the beauty stick. Alright? But I guarantee you when those lights are off they're gonna be like 'I'm glad Andrew was there.'"  
+--Andrew, Reno 911! 5.5
 
 "Don't run. Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die."  
 --Morty, *Rick and Morty*
