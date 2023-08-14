@@ -1378,6 +1378,9 @@ may God hold you in the palm of his hand."
 "What good is it that a man gain the whole world but lose his soul?"  
 --Jesus, Luke 9:25
 
+"Love your enemies."  
+--Jesus, Matthew 5:44
+
 "In the broadest context, the goal [of life] is to seek enlightenment--however you define it."  
 --Steve Jobs
 
@@ -1465,6 +1468,9 @@ may God hold you in the palm of his hand."
 "Injustice anywhere is a threat to justice everywhere."  
 --Martin Luther King, Jr.
 
+"What is needed is a realization that power without love is reckless and abusive, and that love without power is sentimental and anemic. Power at its best is love implementing the demands of justice. And justice at its best is love correcting everything that stands against love."  
+--[Martin Luther King, Jr.](https://www.youtube.com/watch?v=aPhrTOg1RUk&t=1h22m)
+
 "We strive for perfection and achieve excellence."  
 --Angela Kirkland (Nvidia interviewer)
 
@@ -1488,6 +1494,9 @@ may God hold you in the palm of his hand."
 
 "Don't fight the statistics."  
 --motto of mine
+
+"Look at me; I'm beaming!"  
+--me on mushrooms, December 2022
 
 "[[Musk quote](#musk)] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb. #staywithit"  
 --a favorite post of mine
@@ -1980,6 +1989,13 @@ To be a better man"
 "And they go 'I'm sorry, you're not good-looking enough.' And I know I'm not easy on the eyes. I know God did not tap me with the beauty stick. Alright? But I guarantee you when those lights are off they're gonna be like 'I'm glad Andrew was there.'"  
 --Andrew, Reno 911! 5.5
 
+NYTimes interviewer: "But why does compassion have to be universal?"  
+"Because this is different from moral judgment. It doesn't prevent you from saying [Putin and Assad] are walking psychopaths. But compassion is to remedy suffering wherever it is, whatever form it takes, and whomever causes it. If someone beats you with a stick, you don't get angry with the stick, you get angry with the person. These people we are talking about are like sticks in the hands of ignorance and hatred."  
+--Matthieu Ricard, 2023
+
+"If you can cultivate that quality of human warmth, wanting genuinely for other people to be happy, that's the best way to fulfill your own happiness. This is also the most gratifying state of mind. If we try humbly to enhance our benevolence, that will be the best way to have a good life."  
+--Matthieu Ricard
+
 "Don't run. Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die."  
 --Morty, *Rick and Morty*
 
@@ -2399,6 +2415,9 @@ And seem a saint, when most I play the devil."
 
 "One of the joys of being born with a dick is that you can do whatever the hell you want and no one really cares." [pays attention]  
 --Joel Stein
+
+"When I was in college the Cold War had just ended. I entered college the same year the Soviet Union collapsed. And for a variety of reasons I developed this interest in mid-20th century literature by anti-totalitarian writers, people like Hannah Arendt and Miłosz and a bunch of other figures both from behind the Iron Curtain--Václav Havel--and in the Free World who really thought deeply about the totalitarian phenomenon. And what has struck me profoundly in the last 5 or 6 years is how the psychological categories--the desire to obey, the willingness to be misled so long as you're made to feel as if you belong--, that those methods by which totalitarianism or post-totalitarianism societies were able to rule and to stay in power, that the Trump playbook recalls those methods to an eerie degree, and it's really worth re-reading those books."  
+--Bret Stephens, 2023
 
 "The bitterest tears shed over graves are for words left unsaid and for deeds left undone."  
 --Harriet Beecher Stowe, Little Foxes, 1865
