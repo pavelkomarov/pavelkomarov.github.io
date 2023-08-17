@@ -258,6 +258,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "It is possible to store the mind with a million facts and still be entirely uneducated."  
 --Alec Bourne
 
+"Always look a person in the eye. Do that they'll respect you better. Never be afraid to ask you for anything. Stealing isn't necessary. Never respect anybody who doesn't respect you back."  
+--Boyz n the Hood, three rules
+
 "The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them."  
 --Sir William Bragg
 
@@ -385,6 +388,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 --Dale Carnegie
 
 "If we approach the other person with our fists doubled, this will only lead the other person to double his fists twice as fast. If instead we come to him and say 'Why don't we sit down and talk this through so we can understand why we disagree?', we're likely to find that we're actually not so far apart after all, and that the points on which we differ are few, and the ones on which we agree are many."  
+--Dale Carnegie
+
+"If you tell me how you get your feeling of importance, I'll tell you what you are. That determines your character."  
 --Dale Carnegie
 
 "We accept the love we think we deserve."  
@@ -555,6 +561,9 @@ So do it."
 
 "I'm happy about the things I've done. Not always happy about the results, but happy about the decisions, because I made them myself. And I think that's an important way to go through life."  
 --Kevin Costner
+
+"If I can't scuba, then what's this all been about? What am I working toward?"  
+--Creed, The Office
 
 "You are shittin' in my mouth and callin' it a sundae."  
 --David Cross as Ronnie Dobbs on *Mr. Show*
@@ -760,6 +769,18 @@ And know the place for the first time.
 
 "God will not have his work made manifest by cowards."  
 --Emerson
+
+"It is easy in the world to live after the world's opinion. It is easy in solitude to live after our own. But the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude."  
+--Emerson
+
+"Nothing can bring you peace but yourself."  
+--Emerson, *Self Reliance*
+
+"The victor is not victorious if the vanquished refuses to consider himself so."  
+--Quintus Ennius, Roman
+
+"Death is nothing to us. When we exist, death is not; and when death exists, we are not."  
+--Epicurus
 
 "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."  
 --Epictetus
@@ -1183,6 +1204,9 @@ track one down, patch it around,
 "Making him the villain takes the blame away."  
 --Cameron Howe, *Halt and Catch Fire*
 
+"We live in an age of exponential growth in knowledge, and it is increasingly futile to teach only polished theorems and proofs. We must abandon the guided tour through the art gallery of mathematics, and instead teach how to create mathematics we need. In my opinion, there is no long-term practical alternative."  
+-Richard Hamming, *The Art of Doing Science and Engineering*
+
 "When somebody calls themselves a job creator, they aren't describing the economy, although that's what it sounds like. What they are really doing is making a claim on status, privilege and power."  
 --Nick Hanauer
 
@@ -1221,6 +1245,12 @@ track one down, patch it around,
 
 "The fact that a thought has arisen does not give it a necessary claim upon your life. It need not have any implications."  
 --Sam Harris
+
+"Without having had certain experiences, you really have no sense of how limited your normal experience is. This is in terms of affect and cognition and the ethical implications of both. You just don't know how confined the prison of your mind is, or even that it is a prison, until one of the walls has been broken down for you, and you've seen some vast horizon that you didn't even imagine existed--or even if you did, even if you paid lip service to the possibility, you just didn't know what it would be like to confront it."  
+--Sam Harris, #209
+
+"Clearly the burden is on us to figure out how to spread the wealth around and to reconcieve of what it means to be a productive member of society and how people get the self esteem needs and the belonging needs and the connection needs met in a context of those new norms, where when someone says 'Oh, what are you doing with your life?' Now the self esteem module in the average Ivy League brain, it returns the string 'Oh, I'm a junior at Harvard.', and that's answer enough. That's the perfect answer. And then a few years later it will be 'I just got a job at Goldman Sachs.' or Google, and that's the perfect answer. But at a certain point that answer isn't enough, and people can realize it isn't enough even now when they take an inventory of their moment-to-moment experience."  
+--Sam Harris, #209
 
 "There are those who will say terrible things about JavaScript. Many of these things are true. When I was required to write something in JavaScript for the first time, I quickly came to despise it. It would accept almost anything I typed but interpret it in a way that was completely different from what I meant. This had a lot to do with the fact that I did not have a clue what I was doing, of course, but there is a real issue here: JavaScript is ridiculously liberal in what it allows. The idea behind this design was that it would make programming in JavaScript easier for beginners. In actuality, it mostly makes finding problems in your programs harder because the system will not point them out to you."  
 --Marijn Haverbeke, *Eloquent Javascript*
@@ -1348,6 +1378,9 @@ may God hold you in the palm of his hand."
 <a class="anchor" id="J"></a>
 ### J
 
+"The deepest principle in human nature is the craving to be appreciated."  
+--William James
+
 "It is easier to act your way to a new way of thinking than to think your way to a new way of acting."  
 --distillation of the ['act as if' principle from William James](https://books.google.com/books?id=IBrykBRv2B4C&pg=PA100&lpg=PA100&dq=it+is+easier+to+act+your+way+to+a+new+way+of+thinking+than+to+think+your+way+to+a+new+way+of+acting+william+james&source=bl&ots=SSIpVUJz4Z&sig=ACfU3U2PCpi9jxvhLaCatbTrJ4gW7_arSQ&hl=en&sa=X&ved=2ahUKEwio7dyM0OToAhVB2qwKHVP9DOAQ6AEwAHoECBIQLA#v=onepage&q=it%20is%20easier%20to%20act%20your%20way%20to%20a%20new%20way%20of%20thinking%20than%20to%20think%20your%20way%20to%20a%20new%20way%20of%20acting%20william%20james), first stated to me by Ken "Roberts" Pennacchini
 
@@ -1381,6 +1414,12 @@ may God hold you in the palm of his hand."
 "Love your enemies."  
 --Jesus, Matthew 5:44
 
+"Out of the abundance of the heart, the mouth speaks."  
+--Jesus, Luke 6:45
+
+"From him to whom much is given, much will be required."  
+--Jesus, Luke 12:48 (I often see this working in reverse too)
+
 "In the broadest context, the goal [of life] is to seek enlightenment--however you define it."  
 --Steve Jobs
 
@@ -1405,6 +1444,9 @@ may God hold you in the palm of his hand."
 "I don't think that most of the really best people that I've worked with have worked with computers for the sake of working with computers. They've worked with computers because they are the medium that is best capable of transmitting some feeling that you have that you want to share with other people."  
 --Steve Jobs
 
+"In the biggest picture, aside from psychadelics' ability to treat one disorder or another, I think they're just poised to really help us to understand the nature of psychiatric disorders. What commonalities do they have with each other that are somehow being addressed by psychadelic treatment? I kind of think of all of these disorders as different forms of addiction. So whether it's to a substance like tobacco, or alcohol, cocaine, or a way of thinking about yourself, it's this narrowed mental and behavioral repertoire. Reality used to be like this [arms wide], and now your reality is like this [narrows hands together]. And psychadelics, when done well in the right setting, have the ability to just blow people out of that narrowed story."  
+--[Matthew Johnson](https://youtu.be/HGqFxjQI3is)
+
 "Dare mighty things."  
 --JPL motto
 
@@ -1422,6 +1464,19 @@ may God hold you in the palm of his hand."
 
 "Dare to know."  
 --Kant (on what The Enlightenment was)
+
+"There are actually different types of self-actualizing people. There are self-actualizers who are perfectly content going their entire lives realizing their own potential...but they really don't care much about maximizing the potential of others. There's not a great connection between self and others. They may dazzle with their talents, or at work they may be doing good work, and they feel self-actualized. But they're not what Maslow called the transcenders. He argued that transcenders were a different kind of self-actualizers who were consistently motivated by higher values. He called them the 'be values', the values of being itself, things where there's no means to an end; they're ends in themselves, like the search for beauty, the search for justice, for meaningfulness in the world, for goodness. And you're motivated by these values, but also you're motivated by peak experiences in life."  
+Harris: "...there's more needed in the toolkit for living a truly examined life and becoming a better person than just having certain self-transcending experiences. Certainly I think the 'peak experience' is the wrong model. Whatever the peak is, it comes; it goes; it's not the ultimate insight in to the nature of your consciousness that will transform you. ... What's needed is an actual conscious integration with ethics."  
+"...I think it's really important to not treat these practices as panaceas, as quick fixes. Maslow called them 'quick hits of transcendence'; he was very much against that. He thought self-actualization took a lot of work. ... He really viewed self-actualization as being committed to a calling or something deep within yourself that you love that brings out the best in you, and that you are committed to working towards day in and day out. He very much was in that sort of meaning mode, similar to Viktor Frankl."  
+--[Scott Barry Kaufman](https://www.samharris.org/podcasts/waking-up-conversations/waking-up-scott-barry-kaufman)
+
+"You can live your life with a fear of uncertainty: In a sort of linear way, the greater the fear, the more we go in to this state psychologists have identified, psychological entropy, where we, at the ultimate extreme, we just can't cope, and we get depression; we feel helpless. Or you can live in a constant state of exploration. And exploration means that you are actively exploring the unknown. The unknown excites you. The unknown entices you. The more you can master and challenge the unknown, the happier you are in your life. ... You have to constantly choose the exploration option and learn how to manage the uncertainty that's inevitable in your life. ... Are you really going to live that life with a spirit of exploration and openness to new experiences and curiosity for the unknown, or are you committed to fearing it and having that illusion of control?"  
+--[Scott Barry Kaufman](https://www.samharris.org/podcasts/waking-up-conversations/waking-up-scott-barry-kaufman)
+
+"I teach a course at Columbia called The Science of Living Well ... Most of these students have been living on autopilot thinking 'Oh, the piont is to get a good GPA so that I have a good resume to get in to a good--' It's always about the future. It's always about some objective metric that everyone can agree on as 'Now you're worth it. Now you're worthy.' In this course I teach I have growth as the metric, and that's it. So there isn't comparison from one person to another. I have a whole series of growth challenges throughout the semester. Maybe it could be confronting and embracing your dark side and really becoming friends with it. Another growth challenge is increasing the high quality connections in uyour life, or being more mindful of things around you and having more gratitude in your life. And you start to add up all these things, and students start to realize that _that's_ life, like those are the things. There's actually nothing more to life. That's it!  
+&emsp;&emsp;&emsp;... Really, the plateau experience, that's the most profound, transcendent moments of your life, where you can find the miraculous in the everyday. _That's_ life. If you can cultivate that skill, that'll be a far greater skill than constantly beating yourself up over not getting this grade or that grade or this amount of money, or look that other person's getting that amount of money. Life becomes a zero-sum relative game. If you can move towards growth in your momentary experiences in your life and really realize that everything around you is alreay pretty miraculous, like right now, that's a fundamentally different way of being and living.  
+&emsp;&emsp;&emsp;... The insight a lot of these students are getting is that: You may think that there ever will be a point in uyour life where you get there, and then you've accomplished something, or you've reached self-actualization, or you've reached transcendence. But it's _all_ just a process. It's _all_ just the relational interaction between the experience of you and the world. And that happens in a momentary, momentary basis. And there are just so many things we can do right now without waiting, without waiting for that paycheck or waiting for the next job that can give us meaning."  
+--[Scott Barry Kaufman](https://www.samharris.org/podcasts/waking-up-conversations/waking-up-scott-barry-kaufman)
 
 "A change in perspective is worth 80 IQ points."  
 --[Alan Kay](https://www.youtube.com/watch?v=brU5yLm9DZM&t=14m5s)
@@ -1501,8 +1556,11 @@ may God hold you in the palm of his hand."
 "[[Musk quote](#musk)] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb. #staywithit"  
 --a favorite post of mine
 
-“High, wild places are the closest thing I have to a church. They’ve nurtured my soul for more than 60 years. They’ve restored my emotional equilibrium during periods of despair. They are where I feel most at peace....There is no getting around the fact that steep terrain is inherently dangerous, however. And for those of us who spend as much time as possible on the heights, our dirty little secret is the hazards are actually part of the appeal. The danger sharpens the senses, rids the mind of trivialities, compels one to focus exclusively on the moment. Stepping out of your comfort zone and confronting your fears can be transformative....A life of excessive caution can be even more injurious than its opposite.”
-–Jon Krakauer, Foreword to *No Words for the Way Down*
+"High, wild places are the closest thing I have to a church. They’ve nurtured my soul for more than 60 years. They’ve restored my emotional equilibrium during periods of despair. They are where I feel most at peace....There is no getting around the fact that steep terrain is inherently dangerous, however. And for those of us who spend as much time as possible on the heights, our dirty little secret is the hazards are actually part of the appeal. The danger sharpens the senses, rids the mind of trivialities, compels one to focus exclusively on the moment. Stepping out of your comfort zone and confronting your fears can be transformative. ... A life of excessive caution can be even more injurious than its opposite."  
+–-Jon Krakauer, Foreword to *No Words for the Way Down*
+
+"It is no measure of health to be well-adjusted to a sick society."  
+--Jiddu Krishnamurti
 
 "You have to surrender to the fact that you are of too many in a highly competitive field where it is difficult to stand out. Over time, through your work, you will demonstrate who you are and what you bring to the field. Just stay with it and keep working."   
 --Lisa Kudrow
@@ -1527,7 +1585,10 @@ may God hold you in the palm of his hand."
 --Doug Larson
 
 "When you see a good move, look for a better one."  
---Emmanuel Lasker
+--grandmaster Emmanuel Lasker
+
+"A lot of us live our lives thinking of the things we'd like to do or the adventures we'd like to have, but we hold back. I think that's what really stands out to me about Marc-Andre's journey. It's about: What is it that you would do if you were able to overcome the things you see as limitations or the things that you're afriad of? You know, what would you do?"  
+--Michelle Kuipers, Leclerc's mom  
 
 "Despite what some adults seem to think, teenagers are fully human."  
 --Ursula K. Le Guin
@@ -1564,6 +1625,9 @@ may God hold you in the palm of his hand."
 --Abraham Lincoln
 
 "Whatever you are, be a good one."  
+--Abraham Lincoln
+
+"With malice toward none, with charity for all"  
 --Abraham Lincoln
 
 "I have noticed that most people in this world are about as happy as they have made up their minds to be."  
@@ -1930,6 +1994,9 @@ To be a better man"
 "Why is it that we talk and talk, or at least I certainly do, without somehow conveying what we're really like?"  
 --Michael Polley, *Stories We Tell*
 
+"It's _better_ to stand on my failures than the shoulders of giants. If I win, someone can always come along and beat me, but if I fail, no one can ever take that away from me."  
+--Radha Poovendran, June 2023 in the Paul Allen atrium
+
 "At age 50 you get the face you deserve."  
 --English Proverb
 
@@ -2110,6 +2177,12 @@ And you don't like me, well that isn't fucking relevant"
 "We do not need magic to transform our world. We carry all the power we need inside ourselves already. We have the power to imagine better."  
 --J. K. Rowling
 
+"Failure meant a stripping away of the inessential. I was set free, because my greatest fear had been realized, and I was still alive."  
+--Joanne Rowling
+
+"There are those who approach the opportunities of each day like crossing items off a to-do list instead of truly engaging and participating with all of themselves. ... Yet it is through deliberate action and repetition that we gain deeper insight."  
+--Rick Rubin
+
 "Our task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."  
 --Rumi
 
@@ -2126,7 +2199,7 @@ And you don't like me, well that isn't fucking relevant"
 --Bertrand Russell
 
 "...genius as traditionally concieved: passionate, profound, intense, and dominating."  
---Bertrand Russell (on Wittgenstein)
+--Bertrand Russell (said of Wittgenstein)
 
 "One should as a rule respect public opinion in so far as is necessary to avoid starvation and to keep  out of prison, but anything that goes beyond this is voluntary submission to an unnecessary tyranny,  and is likely to interfere with happiness in all kinds of ways."  
 --Bertrand Russell
@@ -2259,6 +2332,9 @@ world! the paragon of animals!
 And yet, to me, what is this quintessence of dust?"  
 --William Shakespeare, *Hamlet*
 
+"There is nothing either good or bad, but thinking makes it so."  
+--William Shakespeare, *Hamlet*
+
 "I would challenge you to a battle of wits, but see you are unarmed."  
 --William Shakespeare
 
@@ -2266,6 +2342,9 @@ And yet, to me, what is this quintessence of dust?"
 With odd old ends stol'n out of holy writ;  
 And seem a saint, when most I play the devil."  
 --William Shakespeare, *Richard III*
+
+"The fault, dear Brutus, is not in our stars, but in ourselves."  
+--William Shakespeare, *Julius Caesar*
 
 "When two people are under the influence of the most violent, most insane, most delusive, and most transient of passions, they are required to swear that they will remain in that excited, abnormal, and exhausting condition continuously until death do them part."  
 --George Bernard Shaw
@@ -2434,6 +2513,15 @@ And seem a saint, when most I play the devil."
 "Falsehood flies, and truth comes limping after it."  
 --Jonathan Swift
 
+"If you want to create new things for this world, never listen to anybody."  
+--Stanisław Szukalski
+
+"In America, the supreme civilization, that walks on the moon, that tickles Mars. But we have no culture. People direct our interest from our heart, from our love, from our passion. People get less and less intelligent so that the predator can conquer us. We are being destroyed from within."  
+--Stanisław Szukalski (prescient, since this was before the internet attention economy, but the seeds of groupthink were there)
+
+"We usually scorn people whom we do not know. Once we know them, we like them. We even love them. You should be large enough to take all nationalities."  
+--Stanisław Szukalski
+
 <a class="anchor" id="T"></a>
 ### T
 
@@ -2594,6 +2682,9 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 "Let all come who by merit deserve the most reward."  
 --UCL Motto
 
+"As a wise woman once said, 'Being attracted to me is a very attractive feature.'"  
+--Unknown (definitely read it somewhere, but can't find it. Notice how when people like you, you like them, and let that inspire courage to let them know when you have those feelings.)
+
 "I think that what flat-earthers can offer us is a way to have 99.9% of people say 'Well, that's ridiculous. *Imagine* believing that!' and then to turn it around and say 'How are you a flat-earther? Where are you and your people the protagonist in a Disney movie? Where are you constructing your reality?'"  
 --Tim Urban, *Behind the Curve* (1:32:23)
 
@@ -2618,6 +2709,9 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 --Leonardo da Vinci
 
 "Those who can make you believe absurdities can make you commit atrocities."  
+--Voltaire
+
+"Common sense is not so common."  
 --Voltaire
 
 "Everything was beautiful, and nothing hurt."  
@@ -2940,6 +3034,12 @@ Always forgive your enemies--nothing annoys them so much.
 
 "It's really easy to settle for something that you don't like because if you never admit you're unhappy with something then you never have to change anything...until you can't really imagine an alternative."  
 --John Wilson, ep 1.2
+
+"You can waste your entire life playing it safe, but the real danger is never what you expect it to be. And if you put up too much scaffolding to protect yourself, you might just end up buried underneath it."  
+--John Wilson, ep 1.2
+
+"It's a little slice of heaven. But unfortunately this feeling doesn't last very long, because now that you finally have what you've always wanted, all you can think about is losing it."  
+--John Wilson, ep 2.3 (about a parking space)
 
 "I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves."  
 --Ludwig Wittgenstein
