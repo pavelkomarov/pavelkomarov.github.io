@@ -198,11 +198,26 @@ It's how a soldier thinks. A scientist wouldn't understand."
 <a class="anchor" id="B"></a>
 ### B
 
+"The word [*virtù*] derives from the Latin *virtus* which covers a range of meaning from moral uprightness to physical prowess, and its root in turn is *vir*, a man: to act with *virtù* is to display within the demands of a given situation those qualities of assertive energy which can transcend it, to display virility in fact. As its etymology indicates it is a strictly masculine concept--women appear in Machiavelli chiefly as tokens of male honour. In general, then *virtù* denotes those qualities of energy, courage, genius and resource which support self-determination; at its highest it gives purpose and direction to the drift of events and forces back the boundaries of chance."  
+--Dominic Baker-Smith, introduction to *The Prince*, reminded me of "Be a man; do the right thing.", very yang rather than yin
+
+"Machiavelli is invariably hostile to passivity, and what fortune has given she can with ease take away. ... This is why the prince who has relied least on fortune is actually better placed; not only has he been tested in his rise to power, but he is fully alert to the dangers which threaten his position."  
+--Dominic Baker-Smith, introduction to *The Prince*
+
+"[H]umble origin is a common trait of oustanding men, presenting a challenge which initiates their rise to power."  
+--Dominic Baker-Smith, introduction to *The Prince*
+
+"This is why gratuitous cruelty is condemned, not on moral grounds exactly but because it is self-defeating."  
+--Dominic Baker-Smith, introduction to *The Prince*
+
+"... the dialectic between fortune and talent ... *Fortuna* ... he seems to visualize her, along with her ally *Occasio*, in terms of traditional iconography: she is a woman and, as such, most responsive to those audacious enough tot try and master her. ... Fortune may direct a half, or slightly more, or human endeavor, but an element of control is possible, and the opportunities she provides can be exploited by those with spirit. Even if she had such a major say in events, there is still a good deal left to the resources of *virtù*. The thing that is absolutely essential, as Machiavelli carefully emphasizes, is to remain alert and open to the changing circumstances of the times; so many who start out well fail through inflexibility. Adaptability is a necessary requirement for success"  
+--Dominic Baker-Smith, introduction to *The Prince*
+
 "I bought a house, bought a car, bought a pair of jeans  
 bought a surfboard, bought a breakfast, bought beyond my means  
 bought the items that you told me would enrich me,  
 but it shits me: I feel exactly the same."  
--Ball Park Music, *Spark Up*
+--Ball Park Music, *Spark Up*
 
 "So please stop staring at your hand  
 Please just be with me  
@@ -582,6 +597,12 @@ So do it."
 
 "How could they possibly need more conflict? What they don’t realize is that they’re mired in all those negative emotions because they’re unwilling to work through them. As long as they avoid the topics that are creating anger, guilt, and frustration, they’re stuck with them."  
 --[Liane Davey](https://www.fastcompany.com/90325341/why-conflict-is-good-in-the-workplace)
+
+"When we put our butt on the cushion to meditate, in many of these traditions we invoke the intention that I'm going to sit and meditate not primarily for my own benefit, but for the benefit of others. That is, calming my mind and opening my heart is something that's not just good for myself, but even more importantly it's good for others. It's good for all of those with whom I interact."  
+--Richie Davidson, Sam Harris #111
+
+In meditation the dorsolateral prefrontal cortex literally exerts inhibitory control on the amygdala (emotional salience center of the brain for a whole range of emotions, positive and negative) and default mode network (associated with self narrative), which strengthens the connection there and allows us to better modulate responses over time, eventually leading to less reactive emotions and less modulatory input required.  
+--my notes from Richie Davidson's explanation in Sam Harris, #111
 
 "The only competitor for the title of champion constructive mistranslation of all time also concerns virgins. Ibn Warraq has hilariously argued that in the famous promise of seventy-two virgins to every Muslim martyr, 'virgins' is a mistranslation of 'white raisins of crystal clarity'. Now, if only that had been more widely known, how many innocent victims of suicide missions might have been saved?"  
 --Richard Dawkins
@@ -1041,7 +1062,7 @@ And know the place for the first time.
 "[T]he distinguishing mark of the resolute Systems-student is the determination to make the most of what can be done, given the limitations of reality."  
 --John Gall
 
-"[O]ne of the defining characteristics of true transformation is self redefinition....Indeed, rather than be swept away by life and force of habit, the individual can seize control of their life. They can fight against 'inevitability' and the idea of settling for whatever life hands them. We are either compliant with our seemingly preordained fate or we fight. We who choose to embrace the fight understand that life itself is a struggle and \[welcome\] it. Compliant living is mere existing. We want more--we want to improve our quality of life by methodically engaging in our parallel disciplines. Over time our practices will transform us."  
+"[O]ne of the defining characteristics of true transformation is self redefinition. ... Indeed, rather than be swept away by life and force of habit, the individual can seize control of their life. They can fight against 'inevitability' and the idea of settling for whatever life hands them. We are either compliant with our seemingly preordained fate or we fight. We who choose to embrace the fight understand that life itself is a struggle and \[welcome\] it. Compliant living is mere existing. We want more--we want to improve our quality of life by methodically engaging in our parallel disciplines. Over time our practices will transform us."  
 --Marty Gallagher, *Strong Medicine* epilogue
 
 "Sober words are drunken thoughts... Wait."  
@@ -1135,14 +1156,14 @@ And know the place for the first time.
 "If we do not create and control our environment, our environment creates and controls us."  
 --Marshall Goldmish
 
+"The point of classical meditation traditions has always been deconstructing the self, not feeling better, not being more productive, not getting over stress. Those are all attributes that we value in The West but were not part of the original tradition nor the point. They're byproducts of a different project which as to do with less focus on me and more availability to the present and to you."  
+--Danny Goleman
+
 "It’s only old people who say that young people feel “invincible”; it takes a writer of some wisdom to see that youth looks invincible only in retrospect, from the outside."  
 --Rob Goodman, [How To Be Intoxicated](https://www.chronicle.com/interactives/alcohol_essay)
 
 "A great engineer is someone who knows a little about a lot and a lot about a little."  
 --Google Developer's Ph.D. Advisor
-
-"Stretch your boundaries and you’ll be surprised at what you can achieve."  
---Google recruitment literature, but also a principle I found true at college and since
 
 "Think of an experience from your childhood. Something you remember clearly, something you can  see, feel, maybe even smell, as if you were really there. After all, you really were there at the time,  weren't you? How else would you remember it? But here is the bombshell: you weren't there. Not a single atom that is in your body today was there when that event took place ... Matter flows from place to place and momentarily comes together to be you. Whatever you are, therefore, you are not the stuff of which you are made. If that doesn't make the hair stand up on the back of your neck, read it again until it does, because it is important.  
 --Steve Grand
@@ -1252,6 +1273,17 @@ track one down, patch it around,
 "Clearly the burden is on us to figure out how to spread the wealth around and to reconcieve of what it means to be a productive member of society and how people get the self esteem needs and the belonging needs and the connection needs met in a context of those new norms, where when someone says 'Oh, what are you doing with your life?' Now the self esteem module in the average Ivy League brain, it returns the string 'Oh, I'm a junior at Harvard.', and that's answer enough. That's the perfect answer. And then a few years later it will be 'I just got a job at Goldman Sachs.' or Google, and that's the perfect answer. But at a certain point that answer isn't enough, and people can realize it isn't enough even now when they take an inventory of their moment-to-moment experience."  
 --Sam Harris, #209
 
+"The image that I love that I often reference from the Dzogchen teachings is that ultimately thoughts are like thieves entering an empty house; there's nothing for them to steal."  
+--Sam Harris, #209 (on mindfulness and identifying with thought)
+
+Harris: "[A]t every moment in your life you are practicing something; you're using your atttention in a certain way. And for the most part, if you're like most people, you're using it in ways that lead to predictable sorts of dissatisfaction. You're practicing a kind of meditation on all the things you want, all the things that make you anxious, and a kind of perpetual distraction for which a method like mindfulness is put forward as an antidote. But, as your mind is your life becomes, and so you're engraining various tendencies and habits and neurophysiological states moment by moment, every moment of your life."  
+Davidson: "One of the things I frequently say is that neuroplasticity occurs wittingly or unwittingly; most of the time it's occurring unwittingly. Most of the time we're being shaped by forces around us about which we have little insight and little control. And the invitation in this work is that we can actually more intentionally take responsibility for our own minds and brains by cultivating healthier habits of mind."  
+Goleman: "...things are changing in a direction I think people may feel a little helpless about. But meditation, or cultivating the ability to concentrate and ignore distractions, I think has a special cachet and virtue now that wasn't true in the past, if only as an antidote to a social trend. There was research at Harvard, that famous paper in Science where they monitored how distracted people are during the day, and the title was 'A Wandering Mind is an Unhappy Mind', because the more your mind wanders in distraction, the more depressed you get."  
+Harris: "There really is a different conception of mental health here that we are tacitly endorsing [strength?] ... Most people don't even know that their minds are continuously lost in thought ... Then when you enter a contemplative tradition, and in particular a discussion of mental training in the Buddhist tradition, you see, really as almost your first claim, that this is absolutely pathological, to have your attention continually buffeted by the winds of discursive thought, and you're helplessly carried away by every single thought that enters consciousness. And not only are you carried away by the emotions that it invokes--desire and fear and boredom and all the rest--, you are identified with it such that it seems to be you. Your sense of self is bound up in the flow of thought in a way that most people, it's never occurred to them to question. ..."  
+Davidson: "... attentional distraction, mind wandering, as well as reification of the self, believing the thoughts that we have about ourselves as a true depiction of reality, considering them to be true--That you see in depressed people, for example. One of the characteristics of depression is that negative self-thoughts are actually taken to be a veridical description of who the individual is. ... This whole idea we call experiential fusion, where you have the experience of being completely fused with the thought, rather than having a quality of meta-awareness, which is knowing that there is actually a thought occurring and being able to see it as a thought.--And that's something that of course we know can be taught through the kinds of contemplative practices that we're considering.--And one of the most important findings really is the finding that meta-awareness can be strengthened...recognizing that a thought is a thought rather than being swept up in its content."  
+Goleman: "One of the main principles of cognitive therapy is that you don't have to believe your thoughts. That's a very revolutionary idea for most of us."  
+--Sam Harris, Richie Davidson, Danny Goleman #111
+
 "There are those who will say terrible things about JavaScript. Many of these things are true. When I was required to write something in JavaScript for the first time, I quickly came to despise it. It would accept almost anything I typed but interpret it in a way that was completely different from what I meant. This had a lot to do with the fact that I did not have a clue what I was doing, of course, but there is a real issue here: JavaScript is ridiculously liberal in what it allows. The idea behind this design was that it would make programming in JavaScript easier for beginners. In actuality, it mostly makes finding problems in your programs harder because the system will not point them out to you."  
 --Marijn Haverbeke, *Eloquent Javascript*
 
@@ -1341,7 +1373,10 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 --Alex Honnold
 
 "I think there's a kind of metaphysical dimension, that speed becomes a way of walling ourselves off from the bigger, deeper questions: We fill our heads with distraction, with busy-ness so that we don't have to ask 'Am I well?' 'Am I happy?'"  
---[Carl Honore](https://www.youtube.com/watch?v=UhXiHJ8vfuk&t=13m47s)
+--[Carl Honoré](https://www.youtube.com/watch?v=UhXiHJ8vfuk&t=13m47s)
+
+"Dare to know."  
+--Horace, Roman
 
 There is in every village a torch: the teacher; and an extinguisher: the clergyman.  
 --Victor Hugo
@@ -1462,9 +1497,6 @@ may God hold you in the palm of his hand."
 "The quieter you become, the more you can hear."  
 --Kali Linux motto
 
-"Dare to know."  
---Kant (on what The Enlightenment was)
-
 "There are actually different types of self-actualizing people. There are self-actualizers who are perfectly content going their entire lives realizing their own potential...but they really don't care much about maximizing the potential of others. There's not a great connection between self and others. They may dazzle with their talents, or at work they may be doing good work, and they feel self-actualized. But they're not what Maslow called the transcenders. He argued that transcenders were a different kind of self-actualizers who were consistently motivated by higher values. He called them the 'be values', the values of being itself, things where there's no means to an end; they're ends in themselves, like the search for beauty, the search for justice, for meaningfulness in the world, for goodness. And you're motivated by these values, but also you're motivated by peak experiences in life."  
 Harris: "...there's more needed in the toolkit for living a truly examined life and becoming a better person than just having certain self-transcending experiences. Certainly I think the 'peak experience' is the wrong model. Whatever the peak is, it comes; it goes; it's not the ultimate insight in to the nature of your consciousness that will transform you. ... What's needed is an actual conscious integration with ethics."  
 "...I think it's really important to not treat these practices as panaceas, as quick fixes. Maslow called them 'quick hits of transcendence'; he was very much against that. He thought self-actualization took a lot of work. ... He really viewed self-actualization as being committed to a calling or something deep within yourself that you love that brings out the best in you, and that you are committed to working towards day in and day out. He very much was in that sort of meaning mode, similar to Viktor Frankl."  
@@ -1473,9 +1505,15 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 "You can live your life with a fear of uncertainty: In a sort of linear way, the greater the fear, the more we go in to this state psychologists have identified, psychological entropy, where we, at the ultimate extreme, we just can't cope, and we get depression; we feel helpless. Or you can live in a constant state of exploration. And exploration means that you are actively exploring the unknown. The unknown excites you. The unknown entices you. The more you can master and challenge the unknown, the happier you are in your life. ... You have to constantly choose the exploration option and learn how to manage the uncertainty that's inevitable in your life. ... Are you really going to live that life with a spirit of exploration and openness to new experiences and curiosity for the unknown, or are you committed to fearing it and having that illusion of control?"  
 --[Scott Barry Kaufman](https://www.samharris.org/podcasts/waking-up-conversations/waking-up-scott-barry-kaufman)
 
-"I teach a course at Columbia called The Science of Living Well ... Most of these students have been living on autopilot thinking 'Oh, the piont is to get a good GPA so that I have a good resume to get in to a good--' It's always about the future. It's always about some objective metric that everyone can agree on as 'Now you're worth it. Now you're worthy.' In this course I teach I have growth as the metric, and that's it. So there isn't comparison from one person to another. I have a whole series of growth challenges throughout the semester. Maybe it could be confronting and embracing your dark side and really becoming friends with it. Another growth challenge is increasing the high quality connections in uyour life, or being more mindful of things around you and having more gratitude in your life. And you start to add up all these things, and students start to realize that _that's_ life, like those are the things. There's actually nothing more to life. That's it!  
+"I teach a course at Columbia called The Science of Living Well ... Most of these students have been living on autopilot thinking 'Oh, the piont is to get a good GPA so that I have a good resume to get in to a good--' It's always about the future. It's always about some objective metric that everyone can agree on as 'Now you're worth it. Now you're worthy.' In this course I teach I have growth as the metric, and that's it. So there isn't comparison from one person to another. I have a whole series of growth challenges throughout the semester. Maybe it could be confronting and embracing your dark side and really becoming friends with it. Another growth challenge is increasing the high quality connections in your life, or being more mindful of things around you and having more gratitude in your life. And you start to add up all these things, and students start to realize that _that's_ life, like those are the things. There's actually nothing more to life. That's it!  
 &emsp;&emsp;&emsp;... Really, the plateau experience, that's the most profound, transcendent moments of your life, where you can find the miraculous in the everyday. _That's_ life. If you can cultivate that skill, that'll be a far greater skill than constantly beating yourself up over not getting this grade or that grade or this amount of money, or look that other person's getting that amount of money. Life becomes a zero-sum relative game. If you can move towards growth in your momentary experiences in your life and really realize that everything around you is alreay pretty miraculous, like right now, that's a fundamentally different way of being and living.  
 &emsp;&emsp;&emsp;... The insight a lot of these students are getting is that: You may think that there ever will be a point in uyour life where you get there, and then you've accomplished something, or you've reached self-actualization, or you've reached transcendence. But it's _all_ just a process. It's _all_ just the relational interaction between the experience of you and the world. And that happens in a momentary, momentary basis. And there are just so many things we can do right now without waiting, without waiting for that paycheck or waiting for the next job that can give us meaning."  
+--[Scott Barry Kaufman](https://www.samharris.org/podcasts/waking-up-conversations/waking-up-scott-barry-kaufman)
+
+"[S]ome things have intrinsic rewards in life, and those are the things that are actually most valuable to people."  
+--[Scott Barry Kaufman](https://www.samharris.org/podcasts/waking-up-conversations/waking-up-scott-barry-kaufman)
+
+"There's two components of self-transcendence: There's the self-loss component, but there's also a connection to the world, the oneness sort of component of self-transcendent experiences."  
 --[Scott Barry Kaufman](https://www.samharris.org/podcasts/waking-up-conversations/waking-up-scott-barry-kaufman)
 
 "A change in perspective is worth 80 IQ points."  
@@ -1652,10 +1690,13 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 "Mountains...challenge our arrogance, restore our wonder. More than ever we need their wildness."  
 --Robert MacFarlane, *Mountain (2017)*
 
-"[M]en ought either to be well treated or crushed, because they can avenge themselves of lighter injuries, of more serious ones they can not; therefore the injury that is to be done to a man ought to be of such a kind that one does not stand in fear of revenge."  
--Niccolo Machiavelli
+"the nearer people are to the Church of Rome ... the less religious are they."  
+--Machiavelli, *Discourses*
 
-"The Romans did in these instances what all prudent princes ought to do, who have to regard not only present troubles, but also future ones, for they must prepare with every energy, because, when foreseen, it is easy to remedy them; but if you wait until they approach, the medicine is no longer in time, because the malady has become incurable; for it happens in this as the physicians say it happens in hectic fever, that in the beginning of the malady it is easy to cure but difficult to detect, but in the course of time, not having been either detected or treated in the beginning, it becomes easy to detect but difficult to cure."  
+"[M]en ought either to be well treated or crushed, because they can avenge themselves of lighter injuries, of more serious ones they can not; therefore the injury that is to be done to a man ought to be of such a kind that one does not stand in fear of revenge."  
+-Niccolo Machiavelli, *The Prince*
+
+"The Romans did in these instances what all prudent princes ought to do, who have to regard not only present troubles, but also future ones, for they must prepare with every energy, because, when foreseen, it is easy to remedy them; but if you wait until they approach, the medicine is no longer in time, because the malady has become incurable. For it happens in this as the physicians say it happens in hectic fever, that in the beginning of the malady it is easy to cure but difficult to detect, but in the course of time, not having been either detected or treated in the beginning, it becomes easy to detect but difficult to cure."  
 --Niccolo Machiavelli
 
 "[N]or did that ever please [the Romans] which is forever in the mouths of the wise ones of our time: 'Let us enjoy the benefits of the time', but rather the benefits of their own valor and prudence, for time drives everything before it, and is able to bring with it good as well as evil, and evil as well as good."  
@@ -1746,6 +1787,18 @@ They're gonna buy your life's time"
 I felt like I could just fly  
 But nothing happened every time I tried"  
 --James Mercer (Australia)
+
+"It's good to be soft when they push you down  
+...
+It's such a curse to be so hard  
+You shatter easily and can't pick up all those shards"  
+--Natalie Mering (Weyes Blood), *God Turn Me Into A Flower*
+
+"You see the reflection  
+And you want it more than the truth  
+You yearn to be that dream you could never get to  
+'Cause the person on the other side has always just been you"  
+--Natalie Mering (Weyes Blood), *God Turn Me Into A Flower*
 
 "Despair is a development of pride so great that it chooses one's certitude rather than admit God is more creative than we are."  
 --Thomas Merton, as paraphrased in [First Reformed](https://en.wikipedia.org/wiki/First_Reformed)
@@ -2579,6 +2632,9 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived."  
 --Henry David Thoreau
 
+"Man's capacities have never been measured; nor are we to judge what we can do by any precedents, so little has been tried. What people say you can not do, you try and find you can."  
+--Thoreau
+
 "So little pains do the vulgar take in the investigation of truth, accepting readily the first story that comes to hand."  
 --Thucydides
 
@@ -2586,7 +2642,7 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 --Thucydides
 
 "Right, as the world goes, is only in question between equals in power, while the strong do what they can and the weak suffer what they must."  
---Thucydides
+--Thucydides, relaying what the Athenians said to the Melians in the lead up to the Peloponnesian War, 415 BCE
 
 "The cause of all these evils was the lust for power arising from greed and ambition; and from these passions proceeded the violence of parties once engaged in contention."  
 --Thucydides
