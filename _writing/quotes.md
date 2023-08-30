@@ -763,6 +763,9 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 "Plans are nothing; Planning is everything."  
 --Dwight D. Eisenhower
 
+"I think people get old when they stop thinking about the future. If you want to find someone's _true_ age, listen to them. If they talk about the past and they talk about all the things that happened that they did, they've gotten old. If they think about their dreams, their aspirations, what they're still looking forward to, they're young."  
+--Ric Elias
+
 "Blessed is the man who, having nothing to say, abstains from giving wordy evidence of the fact."  
 --George Elliot
 
