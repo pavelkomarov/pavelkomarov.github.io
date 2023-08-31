@@ -1494,7 +1494,7 @@ may God hold you in the palm of his hand."
 "There art two cardinal sins from which all others spring: Impatience and Laziness."  
 --Franz Kafka
 
-"It must have been late 1941 or early 1942. Jews were required to wear the Star of David and to obey a 6 p.m. curfew. I had gone to play with a Christian friend and had stayed too late. I turned my brown sweater inside out to walk the few blocks home. As I was walking down an empty street, I saw a German soldier approaching. He was wearing the black uniform that I had been told to fear more than others -- the one worn by specially recruited SS soldiers. As I came closer to him, trying to walk fast, I noticed that he was looking at me intently. Then he beckoned me over, picked me up, and hugged me. I was terrified that he would notice the star inside my sweater. He was speaking to me with great emotion, in German. When he put me down, he opened his wallet, showed me a picture of a boy, and gave me some money. I went home more certain than ever that my mother was right: people were endlessly complicated and interesting."  
+"It must have been late 1941 or early 1942. Jews were required to wear the Star of David and to obey a 6 p.m. curfew. I had gone to play with a Christian friend and had stayed too late. I turned my brown sweater inside out to walk the few blocks home. As I was walking down an empty street, I saw a German soldier approaching. He was wearing the black uniform that I had been told to fear more than others, the one worn by specially recruited SS soldiers. As I came closer to him, trying to walk fast, I noticed that he was looking at me intently. Then he beckoned me over, picked me up, and hugged me. I was terrified that he would notice the star inside my sweater. He was speaking to me with great emotion, in German. When he put me down, he opened his wallet, showed me a picture of a boy, and gave me some money. I went home more certain than ever that my mother was right: people were endlessly complicated and interesting."  
 --Daniel Kahneman, 2003, on why he became an economist
 
 "The quieter you become, the more you can hear."  
@@ -2815,7 +2815,7 @@ No one would ever audition for a McDonald's commercial again"
 My mother is an 8 year old girl  
 My grandson is a 74 year old retiree whose kidneys just failed  
 And that's the glue between me and you  
-Taht's the screws and nails  
+That's the screws and nails  
 We live in a house made of each other  
 And if that sounds strange that's because it is"  
 --George Watsky, Tiny Glowing Screens pt 2
@@ -2826,24 +2826,79 @@ And if that sounds strange that's because it is"
 "The Jack of one trade is the connector of none."  
 --[Eric Weinstein](https://www.youtube.com/watch?v=MmXq97do-tQ&t=2h37m)
 
-"The unquestionable is questioned but makes no reply"
---Aaron Weiss, (A Glass Can Only Spill What It Contains)
+"A cat came drifting  
+on my porch from the outside cold  
+and with eyes closed drinking  
+warm milk from my bowl  
+thought 'Nobody hears me, nobody hears me  
+'cause I crept in so soft.  
+Nobody sees me, nobody sees me',  
+as I watched six steps off.  
+Like the peacocks wandering  
+the walkways of the zoo  
+Who have twice the autonomy  
+the giraffes and the tigers do,  
+saying 'No one can stop me, no one stop me!  
+No one clips my claws!  
+Now everyone watch me, everyone watch me!  
+Scale these outside walls"  
+--Aaron Weiss, *A Glass Can Only Spill What It Contains*
 
-"My life's a cup of sugar I borrowed before time began and forgot to return"
---Aaron Weiss, (January 1979)
+"Oh, you pious and profane
+Put away your praise and blame!
+A glass can only spill what it contains
+To the perpetually plain,  
+the incurably inane:  
+A glass can only spill what it contains"  
+--Aaron Weiss, *A Glass Can Only Spill What It Contains*
+
+"I'm halfway listening  
+to what she thinks she knows  
+We're like children dressing  
+in our parents' clothes"  
+--Aaron Weiss, *A Glass Can Only Spill What It Contains*
+
+"I half-heartedly explained  
+but gave up peacefully ashamed  
+A glass can only spill what it contains  
+We went to Portugal and Spain  
+but in her mind the entire time it rained  
+A glass can only spill what it contains"  
+--Aaron Weiss, *A Glass Can Only Spill What It Contains*
+
+"The unquestionable is questioned but makes no reply"  
+--Aaron Weiss, *A Glass Can Only Spill What It Contains*
+
+"The invisible is seen among the shadows and the mist"  
+--Aaron Weiss, *A Glass Can Only Spill What It Contains*
+
+"My life's a cup of sugar I borrowed before time began and forgot to return"  
+--Aaron Weiss, *January 1979*
 
 "I'm down by the tracks  
 Watching trains go by  
 To remind me  
 There are places that aren't here"  
---Aaron Weiss, (Carousel)
+--Aaron Weiss, *Carousel*
 
 "What good's a single wind chime hanging quiet all alone?"  
---Aaron Weiss, (In A Market Dimly Lit)
+--Aaron Weiss, *In A Market Dimly Lit*
+
+"She put on happiness like a loose dress over pain I'll never know."  
+--Aaron Weiss, *Silencer*
 
 "And let there be no doubt:  
 So many things and pictures hold us"  
---Aaron Weiss, (Red Cow)
+--Aaron Weiss, *Red Cow*
+
+"Iron mixed with oxygen as per the laws of chemistry and chance  
+A shape was roughly human, it was only roughly human  
+Apparition eyes apparition eyes Knock Apparition Knock eyes apparition eyes"  
+--Aaron Weiss, *Red Cow*
+
+"Was he a violent man? Well, he had his genocidal moments...  
+Or penned by fiction's hand? To whom could that phrase not apply?"  
+--Aaron Weiss, *Red Cow*
 
 "Run on, Rabbit, run!  
 Before the East sky wakes the sun!  
@@ -2853,7 +2908,7 @@ Run on, Fox & Bear,
 From this dismal dream’s despair!  
 Cast thoughts to in the open ocean of air  
 Until your thread catch somewhere"  
---Aaron Weiss (February 1878)
+--Aaron Weiss, *February 1878*
 
 "My tusks are dull, my eyes, half-blind,  
 too old to run, too big to hide,  
@@ -2861,7 +2916,7 @@ and have neither friend nor enemy,
 nor that phantom, ‘self’-identity  
 nor concern for what ‘they’ll’ do to ‘me’  
 now, my children, run free!"  
---Aaron Weiss (February 1878)
+--Aaron Weiss, *February 1878*
 
 "But Tiger, why sit still,  
 As the officers climb the hill?  
@@ -2871,77 +2926,77 @@ TIGER: 'Gone that siren's sound,
 it's a silence now pours down  
 Gone, my next of kin,  
 and all once without now lives within'"  
---Aaron Weiss (February 1878)
+--Aaron Weiss, *February 1878*
 
 "Elephant refused to swear the oath  
 said 'I don't know anything about all truth,  
 but I know falsehood when I see it,  
-and it looks like this whole world you've made."  
---Aaron Weiss (Elephant in the Dock)
+and it looks like this whole world you've made.'"  
+--Aaron Weiss, *Elephant in the Dock*
 
-"for sixty-some years I'd surrendered my love  
+"for sixty-so years I've surrendered my love  
 To emblems of kindness  
 And not the kindness they were emblems of"  
---Aaron Weiss (Elephant in the Dock)
+--Aaron Weiss, *Elephant in the Dock*
 
-"Sometimes I think all our thoughts are just things
+"Sometimes I think all our thoughts are just things  
 and then sometimes think things are just thoughts"  
---Aaron Weiss (Elephant in the Dock)
+--Aaron Weiss, *Elephant in the Dock*
 
-"This mock trial can no more determine my lot, 
+"This mock trial can no more determine my lot  
 than can driftwood determine the ocean's waves"  
---Aaron Weiss (Elephant in the Dock)
+--Aaron Weiss, *Elephant in the Dock*
 
 "What is there can punish like a conscience ignored?"  
---Aaron Weiss (Elephant in the Dock)
+--Aaron Weiss, *Elephant in the Dock*
 
 "Yes, my body did just as you implied,  
 while some ghost we'll call 'I' idly watched through its eyes"  
---Aaron Weiss (Elephant in the Dock)
+--Aaron Weiss, *Elephant in the Dock*
 
 "Cultivating unsophistication in my face,  
 trying to think of nothing to say"  
---Aaron Weiss (Aubergine)
+--Aaron Weiss, *Aubergine*
 
 "When doing as you please doesn't please you any more"  
---Aaron Weiss (Fiji Mermaid)
+--Aaron Weiss,. *Fiji Mermaid*
 
 "But you'll miss having someone to blame  
 For your sadness, now won't you?  
 Maybe there'll be a bakery hiring  
 We'll knead a little bit of dough to get by"  
---Aaron Weiss (Fiji Mermaid)
+--Aaron Weiss, *Fiji Mermaid*
 
 "There wasn't much to her dress,  
 and I felt stuck in my body like a horse in quicksand"  
---Aaron Weiss (Fiji Mermaid)
+--Aaron Weiss, *Fiji Mermaid*
 
 "We pretend to care and like we understand  
 Our eyes go soft, but know it now  
 what we're thinking about's your mammary glands  
 and how to sail your birth canal"  
---Aaron Weiss (Fig with a Bellyache)
+--Aaron Weiss, *Fig with a Bellyache*
 
 "Our thoughts are like like a teabag on  
 the saucer, all the flavor gone"  
---Aaron Weiss (Fig with a Bellyache)
+--Aaron Weiss, *Fig with a Bellyache*
 
 "The dog below our waists aroused  
 as arms embraced the pretty gals  
 It came much more as a surprise,  
 it happening while I hugged the guys.  
---Aaron Weiss (Fig with a Bellyache)
+--Aaron Weiss, *Fig with a Bellyache*
 
 "Then a speckled bird,  
 humbly inspired,  
 ran across the road  
 when it could have flown  
 And it made me smile"  
---Aaron Weiss (O, Porcupine!)
+--Aaron Weiss, *O, Porcupine!*
 
 "You have a decent ear for notes,  
 but you can't yet appreciate harmony"  
---Aaron Weiss (O, Porcupine!)
+--Aaron Weiss, *O, Porcupine!*
 
 "You don't know where you came from  
 You don't know where you're going  
@@ -2949,23 +3004,23 @@ You think you're you
 You don't know who you are  
 You're not you  
 You're everyone else"  
---Aaron Weiss (Cattail Down)
+--Aaron Weiss, *Cattail Down*
 
 "Looking down was the hungry crow  
 'When the time is right I'll strike  
 and condescend to the earth below  
 and take whichever treat I'd like'"  
---Aaron Weiss (The Fox, the Crow and the Cookie)
+--Aaron Weiss, *The Fox, the Crow and the Cookie*
 
 "Your subtle acclaimation's true  
 best to give praise where praise is due  
 every rook and jay in the corvidae's been raven about me too"  
---Aaron Weiss (The Fox, the Crow and the Cookie)
+--Aaron Weiss, *The Fox, the Crow and the Cookie*
 
 "When letting all attachments go  
 is the only prayer we know  
 may it be so"  
---Aaron Weiss (The, the Crow, and the Cookie)
+--Aaron Weiss, *The, the Crow, and the Cookie*
 
 "The Potato called from underground:  
 You’ve got it all turned upside-down.  
@@ -2973,78 +3028,102 @@ Does the Rain that’s sent each spring anew
 to fall on her not fall on you?  
 You project on her your inward scenes,  
 she’s a blank, external movie screen."  
---Aaron Weiss (Bullet to Binary, part ii)
+--Aaron Weiss, *Bullet to Binary, part ii*
+
+"Your flavor in my mind's  
+back and forth between  
+Sweeter than any wine  
+and bitter as mustard greens"  
+--Aaron Weiss, *In A Sweater Poorly Knit*
+
+"You made a holy fool of me, and I've thanked you ever since"  
+--Aaron Weiss, *In A Sweater Poorly Knit*
 
 "If I come without a thing, then I come with all I need."  
---Aaron Weiss (In A Sweater Poorly Knit)
+--Aaron Weiss, *In A Sweater Poorly Knit*
 
 "Angel, no, I think you come too soon  
 It's not my time to go"  
---Aaron Weiss (The Angel of Death Came to David's Room)
+--Aaron Weiss, *The Angel of Death Came to David's Room*
 
 "Come now, David, where is everybody going?"  
---Aaron Weiss (The Angel of Death Came to David's Room)
+--Aaron Weiss, *The Angel of Death Came to David's Room*
 
 "Not her one motion nor gesture could I forget  
----the prettiest bag-lady I ever met"  
---Aaron Weiss (Paper Hanger)
+the prettiest bag-lady I ever met"  
+--Aaron Weiss, *Paper Hanger*
 
 "I felt the crowd bring a loneliness"  
---Aaron Weiss (My Exit, Unfair)
+--Aaron Weiss, *My Exit, Unfair*
 
 "Rehearsed indifference tossed aside,  
 Our narrow arms spread wide"  
---Aaron Weiss (My Exit, Unfair)
+--Aaron Weiss, *My Exit, Unfair*
+
+"Afraid I might need her I dragged her around"  
+--Aaron Weiss, *My Exit, Unfair*
 
 "When they swear their love is real  
 The mean 'I like the way you make me feel'"  
---Aaron Weiss (Every Thought a Thought of You)
+--Aaron Weiss, *Every Thought a Thought of You*
 
 "Those who know don't talk  
 And those who talk don't know"  
---Aaron Weiss (Goodbye, I!)
+--Aaron Weiss, *Goodbye, I!*
 
-"Where we’re the spiraling arms of all galaxies  
+"We’re the spiraling arms of all galaxies  
 And we’re the microscopic sand  
-Suffering from delusions of ungrandeur on middling display  
-Beside the Cardiff giant with the alabaster eyes"  
---Aaron Weiss (Cardiff Giant)
+Suffering from delusions of ungrandeur on middling display"  
+--Aaron Weiss, *Cardiff Giant*
+
+"I often wonder if I've already died  
+Of if the 'I' is an unintelligible lie"  
+--Aaron Weiss, *Cardiff Giant*
 
 "Megalomania’s only mania if you’re wrong!"  
---Aaron Weiss (Cardiff Giant)
+--Aaron Weiss, *Cardiff Giant*
+
+"Some with certainty insist  
+no certainty exists"  
+--Aaron Weiss, *Fox's Dream of the Log Flume*
 
 "such distance from our friends,  
 like a scratch across a lens,  
 made everything look wrong from anywhere we stood  
 And our paper blew away before we'd left the bay  
 So half-blind we wrote these songs on sheets of salty wood"  
---Aaron Weiss (Messes of Men)
+--Aaron Weiss, *Messes of Men*
 
 "Tarnish on my brass  
 And mildew on my glass  
 I'd never want someone so crass  
 As could want someone like me"  
---Aaron Weiss (Messes of Men)
+--Aaron Weiss, *Messes of Men*
  
 "There's mistakes I've made no rowing could outrun"  
---Aaron Weiss (Messes of Men)
+--Aaron Weiss, *Messes of Men*
  
 "We keep our confessions long  
 And when we pray we keep it short"  
---Aaron Weiss (Messes of Men)
+--Aaron Weiss, *Messes of Men*
 
 "And if ever you come near,  
 I'll hold up high a mirror.  
 Lord, I could never show you anything as beautiful as you."  
---Aaron Weiss (Messes of Men)
+--Aaron Weiss, *Messes of Men*
 
-"She put on happiness like a loose dress over pain I'll never know."  
---Aaron Weiss (Silencer)
+"I'll wrap up your absence  
+in blankets of reverence  
+A mastodon shadow  
+divided by zero
+and comfort your family  
+with words like 'eternity'"  
+--Aaron Weiss, *Blue Hen*
 
 "Does my misery feed  
 a metaphysical need  
 that's long since passed me by?"  
---Aaron Weiss (Winter Solstice)
+--Aaron Weiss, *Winter Solstice*
 
 “Adapt or perish, now as ever, is nature’s inexorable imperative.”  
 --H.G. Wells
