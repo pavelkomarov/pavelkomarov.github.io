@@ -2887,8 +2887,10 @@ There are places that aren't here"
 "She put on happiness like a loose dress over pain I'll never know."  
 --Aaron Weiss, *Silencer*
 
-"And let there be no doubt:  
-So many things and pictures hold us"  
+"What Pharaoh spell, what picture holds us now?"  
+...And let there be no doubt:  
+So many figs and pictures hold us  
+...What Pharaoh now, what Pharaoh now, or Jew or picture holds us here?"  
 --Aaron Weiss, *Red Cow*
 
 "Iron mixed with oxygen as per the laws of chemistry and chance  
@@ -3032,8 +3034,8 @@ she’s a blank, external movie screen."
 
 "Your flavor in my mind's  
 back and forth between  
-Sweeter than any wine  
-and bitter as mustard greens"  
+Sweeter than any wine,  
+as bitter as mustard greens"  
 --Aaron Weiss, *In A Sweater Poorly Knit*
 
 "You made a holy fool of me, and I've thanked you ever since"  
@@ -3062,6 +3064,14 @@ Our narrow arms spread wide"
 
 "Afraid I might need her I dragged her around"  
 --Aaron Weiss, *My Exit, Unfair*
+
+"And if I ask the same questions  
+Well, you say I ask the same questions  
+Well, maybe I repeat myself from time to time  
+But if I ask the same questions,  
+and then I'd know I ask the same questions  
+It's 'cause everyone who answers me is a liar!"  
+--Aaron Weiss, *Tie Me Up! Untie Me!*
 
 "When they swear their love is real  
 The mean 'I like the way you make me feel'"  
