@@ -779,6 +779,9 @@ Will be to arrive where we started
 And know the place for the first time.  
 --T.S. Eliot, *Little Gidding*
 
+"What lies behind us and what lies before us are small matter compared to what lies in us."  
+--Ralph Waldo Emerson
+
 "What we fear of doing most is usually what we most need to do."  
 --Ralph Waldo Emerson
 
@@ -792,13 +795,13 @@ And know the place for the first time.
 --Ralph Waldo Emerson
 
 "God will not have his work made manifest by cowards."  
---Emerson
+--Ralph Waldo Emerson
 
 "It is easy in the world to live after the world's opinion. It is easy in solitude to live after our own. But the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude."  
---Emerson
+--Ralph Waldo Emerson
 
 "Nothing can bring you peace but yourself."  
---Emerson, *Self Reliance*
+--Ralph Waldo Emerson, *Self Reliance*
 
 "The victor is not victorious if the vanquished refuses to consider himself so."  
 --Quintus Ennius, Roman
@@ -1242,6 +1245,9 @@ track one down, patch it around,
 
 "The more entangled we are in our thoughts and feelings, the more we lose touch with whatever is happening in the world around us."  
 --Russ Harris, *The Happiness Trap*
+
+"If you want to be happier, help somebody else."  
+--Buddhist algorithm, as summarized by Sam Harris
 
 "The next time something happens in your life that makes you angry or afraid or sad, how long will you spend locked in the prison of one of those emotions? And what will you do there? What indelible mark might you make in your life or in our world on the basis of one of those emotions?"  
 --[Sam Harris](https://samharris.org/podcasts/145-information-war/)
