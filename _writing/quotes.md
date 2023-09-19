@@ -2420,16 +2420,13 @@ And seem a saint, when most I play the devil."
 "I often quote myself. I find it adds spice to the conversation."  
 --George Bernard Shaw
 
-"Patriotism is, fundamentally, a conviction that a particular country is the best in the world because you were born in it."   
---George Bernard Shaw
-
 "Beware of false knowledge; it is more dangerous than ignorance."  
 --George Bernard Shaw
 
 "The single biggest problem in communication is the illusion that it has taken place."  
 --George Bernard Shaw
 
-"Progress is impossible without change, and those who can not change their minds can not change any thing."  
+"Progress is impossible without change, and those who can not change their minds can not change anything."  
 --George Bernard Shaw
 
 "We are made wise not by the recollection of our past, but by the responsibility for our future."  
@@ -2442,9 +2439,6 @@ And seem a saint, when most I play the devil."
 --George Bernard Shaw
 
 "Without art, the crudeness of reality would make it unbearable."  
---George Bernard Shaw
-
-"Choose silence of all virtues, for by it you hear other men's imperfections and conceal your own."  
 --George Bernard Shaw
 
 "Life does not cease to be funny when people die any more than it ceases to be serious when people laugh."  
