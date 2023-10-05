@@ -910,6 +910,9 @@ And know the place for the first time.
 "When we are no longer able to change a situation, we are challenged to change ourselves."  
 --Viktor Frankl
 
+"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way."  
+--Viktor Frankl, *Man's Search for Meaning*
+
 "The constitution only guarantees the American people the right to pursue happiness. You have to catch it yourself."  
 --Benjamin Franklin
 
@@ -1797,6 +1800,9 @@ I felt like I could just fly
 But nothing happened every time I tried"  
 --James Mercer (Australia)
 
+"Nothing Lasts"  
+--Evan Jed Memmott, mural at 2285 S Main South Salt Lake, UT
+
 "It's good to be soft when they push you down  
 ...
 It's such a curse to be so hard  
@@ -1827,6 +1833,9 @@ You yearn to be that dream you could never get to
 
 "The mind is its own place and in itself can make a heaven of hell or a hell of heaven."  
 --John Milton
+
+"You can't refactor people."  
+--Brandon Miranda, my high school classmate, 2022
 
 "Understanding the past enables us to see the present more clearly."  
 --Steven Mithen
