@@ -780,12 +780,9 @@ And know the place for the first time.
 --T.S. Eliot, *Little Gidding*
 
 "What lies behind us and what lies before us are small matter compared to what lies in us."  
---Ralph Waldo Emerson
+--Not actually Ralph Waldo Emerson, but mistakenly attributed
 
 "What we fear of doing most is usually what we most need to do."  
---Ralph Waldo Emerson
-
-"What lies behind us and what lies before us are small matter compared to what lies in us."  
 --Ralph Waldo Emerson
 
 "The mind, once stretched by a new idea, never returns to its original dimensions."  
@@ -2078,7 +2075,7 @@ To be a better man"
 --Chinese Proverb
 
 "The hammer of hard times shatters glass, but forges steel."  
---Russian proverb
+--Russian proverb, paraphrase of a line from Pushkin's Poltava
 
 "Calm waters make poor sailors."  
 --Proverb
@@ -2320,9 +2317,6 @@ And you don't like me, well that isn't fucking relevant"
 
 "Imagination will often carry us to worlds that never were. But without it we go no where."  
 --Carl Sagan
-
-"... someone able to speak the truth, a ... courageous and angry individual for whom no worldly power is too big and imposing to be criticised and pointedly taken to task. The real or true intellectual is therefore always an outsider, living in self-imposed exile, and on the margins of society. He or she speaks to, as well as for, a public, necessarily in public, and is properly on the side of the dispossessed, the un-represented and the forgotten."  
---Edward Saïd
 
 "If you want to build a ship, don't herd people together to collect wood, and don't assign them tasks and work, but teach them to long for the endless immensity of the sea."  
 --Antoine de Saint-Exupery
