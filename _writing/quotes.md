@@ -2807,6 +2807,19 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 "The world is a tragedy to those who feel, but a comedy to those who think."  
 --Horace Walpole
 
+"Yet there were moments  
+There were those pure, arresting moments  
+When you stepped outside your head  
+Outside your pain  
+Outside control  
+Outside the bullshit  
+Out of body  
+Out of rage  
+Outside the need to get it  
+Get it? You will never get it!  
+And that's okay"  
+--George Watsky, Talking to Myself
+
 "The reason there's smog in Los Angeles is 'cause if we could see the stars  
 If we could see the context of the universe in which we exist  
 If we could see how small each one of us is  
