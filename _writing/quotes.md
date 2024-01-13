@@ -378,6 +378,10 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "You can get more with a kind word and a gun than you can a kind word alone."  
 --Al Capone
 
+"This is the recipe. What they're going to do to these Nordic peoples is that they're going to turn them into reputable members of the international community....This is an age-old strategy that has worked on all sorts of peoples. I mean, to just name a few you could say thye Visigoths and the Ostrogoths and the Lombards and the Vandals and, yes, a couple of centuries before this time period, even the Franks themselves were in this same situation, and the Romans cooked them using the recipe into nice, civilized states. Now the term 'cooked' is the way the Chinese used to describe this process when they used to do almost the very same thing to the so-called barbarians on their borders....Certain things tend to work, and so you see them brought up again and again. And this idea of 'cooking the barbarians' next door is something you see over and over, and the recipe is different place to place. Like the Chinese version doesn't include Christianity. The version here in the European context does....In deffect, what the recipe is is destroying the culture of the peoples you're targeting and then replacing it with one more like your own. The reasons one can do this with a clear conscience is what makes this sort of a dual-use kind of strategy for a Frankish ruler or a Byzantine ruler. And by dual use I mean there's a wonderful way one can console onesself thinking one is doing a favor for the very people on the receiving end of this treatment. If you are a Christian ruler, for example, and you are bringing the Christian religion to a bunch of pagans and a bunch of heathens, you are doing them a great deed. This is a gift. You are helping them potentially get in to heaven. You are showing them the truth....You are showing them the error of their ways, and this makes you a better person for doing so. At the same time, this will create conditions on your border that are much more stable, controllable, answerable, and that will long-term eliminate your pirate problem....
+&emsp;&emsp;&emsp;In this time period, Christianity shouldn't be thought of the way somebody might think of it today, like merely a spiritual change of focus....It is truly, let's call it a 'civilizational commitment'. And this is one of the big selling points, by the way. If you're trying to sell this to a potential Viking ruler, somebody you could back and get behind and say 'Hey, let me tell you why you should convert to Christianity and why your people should and what's in it for you.' I mean, it is essentially instant legitimacy for a ruler, instant legitimacy for his dynastic successors--so dynastic security--, instant infrastructure, and instant literacy. Just add Jesus. We're going to bring in educated people who write. They'll start chronicling hyour story, your history, the greatness of your people, your crop yields, all of that overnight. Right? Literacy will arrive. We'll start building things. We'll start teaching your people. The whole thing is state building in a very real sense of the word."  
+--Dan Carlin, Twilight of the Aesir I, ~2:50:00
+
 "Men are four times more likely than women to commit suicide, even though women attempt it more. So men are better at it."  
 --George Carlin
 
@@ -940,6 +944,9 @@ And know the place for the first time.
 "The brain is a wonderful organ; it starts working the moment you get up in the morning, and does  not stop until you get to the office."  
 --Robert Frost
 
+"It is easier to act your way to a new way of thinking than to think your way to a new way of acting."  
+--Millard Fuller, first stated to me by Ken "Roberts" Pennacchini, a distillation of the ['act as if' principle from William James](https://books.google.com/books?id=IBrykBRv2B4C&pg=PA100&lpg=PA100&dq=it+is+easier+to+act+your+way+to+a+new+way+of+thinking+than+to+think+your+way+to+a+new+way+of+acting+william+james&source=bl&ots=SSIpVUJz4Z&sig=ACfU3U2PCpi9jxvhLaCatbTrJ4gW7_arSQ&hl=en&sa=X&ved=2ahUKEwio7dyM0OToAhVB2qwKHVP9DOAQ6AEwAHoECBIQLA#v=onepage&q=it%20is%20easier%20to%20act%20your%20way%20to%20a%20new%20way%20of%20thinking%20than%20to%20think%20your%20way%20to%20a%20new%20way%20of%20acting%20william%20james)
+
 <a class="anchor" id="G"></a>
 ### G
 
@@ -1175,7 +1182,7 @@ And know the place for the first time.
 --Steve Grand
 
 "Whether or not you win this thing, you've got to decide how you're gonna walk out of here when it's all said and done, 'cause the game is going to go on. And there's only one rule you're going to need to know about: There are no second chances. There is only this moment, and the next moment. Every one of those moments is a test, that you get to take one time, and only one time. So if you see an opening, tear into it. If you get a shot at victory, make damn sure you take it. Seize that moment. That moment is a crossroads where everything you want will collide with everything standing in your way. You've got momentum at your back. Fear and doubt are thundering like a freight train straight at you. And all you got, the only difference between making history and being history, the only thing, the ONLY thing you can count on at any given moment is YOU! It's you versus them, you versus "no", you versus "can't", you versus "next year", "last year", statistics, excuses! It's you versus history, you versus the odds. It's you versus second place. The clock is ticking. Let's see what you've got."  
---[Sent by professor Greco to his physics students before a final](https://www.youtube.com/watch?v=yEm5E6yFUG0)
+--[Sent by professor Greco to his physics students before a final](https://youtu.be/8Mg4VgG32bE)
 
 "Hello learned and astonishingly attractive pupils. My name is John Green, and I want to welcome you to Crash Course: World History. Over the next 40 weeks together we will learn how in a mere 15,000 years humans went from hunting and gathering—  
 Mr. Green, Mr. Green! Mr.—Is this gonna be on the test?  
@@ -1424,9 +1431,6 @@ may God hold you in the palm of his hand."
 
 "The deepest principle in human nature is the craving to be appreciated."  
 --William James
-
-"It is easier to act your way to a new way of thinking than to think your way to a new way of acting."  
---distillation of the ['act as if' principle from William James](https://books.google.com/books?id=IBrykBRv2B4C&pg=PA100&lpg=PA100&dq=it+is+easier+to+act+your+way+to+a+new+way+of+thinking+than+to+think+your+way+to+a+new+way+of+acting+william+james&source=bl&ots=SSIpVUJz4Z&sig=ACfU3U2PCpi9jxvhLaCatbTrJ4gW7_arSQ&hl=en&sa=X&ved=2ahUKEwio7dyM0OToAhVB2qwKHVP9DOAQ6AEwAHoECBIQLA#v=onepage&q=it%20is%20easier%20to%20act%20your%20way%20to%20a%20new%20way%20of%20thinking%20than%20to%20think%20your%20way%20to%20a%20new%20way%20of%20acting%20william%20james), first stated to me by Ken "Roberts" Pennacchini
 
 "There are things you just can't fix, and darling I am one of them."
 -Taylor Janzen, *What I Do*
@@ -3187,8 +3191,14 @@ Always forgive your enemies--nothing annoys them so much.
 "The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised."  
 --George F. Will
 
-"[T]he monosyllable of the clock is Loss, loss, loss, unless you devote your heart to its opposition."  
---Tennessee Williams
+"I was not aware of how much vital energy had gone in to this struggle until the struggle was removed. I was out on a level plateau with my arms still thrashing and my lungs still grabbing at air that no longer resisted."  
+--Tennessee Williams, The Catastrophe of Success
+
+"Security is a kind of death."  
+--Tennessee Williams, The Catastrophe of Success
+
+"[T]ime is short, and it doesn't return again. It is slipping away while I write this and while you read it, and the monosyllable of the clock is Loss, loss, loss, unless you devote your heart to its opposition."  
+--Tennessee Williams, The Catastrophe of Success
 
 "I can stil feel that emotion just leaping on me like a..like a panther."  
 --[Hugh Wilson](https://www.youtube.com/watch?v=3VZSJKbzyMc), land steward in NZ
