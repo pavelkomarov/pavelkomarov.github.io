@@ -357,7 +357,10 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 <a class="anchor" id="C"></a>
 ### C
 
-"Veni. Vidi. Vici."   
+"Every man is the architect of his own destiny."  
+--Appius Claudius Caecus
+
+"Veni. Vidi. Vici."  
 --Julius Caesar
 
 "Let them hate us as long as they fear us."  
@@ -427,6 +430,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "The only difference between a poor black person and a poor white person is that a poor white person feels like it's not supposed to be happening to them."  
 --Dave Chappelle
 
+"To be ignorant of what occurred before you were born is to remain always a child."  
+--Cicero
+
 "Most people never have to face the fact that at the right time in the right place they're capable of anything."  
 --Noah Cross, [*Chinatown*] (https://en.wikipedia.org/wiki/Chinatown_(1974_film))
 
@@ -477,7 +483,7 @@ protecting us from our now and later"
 --[James Clear](https://samharris.org/subscriber-extras/200-creatures-habit/) (27min)
 
 "True behavior change is really identity change."  
---James clear
+--James Clear
 
 "It's not so bad getting old...As somebody once said to me--He was a general in the British Army--he said 'Very little matters much, and most things don't matter at all.' And I think now that that's sunk in--I think it's hard when you're younger to realize that. But very little matters, really."  
 --[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=0m30s)
@@ -1450,6 +1456,9 @@ may God hold you in the palm of his hand."
 "I like the dreams of the future better than the history of the past."  
 --Thomas Jefferson
 
+"Remember what the dormouse said: 'Feed your head!'"  
+--Jefferson Airplane, *White Rabbit*
+
 "He who exalts himself will be humbled, and he who humbles himself will be exalted."  
 --Jesus, Luke 14:11
 
@@ -1467,6 +1476,9 @@ may God hold you in the palm of his hand."
 
 "From him to whom much is given, much will be required."  
 --Jesus, Luke 12:48 (I often see this working in reverse too)
+
+"For I was hungry, and you gave me food. I was thirsty, and you gave me something to drink. I was a stranger, and you welcomed me."  
+--Jesus, Matthew 25:35
 
 "In the broadest context, the goal [of life] is to seek enlightenment--however you define it."  
 --Steve Jobs
@@ -2764,12 +2776,15 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 <a class="anchor" id="V"></a>
 ### V
 
+"Great leaders turn frustration into motivation."  
+--Shyam Veerasankar (see also Adam Grant "The Creative Power of Misfits")
+
+"The greatest comedy is played at the Exchange. There ... the speculators excel in tricks, they do business and find excuses wherein hiding places, concealment of facts, quarrels, provocations, mockery, idle talk, violent desires, collusion, artful deceptions, betrayals, cheatings, and even tragic end are to be found."  
+--Joseph de la Vega
+
 "Felix, qui potuit rerum cognoscere causas"  
 "Fortunate who was able to know the causes of things"  
 --Virgil, London School of Economics Motto
-
-"The greatest comedy is played at the Exchange. There ... the speculators excel in tricks, they do business and find excuses wherein hiding places, concealment of facts, quarrels, provocations,  mockery, idle talk, violent desires, collusion, artful deceptions, betrayals, cheatings, and even tragic end are to be found."  
---Joseph de la Vega
 
 "I have offended God and mankind because my work did not reach the quality it should have."  
 --Leonardo da Vinci
