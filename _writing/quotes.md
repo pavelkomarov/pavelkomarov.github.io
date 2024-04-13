@@ -349,7 +349,7 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 --Nolan Bushnell
 
 "The nation that will insist upon drawing a broad line of demarcation between the fighting man and the thinking man is liable to find its fighting done by fools and its thinking by cowards."  
---Sir William Francis Butler
+--Sir William Francis Butler (*not Thucydides*)
 
 "You will never find time for anything. If you want time you must make it."  
 --Charles Buxton
@@ -537,7 +537,7 @@ protecting us from our now and later"
 "You told an interviewer that you have learned to, in your words 'love the thing that I most wish had not happened. Ummm [voice breaks] You went on to say 'What punishments of God are not gifts?' Do you really believe that?"  
 [long pause] "Yes. It's a gift to exist. It's a gift to exist. And with existence comes suffering. There's no escaping that. And I guess I'm either a Catholic or a Buddhist when I say those things, 'cause I've heard those from both traditions. But I didn't learn it, that I was grateful for the thing I most wish hadn't happened; I realized it. And it's an oddly guilty feeling."  
 "It doesn't mean you are happy this--"  
-"I don't want it to have happened. I want it to not have happened. But, if you are grateful for your life, which I think is a positive thing to do. Not everybody is, and I'm not always, but it's the most positive thing to do. Then you have to be grateful for all of it. You can't pick and choose what you're grateful for. And then, so what do you get from loss? You get awareness of other people's loss"  
+"I don't want it to have happened. I want it to not have happened. But, if you are grateful for your life, which I think is a positive thing to do--Not everybody is, and I'm not always, but it's the most positive thing to do.--, then you have to be grateful for all of it. You can't pick and choose what you're grateful for. And then, so what do you get from loss? You get awareness of other people's loss"  
 "Well that's true, empathy."  
 "which allows you to connect with that other person, which allows you to love more deeply and to understand what it's like to be a human being, if it's true that all humans suffer. And so, at a young age I suffered something so that by the time I was in serious relationships in my life, with friends, or with my wife, or with my children, I have some understanding that everybody is suffering and, however imperfectly, acknowledge their suffering to connect with them and to love in a deep way that not only accepts that all of us suffer but then also makes you grateful that you have suffered so that you can know that about other people. And that's what I mean. It's but the fullness of your humanity. What's the point of being here and being human if you can't be the most human you can be? I'm not saying best, 'cause you can be a bad person and a most human. I want to be the most human I can be. And that involves acknowledging and ultimately being grateful for the things that I wish didn't happen, because they gave me a gift."  
 ...  
@@ -1172,8 +1172,17 @@ And know the place for the first time.
 "Enjoy when you can, and endure when you must."  
 --Goethe
 
+"I became haunted by the mere fact that this is my existence. And you gotta live with that. And I lived with it for a lot of years, until I sat back and said 'Okay. Alright. I know what this takes." ... to be haunted to pull out, to extract the guy I am today, because no matter how much you improve, no matter how much yhou change who you are, it's not permanent."  
+--David Goggins, on *Huberman*
+
+"I'm going to teach you how to be vulnerable, because that's the only way you fix yourself."  
+--David Goggins
+
 "If we do not create and control our environment, our environment creates and controls us."  
 --Marshall Goldmish
+
+"I think the simplest and most pragmatic way of understanding it [enlightenment] ... the most down-to-earth way of understanding it, rather than as some great mystical experience, is 'the mind free, free of those patterns and tendencies that cause suffering', like, in traditional Buddhism, of greed and hatred and delusion [the "defilements", the opposite of wisdom]. So we could say enlightenment is the mind free of those forces. Now this can be interpreted in two ways ... : It can be be interpreted in terms of: These forces are actually uprooted so that they don't arise again. And this is a very classical view of the path of enlightenment, that they're progressively weakened and finally uprooted from the mindstream. Another way of viewing it, which many teachers and traditions do, is not so much with the understanding that they're uprooted, but rather in the moment of their arising they're seen through, so we're not caught by them in any way. In both cases the mind is free. I have a light bias toward one of these views [laughing], but I take a somewhat agnostic position in terms of the ultimate truth of one over the other."  
+--Joseph Goldstein, *Making Sense* #63
 
 "The point of classical meditation traditions has always been deconstructing the self, not feeling better, not being more productive, not getting over stress. Those are all attributes that we value in The West but were not part of the original tradition nor the point. They're byproducts of a different project which as to do with less focus on me and more availability to the present and to you."  
 --Danny Goleman
@@ -1507,6 +1516,9 @@ may God hold you in the palm of his hand."
 "In the biggest picture, aside from psychadelics' ability to treat one disorder or another, I think they're just poised to really help us to understand the nature of psychiatric disorders. What commonalities do they have with each other that are somehow being addressed by psychadelic treatment? I kind of think of all of these disorders as different forms of addiction. So whether it's to a substance like tobacco, or alcohol, cocaine, or a way of thinking about yourself, it's this narrowed mental and behavioral repertoire. Reality used to be like this [arms wide], and now your reality is like this [narrows hands together]. And psychadelics, when done well in the right setting, have the ability to just blow people out of that narrowed story."  
 --[Matthew Johnson](https://youtu.be/HGqFxjQI3is)
 
+"You can't get angry; you have to get smart."  
+--Vernon Jordan, appearance on *Revisionist History*
+
 "Dare mighty things."  
 --JPL motto
 
@@ -1592,6 +1604,9 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 "We strive for perfection and achieve excellence."  
 --Angela Kirkland (Nvidia interviewer)
 
+"I think to realize that you were not only so wrong but so wrong in such a harmful way is a devestating thing to realize, and it's something that it's totally human to want to rebel against at every point. The sunk cost isn't just that they were wrong and that's embarrassing. The sunk cost is that they hurt someone in the process of being wrong. And so it's not just the misinformation, and it's not just the ego of wanting to be right: I think that people are afraid of what it means about them if they were this wrong, and that it's much easier for them to believe that there's something wrong with me to have deserved the harm that I suffered. And so, I think it goes to people identifying with their ideas, and, when put on the spot and even when having plain evidence put in front of them that what they believe is wrong, it feels to them like what you're saying is that they're a bad person. And that's why they can't grasp just the plain, hard, cold facts of it, because it's charged with emotional resonance and with a sense of it implicating them and their identity and who they imagine themselves to be as people."  
+--Amanda Knox, on *Making Sense* #345, ~1:20:00 in
+
 "You have to be smarter than the job you're doing."  
 --Děda Anatoli Komarov
 
@@ -1607,8 +1622,11 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 "I'm full of useless trivia and information no one cares about except me."  
 --Lubomir Komarov
 
+"To know onesself is to be wise; to know others is to be enlightened."  
+--Lubomir Komarov, unintentional misquotation of Lao Tzu
+
 "Justice Scalia called the Court's interpretation of the Obamacare ruling 'pure applesauce'. God, I love this country."  
---Chris Komarov, 30th June 2015
+--Reed Komarov, 30th June 2015
 
 "Don't fight the statistics."  
 --motto of mine
@@ -1617,7 +1635,7 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 --me on mushrooms, December 2022
 
 "[[Musk quote](#musk)] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb. #staywithit"  
---a favorite post of mine
+--me, a favorite post
 
 "High, wild places are the closest thing I have to a church. They’ve nurtured my soul for more than 60 years. They’ve restored my emotional equilibrium during periods of despair. They are where I feel most at peace....There is no getting around the fact that steep terrain is inherently dangerous, however. And for those of us who spend as much time as possible on the heights, our dirty little secret is the hazards are actually part of the appeal. The danger sharpens the senses, rids the mind of trivialities, compels one to focus exclusively on the moment. Stepping out of your comfort zone and confronting your fears can be transformative. ... A life of excessive caution can be even more injurious than its opposite."  
 –-Jon Krakauer, Foreword to *No Words for the Way Down*
@@ -1702,6 +1720,9 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 
 "Whatever you may be sure of, be sure of this, that you are dreadfully like other people."  
 --James Russell Lowell
+
+"Sometimes I get the urge to say something profound, but then I get over it."  
+--Troy Lucero, my yoga teacher
 
 "Better to reign in Hell, than serve in Heaven."  
 --Lucifer, *Paradise Lost*
@@ -2349,6 +2370,9 @@ And you don't like me, well that isn't fucking relevant"
 
 "Any intelligent fool can make things bigger and more complex. It takes a touch of genius and a lot of courage to move in the opposite direction."  
 --E. F. Schumacher
+
+"Taking just makes me feel like I'm dying. Giving makes me feel like I'm living."  
+--Morrie Schwartz
 
 "You'll find, as I did, that building muscle builds you up in every part of your life. What you learn here will affect everything else that you do in your life. As you witness the fruits of your labor, your self-worth and self-confidence improve, and these traits will color your work and interpersonal relationships long past your competitive days."  
 --Arnold Schwarzenegger, Foreward to *The New Encyclopedia of Modern Bodybuilding*
