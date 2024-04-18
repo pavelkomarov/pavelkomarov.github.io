@@ -439,16 +439,7 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "Governments are power systems. They are trying to sustain their power and domination over their populations, and they will use what means are available to do this."  
 --Noam Chomsky
 
-"We make a living by what we get; we make a life by what we give."  
---Winston Churchill
-
 "In war: resolution. In defeat: defiance. In victory: magnanimity. In peace: good will."  
---Winston Churchill
-
-"Success is the ability to go from one failure to an other with no loss of enthusiasm."  
---Winston Churchill
-
-"Success is not final; failure is not fatal: It's the courage to continue that counts."  
 --Winston Churchill
 
 "Never give in. Never give in. Never, never, never--in nothing, great or small, large or petty--never give in, except to convictions of honour and good sense. Never yield to force. Never yield to the apparently overwhelming might of the enemy."  
@@ -457,11 +448,20 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "To improve is to change; to be perfect is to change often."  
 --Winston Churchill
 
-"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."  
---Winston Churchill
-
 "Fanatic: One who can’t change his opinion and won’t change the subject."  
 --Winston Churchill (popularized), actually from Evan Esar's *Comic Dictionary*
+
+"Success is the ability to go from one failure to another with no loss of enthusiasm."  
+--[misattributed](https://winstonchurchill.org/resources/quotes/quotes-falsely-attributed/) to Winston Churchill
+
+"Success is not final; failure is not fatal: It's the courage to continue that counts."  
+--[misattributed](https://winstonchurchill.org/resources/quotes/quotes-falsely-attributed/) to Winston Churchill
+
+"We make a living by what we get; we make a life by what we give."  
+--[misattributed](https://winstonchurchill.org/resources/quotes/quotes-falsely-attributed/) to Winston Churchill
+
+"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."  
+--[misattributed](https://winstonchurchill.org/resources/quotes/quotes-falsely-attributed/) to Winston Churchill
 
 "I don't think the past is better, better  
 just cause it's cased in glass,  
@@ -1181,7 +1181,7 @@ And know the place for the first time.
 "If we do not create and control our environment, our environment creates and controls us."  
 --Marshall Goldmish
 
-"I think the simplest and most pragmatic way of understanding it [enlightenment] ... the most down-to-earth way of understanding it, rather than as some great mystical experience, is 'the mind free, free of those patterns and tendencies that cause suffering', like, in traditional Buddhism, of greed and hatred and delusion [the "defilements", the opposite of wisdom]. So we could say enlightenment is the mind free of those forces. Now this can be interpreted in two ways ... : It can be be interpreted in terms of: These forces are actually uprooted so that they don't arise again. And this is a very classical view of the path of enlightenment, that they're progressively weakened and finally uprooted from the mindstream. Another way of viewing it, which many teachers and traditions do, is not so much with the understanding that they're uprooted, but rather in the moment of their arising they're seen through, so we're not caught by them in any way. In both cases the mind is free. I have a light bias toward one of these views [laughing], but I take a somewhat agnostic position in terms of the ultimate truth of one over the other."  
+"I think the simplest and most pragmatic way of understanding it [enlightenment] ... the most down-to-earth way of understanding it, rather than as some great mystical experience, is 'the mind free, free of those patterns and tendencies that cause suffering', like, in traditional Buddhism, of greed and hatred and delusion [the "defilements", the opposite of wisdom]. So we could say enlightenment is the mind free of those forces. Now this can be interpreted in two ways ... : It can be be interpreted in terms of: These forces are actually uprooted so that they don't arise again. And this is a very classical view of the path of enlightenment, that they're progressively weakened and finally uprooted from the mindstream. Another way of viewing it, which many teachers and traditions do, is not so much with the understanding that they're uprooted, but rather in the moment of their arising they're seen through, so we're not caught by them in any way. In both cases the mind is free. I have a slight bias toward one of these views [laughing], but I take a somewhat agnostic position in terms of the ultimate truth of one over the other."  
 --Joseph Goldstein, *Making Sense* #63
 
 "The point of classical meditation traditions has always been deconstructing the self, not feeling better, not being more productive, not getting over stress. Those are all attributes that we value in The West but were not part of the original tradition nor the point. They're byproducts of a different project which as to do with less focus on me and more availability to the present and to you."  
