@@ -285,8 +285,13 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "There is just one thing I can promise you about the outer-space program: your tax-dollar will go further."  
 --Wernher von Braun
 
-"[T]he reason why Trump was elected, and the reason why there is such incredible polarization in society right now, is because the top 10% of earners in the United States have been so focused on ensuring that they not only maintain but also extend their privilege. And for me the scandal that really summarized all of this was Varsity Blues and all of these very wealthy people that were doing everything possible to ensure that their kids--not deservant--found a way to get in to those best schools. And when I saw that Greenwich Connecticut, that *50%* of high schoolers taking the SAT out of Greenwich had, uh, letters from doctors that allowed them to take it with no time restrictions, unmonitored--that-that's not just rigged; I mean, that is *the* system. That's structural. That's: if you have any capacity, that's what you're gonna do. And-and I think that comes in every shape and every form, but we know what it's about."  
+"[T]he reason why Trump was elected, and the reason why there is such incredible polarization in society right now, is because the top 10% of earners in the United States have been so focused on ensuring that they not only maintain but also extend their privilege. And for me the scandal that really summarized all of this was Varsity Blues and all of these very wealthy people that were doing everything possible to ensure that their kids--not deservant--found a way to get in to those best schools. And when I saw that Greenwich Connecticut, that *50%* of high schoolers taking the SAT out of Greenwich had, uh, letters from doctors that allowed them to take it with no time restrictions, unmonitored--that-that's not just rigged; I mean, that is *the* system. That's structural."  
 -[Ian Bremmer, *Real Time with Bill Maher*, May 29th 2020](https://www.youtube.com/watch?v=N8a78lMXmAE&t=5m31s)
+
+"You know what? Maybe nobody's the victim. Maybe we're just victimizing ourselves to avoid bettering ourselves. We keep looking for somebody to blame, but it's us. We're the monsters."  
+"OR is it the liberal media!?"  
+"That's it! Thank you!"  
+--Britanick, [Dinner Party](https://www.youtube.com/watch?v=k5dgSi4_Sfk&t=2m57s)
 
 "But the whirlwind [war] is empty: horse or tank, Gengis Khan or Hitler or Stalin, it can only feed on the labours of other men."  
 --Jacob Bronowski
@@ -447,6 +452,18 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 
 "To improve is to change; to be perfect is to change often."  
 --Winston Churchill
+
+"Truth is incontrovertible. Panic may resent it. Ignorance may deride it. Malice may distort it. But there it is."  
+--Winston Churchill
+
+"The inherent vice of capitalism is the unequal sharing of blessings. The inherent virtue of socialism is the equal sharing of miseries."  
+--Winston Churchill
+
+"Vengeance is the most costly and dissipating of luxuries."  
+--Winston Churchill, 1948
+
+"If you destroy a free market you create a black market."  
+--Winston Churchill, 1949
 
 "Fanatic: One who can’t change his opinion and won’t change the subject."  
 --Winston Churchill (popularized), actually from Evan Esar's *Comic Dictionary*
@@ -679,6 +696,9 @@ How will you find the strength and wisdom to challenge an unwise order or questi
 "When I changed how I looked at myself, it changed how the world interacted with me."  
 --[James R. Doty](https://samharris.org/podcasts/219-power-compassion/)
 
+"The more we progress, the more we tend to progress...We draw compound interest on the whole capital of knowledge and virtue which has been accumulated since the dawning of time."  
+--Sir Arthur Conan Doyle
+
 "It looks tame once it’s all laid out. Those little boxes help a lot. In fact, little boxes are the chief tool of computer science."  
 --[Gustavo Duarte](https://manybutfinite.com/post/journey-to-the-stack/)
 
@@ -690,6 +710,9 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 --Will Durant
 
 "A great civilization is not conquered from without until it has destroyed itself within."  
+--Will Durant
+
+"Tolerance grows only when faith loses certainty."  
 --Will Durant
 
 "It's only after we've lost everything that we're free to do anything."  
@@ -1256,6 +1279,9 @@ track one down, patch it around,
 "We live in an age of exponential growth in knowledge, and it is increasingly futile to teach only polished theorems and proofs. We must abandon the guided tour through the art gallery of mathematics, and instead teach how to create mathematics we need. In my opinion, there is no long-term practical alternative."  
 -Richard Hamming, *The Art of Doing Science and Engineering*
 
+"...whether the effort required for excellence is worth it. I believe it is--the chief gain is in the effort to change yourself, in the struggle with yourself, and it is less in the winning than you might expect. Yes, it is nice to end up where you wanted to be, but the person you are when you get there is far more important. I believe a life in which you do not try to extend yourself regularly is not worth living--but it is up to you to pick the goals you believe are worth striving for."  
+--Richard Hamming, *The Art of Doing Science and Engineering*
+
 "When somebody calls themselves a job creator, they aren't describing the economy, although that's what it sounds like. What they are really doing is making a claim on status, privilege and power."  
 --Nick Hanauer
 
@@ -1286,7 +1312,7 @@ track one down, patch it around,
 "What begins to happen is that your own psychological suffering becomes a kind of mindfulness alarm, which reminds you to pay attention. And when you pay attention, it actually helps. That's the sign that your mindfulness is becoming a useful skill. And in those moments, you no longer imagine that your suffering is coming from the outside. You're no longer disposed to merely blame the world or other people. You realize, viscerally, that that thing that made you angry or anxious wasn't the true cause of your suffering. The true cause was internal to your mind. And you can take responsibility for noticing this process and for relaxing the apparent hold it has on you."  
 --Sam Harris
 
-"Whe you look at the things psychologically that cause you to be a dick, that cause you to act out, that cause you to, let's say, if you feel angry, to helplessly express your anger in relationship, no matter how inappropriate. What that is is a fundamental lack of mindfulness. In the worst case you're not even aware of becoming angry until the words fly out of your mouth, and there's no possibility of being otherwise. You see no choice. There's no pause to take because this thing broke over you like a wave, and everything got wet. ... [This] gives you two categories of experience: You can be angry and totally lost in it, or you can be aware of anger as kind of an energy state of your body, or an arising emotion, which you then can either act out or be motivated to act by, or you can observe as just a change in your person. And the observing mode is different and leads to different consequences. It leads you to pause before saying something. But as you get better and better at that, what you begin to notice is that all of these negative emotions have a very short half-life. It's impossible to actually stay angry for any significant amount of time, much less be motivated to derange your life or relationships on its basis, without continually being lost in thought about why you should be angry, or why you have every right to be angry. You have to stay lost in thought. You literally have to be thinking without knowing that you're thinking. ... Is it worth being angry here? Is there some ethical purpose served by expressing anger? Or is this just needless?"  
+"When you look at the things psychologically that cause you to be a dick, that cause you to act out, that cause you to, let's say, if you feel angry, to helplessly express your anger in relationship, no matter how inappropriate. What that is is a fundamental lack of mindfulness. In the worst case you're not even aware of becoming angry until the words fly out of your mouth, and there's no possibility of being otherwise. You see no choice. There's no pause to take because this thing broke over you like a wave, and everything got wet. ... [This] gives you two categories of experience: You can be angry and totally lost in it, or you can be aware of anger as kind of an energy state of your body, or an arising emotion, which you then can either act out or be motivated to act by, or you can observe as just a change in your person. And the observing mode is different and leads to different consequences. It leads you to pause before saying something. But as you get better and better at that, what you begin to notice is that all of these negative emotions have a very short half-life. It's impossible to actually stay angry for any significant amount of time, much less be motivated to derange your life or relationships on its basis, without continually being lost in thought about why you should be angry, or why you have every right to be angry. You have to stay lost in thought. You literally have to be thinking without knowing that you're thinking. ... Is it worth being angry here? Is there some ethical purpose served by expressing anger? Or is this just needless?"  
 --Sam Harris, appearance with Andrew Huberman
 
 "What remains emotionally and attitudinally when you're no longer taken in by thought to the usual degree, and more and more as you break that spell more and more, seems to be exactly the prosocial emotions you would want in a wise and enlightened person. It's not like you become totally without affect, totally without connection to other people. And you can sort of understand why this would be the case, because the inward-turning construction of self, the self-absorption, the concern about what others think about us, the endless judging of people, the continuous capture with our own opinion-making and rumination--when you look at what that's doing to you ethically and emotionally and in relationship, it's a kind of running failure of relationship. It's a failure to actually have sufficient free attention to merely pay attention to others and to actually recognize that you love them, that you care about them, that you want them to be happy. ... When you're speaking to another person, and you're having a face-to-face conversation, so they're looking in to your eyes, and you're looking in to theirs, what prevents that from being...something like the beatific vision? ... Your neurotic concern about how you're perceived, your judgement of them, all of this is mediated by thought of one form or another, and there's a kind of collapse of attention, where you're behind your face, looking at the other and feeling looked at. You become an object in the world for others, and there's that Sartre-ian moment where he decribes this transition-- ... He talked about the condition of a voyeur looking at the object of his lust from outside her window, and the primal circumstance is for that mere subject looking at another to suddenly hear someone stepping up behind him. In that moment, the collapse of recognition that you are an object in the world for others, that contraction--it is a contraction. It is a kind of knot that gets magically tied, seemingly in the center of experience, and so much of our seeking to feel better in life is an attempt to relax that knot. And our peak experiences, when we have them, sexually, athletically, aesthetically, the moments when we get out of ourselves, when there's no distance between ourselves and experience, or ourselves and another person, it's a moment where suddenly we seem to no longer feel that cramp of separateness. ... So what remains when you can actually break this spell is not this cold detachment, necessarily. The mind becomes a kind of wellspring of compassion and freedom from inwardness. Like when you're looking at a sunset, not only can you really look at it without any kind of splitting of your attention; there's *only* the sunset. You're so fully looking at it that you're no longer telling yourself the story of how beautiful the sunset is. [\[Psychological\] fusion](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy) is the wrong concept [for this], because it's just a non-separation. You're no longer breaking yourself off and <a class="page-scroll" href="#Mezinger">constructing yourself in opposition to the world.</a> And so it is with other people: You can recognize that when you give your full attention to the other person, and none of your energy is being spent in being concerned about how they perceive you, it's just a much deeper experience of connection."  
@@ -1314,6 +1340,9 @@ Harris: "There really is a different conception of mental health here that we ar
 Davidson: "... attentional distraction, mind wandering, as well as reification of the self, believing the thoughts that we have about ourselves as a true depiction of reality, considering them to be true--That you see in depressed people, for example. One of the characteristics of depression is that negative self-thoughts are actually taken to be a veridical description of who the individual is. ... This whole idea we call experiential fusion, where you have the experience of being completely fused with the thought, rather than having a quality of meta-awareness, which is knowing that there is actually a thought occurring and being able to see it as a thought.--And that's something that of course we know can be taught through the kinds of contemplative practices that we're considering.--And one of the most important findings really is the finding that meta-awareness can be strengthened...recognizing that a thought is a thought rather than being swept up in its content."  
 Goleman: "One of the main principles of cognitive therapy is that you don't have to believe your thoughts. That's a very revolutionary idea for most of us."  
 --Sam Harris, Richie Davidson, Danny Goleman #111
+
+"Live in truth."  
+--ethos of Vaclav Havel
 
 "There are those who will say terrible things about JavaScript. Many of these things are true. When I was required to write something in JavaScript for the first time, I quickly came to despise it. It would accept almost anything I typed but interpret it in a way that was completely different from what I meant. This had a lot to do with the fact that I did not have a clue what I was doing, of course, but there is a real issue here: JavaScript is ridiculously liberal in what it allows. The idea behind this design was that it would make programming in JavaScript easier for beginners. In actuality, it mostly makes finding problems in your programs harder because the system will not point them out to you."  
 --Marijn Haverbeke, *Eloquent Javascript*
@@ -1604,6 +1633,9 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 "We strive for perfection and achieve excellence."  
 --Angela Kirkland (Nvidia interviewer)
 
+"A true selfless act inspires another."  
+-*Klaus*, 2019
+
 "I think to realize that you were not only so wrong but so wrong in such a harmful way is a devestating thing to realize, and it's something that it's totally human to want to rebel against at every point. The sunk cost isn't just that they were wrong and that's embarrassing. The sunk cost is that they hurt someone in the process of being wrong. And so it's not just the misinformation, and it's not just the ego of wanting to be right: I think that people are afraid of what it means about them if they were this wrong, and that it's much easier for them to believe that there's something wrong with me to have deserved the harm that I suffered. And so, I think it goes to people identifying with their ideas, and, when put on the spot and even when having plain evidence put in front of them that what they believe is wrong, it feels to them like what you're saying is that they're a bad person. And that's why they can't grasp just the plain, hard, cold facts of it, because it's charged with emotional resonance and with a sense of it implicating them and their identity and who they imagine themselves to be as people."  
 --Amanda Knox, on *Making Sense* #345, ~1:20:00 in
 
@@ -1634,8 +1666,10 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 "Look at me; I'm beaming!"  
 --me on mushrooms, December 2022
 
-"[[Musk quote](#musk)] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb. #staywithit"  
---me, a favorite post
+"Do you cry much?" "I cry all the time. I'm very sensitive."  
+--me on mushrooms, December 2022
+
+"[[Musk quote](#musk)] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb."
 
 "High, wild places are the closest thing I have to a church. They’ve nurtured my soul for more than 60 years. They’ve restored my emotional equilibrium during periods of despair. They are where I feel most at peace....There is no getting around the fact that steep terrain is inherently dangerous, however. And for those of us who spend as much time as possible on the heights, our dirty little secret is the hazards are actually part of the appeal. The danger sharpens the senses, rids the mind of trivialities, compels one to focus exclusively on the moment. Stepping out of your comfort zone and confronting your fears can be transformative. ... A life of excessive caution can be even more injurious than its opposite."  
 –-Jon Krakauer, Foreword to *No Words for the Way Down*
@@ -2010,8 +2044,8 @@ To be a better man"
 "American politics, and I think Americans will be the first to agree with this, are inherently ludicrous."  
 --John Oliver
 
-"The more we progress, the more we tend to progress...We draw compound interest on the whole capital of knowledge and virtue which has been accumulated since the dawning of time."  
---Sir Arthur Conan Doyle
+"The scientific method doesn't go: 1. Hypothesis 2. Horsewhip anyone who disagrees with you 3. Conclusion. You're thinking of religion."  
+--John Oliver, UFOs episode
 
 "Have you ever heard of a Saint hiding in a church?"  
 --Edie Doyle, *On The Waterfront*, a call to action
@@ -2026,6 +2060,11 @@ To be a better man"
 
 "'It's working, just need to test.' --all engineers before a failed test"  
 --Troy O'Neal, 17th April 2015
+
+"I am not alone  
+We are one  
+We are in this together"  
+--OneUpDuo, SLC Pride 2022
 
 "Science has profoundly altered the conditions of man's life."  
 --J. Robert Oppenheimer
@@ -2047,6 +2086,9 @@ To be a better man"
 
 <a class="anchor" id="P"></a>
 ### P
+
+“Not ‘rich, but still nice’, nice *because* she’s rich, you know? Hell, if I had all this money,” [throws arms wide] “I’d be nice too!"  
+--Chung Sook, *Parasite*, 2019
 
 "[C]hance favors only the prepared mind."  
 --Louis Pasteur
@@ -2272,9 +2314,12 @@ He truly embodied the principles of being genuinely interested in other people, 
 "It is hard to fail, but it is worse never to have tried to succeed."  
 --Theodore Roosevelt
 
-"I am what I am, and I'm good at it  
-And you don't like me, well that isn't fucking relevant"  
---Ellie Roswell (of Wolf Alice), *Smile*
+"Often in relationships between men and women, there is this weird pact that it's the women's job to interpret their relationship for the men. That they have a right to say, 'The problem with you is that you're afraid of commitment, and if only you would show up at my house at an approximately reasonable time, then we would be fine.' And that is bullshit: that the men are ready to outsource their own understanding of themselves to the women, and that the women will do that job so the men will do what they want. And yet it's a sort of agreed-upon game."  
+...  
+'For Roupenian, it has been a case of recognizing a tendency to overestimate the extend to which "someone else has control over my happiness and ability to move in the world", and, by extension, her control over others: "That if you're unhappy, it's my fault, and my job to fix it. I do have a responsibility to make other people happy. You have to be a good person. But that is contradicted by the thing I have felt increasingly as I get older, which is that I do not have the power to make you happy. My ability to fix you is so limited, and my desire to fix you is complicated. For me, the process of getting older and seeing things more truly has been realizing how little power we have over each other."'
+...
+"To me, part of the anxiety that can come in romantic relationships is 'I have a story that is unraveling.' That can be really hard. It's caught up in ego and power and control, which is separate from 'Maybe this person likes me; maybe they don't.'"
+--[Kristen Roupenian](https://www.theguardian.com/books/2019/jan/26/cat-person-author-kristen-roupenian-dating-ego-power-control)
 
 "The follies which a man regrets most, in his life, are those which he didn't commit when he had the opportunity."  
 --Helen Rowland
@@ -2284,6 +2329,10 @@ And you don't like me, well that isn't fucking relevant"
 
 "Failure meant a stripping away of the inessential. I was set free, because my greatest fear had been realized, and I was still alive."  
 --Joanne Rowling
+
+"I am what I am, and I'm good at it  
+And you don't like me, well that isn't fucking relevant"  
+--Ellie Rowsell (of Wolf Alice), *Smile*
 
 "There are those who approach the opportunities of each day like crossing items off a to-do list instead of truly engaging and participating with all of themselves. ... Yet it is through deliberate action and repetition that we gain deeper insight."  
 --Rick Rubin
@@ -2308,6 +2357,9 @@ And you don't like me, well that isn't fucking relevant"
 
 "One should as a rule respect public opinion in so far as is necessary to avoid starvation and to keep  out of prison, but anything that goes beyond this is voluntary submission to an unnecessary tyranny,  and is likely to interfere with happiness in all kinds of ways."  
 --Bertrand Russell
+
+"Dad bod is straight for bear."  
+--Ryan Georgi
 
 <a class="anchor" id="S"></a>
 ### S
@@ -2367,6 +2419,9 @@ And you don't like me, well that isn't fucking relevant"
 
 "Life is what happens to us while we are making other plans."  
 --Allen Saunders
+
+"I reject your hypothesis and substitute my own."  
+--Adam Savage, *Mythbusters*
 
 "Any intelligent fool can make things bigger and more complex. It takes a touch of genius and a lot of courage to move in the opposite direction."  
 --E. F. Schumacher
@@ -2548,6 +2603,12 @@ And seem a saint, when most I play the devil."
 
 "The test of courage comes when we are in the minority. The test of tolerance comes when we are in  the majority."  
 --Ralph W. Sockman
+
+"The unexamined life is not worth living."  
+--Socrates
+
+"I remember reading somewhere that men learn to love the person that they're attracted to, and that women become more attracted to the person that they love."  
+--Graham, Steven Soderbergh's *Sex, Lies, and Videotape*
 
 "Every difficulty is an opportunity for excellence."  
 --Brian Solar's commanding officer in the Army
@@ -2903,9 +2964,9 @@ Now everyone watch me, everyone watch me!
 Scale these outside walls"  
 --Aaron Weiss, *A Glass Can Only Spill What It Contains*
 
-"Oh, you pious and profane
-Put away your praise and blame!
-A glass can only spill what it contains
+"Oh, you pious and profane  
+Put away your praise and blame!  
+A glass can only spill what it contains  
 To the perpetually plain,  
 the incurably inane:  
 A glass can only spill what it contains"  
@@ -3202,6 +3263,44 @@ that's long since passed me by?"
 
 "If only we'd stop trying to be happy we could have a pretty good time."  
 --Edith Wharton
+
+"Everyone around you is looking for the invitation that you are making to them."  
+--David Whyte
+
+"Poetry is language against which you have no defenses."  
+--David Whyte
+
+"I often think life is just one humiliation after another, and you should just get used to it. But in the best sense of the word 'humiliation' means 'being returned to the ground of your being', from 'humus'."  
+--David Whyte, on Sam Harris #240
+
+"There is no sincere path you can take in life without having your heart broken."  
+--David Whyte
+
+"Put down the weight of your aloneness and ease in to the conversation."  
+--David Whyte
+
+"The men ask me questions like, 'How would you calculate the number of people who work for the United States Postal Service?' and 'How would you describe the internet to a medieval farmer?' and 'What is the hardest thing you've ever done?' They tell me to stand in front of the whiteboard and diagram my responses. These questions are self-conscious and infuriating, but it only serves to fuel me. I want to impress; I refuse to be discouraged by their self-importance. Here is a character flaw, my industry origin story: I have always responded positively to negging."  
+...  
+"My third interview is with the technical cofounder. He enters the conference room in a crisp blue button-down, looking confidently unprepared. He tells me--apologetically--that he hasn't done many interviews before, and as such he doesn't have a ton of questions to ask me. Nonetheless, the office manager slated an hour for our conversation. This seems OK: I figure we will talk about the company, I will ask routine follow-up questions, and at four they will let me out for the day, like a middle school student, and the city will absorb me and my private errors. Then he tells me that his girlfriend is applying to law school and he's been helping her prep. So instead of a conventional interview, he's just going to have me take a section of the LSAT. I search his face to see if he's kidding."   
+"'If it's cool with you, I'm just going to hang out here and check my email.' he says, sliding the test across the table and opening a laptop. He sets a timer."  
+"I finish early, ever the overachiever. I check it twice. The cofounder grades it on the spot. 'My mother would be so proud.' I joke, feeling brilliant and misplaced and low, lower than low."  
+...  
+"My roommate and I are the same age but I feel like a child at my parents’ party, and I am immediately envious"  
+...  
+"I’ve gained fifteen pounds in trail mix"  
+...  
+"Everyone seems very comfortable, and nobody talks to me."  
+...  
+"In this environment, my lack of interest in learning JavaScript feels like a moral failure."  
+...  
+"What is it like to be fun? What is it like to feel like you've earned this?"  
+...  
+"He clicks through to an engineer who works for an aggressively powerful start-up, one whose rapid expansion, relentless pursuit of domination, and absence of ethical boundaries scare the shit out of me. Under his current company, the engineer has written this job description: 'This is a rocket ship, baby. Climb aboard.'"  
+...  
+"I look around the room and feel a wave of affection for these men, this small group of misfits who are the only people who understand this new backbone to my life."  
+...  
+"I think about the city I left to come here, the plans I've canceled and the friends I haven't made. I think about how hard I've worked and how demoralizing it is to fail. I think about my values, and I cry even more. It will be months until I call it quits; it will take almost a year to realize I was gaslighting myself, that I was reading from someone else's script."  
+--Anna Wiener, [*Uncanny Valley*](https://www.nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/)
 
 "We must take sides. Neutrality helps the oppressor, never the victim."  
 --Eli Wiesel
