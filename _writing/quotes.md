@@ -1554,7 +1554,7 @@ may God hold you in the palm of his hand."
 <a class="anchor" id="K"></a>
 ### K
 
-"There art two cardinal sins from which all others spring: Impatience and Laziness."  
+"There are two cardinal sins from which all others spring: Impatience and Laziness."  
 --Franz Kafka
 
 "It must have been late 1941 or early 1942. Jews were required to wear the Star of David and to obey a 6 p.m. curfew. I had gone to play with a Christian friend and had stayed too late. I turned my brown sweater inside out to walk the few blocks home. As I was walking down an empty street, I saw a German soldier approaching. He was wearing the black uniform that I had been told to fear more than others, the one worn by specially recruited SS soldiers. As I came closer to him, trying to walk fast, I noticed that he was looking at me intently. Then he beckoned me over, picked me up, and hugged me. I was terrified that he would notice the star inside my sweater. He was speaking to me with great emotion, in German. When he put me down, he opened his wallet, showed me a picture of a boy, and gave me some money. I went home more certain than ever that my mother was right: people were endlessly complicated and interesting."  
@@ -1869,7 +1869,7 @@ But nothing happened every time I tried"
 --James Mercer (Australia)
 
 "Nothing Lasts"  
---Evan Jed Memmott, mural at 2285 S Main South Salt Lake, UT
+--Evan Jed Memmott, mural at 2285 S Main South Salt Lake, UT, see also: [Rilke](#rilke)
 
 "It's good to be soft when they push you down  
 ...
@@ -1931,7 +1931,7 @@ To be a better man"
 --Elon Musk
 
 "If you want a flying car, just put some wheels on a helicopter"  
---[Elon Musk](https://www.youtube.com/watch?v=ycPr5-27vSI)﻿
+--[Elon Musk](https://www.youtube.com/watch?v=ycPr5-27vSI)
 
 "Any existing specification is wrong. Any existing manufacturing method is wrong. Process, equipment: It's wrong, it's just a question of how wrong. Quote, Elon Musk."  
 "Yes, exactly. We're wrong; it's just a question of how wrong. Just try to be less wrong."  
@@ -2105,7 +2105,7 @@ We are in this together"
 "It didn't help that the output was so criminally long with each run that I lost track of where it had dumped that mega-list of goals; if my terminal continued out the top of my monitor, I'm willing to bet that list would be in outer space. I wasn't feeling like scrolling into outer space that day, and I definitely didn't feel like running mvn with no arguments again just to print another copy, so I looked into my other options in the vain hope that they'd be simpler."  
 --[Costya Perepelitsa](https://qr.ae/TWAQA6)
 
-"Got back from racket ball, was like 'I'll just take a quick nap.' Woke up at 2am like '*gasp* What year is it?'"
+"Got back from racket ball, was like 'I'll just take a quick nap.' Woke up at 2am like '*gasp* What year is it?'"  
 --Luis Pérez, 3rd March 2015
 
 "Fools ignore complexity. Pragmatists suffer it. Experts avoid it. Geniuses remove it."  
@@ -2216,6 +2216,10 @@ NYTimes interviewer: "But why does compassion have to be universal?"
 "It appears the lower tier of this society is being manipulated through sex and advanced technology by a hidden ruling class. Sound familiar?"  
 --Rick, *Rick and Morty*
 
+"Well it's your world now. Have fun with empowerment. It seems to make everyone that gets it really happy."  
+--Rick
+
+<a class="anchor" id="rilke"></a>
 "Let everything happen to you  
 Beauty and terror  
 Just keep going  
@@ -2413,9 +2417,6 @@ And you don't like me, well that isn't fucking relevant"
 "Il semble que la perfection soit atteinte non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retrancher."  
 "It seems that perfection is achieved not when there is nothing more to add, but when there is nothing more to take away"  
 --Antoine de Saint-Exupery
-
-"Well it's your world now. Have fun with empowerment. It seems to make everyone that gets it really happy."  
---Rick Sanchez
 
 "Life is what happens to us while we are making other plans."  
 --Allen Saunders
