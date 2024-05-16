@@ -380,9 +380,6 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "Nobody realizes that some people expend tremendous energy merely to be normal."   
 --Albert Camus
 
-"On this earth there are pestilences, and there are victims. And it's up to us, so far as possible, not to join forces with the pestilences."  
---Albert Camus
-
 "You can get more with a kind word and a gun than you can a kind word alone."  
 --Al Capone
 
@@ -972,6 +969,9 @@ And know the place for the first time.
 
 "The brain is a wonderful organ; it starts working the moment you get up in the morning, and does  not stop until you get to the office."  
 --Robert Frost
+
+"The young are very unforgiving."  
+--Stephen Fry, an interview he did from his living room (possibly with Jordan Peterson?), on how he and Hugh Laurie would ruthlessly mock anything when starting out in comedy at Cambridge, had comparably little compassion
 
 "It is easier to act your way to a new way of thinking than to think your way to a new way of acting."  
 --Millard Fuller, first stated to me by Ken "Roberts" Pennacchini, a distillation of the ['act as if' principle from William James](https://books.google.com/books?id=IBrykBRv2B4C&pg=PA100&lpg=PA100&dq=it+is+easier+to+act+your+way+to+a+new+way+of+thinking+than+to+think+your+way+to+a+new+way+of+acting+william+james&source=bl&ots=SSIpVUJz4Z&sig=ACfU3U2PCpi9jxvhLaCatbTrJ4gW7_arSQ&hl=en&sa=X&ved=2ahUKEwio7dyM0OToAhVB2qwKHVP9DOAQ6AEwAHoECBIQLA#v=onepage&q=it%20is%20easier%20to%20act%20your%20way%20to%20a%20new%20way%20of%20thinking%20than%20to%20think%20your%20way%20to%20a%20new%20way%20of%20acting%20william%20james)
@@ -2114,6 +2114,12 @@ We are in this together"
 "Speak when you are angry--and you will make the best speech you'll ever regret."  
 --Laurence J. Peter
 
+"Noblest of all dogs is the hot-dog; it feeds the hand that bites it."  
+--Laurence J. Peter
+
+"Time you enjoyed wasting is not wasted."  
+--[Not Laurence J. Peter](https://quoteinvestigator.com/2010/06/11/time-you-enjoy/), although he said this too
+
 "Solzhenitsyn said in his Nobel Prize acceptance speech 'A single person who stops lying can bring down a tyranny.', which is a stunning thing to say, but I would also say something that's been amply demonstrated in the 20th century, because we have historical examples of people who did precisely that. Gandhi did it. Vaclav Havel did it. Nelson Mandela did it. Solzhenitsyn's Gulag Archipelago was definitely one of the axe-blows that brought down the Soviet Union, a stunning achievement for a person who started writing that book by memorizing it when he was a concentration camp victim this [holds up pinched fingers] far away from starvation. It shows you as-as clearly as anything possibly can how powerful the human spirit can be if it's willing to take on the obligation of its relationship with the divine and also how terrible things can become if the responsibility of that burden is not shouldered."  
 --[Jordan Peterson](https://www.youtube.com/watch?v=MLp7vWB0TeY&t=33m17s)
 
@@ -3019,7 +3025,7 @@ A shape was roughly human, it was only roughly human
 Apparition eyes apparition eyes Knock Apparition Knock eyes apparition eyes"  
 --Aaron Weiss, *Red Cow*
 
-"Was he a violent man? Well, he had his genocidal moments...  
+"Was he a violent man? Well, he had his genocidal moments  
 Or penned by fiction's hand? To whom could that phrase not apply?"  
 --Aaron Weiss, *Red Cow*
 
@@ -3279,6 +3285,9 @@ that's long since passed me by?"
 
 "Put down the weight of your aloneness and ease in to the conversation."  
 --David Whyte
+
+"It may be that the ability to know the necessity for help, to know how to look for that help, and then, most importantly, how to ask for it, is one of the primary transformative dynamics that allows us to emancipate ourselves into each new epoch of our lives."  
+--David Whyte, *Help*
 
 "The men ask me questions like, 'How would you calculate the number of people who work for the United States Postal Service?' and 'How would you describe the internet to a medieval farmer?' and 'What is the hardest thing you've ever done?' They tell me to stand in front of the whiteboard and diagram my responses. These questions are self-conscious and infuriating, but it only serves to fuel me. I want to impress; I refuse to be discouraged by their self-importance. Here is a character flaw, my industry origin story: I have always responded positively to negging."  
 ...  

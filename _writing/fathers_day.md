@@ -7,7 +7,7 @@ img: quotation_mark.png
 ---
 ### Father's Day, 2015
 
-My father once told me of an experience he had in college. He needed an English credit and had the choice of several courses. "Don't take this professor", people told him, for, as he explained to me, that professor was difficult, his standards high. But my father was undeterred; he selected that professor's class anyway because, as he told me, "Learning is more valuable than a grade." When the semester was finished my father was left with a B, but he was happy because he knew he was better for it than he would have been for an A in any other class. Today I can recall numerous distinct instances when people complimented my father on his writing skill and were amazed English was not his native language.
+My father once told me of an experience he had in college. He needed an English credit and had the choice of two courses. "Don't take this professor", people told him, for that professor was difficult, his standards high. But my father was undeterred; he selected that professor's class anyway because, as he told me, "Learning is more valuable than a grade." When the semester was finished he was left with a B, but he was happy because he knew he was better for it than he would have been for an A in any other class. Today I can recall numerous instances when people complimented his writing skill and were amazed English was not his native language.
 
 The moral is to be unafraid of adversity. Embrace challenge, even at the cost of pride. If you know an opportunity will provide you with a chance to better yourself, then sieze it without reservation and without regret. Sieze every moment.
 
