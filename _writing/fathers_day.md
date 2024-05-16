@@ -9,7 +9,7 @@ img: quotation_mark.png
 
 My father once told me of an experience he had in college. He needed an English credit and had the choice of two courses. "Don't take this professor", people told him, for that professor was difficult, his standards high. But my father was undeterred; he selected that professor's class anyway because, as he told me, "Learning is more valuable than a grade." When the semester was finished he was left with a B, but he was happy because he knew he was better for it than he would have been for an A in any other class. Today I can recall numerous instances when people complimented his writing skill and were amazed English was not his native language.
 
-The moral is to be unafraid of adversity. Embrace challenge, even at the cost of pride. If you know an opportunity will provide you with a chance to better yourself, then sieze it without reservation and without regret. Sieze every moment.
+The moral is to be unafraid of adversity. Embrace challenge, even at the cost of pride. If you know an opportunity will provide you with a chance to better yourself, then seize it without reservation and without regret. Seize every moment.
 
 My father once told me of an experience he had after college. He had just met my mother and was incredibly taken with her. Armed only with knowledge of her name and the name of the hospital at which she worked, he called the front desk and asked foolishly if he could be put in touch, intent to ask her out. He could not consider this strange: His determination paid off, he said, and cited the story as but one example of how this quality is extraordinarily valuable in life.
 
@@ -23,4 +23,4 @@ Throughout my own time in college and elsewhere, I have remembered these tales. 
 
 Thank you, Dad. My victories belong to you as well. I am who I am because you were who you were. I wish I could tell you how proud of you I am.
 
-Happy Father's Day, every one.
+Happy Father's Day, everyone.
