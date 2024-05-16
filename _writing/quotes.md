@@ -511,21 +511,21 @@ protecting us from our now and later"
 "Extroverted values, which are to do with fame and money and status and positions, these are all things you have no control over. Do you see what I mean? Whereas you have a certain amount of control over your inner life, because you can somehow--you can not control your thoughts, but you can decide how much energy to give to a specific thought."  
 --[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=3m56s)
 
-"So when I started to discover at Cambridge I could write stuff that made people laugh, then I began to watch the process. And I am quite convinced that anything of importance creatively comes up from the unconscious. There's a lot of *very* very bright, highly intellectual, immensely smart people, but they're 'left-brained', and they'll never, I think, be very, um, very creative."  
+"So when I started to discover at Cambridge I could write stuff that made people laugh, then I began to watch the process. And I am quite convinced that anything of importance creatively comes up from the unconscious."  
 --[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=6m37s)
 
-"When your unconscious gives you an idea, it doesn't give it neatly printed out on a piece of paper; it'll just give you an image or a feeling or something. And if you can stay with that and move around, eventually it'll make, make sense."  
+"When your unconscious gives you an idea, it doesn't give it neatly printed out on a piece of paper; it'll just give you an image or a feeling or something. And if you can stay with that and move around, eventually it'll make sense."  
 --[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=7m14s)
 
 "What I notice about scientists is they don't want to know about the philosophy of science." \[followed by great annecdote about Steven J. Gould and description of [a study](http://deanradin.com/articles/2004%20presentiments.pdf) [suggesting presentiment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3971164/)\]  
 --[John Cleese](https://www.youtube.com/watch?v=2-p44-9S4O0&t=33m13s)
 
-"Creativity is not a talent. It is *not* a talent. It is a way of operating."
+"Creativity is not a talent. It is *not* a talent. It is a way of operating."  
 --[John Cleese](https://www.youtube.com/watch?v=Pb5oIIPO62g&t=4m26s)
 
 <a class="anchor" id="cleese"></a>
-"By the Closed Mode I mean the mode that we are in most of the time when we're at work. We have inside us a feel that there's lots to be done, and we have to get on with it if we're going to get through it all. It's an active, probably slightly anxious mode, although the anxiety can be exciting and pleasurable. It's a mode in which we're probably a little impatient, if only with ourselves. It has a little tension in it, not much humor. It's a mode in which we're very purposeful, and it's a mode in which we can get very stressed and even a bit manic, but not creative.  
-&emsp;&emsp;&emsp;By contrast the Open Mode is a relaxed, expansive, less purposeful mode, in which we're probably more contemplative, more inclined to humor, which always accompanies a wider perspective, and consequently more playful. It's a mood in which curiosity for its own sake can operate, because we're not under pressure to get a specific thing done quickly. We can play. And that is what allows our natural creativity to surface."
+"By the Closed Mode I mean the mode that we are in most of the time when we're at work. We have inside us a feeling that there's lots to be done, and we have to get on with it if we're going to get through it all. It's an active, probably slightly anxious mode, although the anxiety can be exciting and pleasurable. It's a mode in which we're probably a little impatient, if only with ourselves. It has a little tension in it, not much humor. It's a mode in which we're very purposeful, and it's a mode in which we can get very stressed and even a bit manic, but not creative.  
+&emsp;&emsp;&emsp;By contrast the Open Mode is a relaxed, expansive, less purposeful mode, in which we're probably more contemplative, more inclined to humor, which always accompanies a wider perspective, and consequently more playful. It's a mood in which curiosity for its own sake can operate, because we're not under pressure to get a specific thing done quickly. We can play. And that is what allows our natural creativity to surface."  
 --[John Cleese](https://www.youtube.com/watch?v=Pb5oIIPO62g&t=7m24s) See also [Raymond](#raymond)
 
 "On the show he [Fred Rogers] would say 'I love you just the way you are.' One day I said 'Fred, were you talking to me?' And he looked at me and he said 'Yes, I've been talking to you for two years. You finally heard me today.' And I just collapsed in to his arms. I-I started crying. That's when I knew that I loved him. No man had ever told me he loved me like that. I needed to hear it all my life."  
