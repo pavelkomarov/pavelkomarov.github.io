@@ -2491,6 +2491,12 @@ no more: it is a tale told by an idiot,
 full of sound and fury, signifying nothing."  
 --William Shakespeare, *Macbeth*
 
+"Wouldst thou have that  
+Which thou esteem’st the ornament of life,  
+And live a coward in thine own esteem,  
+Letting 'I dare not' wait upon 'I would'?"  
+--William Shakespeare, *Macbeth*
+
 "What a piece of work is a man! how noble in reason!  
 how infinite in faculty! in form and moving how  
 express and admirable! in action how like an angel!  
