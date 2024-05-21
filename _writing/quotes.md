@@ -323,9 +323,6 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "Living life fully is not just about fulfilling ambition, regardless of what motivational books tell you. It's also about being kinder."  
 --Derren Brown
 
-"Courage is not the absence of fear; it's the mastery of it."  
---Derren Brown
-
 "About all you can do in life is be who you are. Some people will love you for you. Most will love you for what you can do for them, and some won't like you at all."  
 --Rita Mae Brown
 
@@ -1715,7 +1712,7 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 --Vladimir Lenin
 
 "...it makes me think about how we use language to understand the world around us. ...[T]he name of a boat is just a word that we've invented to make this world easier to compute in our heads. We separate everything that we can see or experience in to tiny little squares that we can label. And that helps us make predictions and communicate about what's going on and so on. Uh, but the reality isn't like that; the world isn't made up of separate things. It's all just a big mass of gloop. And even if you look at it scientifically, it's very hard to make the distinction between, uh, separate people and objects. As a person I am constantly interacting [with] and part of my environment, both through sight and hearing and breathing and eating and--And at what point does that air or that food, uh, become part of me? And at what point is it part of the environment? And I guess my point here is that by thinking about this we can learn something deeper about our interaction with the world around us. And that is that we can choose to separate things in our minds and consider ourselves as separate from our environment, or we can consider that these labels that we make are not necessarily the ultimate reality of life."  
---[Leo](https://www.youtube.com/watch?v=tW15VnkEmQ0&t=11m10s) on the [Ship of Theseus]https://en.wikipedia.org/wiki/Ship_of_Theseus)
+--[Leo](https://www.youtube.com/watch?v=tW15VnkEmQ0&t=11m10s) on the [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
 
 "The true value of a man is not determined by his possession, supposed or real, of truth, but rather by his sincere exertion to get to the truth. It is not possession of the truth, but rather the pursuit of truth by which he extends his powers and in which his ever-growing perfectability is to be found. Possession makes one passive, indolent, and proud. If God were to hold all truth concealed in his right hand, and in his left only the steady and diligent drive for truth, albeit with the proviso that I would always and forever err in the process, and to offer me the choice, I would, with all humility, take the left hand."  
 --Gotthold Lessing
@@ -2651,7 +2648,7 @@ And seem a saint, when most I play the devil."
 --Squeeze, *Sorry to Bother You*
 
 "Emotion, which is suffering, ceases to be suffering as soon as we form a clear and precise picture of it."  
---Spinoza, as translated by Viktor Frankel
+--Spinoza, as translated by Viktor Frankl
 
 "Aaron [Swartz] believed that you literally ought to be asking yourself all of the time 'What is the most important thing I could be working on in the world right now?' And if you're not working on that, why aren't you?"  
 --Taren Stinebrickner-Kauffman
