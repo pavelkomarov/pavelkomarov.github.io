@@ -339,7 +339,7 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 --Buddha
 
 "They may forget what you said, but they will never forget how you made them feel."  
---Carl Buehner
+--[Carl Buehner](https://quoteinvestigator.com/2014/04/06/they-feel/)
 
 "We’re here to laugh at the odds and live our lives so well that Death will tremble to take us."  
 --Charles Bukowski
@@ -371,6 +371,7 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "There is perhaps nothing worse than reaching the top of the ladder and discovering that you’re on the wrong wall."  
 --Joseph Campbell
 
+<a class="anchor" id="campbell"></a>
 "The cave you fear to enter holds the treasure you seek."  
 --Joseph Campbell
 
@@ -810,7 +811,7 @@ And know the place for the first time.
 --Not actually Ralph Waldo Emerson, but mistakenly attributed
 
 "What we fear of doing most is usually what we most need to do."  
---Ralph Waldo Emerson
+--Ralph Waldo Emerson, see also [Campbell](#campbell)
 
 "The mind, once stretched by a new idea, never returns to its original dimensions."  
 --Ralph Waldo Emerson
@@ -1866,7 +1867,7 @@ But nothing happened every time I tried"
 --James Mercer (Australia)
 
 "Nothing Lasts"  
---Evan Jed Memmott, mural at 2285 S Main South Salt Lake, UT, see also: [Rilke](#rilke)
+--Evan Jed Memmott, mural at 2285 S Main South Salt Lake, UT, see also [Rilke](#rilke)
 
 "It's good to be soft when they push you down  
 ...
