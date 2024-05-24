@@ -344,6 +344,10 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "We’re here to laugh at the odds and live our lives so well that Death will tremble to take us."  
 --Charles Bukowski
 
+<a class="anchor" id="burkeman"></a>
+"True security lies in the unrestrained embrace of insecurity--in the recognition that we never really stand on solid ground, and never can."  
+--Oliver Burkeman
+
 "A simple answer that is clear and precise will always have more power in the world than a complex one that is true."  
 --Nolan Bushnell
 
@@ -831,6 +835,7 @@ And know the place for the first time.
 "The victor is not victorious if the vanquished refuses to consider himself so."  
 --Quintus Ennius, Roman
 
+<a class="anchor" id="epicurus"></a>
 "Death is nothing to us. When we exist, death is not; and when death exists, we are not."  
 --Epicurus
 
@@ -1567,7 +1572,7 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 --[Scott Barry Kaufman](https://www.samharris.org/podcasts/waking-up-conversations/waking-up-scott-barry-kaufman)
 
 "You can live your life with a fear of uncertainty: In a sort of linear way, the greater the fear, the more we go in to this state psychologists have identified, psychological entropy, where we, at the ultimate extreme, we just can't cope, and we get depression; we feel helpless. Or you can live in a constant state of exploration. And exploration means that you are actively exploring the unknown. The unknown excites you. The unknown entices you. The more you can master and challenge the unknown, the happier you are in your life. ... You have to constantly choose the exploration option and learn how to manage the uncertainty that's inevitable in your life. ... Are you really going to live that life with a spirit of exploration and openness to new experiences and curiosity for the unknown, or are you committed to fearing it and having that illusion of control?"  
---[Scott Barry Kaufman](https://www.samharris.org/podcasts/waking-up-conversations/waking-up-scott-barry-kaufman)
+--[Scott Barry Kaufman](https://www.samharris.org/podcasts/waking-up-conversations/waking-up-scott-barry-kaufman), see also [Burkeman](#burkeman)
 
 "I teach a course at Columbia called The Science of Living Well ... Most of these students have been living on autopilot thinking 'Oh, the piont is to get a good GPA so that I have a good resume to get in to a good--' It's always about the future. It's always about some objective metric that everyone can agree on as 'Now you're worth it. Now you're worthy.' In this course I teach I have growth as the metric, and that's it. So there isn't comparison from one person to another. I have a whole series of growth challenges throughout the semester. Maybe it could be confronting and embracing your dark side and really becoming friends with it. Another growth challenge is increasing the high quality connections in your life, or being more mindful of things around you and having more gratitude in your life. And you start to add up all these things, and students start to realize that _that's_ life, like those are the things. There's actually nothing more to life. That's it!  
 &emsp;&emsp;&emsp;... Really, the plateau experience, that's the most profound, transcendent moments of your life, where you can find the miraculous in the everyday. _That's_ life. If you can cultivate that skill, that'll be a far greater skill than constantly beating yourself up over not getting this grade or that grade or this amount of money, or look that other person's getting that amount of money. Life becomes a zero-sum relative game. If you can move towards growth in your momentary experiences in your life and really realize that everything around you is alreay pretty miraculous, like right now, that's a fundamentally different way of being and living.  
@@ -1675,9 +1680,6 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 "It is no measure of health to be well-adjusted to a sick society."  
 --Jiddu Krishnamurti
 
-"You have to surrender to the fact that you are of too many in a highly competitive field where it is difficult to stand out. Over time, through your work, you will demonstrate who you are and what you bring to the field. Just stay with it and keep working."   
---Lisa Kudrow
-
 "Thanks to the Interstate Highway System, it is now possible to travel from coast to coast without seeing anything."  
 --Charles Kuralt
 
@@ -1729,7 +1731,7 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 
 "The criticism goes like this: You told everyone they're special. They don't have to do anything to earn that 'special'. That's what's wrong with our country. That's what's wrong with children today.  
 &emsp;&emsp;&emsp;I'm sure by then Fred had heard the criticisms, but it's not talking about entitlement, and if you don't believe that everyone has inherent value, you might as well go against the fundamental notion of Christianity, that you are the beloved son or daughter of God.  
-&emsp;&emsp;&emsp;At the very end of Fred's very last commencement speech he said what he meant when he said 'You are special:'"  
+&emsp;&emsp;&emsp;At the very end of Fred's very last commencement speech he said what he meant when he said 'You are special':"  
 &emsp;&emsp;&emsp;"And what that ultimately means, of course, is that you don't ever have to do anything sensational for people to love you."  
 "It is really a matter of believing that you're endowed by your creator with good."  
 --Junlei Li, Fred Rogers Center
@@ -1803,7 +1805,7 @@ We don’t always control what happens to us. But we always control a) how we in
 "I liked economics in that, like, I liked..math. Um, I didn't understand that its real-world application, banking, was something very different. You know?...And I was like 'Oh, this is so different from', um, 'how I imagined it when I was in college', you know late at night in the library, like struggling with some proof and being like 'Ahhh! Okay, I'm gonna get my brain to figure this out.' That part of it I loved, but then when I was at a bank, and they're just like 'Here's your cublicle. Here's your computer. Your job is to, like, stay awake as many hours as you can and be accurate, you know, to the third decimal place. Go.' I just, I couldn't understand what was happening in that space, and I couldn't understand why all these, you know, bright, excited young people were finding themselves here. I think I had a moment there where I was just like 'I'm gonna die. And is this what I want to do? Like, day to day.'  
 Interviewer: Goldman Sachs was your NDE.  
 [Whispers] Oh my God! Yes! I was just thinking to myself 'My therapist would love that.' Like yeah, you're right...  
-I remember a moment of, I had been there for a period. I was a, a new analyst, but I happened to be staffed on two companies where they were having IPOs at the same time. So the volume of work was crazy. And, I got sick, and, um, there was really no time for that. You know? So you had to just be there anyway. And then I was also just sad. You know, like I would go home from work, and sometimes just cry. And it wasn't just like a few tears; it was the kind of existential crying of like--It was heartbreak. I was heart--I was heartbroken that--Y-you brought this up earlier, the idea of like 'When does a kid lose their imagination? When do they let go of that wild, unbridled thing and become the broken-in horse?' That was the moment for me.  
+&emsp;&emsp;&emsp;I remember a moment of, I had been there for a period. I was a, a new analyst, but I happened to be staffed on two companies where they were having IPOs at the same time. So the volume of work was crazy. And, I got sick, and, um, there was really no time for that. You know? So you had to just be there anyway. And then I was also just sad. You know, like I would go home from work, and sometimes just cry. And it wasn't just like a few tears; it was the kind of existential crying of like--It was heartbreak. I was heart--I was heartbroken that--Y-you brought this up earlier, the idea of like 'When does a kid lose their imagination? When do they let go of that wild, unbridled thing and become the broken-in horse?' That was the moment for me.  
 &emsp;&emsp;&emsp;I remember seeing a doctor, telling the doctor that I was having like these waves of sadness, and he was just like 'You're depressed. Here's a prescription for Paxil.' I remember filling the prescription, and it was sitting on my nightstand, and I would come home and be so sad, and I would look at that bottle, and I would think 'Something is wrong here if, like, I'm being told--like I'm doing something that's making me not feel good, and I'm being told that the answer is to just like pop one of these pills.', to make the thing palatable, to just go do the job..And I have so much empathy for that...To numb yourself, bascially. And the doctor's answer, the "System"'s answer was 'Well, there are ways to medicate this so that you don't feel your body's gut reaction.' You just go with what your mind is saying, which is like 'If I do this job, I know exactly how much money I'll be making in two years, how much money I'll make in five years, prolly how much I'll make in ten.'  
 Interviewer: Who I'll date, who I'll marry, where I'll live.  
 Hundred percent. What are the zip codes? What are the things that I'll have?  
@@ -2456,7 +2458,7 @@ And you don't like me, well that isn't fucking relevant"
 &emsp;&emsp;&emsp;*Here's what you must do for me.* It's pretty simple, really, but I didn't say easy--after all, as I said, the slogan "No pain, no gain" originated in bodybuilding circles. It's what sets those who succeed apart from those who don't: You must have a sincere and burning desire to achieve what you dream, dedicate yourself to making progress, and take control of your circumstances to change your body. ... Understand that bodybuilding isn't an overnight process, but rather a lifelong one. Personal factors like your attitude, commitment, and desire to improve your appearance play an important role in your ultimate success. Endeavor to learn all you can, train smart, listen to your body, and combine it with a good diet. ...  
 &emsp;&emsp;&emsp;If you're with me so far, you're miles ahead of everybody else and are destined for greatness.  
 &emsp;&emsp;&emsp;I've tried to make this book as honest, accurate, and practical as possible. Study it ... You hold the answers right here in your hands."  
---Arnold Schwarzenegger
+--Arnold Schwarzenegger, intro to The New Encyclopedia of Modern Bodybuilding
 
 "As you grow older, you'll find the only things you regret are the things you didn't do."  
 --Zachary Scott
@@ -2781,7 +2783,7 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 --Mark Twain
 
 "I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it."  
---Mark Twain
+--Mark Twain, see also [Epicurus](#epicurus)
 
 "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."  
 --Mark Twain
