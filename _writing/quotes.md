@@ -224,6 +224,17 @@ Please just be with me
 You know one day we will never meet again"  
 --Ball Park Music, *Caramel*
 
+"Don't forget:  
+Every step  
+Is in to the unknown!"  
+--Ball Park Music, *Day & Age*
+
+"I'm afraid that there'll be no change  
+That things  
+Will stay  
+Exactly the same"  
+--Ball Park Music, *Writing Hand*
+
 "Although golf was originally restricted to wealthy, overweight Protestants, today it's open to anybody who owns hideous clothing."  
 --David Barry
 
@@ -1472,6 +1483,21 @@ and the rain fall softly on your fields.
 And until we meet again,  
 may God hold you in the palm of his hand."  
 --Irish blessing, delivered to us at Southeast Graduation by Stephen Foster, really touches me for some reason
+
+"If we were vampires and death was a joke  
+We'd go out on the sidewalk and smoke  
+And laugh at all the lovers and their plans  
+I wouldn't feel the need to hold your hand"  
+--Jason Isbell, *If We Were Vampires*
+
+"Did she leave a trail of crumbs  
+So you could find her when you're what you could become?  
+Or did she know you well enough to realize that garden just won't grow?  
+Oh no  
+...
+You say love is hell, but it's the ghost of love that's made you such a mess  
+Oh yes"  
+--Jason Isbell, *Chaos and Clothes*
 
 <a class="anchor" id="J"></a>
 ### J
