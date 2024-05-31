@@ -2373,6 +2373,10 @@ He truly embodied the principles of being genuinely interested in other people, 
 And you don't like me, well that isn't fucking relevant"  
 --Ellie Rowsell (of Wolf Alice), *Smile*
 
+"Who are you to ask for anything else?  
+The thing you should be asking is for help!"  
+--Wolf Alice, *The Last Man on Earth*
+
 "There are those who approach the opportunities of each day like crossing items off a to-do list instead of truly engaging and participating with all of themselves. ... Yet it is through deliberate action and repetition that we gain deeper insight."  
 --Rick Rubin
 
