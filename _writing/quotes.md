@@ -2957,6 +2957,9 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 "The world is a tragedy to those who feel, but a comedy to those who think."  
 --Horace Walpole
 
+"We need to make books cool again. If you go home with somebody, and they don't have books, don't fuck them."  
+--John Waters
+
 "Yet there were moments  
 There were those pure, arresting moments  
 When you stepped outside your head  
