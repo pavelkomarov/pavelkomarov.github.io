@@ -614,6 +614,9 @@ So do it."
 "Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent. The slogan 'Press on' has solved and forever will solve the problems of the human race."  
 --[complicated origin](https://quoteinvestigator.com/2016/01/12/persist/), misattributed to Calvin Coolidge
 
+"Because real love, once blossomed, never disappears. It may get lost with a piece of paper, or transform into art or children ... But it's always there, lying in wait for a ray of sun, pushing through thawing soil, insisting upon its rightful existence in our hearts and on earth."  
+--Deborah Copaken, [NYTimes](https://www.nytimes.com/2015/11/29/style/modern-love-when-cupid-is-a-prying-journalist.html)
+
 "I'm happy about the things I've done. Not always happy about the results, but happy about the decisions, because I made them myself. And I think that's an important way to go through life."  
 --Kevin Costner
 
@@ -631,6 +634,9 @@ So do it."
 
 "If you do not love yourself entirely and actively ensure your own needs are met, you will find it difficult to do the same for others."  
 --Zaid Dahhaj
+
+"The Chinese are more humble, respectful, and rules-bound, while Americans are more arrogant, egalitarian, and rules-averse. I've observed that while the Chinese are more interested in asking questions and learning, Americans are more interested in telling you what they think."  
+--Ray Dalio, *The Changing World Order*
 
 "One last drink, please."  
 --Jack Daniels (allegedly his last words)
@@ -1163,6 +1169,9 @@ And know the place for the first time.
 "Measuring programming progress by lines of code is like measuring aircraft building progress by weight."  
 --Bill Gates
 
+"You have to ask yourself what lies closest to your heart. If you are fortunate enough to find something that you're totally obsessed with, you're likely to work very hard at it. If you're a human being of average intelligence and you work very hard at something, you're likely to become very good at it. And if you become very good at it, people are likely to notice."  
+--Jim Gates, physicist
+
 "Official favor, grades, and other trinkets of subordination have no connection with education; they are the paraphernalia of servitude, not of freedom."  
 --John Taylor Gatto, *Dumbing Us Down*
 
@@ -1271,6 +1280,9 @@ I know, right? So pay attention."
 track one down, patch it around,  
 117 little bugs in the code"  
 --Ashu Gupta
+
+"Over the years, I've come to see that one of the most pernicious issues couples struggle with is working through wrongdoing and blame. The claim 'You hurt me' often sends couples spiraling. People want to feel like good and lovable beings; their intentions make perfect sense to themselves, and they hate being interpreted as selfish. In psychoanalytic jargon we often say 'No one likes being the "bad object".' In fact, there are few things people resist more than being held responsible for causing harm. It immediately threatens to overwhelm the 'offender' with shame (Am I a bad person?) and guilt (Have I cause irreparable damage? Should I be punished?). Yet serious hurt that goes unacknowledged leads to the accumulation of resentment and a deadening of the relationship."  
+--Orna Guralnik, [NYTimes](https://www.nytimes.com/2023/05/16/magazine/couples-therapy-orna-guralnik.html)
 
 "We must conduct research and then accept the results. If they don’t stand up to experimentation, Buddha’s own words must be rejected."  
 --Tenzin Gyatso
@@ -1469,6 +1481,10 @@ There is in every village a torch: the teacher; and an extinguisher: the clergym
 
 <a class="anchor" id="I"></a>
 ### I
+
+"If life seems jolly rotten, there's something you've forgotten  
+And that's to laugh and smile and dance and sing"  
+--Eric Idle, *Always Look on the Bright Side of Life* from *Life of Brian*
 
 "An important part of becoming an adult is realizing that a lot of people never become adults."  
 --Alex Ikonomides
@@ -1722,6 +1738,9 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 <a class="anchor" id="L"></a>
 ### L
 
+"What you resist persists."  
+--Richard Lang (student of Douglas Harding of The Headless Way), Sam Harris #181
+
 "The weight of the evidence should be proportioned to the strangeness of the facts."  
 --Principle of Laplace
 
@@ -1810,6 +1829,17 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 
 "[N]or did that ever please [the Romans] which is forever in the mouths of the wise ones of our time: 'Let us enjoy the benefits of the time', but rather the benefits of their own valor and prudence, for time drives everything before it, and is able to bring with it good as well as evil, and evil as well as good."  
 --Niccolo Machiavelli
+
+"You're good, because you always turn it back."  
+"No, I'm genuinely curious."  
+"I know, and that's really a great quality. I mean, when people say someone's charming, what they really mean is 'They were interested in me.'"  
+"Mhmm. Everybody _loves_ talking about themselves."  
+"You know who's a bore? Someone who talks about themselves all the time."  
+"--all the time, yeah."  
+"But someone who says 'And what about you?'"  
+"Yeah, but that's what makes it interesting, Bill."  
+"You're like 'Mmm. This person's [laughing] charming as fuck!'"  
+--Bill Maher and Hannah Stocking, making the same point as Dale Carnegie
 
 "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."  
 --Nelson Mandela
@@ -1953,7 +1983,16 @@ You yearn to be that dream you could never get to
 That I was loved for who I am  
 And missed the opportunity  
 To be a better man"  
---Muse, Hoodoo
+--Muse, *Hoodoo*
+
+"They say the sun is dying  
+And the fragile can't be saved  
+And the cold, it will devour us  
+And we won't rise up and slay giants  
+They're wrong  
+They're wrong  
+They're wrong"  
+-Muse, *The Void*
 
 <a class="anchor" id="musk"></a>
 "An engineer is the closest thing to a magician that exists in the real world."  
@@ -2125,6 +2164,9 @@ We are in this together"
 "If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing."  
 --Paul, I Corinthians 13:3
 
+"It's not ... the circumstances in to which we are born that bind us; it's how we allow, or refuse to allow, them to define us that makes us who we are."  
+--Pamela Paul, [NYTimes](https://www.nytimes.com/2023/09/14/opinion/ivy-league-presidents.html)
+
 "I felt then, as I feel now, that the politicians who took us to war should have been given the guns and told to settle their differences themselves instead of organizing nothing better than legalized mass murder."  
 --Harry Patch, last surviving soldier of WWI
 
@@ -2244,6 +2286,9 @@ NYTimes interviewer: "But why does compassion have to be universal?"
 
 "If you can cultivate that quality of human warmth, wanting genuinely for other people to be happy, that's the best way to fulfill your own happiness. This is also the most gratifying state of mind. If we try humbly to enhance our benevolence, that will be the best way to have a good life."  
 --Matthieu Ricard
+
+"It [psychadelics] breaks your addiction to yourself [ego]."  
+-Bill Richardson, one of the OG psychadelics researchers, as relayed by Johann Hari on Sam Harris #142
 
 "Don't run. Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die."  
 --Morty, *Rick and Morty*
@@ -2803,6 +2848,9 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 "It is the habit of mankind to entrust to careless hope what they long for and to use sovereign reason to thrust aside what they do not desire."  
 --Thucydides
 
+"Passion is what makes life interesting, what ignites our soul, drives our curiosity, fuels our love and carries our friendship, stimulates our intellect, and pushes our limits. A passion for life is contagious and uplifting. Passion cuts both ways: Those who make you feel on top of the world are equally able to turn it upside down ... I will suffer through the bad for the heights of the good."  
+--Pat Tillman, from his journal, relayed in *Where Men Win Glory* by Jon Krakauer
+
 "It is amazing how complete is the delusion that beauty is goodness."  
 --Leo Tolstoy
 
@@ -3040,6 +3088,15 @@ A glass can only spill what it contains"
 
 "The invisible is seen among the shadows and the mist"  
 --Aaron Weiss, *A Glass Can Only Spill What It Contains*
+
+"I was floating in a peaceful sea, rescued by a sinking ship"  
+--Aaron Weiss, *January 1979*
+
+"After years with their crown on my head  
+I've grown overfed, unconcerned, and comfortably numb  
+Kept busy indulging in the pleasures of the wealthy  
+(Oh, someone make me afraid of what I've become!)"  
+--Aaron Weiss, *January 1979*
 
 "My life's a cup of sugar I borrowed before time began and forgot to return"  
 --Aaron Weiss, *January 1979*
@@ -3331,6 +3388,9 @@ that's long since passed me by?"
 "It may be that the ability to know the necessity for help, to know how to look for that help, and then, most importantly, how to ask for it, is one of the primary transformative dynamics that allows us to emancipate ourselves into each new epoch of our lives."  
 --David Whyte, *Help*
 
+"Seeing at last the star you did not know you were following"  
+-David Whyte
+
 "The men ask me questions like, 'How would you calculate the number of people who work for the United States Postal Service?' and 'How would you describe the internet to a medieval farmer?' and 'What is the hardest thing you've ever done?' They tell me to stand in front of the whiteboard and diagram my responses. These questions are self-conscious and infuriating, but it only serves to fuel me. I want to impress; I refuse to be discouraged by their self-importance. Here is a character flaw, my industry origin story: I have always responded positively to negging."  
 ...  
 "My third interview is with the technical cofounder. He enters the conference room in a crisp blue button-down, looking confidently unprepared. He tells me--apologetically--that he hasn't done many interviews before, and as such he doesn't have a ton of questions to ask me. Nonetheless, the office manager slated an hour for our conversation. This seems OK: I figure we will talk about the company, I will ask routine follow-up questions, and at four they will let me out for the day, like a middle school student, and the city will absorb me and my private errors. Then he tells me that his girlfriend is applying to law school and he's been helping her prep. So instead of a conventional interview, he's just going to have me take a section of the LSAT. I search his face to see if he's kidding."   
@@ -3413,6 +3473,9 @@ Always forgive your enemies--nothing annoys them so much.
 
 "Man has to awaken to wonder, and so perhaps do peoples. Science is a way of sending him to sleep again."  
 --Ludwig Wittgenstein
+
+"People don't change people; time does"  
+--The Wombats
 
 "Socialism never took root in America because the poor see themselves not as an exploited proletariat, but as temporarily embarrassed millionaires."  
 --Ronald Wright
