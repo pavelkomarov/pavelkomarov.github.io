@@ -1306,7 +1306,10 @@ track one down, patch it around,
 --Cameron Howe, *Halt and Catch Fire*
 
 "We live in an age of exponential growth in knowledge, and it is increasingly futile to teach only polished theorems and proofs. We must abandon the guided tour through the art gallery of mathematics, and instead teach how to create mathematics we need. In my opinion, there is no long-term practical alternative."  
--Richard Hamming, *The Art of Doing Science and Engineering*
+--Richard Hamming, *The Art of Doing Science and Engineering*
+
+"In an argument between a specialist and a generalist, the expert usually wins by simply (1) using unintelligible jargon, and (2) citing their specialist results, which are often completely irrelevant to the discussion."  
+--Richard Hamming, *The Art of Doing Science and Engineering*
 
 "...whether the effort required for excellence is worth it. I believe it is--the chief gain is in the effort to change yourself, in the struggle with yourself, and it is less in the winning than you might expect. Yes, it is nice to end up where you wanted to be, but the person you are when you get there is far more important. I believe a life in which you do not try to extend yourself regularly is not worth living--but it is up to you to pick the goals you believe are worth striving for."  
 --Richard Hamming, *The Art of Doing Science and Engineering*
