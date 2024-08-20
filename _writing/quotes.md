@@ -1221,7 +1221,7 @@ And know the place for the first time.
 "Enjoy when you can, and endure when you must."  
 --Goethe
 
-"I became haunted by the mere fact that this is my existence. And you gotta live with that. And I lived with it for a lot of years, until I sat back and said 'Okay. Alright. I know what this takes." ... to be haunted to pull out, to extract the guy I am today, because no matter how much you improve, no matter how much yhou change who you are, it's not permanent."  
+"I became haunted by the mere fact that this is my existence. And you gotta live with that. And I lived with it for a lot of years, until I sat back and said 'Okay. Alright. I know what this takes.' ... to be haunted to pull out, to extract the guy I am today, because no matter how much you improve, no matter how much you change who you are, it's not permanent."  
 --David Goggins, on *Huberman*
 
 "I'm going to teach you how to be vulnerable, because that's the only way you fix yourself."  
@@ -1232,7 +1232,6 @@ And know the place for the first time.
 
 "I think the simplest and most pragmatic way of understanding it [enlightenment] ... the most down-to-earth way of understanding it, rather than as some great mystical experience, is 'the mind free, free of those patterns and tendencies that cause suffering', like, in traditional Buddhism, of greed and hatred and delusion [the "defilements", the opposite of wisdom]. So we could say enlightenment is the mind free of those forces. Now this can be interpreted in two ways ... : It can be be interpreted in terms of: These forces are actually uprooted so that they don't arise again. And this is a very classical view of the path of enlightenment, that they're progressively weakened and finally uprooted from the mindstream. Another way of viewing it, which many teachers and traditions do, is not so much with the understanding that they're uprooted, but rather in the moment of their arising they're seen through, so we're not caught by them in any way. In both cases the mind is free. I have a slight bias toward one of these views [laughing], but I take a somewhat agnostic position in terms of the ultimate truth of one over the other."  
 --Joseph Goldstein, *Making Sense* #63
-
 
 Joseph Goldstein: "We do want to develop the wholesome states of love and kindness and mindfulness and concentration, but not as an end in themselves, and to see the development of them as being supportive for dropping back from craving, letting go of the wanting mind."
 Sam Harris: "So if, in the Buddhist framework, transcending desire, transcending craving, transcending wanting is in some sense the goal, or at least the inescapable sign of progress, how does that square with any kind of positive aspiration to make change in the world? Why isn't that the lazy man's out with respect to shouldering any kind of important responsibility in life, and why isn't that just a counsel of apathy in the face of real-world problems?"
