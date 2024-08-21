@@ -1311,21 +1311,33 @@ track one down, patch it around,
 --Cameron Howe, *Halt and Catch Fire*
 
 "We live in an age of exponential growth in knowledge, and it is increasingly futile to teach only polished theorems and proofs. We must abandon the guided tour through the art gallery of mathematics, and instead teach how to create mathematics we need. In my opinion, there is no long-term practical alternative."  
---Richard Hamming, *The Art of Doing Science and Engineering*
+--Richard Hamming, *The Art of Doing Science and Engineering*, orientation chapter
 
 "...not fritter away your efforts needlessly against the forces of inertia and stupidity."  
---Richard Hamming
+--Richard Hamming*The Art of Doing Science and Engineering*, chapter on Computer Applications
+
+"I realized that computers have opened the door much more generally to the mass production of a variable product, regardless of what it is: numbers, words, making furniture, weaving, or what have you. They enable us to deal with variety without excessive standardization, and hence we can evolve more rapidly to a desired future!"  
+--Richard Hamming, *The Art of Doing Science and Engineering*, chapter on Computer Applications
+
+"We put the meaning in to the symbols as we convert the assumptions of the problem into mathematical symbols, and again when we interpret the results."  
+--Richard Hamming, *The Art of Doing Science and Engineering*, chapter on Mathematics
+
+"We are both the master and servant of mathematics."  
+--Richard Hamming, *The Art of Doing Science and Engineering*, chapter on Mathematics
+
+"Meaning arises from the use made of a word, and it is not otherwise defined. Some years back a famous dictionary came out and admitted they could not prescribe usage, they could only say how words were used; they had to be 'descriptive' and not 'prescriptive'."  
+--Richard Hamming, *The Art of Doing Science and Engineering*, chapter on Mathematics, strikes me as similar to Sam Harris' argument that the is/ought divide is a mirage, that there is only what is, descriptive, and all our attempts at prescription fall under that
 
 "In an argument between a specialist and a generalist, the expert usually wins by simply (1) using unintelligible jargon, and (2) citing their specialist results, which are often completely irrelevant to the discussion."  
---Richard Hamming, *The Art of Doing Science and Engineering*
+--Richard Hamming, *The Art of Doing Science and Engineering*, chapter on Experts
 
-"...use in an argument, 'Whatt would you accept as evidence you are wrong?' Ask yourself regularly, 'Why do I believe whatever I do?' Especially in the areas where you are so sure you know"  
+"...use in an argument, 'What would you accept as evidence you are wrong?' Ask yourself regularly, 'Why do I believe whatever I do?' Especially in the areas where you are so sure you know"  
 --Richard Hamming, *The Art of Doing Science and Engineering*
 
 "...whether the effort required for excellence is worth it. I believe it is--the chief gain is in the effort to change yourself, in the struggle with yourself, and it is less in the winning than you might expect. Yes, it is nice to end up where you wanted to be, but the person you are when you get there is far more important. I believe a life in which you do not try to extend yourself regularly is not worth living--but it is up to you to pick the goals you believe are worth striving for."  
---Richard Hamming, *The Art of Doing Science and Engineering*
+--Richard Hamming, *The Art of Doing Science and Engineering*, final chapter
 
-"When somebody calls themselves a job creator, they aren't describing the economy, although that's what it sounds like. What they are really doing is making a claim on status, privilege and power."  
+"When somebody calls themselves a job creator, they aren't describing the economy, although that's what it sounds like. What they are really doing is making a claim on status, privilege, and power."  
 --Nick Hanauer
 
 "The spirit of liberty is the spirit which is not too sure that it is right."  
