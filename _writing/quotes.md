@@ -1311,13 +1311,19 @@ track one down, patch it around,
 --Cameron Howe, *Halt and Catch Fire*
 
 "We live in an age of exponential growth in knowledge, and it is increasingly futile to teach only polished theorems and proofs. We must abandon the guided tour through the art gallery of mathematics, and instead teach how to create mathematics we need. In my opinion, there is no long-term practical alternative."  
---Richard Hamming, *The Art of Doing Science and Engineering*, orientation chapter
+--Richard Hamming, *The Art of Doing Science and Engineering*
 
 "...not fritter away your efforts needlessly against the forces of inertia and stupidity."  
 --Richard Hamming*The Art of Doing Science and Engineering*, chapter on Computer Applications
 
 "I realized that computers have opened the door much more generally to the mass production of a variable product, regardless of what it is: numbers, words, making furniture, weaving, or what have you. They enable us to deal with variety without excessive standardization, and hence we can evolve more rapidly to a desired future!"  
 --Richard Hamming, *The Art of Doing Science and Engineering*, chapter on Computer Applications
+
+"For the Christian religions, their Bible says, 'God made Man in His image.' If we can in turn create machines in our image, then we are in some sense the equal of God, and this is a bit embarrassing!"  
+--Richard Hamming, The Art of Doing Science and Engineering*, chapter on AI
+
+"Too often we see what we want to see, and therefore you need to consciously adopt a scientific attitude of doubting your own beliefs."  
+--Richard Hamming, *The Art of Doing Science and Engineering*, Digital Filters IV
 
 "We put the meaning in to the symbols as we convert the assumptions of the problem into mathematical symbols, and again when we interpret the results."  
 --Richard Hamming, *The Art of Doing Science and Engineering*, chapter on Mathematics
@@ -1395,6 +1401,9 @@ Harris: "There really is a different conception of mental health here that we ar
 Davidson: "... attentional distraction, mind wandering, as well as reification of the self, believing the thoughts that we have about ourselves as a true depiction of reality, considering them to be true--That you see in depressed people, for example. One of the characteristics of depression is that negative self-thoughts are actually taken to be a veridical description of who the individual is. ... This whole idea we call experiential fusion, where you have the experience of being completely fused with the thought, rather than having a quality of meta-awareness, which is knowing that there is actually a thought occurring and being able to see it as a thought.--And that's something that of course we know can be taught through the kinds of contemplative practices that we're considering.--And one of the most important findings really is the finding that meta-awareness can be strengthened...recognizing that a thought is a thought rather than being swept up in its content."  
 Goleman: "One of the main principles of cognitive therapy is that you don't have to believe your thoughts. That's a very revolutionary idea for most of us."  
 --Sam Harris, Richie Davidson, Danny Goleman #111
+
+"It was worse than an illusion; it was a half-truth. Right? So it's very hard to debunk a half-truth, 'cause you're always in touch with the half that's true."  
+--Sam Harris, #381
 
 "Live in truth."  
 --ethos of Vaclav Havel
