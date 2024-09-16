@@ -1313,6 +1313,21 @@ track one down, patch it around,
 "Making him the villain takes the blame away."  
 --Cameron Howe, *Halt and Catch Fire*
 
+Cam: "I didn't know it would be this hard to be here." [Breathes deeply]  
+Donna: "It's okay. I didn't, um..."  
+Cam: "I don't mean to make this about me."  
+Donna: "Please, make it about you. I feel like everybody's been *handling* me."  
+Cam: "Nobody knows how to act."  
+Donna: "Well, I really love it when people say, 'How are you doing?'"  
+Cam: [Chuckles] "I'm pretty sure I asked you that."  
+Donna: "Yeah, of course you did. 'Cause what else are you gonna say?"  
+Cam: "And then, yeah, how do you answer? 'Hangin' in there.'"  
+Donna: "That's right."  
+Cam: "'Cause to answer honestly, you'd have to talk incessantly for days, and who wants to listen to that, right? So... How are you doing?"  
+Donna: [Chuckles] "Hangin' in there."  
+Cam: "I lost a really good friend. And I don't have that many of those to spare. I know, like, poor me. But I've always had a bit of trouble making those sorts of connections." [Shuddered breathing] "There's just not a lot of people in my life."  
+--*Halt and Catch Fire*, in a heartbreakingly beautiful moment after Gordon dies, a great comment on grief and how to handle it
+
 "We live in an age of exponential growth in knowledge, and it is increasingly futile to teach only polished theorems and proofs. We must abandon the guided tour through the art gallery of mathematics, and instead teach how to create mathematics we need. In my opinion, there is no long-term practical alternative."  
 --Richard Hamming, *The Art of Doing Science and Engineering*
 
