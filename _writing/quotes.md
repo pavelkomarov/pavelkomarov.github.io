@@ -337,6 +337,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "Living life fully is not just about fulfilling ambition, regardless of what motivational books tell you. It's also about being kinder."  
 --Derren Brown
 
+"Life is no longer as hard, but life is more complicated."  
+--Kenneth Brown, UC Davis Math student at The Bikery in Seattle, a comment on old vs new bike components
+
 "About all you can do in life is be who you are. Some people will love you for you. Most will love you for what you can do for them, and some won't like you at all."  
 --Rita Mae Brown
 
@@ -1322,8 +1325,25 @@ track one down, patch it around,
 "For the Christian religions, their Bible says, 'God made Man in His image.' If we can in turn create machines in our image, then we are in some sense the equal of God, and this is a bit embarrassing!"  
 --Richard Hamming, The Art of Doing Science and Engineering*, chapter on AI
 
+"I wanted to be honest with you and show you how easy, if you will follow Pasteur's rule that 'luck favors the prepared mind', it is to succeed by merely preparing yourself too succeed. Yes, there were elements of luck in the discovery; but there were many other people in much the same situation, and they did not do it! Why me? Luck, to be sure, but also I was preparing myself by trying to understand what was going on--more than the other people around, who were merely reacting to things as they happened, and not thinking deeply as to what was behind the surface phenomena.  
+...  
+&emsp;&emsp;&emsp;Of course, as you go through life you do not know what you are preparing yourself for--only you want to do significant things and not spend the whole of your life being a 'janitor of science', or whatever your profession is. Of course luck plays a prominent role. But so far as I can see, life presents you with many, many opportunities for doing great things (define them as you will), and the prepared person usually hits one or more successes"  
+--Richard Hamming, *The Art of Doing Science and Engineering*, on his discovery of Error-Correcting Codes
+
+"You establish yourself in the style of doing great things, and then when opportunity comes you almost automatically respond with greatness ... [T]he possibility of greatness is more common and easy to achieve than you think, since it is not common to recognize greatness when it happens under one's nose ... The past is a partial guide, and about the only one you have besides history is the constant use of your own imagination.... your own vision of what your future should be."  
+--Richard Hamming, *The Art of Doing Science and Engineering*, Error-Correcting Codes
+
 "Too often we see what we want to see, and therefore you need to consciously adopt a scientific attitude of doubting your own beliefs."  
 --Richard Hamming, *The Art of Doing Science and Engineering*, Digital Filters IV
+
+"I suggest you keep your integrity and do not allow yourself to be used for other people's propaganda"  
+--Richard Hamming, *The Art of Doing Science and Engineering*, Simulation II
+
+"Good design protects you from the need for too many highly accurate components in the system."  
+--Richard Hamming, *The Art of Doing Science and Engineering*, Simulation III
+
+"This is a sad commentary on your education. You are lovingly taught how one theory was displaced by another, but you are seldom taught to replace a nice theory with nothing but randomness! ... Statisticians regularly ask themselves, 'Is what I am seeing really there, or is it merely random noise?' They have tests to try to answer these questions. Their answer is not a yes or no, but only with some conficence a yes or no."  
+--Richard Hamming, *The Art of Doing Science and Engineering*, Simulation III
 
 "We put the meaning in to the symbols as we convert the assumptions of the problem into mathematical symbols, and again when we interpret the results."  
 --Richard Hamming, *The Art of Doing Science and Engineering*, chapter on Mathematics
@@ -1928,6 +1948,11 @@ Often satirized as "Smile because it's over; cry because it happened."
 
 "You only get in trouble for telling the truth. Nobody gets in trouble for lying or making up crap. But when you tell something that's really true, they go crazy, and you're fired."  
 --Chris Matthews
+
+"The more decisive you are, the more predictable you are. What Leibniz said--I think he was correct--he said most people say, the *creature* in his ontology that has the most free will of all is God. Why? Cause God can do whatever. But Leibniz says 'I can predict exactly what God's gonna do: God's gonna pick the best of all possible worlds.' Why? Because he's a moral being, and so he's gonna do the best thing possible. He would never do the worst when the better was available. So the question is 'Does predictability conflict with freedom?' And insofar as the freedom is freedom to do what you desire, and somebody knows what you desire, they can predict what you're gonna do; it doesn't make you less free. They said you're *freer* the more motivated you are."  
+Harris: "...The buck stops with what you want, and you didn't create your wants."  
+"That's where the buck *should* stop. Why should I have to will what I will? Of course if you demand that I will that will, and then I will that I will that I will, and so on, I'm in an infinite regress, and you've set up a mug's game. But why should I care? I've got my desires. Somebody wants money, and they consider robbing a bank. What are their desires? Their desire is to have money. They think the thing through. They know they don't have to. They consider various alternatives. On the basis of their greed they decide to rob the bank. *That's* they case where we really put 'em in jail, where they're not at all indecisive."
+--Tim Maudlin, Sam Harris #318, about 52 minutes before the end
 
 "Irrigation of the land with seawater desalinated by fusion power is ancient. It's called 'rain'."  
 --Michael McClary
@@ -2823,6 +2848,9 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 "So when we look at religion and, to some extent ancestral superstitions, we should consider what purpose they serve, rather than focusing on the notion of “belief”, epistemic belief in its strict scientific definition. In science, belief is literal belief; it is right or wrong, never metaphorical. In real life, belief is an instrument to do things, not the end product. This is similar to vision: the purpose of your eyes is to orient you in the best possible way, and get you out of trouble when needed, or help you find a prey at distance. Your eyes are not sensors aimed at getting the electromagnetic spectrum of reality. Their job description is not to produce the most accurate scientific representation of reality; rather the most useful one for survival."  
 --Nassim Nicholas Taleb, *Skin in the Game*
 
+"To me, the very definition of me being a scientist is that I would rather have questions I can't answer than answers I can't question."  
+--Max Tegmark, in conversation with Rebecca Goldstein and Sam Harris
+
 "If there's an enormous problem with the world, and we can convince ourselves that over some long but not unreasonable period of time we can make that problem go away, then we don't need a business plan. We should be focused on making the world a better place, and once we do that, the money will come back and find us."  
 --Astro Teller
 
@@ -2994,10 +3022,30 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 --Shyam Veerasankar (see also Adam Grant "The Creative Power of Misfits")
 
 "The greatest comedy is played at the Exchange. There ... the speculators excel in tricks, they do business and find excuses wherein hiding places, concealment of facts, quarrels, provocations, mockery, idle talk, violent desires, collusion, artful deceptions, betrayals, cheatings, and even tragic end are to be found."  
---Joseph de la Vega
+--Joseph de la Vega, Confusion of Confusions
+
+"Most thrilling was Hamming's vivid image of *greatness*, and its unapologetic pursuit. Not only was it allowable to aim for greatness, it was cowardly not to. It was the most inspirational thing I'd ever read.  
+...  
+&emsp;&emsp;&emsp;Nothing is taken for granted or left unquestioned, but is picked up and turned over curiosly, intently, searching for fundamentals.  
+...  
+&emsp;&emsp;&emsp;For one accustomed to the myopia of day-to-day work in a field, so jammed against the swaggering parade of passing trends that one can hardly see beyond them or beneath them, such shifts in viewpoint are exhilarating--a reminder that information may be abundant but wisdom is rare.  
+...  
+&emsp;&emsp;&emsp;But Hamming stands alone. Certainly for the thoroughness with which he presents his style of thinking, and more so for explicitly identifying style as a thing that exists and can be learned in the first place. But most of all, for his expectation--his insistence--that the reader is destined to join him in extending the arc of history, to become a *great person* who does *great work*. In this tour of scientific greatness, the reader is not a passenger, but a driver in training.  
+...  
+&emsp;&emsp;&emsp;Hamming insisted on an open door, lunched with anyone he could learn from or argue with, stormed in and out of colleagues' offices.  
+...  
+&emsp;&emsp;&emsp;The joke around Princeton was that John von Neumann 'was not human, but a demigod who had made a detailed study of humans and could imitate them perfectly'. Bad news for any aspiring von Neumanns of more terrestrial stock.  
+&emsp;&emsp;&emsp;Hamming's conviction--indeed, obsession--was the opposite: that this greatness was less a matter of genius (or divinity), and more a kind of virtuosity. He saw these undeniably great figures as human beings that had *learned* how to do something, and by studying them, he could learn it too.  
+...  
+&emsp;&emsp;&emsp;Hamming-greatness is thus more a practice than a trait.  
+...  
+&emsp;&emsp;&emsp;In Hamming's world, great achievements are *gifts of knowledge to humanity*.  
+...  
+&emsp;&emsp;&emsp;Hamming-greatness is tied, inseparably, with the conception of *science and engineering as public service*."  
+--Bret Victor, Foreword to *The Art of Doing Science and Engineering* by Richard Hamming
 
 "Felix, qui potuit rerum cognoscere causas"  
-"Fortunate who was able to know the causes of things"  
+"Fortunate, who was able to know the causes of things"  
 --Virgil, London School of Economics Motto
 
 "I have offended God and mankind because my work did not reach the quality it should have."  
@@ -3511,6 +3559,10 @@ Always forgive your enemies--nothing annoys them so much.
 
 "People don't change people; time does"  
 --The Wombats
+
+"Non sibi sed bono publico. Lector, si monumentum requiris, circumspice."  
+"Not for himself, but for the public good. Reader, if you need a monument, look around."  
+--Epitaph of [Christopher Wren](https://en.wikipedia.org/wiki/Christopher_Wren)
 
 "Socialism never took root in America because the poor see themselves not as an exploited proletariat, but as temporarily embarrassed millionaires."  
 --Ronald Wright
