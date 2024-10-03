@@ -110,6 +110,9 @@ The second worst is that of the Azgoths of Kria. During a recitation by their po
 "He who learns must suffer. And even in our sleep, pain that can not forget falls drop by drop upon the heart. And in our own despite, against our will, comes wisdom to us by the awful grace of God."  
 --Aeschylus
 
+"I don't like a state or culture that so obeys authority. Germany is a very precise society. Its people love the comfort of being oppressed. In China, too, you see that. Once you're used to it, it can be very enjoyable. And you can see the efficiency, the show, the sense of their power being extended through the connected-mind condition. ... They identify with the cult of that authoritarian mindset."  
+--[Ai Weiwei](https://www.theguardian.com/artanddesign/2020/jan/21/ai-weiwei-on-his-new-life-in-britain-germany-virtual-reality-film)
+
 "What about you, Colonel?  
 My job isn't to believe or disbelieve. It's to act or not to act.  
 ...  
@@ -911,7 +914,56 @@ And know the place for the first time.
 --Richard Feynman
 
 "For a successful technology, reality must take precedence over public relations, for nature cannot be fooled."  
---Richard Feynman
+--Richard Feynman, Challenger report
+
+"The Renaissance, which was the freeing of man from the intimidation of the ancients."  
+--Richard Feynman, letter from Athens
+
+"In general, he is always sizzling with new ideas, most of which are more spectacular than helpful, and hardly any of which get very far before some newer inspiration eclipses it. His most valuable contribution to physics is as a sustainer of morale. When he bursts in to the room with his latest brain wave and proceeds to expound on it with the most lavish sound effects and waving about of the arms, life at least is not dull."  
+--Freeman Dyson on Richard Feynman
+
+"When we arrived we were introduced to Henry Bethe, who is now 5 years old, but he was not at all impressed. In fact, the only thing he would say was 'I want Dick. You told me Dick was coming.' Finally he had to be sent off to bed since Dick--alias Feynman--did not materialize. About half an hour later Feynman burst in to the room, just had time to say 'So sorry I'm late, had a brilliant idea just as I was coming over.', and then dashed upstairs to console Henry. Conversation then ceased while the company listened to the joyful sounds above, sometimes taking the form of a duet, and sometimes of a one man percussion band."  
+--Freeman Dyson on Richard Feynman
+
+"For some reason Wheeler decided to hold the meeting at a grotesque place called World of Tennis, a country club where Texas oil millionaires go to relax. So there we were. We all grumbled at the high prices and the extravagant ugliness of our rooms. But there was nowhere else to go, or so we thought. But Dick thought otherwise. He just said 'To hell with it. I'm not going to sleep in this place!', picked up his suitcase, and walked off alone in to the woods. In the morning he reappeared, looking none the worse for his night under the stars."  
+--Freeman Dyson on Richard Feynman
+
+"Here it is standing  
+atoms with consciousness  
+matter with curiosity  
+stands at the sea  
+wonders at wondering  
+I, a universe of atoms  
+an atom in the universe"  
+--Richard Feynman, The Value of Science
+
+"It is true that few unscientific people have this particular type of religious experience. Our poets do not write about it; our artists do not try to portray this remarkable thing. I don't know why. Is nobody inspired by our present picture of the universe? The value of science remains unsung by singers, so you are reduced to hearing, not a song or a poem, but an evening lecture about it. This is not yet a scientific age.  
+&emsp;&emsp;&emsp;Perhaps one of the reasons is that you have to know how to read the music."  
+--Richard Feynman, The Value of Science, 1955
+
+"[T]he thing which I call my individuality is only a pattern or dance."  
+--Richard Feynman, The Value of Science
+
+"When we read about this in the newspaper, it says 'The scientist says that this discovery may have importance in the cure of cancer.' The paper is only interested in the use of the idea, not the idea itself. Hardly anyone can understand the importance of an idea, it is so remarkable. Except that, possibly, some children catch on. And when a child catches on to an idea like that, we have a scientist. It is late for them to get the spirit when they are in our universities, so we must attempt to explain these ideas to children."  
+--Richard Feynman, The Value of Science
+
+"[W]e scientists are used to this [uncertainty], and we take it for granted that it is perfectly consistent to be unsure, that it is possible to live and *not* know. But I don't know whether everyone realizes this is true. Our freedom to doubt was born of a struggle against authority"  
+--Richard Feynman, The Value of Science
+
+"They of the past saw in the nightmare of their times a dream for the future."  
+--Richard Feynman, The Value of Science
+
+"Communications between nations must promote undstanding. So went another dream. But the machines of communication can be manipulated. What is communicated can be truth or lie. Communication is a strong force, but for either good or bad."  
+--Richard Feynman, The Value of Science, presicent for the post-truth social media algorithm-dominated era
+
+"[I]f some direction or meaning could be given to our actions, great human forces would be unleashed. So, very many answers have been given to the question of the meaning of it all. But the answers have been of all different sorts, and the proponents of one answer have looked with horror at the actions of the believers in another. Horror, because from a disagreeing point of view, all the great potentialities of the race are channeled into a false and confining blind alley. In fact, it is from the history of the enormous monstrosities created by false belief that philosophers have realized the apparently infinite and wondrous capacities of human beings. ...  
+&emsp;&emsp;&emsp;What, then, is the meaning of it all? ... I think that we must frankly admit that *we do not know*. But, in admitting this, we have probably found the open channel.  
+&emsp;&emsp;&emsp;This is not a new idea; this is the idea of the Age of Reason. This is the philosophy that guided the men who made the democracy that we live under. The idea that no one really knew how to run a government led to the idea that we should arrange a system by which new ideas could be developed, tried out, and tossed out if necessary, with more new ideas brought in, a trial-and-error system.  
+&emsp;&emsp;&emsp;This method was a result of the fact that science was already showing itself to be a succesful venture at the end of the 18th century. Even then it was clear to socially-minded people that the openness of possibilities was an opportunity, and that doubt and discussion were essential to progress in to the unknown. If we want to solve a problem that we have never solved before, we must leave the door to the unknown ajar."  
+-Richard Feynman, The Value of Science
+
+"In the impetuous youth of humanity, we can make grave errors that can stunt our growth for a long time. This we will do if we say we have the answers now, so young and ignorant as we are. If we suppress all discussion, all criticism, proclaiming 'This is the answer, my friends. Man is saved!', we will doom humanity for a long time to the chains of authority, confined to the limits of our present imagination. It has been done so many times before. ... [D]oubt is not to be feared but welcomed and discussed"  
+--Richard Feynman, The Value of Science
 
 "It's easy to assume that others think the worst of you. But when you assume what others think, maybe all you're doing is turning them into a character that only exists in your mind. The nice thing is sometimes all it takes is a change in perspective to make the world feel brand new."  
 --Nathan Fielder, The Rehearsal ep 4
@@ -2293,6 +2345,9 @@ We are in this together"
 
 "Solzhenitsyn said in his Nobel Prize acceptance speech 'A single person who stops lying can bring down a tyranny.', which is a stunning thing to say, but I would also say something that's been amply demonstrated in the 20th century, because we have historical examples of people who did precisely that. Gandhi did it. Vaclav Havel did it. Nelson Mandela did it. Solzhenitsyn's Gulag Archipelago was definitely one of the axe-blows that brought down the Soviet Union, a stunning achievement for a person who started writing that book by memorizing it when he was a concentration camp victim this [holds up pinched fingers] far away from starvation. It shows you as-as clearly as anything possibly can how powerful the human spirit can be if it's willing to take on the obligation of its relationship with the divine and also how terrible things can become if the responsibility of that burden is not shouldered."  
 --[Jordan Peterson](https://www.youtube.com/watch?v=MLp7vWB0TeY&t=33m17s)
+
+"The idea behind the taoist symbol is that you should have one foot in what you know and one foot in what you don't know, and that's the place where information flow is maximized."  
+--Jordan Peterson, #67 with Sam Harris
 
 "My mother said to me, 'If you are a soldier, you will become a general. If you are a monk, you will become the Pope.' Instead, I was a painter, and became Picasso."  
 --Pablo Picasso
