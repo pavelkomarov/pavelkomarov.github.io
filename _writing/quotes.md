@@ -1439,6 +1439,9 @@ Cam: "I lost a really good friend. And I don't have that many of those to spare.
 "Never attribute to malice that which is adequately explained by stupidity."  
 --Hanlon's Razor
 
+"The people who are experts in the truth usually get orders from the people who are experts in order."  
+--Yuval Noah Harari
+
 "The more entangled we are in our thoughts and feelings, the more we lose touch with whatever is happening in the world around us."  
 --Russ Harris, *The Happiness Trap*
 
