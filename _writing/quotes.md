@@ -3221,9 +3221,6 @@ And if that sounds strange that's because it is"
 "Never pretend to a love which you do not actually feel, for love is not ours to command."  
 --Alan Watts
 
-"The Jack of one trade is the connector of none."  
---[Eric Weinstein](https://www.youtube.com/watch?v=MmXq97do-tQ&t=2h37m)
-
 "A cat came drifting  
 on my porch from the outside cold  
 and with eyes closed drinking  
