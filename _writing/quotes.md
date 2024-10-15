@@ -553,6 +553,12 @@ protecting us from our now and later"
 "On the show he [Fred Rogers] would say 'I love you just the way you are.' One day I said 'Fred, were you talking to me?' And he looked at me and he said 'Yes, I've been talking to you for two years. You finally heard me today.' And I just collapsed in to his arms. I-I started crying. That's when I knew that I loved him. No man had ever told me he loved me like that. I needed to hear it all my life."  
 --Francois Clemmens, co-star on *Mr. Rogers' Neighborhood*
 
+"I could surrender, but I'd  
+Just be pretending. No I'd  
+Rather be dead than live a lie  
+Burn the white flag"  
+--Closners of JOSEPH
+
 "In an age when politicians are judged first of all on personality, when the public assumes all of them to be deceitful, and when it’s easier and much more pleasurable to laugh about a political issue than to think about it, Johnson’s apparent self-deprecating honesty and lack of concern for his own dignity were bound to make him a hit."  
 --Jonathan Coe, *Sinking Giggling into the Sea*
 
@@ -2357,6 +2363,9 @@ We are in this together"
 
 "Art is a lie that makes us realize truth."  
 --Pable Picasso, *The Arts* 1923
+
+"Stop giving it time. Time waits for none."  
+--Harriette Pilbeam (Hatchie), *Her Own Heart*
 
 "We will never have a perfect world, but it's not romantic or naive to work toward a better one."  
 --Steven Pinker
