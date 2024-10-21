@@ -2925,6 +2925,10 @@ And seem a saint, when most I play the devil."
 "Underlying our approach to this subject is our conviction that 'computer science' is not a science and that its significance has little to do with computers. The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called *procedural epistemology*--the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects. Mathematics provides a framework for dealing precisely with notions of 'what is'. Computation provides a framework for dealing precisely with notions of 'how to'."  
 --Gerald and Julie Sussman, Harold Abelson (Structure and Interpretation of Computer Programs)
 
+"...the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are search and learning.
+&emsp;&emsp;&emsp;...the actual contents of minds are tremendously, irredeemably complex; we should stop trying to find simple ways to think about the contents of minds.... All these are part of the arbitrary, intrinsically-complex, outside world. They are not what should be built in, as their complexity is endless; instead we should build in only the meta-methods that can find and capture this arbitrary complexity. Essential to these methods is that they can find good approximations, but the search for them should be by our methods, not by us. We want AI agents that can discover like we can, not which contain what we have discovered."  
+--Richard Sutton, [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
 "If a lump of soot falls in to the soup and you can not conveniently get it out, stir it well in and it will give the soup a French taste."  
 --Jonathan Swift
 
