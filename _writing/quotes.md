@@ -409,6 +409,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 &emsp;&emsp;&emsp;In this time period, Christianity shouldn't be thought of the way somebody might think of it today, like merely a spiritual change of focus....It is truly, let's call it a 'civilizational commitment'. And this is one of the big selling points, by the way. If you're trying to sell this to a potential Viking ruler, somebody you could back and get behind and say 'Hey, let me tell you why you should convert to Christianity and why your people should and what's in it for you.' I mean, it is essentially instant legitimacy for a ruler, instant legitimacy for his dynastic successors--so dynastic security--, instant infrastructure, and instant literacy. Just add Jesus. We're going to bring in educated people who write. They'll start chronicling hyour story, your history, the greatness of your people, your crop yields, all of that overnight. Right? Literacy will arrive. We'll start building things. We'll start teaching your people. The whole thing is state building in a very real sense of the word."  
 --Dan Carlin, Twilight of the Aesir I, ~2:50:00
 
+"I was a theatre major for my first two years in college, and I remember ... when I shifted to history--which had been a lifelong interest; it was the most natural thing to do that.--I remember thinking 'Damn I just wasted two years of college.' Right? I just *wasted all that time* and shifted to history with an emphasis on like ancient and military and all these kinds of things. So now you find yourself in a position, which, as my dad said, you never could have connected the dots at the end of your life on how you got there, and all of a sudden I'm using the theatre and the military and ancient history *every day* in my job, in a job that didn't exist when I was in college. You couldn't have even said 'Well maybe I'll go in to podcasting and figure out a way to make it all work.' And yet there you are. Right? None of the tools that you'd been taught, that whole theatre of the mind with radio, that's all stuff that I ended up using. And so with my kids--One of 'em's in college. The other's gonna to go to college soon.--I try to teach them the same thing, that 'Look, don't worry about this if you feel like you're wasting you're time', 'cause they all feel like you need to be in whatever you're gonna be in--You know, if you're gonna be an accountant for a living, you better be in accounting school. And I just keep telling them 'None of this'll be wasted. Somehow, some way this is all gonna be stuff you can repurpose and weave in to some story.' ... It makes you, as I always tell my kids, *a more formidable person*, a more formidable version of yourself."  
+--Dan Carlin on the twists and turns of life, #247 with Mike Rowe
+
 "Men are four times more likely than women to commit suicide, even though women attempt it more. So men are better at it."  
 --George Carlin
 
@@ -1010,6 +1013,23 @@ an atom in the universe"
 "The shadow proves the sunshine."  
 --Jon Foreman
 
+"In this postmodernist view  
+Where absolutes are seen as relics  
+And laughed out of the room"  
+--Mark Foster of Foster the People, *Nevermind*
+
+"Yeah, you'll never be whole  
+Yeah, you'll never be whole  
+Until you lose control  
+And think freely to smash the wall of apathy  
+Stop your self-importance and lift the weight off somebody else  
+Yeah, you'll never be whole  
+Yeah, you'll never be whole  
+Until you lose control  
+And stop drinking the wine that's been dripping  
+From lips of the gluttons and envying their bloody teeth"  
+--Mark Foster of Foster the People, *A Beginner's Guide to Destroying the Moon*
+
 <a class="anchor" id="frankel"></a>
 "Woe to him who saw no more sense in his life, no aim, no purpose, and therefore no point in carrying on. He was soon lost. The typical reply with which such a man rejected all encouraging arguments was, 'I have nothing to expect from life any more.' What sort of answer can one give to that?  
 &emsp;&emsp;&emsp;What was really needed was a fundamental change in our attitude toward life. We had to learn ourselves and, furthermore, we had to teach the despairing men, that *it did not really matter what we expected from life, but rather what life expected from us.* We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life--daily and hourly. Our answer must consist, not in talk and meditation, but in right action and in right conduct. Life ultimately means taking the responsibility to find the right answer to its problems and to fulfill the tasks which it constantly sets for each individual."  
@@ -1446,7 +1466,7 @@ Cam: "I lost a really good friend. And I don't have that many of those to spare.
 --Hanlon's Razor
 
 "The people who are experts in the truth usually get orders from the people who are experts in order."  
---Yuval Noah Harari
+--Yuval Noah Harari, #386 Sam Harris
 
 "The more entangled we are in our thoughts and feelings, the more we lose touch with whatever is happening in the world around us."  
 --Russ Harris, *The Happiness Trap*
@@ -1850,6 +1870,8 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 
 "[[Musk quote](#musk)] Be a scientist, engineer, or scholar. At some point you either realize you were lied to as a child, that you can't actually be anything or do everything, or you realize amazing things are within reach because you understand and can build upon the great history of human intellectual and technological achievement. The abundance of possibility and far-farsightedness gained by standing on the shoulders of giants are worth the struggle of the climb."
 
+"She's dressed like she wants to be undressed."
+
 "High, wild places are the closest thing I have to a church. They’ve nurtured my soul for more than 60 years. They’ve restored my emotional equilibrium during periods of despair. They are where I feel most at peace....There is no getting around the fact that steep terrain is inherently dangerous, however. And for those of us who spend as much time as possible on the heights, our dirty little secret is the hazards are actually part of the appeal. The danger sharpens the senses, rids the mind of trivialities, compels one to focus exclusively on the moment. Stepping out of your comfort zone and confronting your fears can be transformative. ... A life of excessive caution can be even more injurious than its opposite."  
 –-Jon Krakauer, Foreword to *No Words for the Way Down*
 
@@ -2058,8 +2080,11 @@ Harris: "...The buck stops with what you want, and you didn't create your wants.
 "Irrigation of the land with seawater desalinated by fusion power is ancient. It's called 'rain'."  
 --Michael McClary
 
-"Grief is love with nowhere to go."  
---Magnum BS on [Nora McInerny's TED talk](https://www.youtube.com/watch?v=khkJkR-ipfw)
+"We have a lot of really dedicated civil servants, but in most government agencies, you could randomly kidnap people out of them, and nobody would notide the difference."  
+--H. R. McMaster on Overtime with Bill Maher
+
+"Grief is love's unwillingness to let go." Also phrased as "Grief is love with nowhere to go."  
+--Earl Grollman, the latter by commenter "Magnum BS" on [Nora McInerny's TED talk](https://www.youtube.com/watch?v=khkJkR-ipfw)
 
 "Someone in your life needs to hear that they matter, that they are loved, that they have a future. Be the one to tell them."  
 --Toby McKeehan
@@ -2925,7 +2950,7 @@ And seem a saint, when most I play the devil."
 "Underlying our approach to this subject is our conviction that 'computer science' is not a science and that its significance has little to do with computers. The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called *procedural epistemology*--the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects. Mathematics provides a framework for dealing precisely with notions of 'what is'. Computation provides a framework for dealing precisely with notions of 'how to'."  
 --Gerald and Julie Sussman, Harold Abelson (Structure and Interpretation of Computer Programs)
 
-"...the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are search and learning.
+"...the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are *search* and *learning*.
 &emsp;&emsp;&emsp;...the actual contents of minds are tremendously, irredeemably complex; we should stop trying to find simple ways to think about the contents of minds.... All these are part of the arbitrary, intrinsically-complex, outside world. They are not what should be built in, as their complexity is endless; instead we should build in only the meta-methods that can find and capture this arbitrary complexity. Essential to these methods is that they can find good approximations, but the search for them should be by our methods, not by us. We want AI agents that can discover like we can, not which contain what we have discovered."  
 --Richard Sutton, [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
