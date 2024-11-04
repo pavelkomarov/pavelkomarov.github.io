@@ -1013,7 +1013,8 @@ an atom in the universe"
 "The shadow proves the sunshine."  
 --Jon Foreman
 
-"In this postmodernist view  
+"It's hard to know the truth  
+In this postmodernist view  
 Where absolutes are seen as relics  
 And laughed out of the room"  
 --Mark Foster of Foster the People, *Nevermind*
@@ -2947,10 +2948,13 @@ And seem a saint, when most I play the devil."
 "If you don't build your dream, then someone else will hire you to help build theirs."  
 --[Sulibreezy](https://www.youtube.com/watch?feature=player_embedded&v=y_ZmM7zPLyI)
 
+"...this insistence on orthodoxy and on everything that has always ever been, even though it hasn't always ever been this way. And I think that orthodoxy is to religion what ideology is to politics, and that real politics and real religion happens when you leave those behind and you experience the world and you experience your faith in a powerful way. And that also means, if you are a Christian, the lack of any desire to force anybody to behave or to do things or to believe things that they don't want to do themselves. ... And the idea that we can police the world into believing in certain th8ings, and use the power of government or law to enforce it, is evil. Evil. ... I'm trying to reimagine what Christianity could be today, as Christianity that's not afraid of the modern world, that sees every human being as a creation of God and worth loving."  
+--Andrew Sullivan, Sam Harris #114
+
 "Underlying our approach to this subject is our conviction that 'computer science' is not a science and that its significance has little to do with computers. The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called *procedural epistemology*--the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects. Mathematics provides a framework for dealing precisely with notions of 'what is'. Computation provides a framework for dealing precisely with notions of 'how to'."  
 --Gerald and Julie Sussman, Harold Abelson (Structure and Interpretation of Computer Programs)
 
-"...the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are *search* and *learning*.
+"...the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are *search* and *learning*.  
 &emsp;&emsp;&emsp;...the actual contents of minds are tremendously, irredeemably complex; we should stop trying to find simple ways to think about the contents of minds.... All these are part of the arbitrary, intrinsically-complex, outside world. They are not what should be built in, as their complexity is endless; instead we should build in only the meta-methods that can find and capture this arbitrary complexity. Essential to these methods is that they can find good approximations, but the search for them should be by our methods, not by us. We want AI agents that can discover like we can, not which contain what we have discovered."  
 --Richard Sutton, [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
