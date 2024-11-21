@@ -2396,6 +2396,9 @@ We are in this together"
 "We will never have a perfect world, but it's not romantic or naive to work toward a better one."  
 --Steven Pinker
 
+"Not even time can take away my love for you"  
+--Pixie and the Partygrass Boys, Club Thing
+
 "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."  
 --Plato
 
@@ -2407,6 +2410,18 @@ We are in this together"
 
 "What we achieve inwardly will change outer reality."  
 --Plutarch
+
+"So many stories we were told about a safety net  
+But when I look for it it's just a hand that's holding mine"  
+--Caroline Polachek, Sunset
+
+"There you were  
+With your mirror  
+Shining the world all over me  
+There I was  
+With my butterfly net  
+Trying to catch your light"  
+--Caroline Polachek, Butterfly Net
 
 "Why is it that we talk and talk, or at least I certainly do, without somehow conveying what we're really like?"  
 --Michael Polley, *Stories We Tell*
