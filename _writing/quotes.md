@@ -2102,6 +2102,9 @@ Harris: "...The buck stops with what you want, and you didn't create your wants.
 "For every complex problem there is an answer that is clear, simple, and wrong."  
 --H. L. Mencken
 
+"Democracy is the theory that the common people know what they want and deserve to get it good and hard."  
+--H. L. Mencken
+
 "Born to multiply  
 Born to gaze in to night skies  
 All you want's one more Saturday  
@@ -2923,6 +2926,9 @@ And seem a saint, when most I play the devil."
 
 "No one can bar the road to truth."  
 --Aleksandr Solzhenitsyn
+
+"Let the lie come in to the world. Let it even triumph, but not through me. The simple step of a courageous individual is not to take part in the lie."  
+--Aleksandr Solzhenitsyn  
 
 "Wisdom is the chief element in happiness."  
 --Sophocles
