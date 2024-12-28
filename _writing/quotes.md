@@ -320,7 +320,7 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 --David Brooks, *New York Times*
 
 "The people who have a strong sense of love and belonging believe they're worthy of love and belonging. That's it."  
---Brene Brown
+--Brené Brown
 
 "Any book on happiness is likely to tell you to set clear goals on what you want to achieve and then work towards achieving them. The problem is it doesn't really work. You might become a millionaire by the time you're 40, but then you realize you haven't been able to sustain a happy relationship. Or when it doesn't work out you feel lost, and you blame yourself. When we live for our goals, we forget to live *now*. The philosopher Allen Watts made the point that when you listen to a piece of music, you don't just skip to the end because that's where it all comes together. You don't just read the last chapter of a book because that's the climax. Yet in life we're obsessed with endings. So you study for these exams so you can go to this university to get this job to work your way up to what? Eventually you reach some position in your 50s and you think "Is this it? Is this the thing? Is this what I've been working for?" And you forget that maybe life should be more like a piece of music, and you're supposed to be dancing."  
 --Derren Brown
@@ -834,7 +834,7 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 --Ric Elias
 
 "Blessed is the man who, having nothing to say, abstains from giving wordy evidence of the fact."  
---George Elliot
+--George Eliot (Mary Ann Evans)
 
 "This is the way the world ends  
 Not with a bang but a whimper."  
@@ -845,6 +845,9 @@ And the end of all our exploring
 Will be to arrive where we started  
 And know the place for the first time.  
 --T.S. Eliot, *Little Gidding*
+
+"A positive attitude will not solve all of your problems, but it may annoy enough people to make it worth the effort."  
+--[Eluder](https://www.tetongravity.com/forums/showthread.php/355846-Freetour-2-0-the-2024-CAST-system-thread)
 
 "What lies behind us and what lies before us are small matter compared to what lies in us."  
 --Not actually Ralph Waldo Emerson, but mistakenly attributed
@@ -1452,7 +1455,10 @@ Cam: "I lost a really good friend. And I don't have that many of those to spare.
 --Richard Hamming, *The Art of Doing Science and Engineering*, chapter on Experts
 
 "...use in an argument, 'What would you accept as evidence you are wrong?' Ask yourself regularly, 'Why do I believe whatever I do?' Especially in the areas where you are so sure you know"  
---Richard Hamming, *The Art of Doing Science and Engineering*
+--Richard Hamming, *The Art of Doing Science and Engineering*, chapter on Experts
+
+"I strongly recommend taking the time, *on a regular basis*, to ask the larger questions, and not stay immersed in the sea of detail where almost everyone stays almost all of the time."  
+--Richard Hamming, *The Art of Doing Science and Engineering*, final chapter
 
 "...whether the effort required for excellence is worth it. I believe it is--the chief gain is in the effort to change yourself, in the struggle with yourself, and it is less in the winning than you might expect. Yes, it is nice to end up where you wanted to be, but the person you are when you get there is far more important. I believe a life in which you do not try to extend yourself regularly is not worth living--but it is up to you to pick the goals you believe are worth striving for."  
 --Richard Hamming, *The Art of Doing Science and Engineering*, final chapter
@@ -1591,6 +1597,9 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 
 "What can be asserted without evidence can also be dismissed without evidence."  
 --Hitchens Razor  
+
+"We always think by seeking and drawing parallels to things we know from our past, and we therefore communicate best when we exploit examples, analogies, and metaphors galore, when we avoid abstract generalities, when we use very down-to-earth, concrete and simple language, and when we talk directly about our own experiences."  
+--Douglas Hofstadter, I Am A Strange Loop
 
 "It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts."  
 --Sherlock Holmes
@@ -2609,6 +2618,9 @@ He truly embodied the principles of being genuinely interested in other people, 
 "It is hard to fail, but it is worse never to have tried to succeed."  
 --Theodore Roosevelt
 
+"Historically: the coffee house, the taver, the *third place*, the not-work, not-home public, social space where you could have people of different social classes, backgrounds, creeds all come together and bump up against each other [is lost when we're all on our phones]. Sometimes that might lead to trouble, but often it did lead to a kind of tolerance that I think is far different than our modern understanding of tolerance, which is: Tolerance is very much a list of all the things you're supposed to accept and endorse ["In this house we believe..."], versus real human tolerance...is about understanding human nature and accepting its limitations."  
+--Christine Rosen, on Andrew Sullivan's Dishcast
+
 "Often in relationships between men and women, there is this weird pact that it's the women's job to interpret their relationship for the men. That they have a right to say, 'The problem with you is that you're afraid of commitment, and if only you would show up at my house at an approximately reasonable time, then we would be fine.' And that is bullshit: that the men are ready to outsource their own understanding of themselves to the women, and that the women will do that job so the men will do what they want. And yet it's a sort of agreed-upon game."  
 ...  
 'For Roupenian, it has been a case of recognizing a tendency to overestimate the extend to which "someone else has control over my happiness and ability to move in the world", and, by extension, her control over others: "That if you're unhappy, it's my fault, and my job to fix it. I do have a responsibility to make other people happy. You have to be a good person. But that is contradicted by the thing I have felt increasingly as I get older, which is that I do not have the power to make you happy. My ability to fix you is so limited, and my desire to fix you is complicated. For me, the process of getting older and seeing things more truly has been realizing how little power we have over each other."'
@@ -2972,6 +2984,12 @@ And seem a saint, when most I play the devil."
 "...this insistence on orthodoxy and on everything that has always ever been, even though it hasn't always ever been this way. And I think that orthodoxy is to religion what ideology is to politics, and that real politics and real religion happens when you leave those behind and you experience the world and you experience your faith in a powerful way. And that also means, if you are a Christian, the lack of any desire to force anybody to behave or to do things or to believe things that they don't want to do themselves. ... And the idea that we can police the world into believing in certain th8ings, and use the power of government or law to enforce it, is evil. Evil. ... I'm trying to reimagine what Christianity could be today, as Christianity that's not afraid of the modern world, that sees every human being as a creation of God and worth loving."  
 --Andrew Sullivan, Sam Harris #114
 
+"...the *gift* of this. I remember at the time, Patrick [his friend who died of AIDS] once said to me 'You know, sometimes I'm kind of glad that I--', and he stopped himself--'No I'm not!', because it did completely remind you that only one thing matters. It got rid of everything else: career, money, status, any of that shit."  
+Anderson: "And that one thing that mattered was?"  
+"Being with other people and loving them."  
+--Andrew Sullivan, Dishcast with Anderson Cooper on grief, talking about Jesus' Onum Necessarium
+
+<a class="anchor" id="Sussman"></a>
 "Underlying our approach to this subject is our conviction that 'computer science' is not a science and that its significance has little to do with computers. The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called *procedural epistemology*--the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects. Mathematics provides a framework for dealing precisely with notions of 'what is'. Computation provides a framework for dealing precisely with notions of 'how to'."  
 --Gerald and Julie Sussman, Harold Abelson (Structure and Interpretation of Computer Programs)
 
@@ -3080,6 +3098,10 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 
 "It is amazing what you can accomplish if you do not care who gets the credit."   
 --Harry S. Truman
+
+"So baby, rephrase it  
+Nothing's wasted"  
+--Sofi Tukker, *Spiral*
 
 "College is a place where a professor's lecture notes go straight to the students' lecture notes without passing through the brains of either."  
 --Mark Twain
