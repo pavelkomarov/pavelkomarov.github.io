@@ -2354,6 +2354,10 @@ We are in this together"
 <a class="anchor" id="P"></a>
 ### P
 
+"But I need to hear it from someone else  
+Because I wouldn't believe myself"  
+--Joe P, *French Blonde*
+
 “Not ‘rich, but still nice’, nice *because* she’s rich, you know? Hell, if I had all this money,” [throws arms wide] “I’d be nice too!"  
 --Chung Sook, *Parasite*, 2019
 
@@ -2944,6 +2948,12 @@ And seem a saint, when most I play the devil."
 
 "Wisdom is the chief element in happiness."  
 --Sophocles
+
+"And if it feels like failure  
+Then it's probably good for you  
+If it tears your heart out  
+Then you're probably pulling through"  
+--Spacey Jane, *Pulling Through*
 
 "The problem isn't the problem. The problem is your attitude about the problem."  
 --Captain Jack Sparrow
