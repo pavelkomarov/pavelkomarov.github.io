@@ -607,14 +607,17 @@ Burn the white flag"
 "Life has more imagination than we carry in our dreams."  
 --Christopher Columbus
 
-"Nothing that results from human progress is the result of unanimous consent. And those who are enlightened before the others are condemned to pursue that light in spite of others."  
---[1492, Conquest of Paradise](https://www.youtube.com/watch?v=WYeDsa4Tw0c) (not a real Columbus quote)
+"The Christian millennium is an impressive demonstration of what energetic reactionaries can do to spread superstition, demote the intellect, prolong stagnation, secure tyranny, degrade man as a reasonable being, and thus hold back the march of mind for centuries."  
+--Marquis de Condorcet (although Yuval Harari in Homo Deus and Tom Holland in Dominion point out the scientific and human rights revolutions happened in Christendom because in some ways Christianity's deep assumptions set the stage. Then again, Stephen Greenblatt in The Swerve shows Epicureanism held many of the same seeds. And of course Buddhism had much of the moral substance centuries earlier as well.)
 
 "Real Knowledge is to know the extent of one's ignorance."  
 --Confucius
 
 "Ethics are so annoying. I avoid them on principle."  
 --Darby Conley
+
+"Nothing that results from human progress is the result of unanimous consent. And those who are enlightened before the others are condemned to pursue that light in spite of others."  
+--[1492, Conquest of Paradise](https://www.youtube.com/watch?v=WYeDsa4Tw0c) (not a real Columbus quote)
 
 "You're so young, way too young to be worried about not being smart enough. Until you're so old you start going senile, you have the opportunity to make yourself 'smarter'. And I put that in quotes because 'smart' is really just a way of saying 'has invested so much time and sweat that you make it look effortless'. You feel like you are burnt out or that you are on the verge of burning out, but in reality you are on the verge of deciding whether or not you will burn out. It's scary to acknowledge that it's a decision because it puts the onus on you to to do something about it, but it's empowering because it means there is something you can do about it.
 So do it."  
@@ -1900,6 +1903,9 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 
 <a class="anchor" id="L"></a>
 ### L
+
+"The gathering of data exemplifies our ambition for a stable, coherent society. The United States is an Enlightenment project based upon the supremacy of reason, on the idea that things can be empirically tested, that there are self-evident truths, that liberty, progress, and constutional government walk arm-in-arm and together form the recipe for the ideal state. Statistics, numbers created by the state to help it understand itself and ultimately to govern, are not some side effect of the project but a central part of what government is and does."  
+--John Lanchester
 
 "What you resist persists."  
 --Richard Lang (student of Douglas Harding of The Headless Way), Sam Harris #181
