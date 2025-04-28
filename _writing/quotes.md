@@ -1784,8 +1784,8 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 --[Scott Barry Kaufman](https://www.samharris.org/podcasts/waking-up-conversations/waking-up-scott-barry-kaufman), see also [Burkeman](#burkeman)
 
 "I teach a course at Columbia called The Science of Living Well ... Most of these students have been living on autopilot thinking 'Oh, the piont is to get a good GPA so that I have a good resume to get in to a good--' It's always about the future. It's always about some objective metric that everyone can agree on as 'Now you're worth it. Now you're worthy.' In this course I teach I have growth as the metric, and that's it. So there isn't comparison from one person to another. I have a whole series of growth challenges throughout the semester. Maybe it could be confronting and embracing your dark side and really becoming friends with it. Another growth challenge is increasing the high quality connections in your life, or being more mindful of things around you and having more gratitude in your life. And you start to add up all these things, and students start to realize that _that's_ life, like those are the things. There's actually nothing more to life. That's it!  
-&emsp;&emsp;&emsp;... Really, the plateau experience, that's the most profound, transcendent moments of your life, where you can find the miraculous in the everyday. _That's_ life. If you can cultivate that skill, that'll be a far greater skill than constantly beating yourself up over not getting this grade or that grade or this amount of money, or look that other person's getting that amount of money. Life becomes a zero-sum relative game. If you can move towards growth in your momentary experiences in your life and really realize that everything around you is alreay pretty miraculous, like right now, that's a fundamentally different way of being and living.  
-&emsp;&emsp;&emsp;... The insight a lot of these students are getting is that: You may think that there ever will be a point in uyour life where you get there, and then you've accomplished something, or you've reached self-actualization, or you've reached transcendence. But it's _all_ just a process. It's _all_ just the relational interaction between the experience of you and the world. And that happens in a momentary, momentary basis. And there are just so many things we can do right now without waiting, without waiting for that paycheck or waiting for the next job that can give us meaning."  
+&emsp;&emsp;&emsp;... Really, the plateau experience, that's the most profound, transcendent moments of your life, where you can find the miraculous in the everyday. _That's_ life. If you can cultivate that skill, that'll be a far greater skill than constantly beating yourself up over not getting this grade or that grade or this amount of money, or look that other person's getting that amount of money. Life becomes a zero-sum relative game. If you can move towards growth in your momentary experiences in your life and really realize that everything around you is already pretty miraculous, like right now, that's a fundamentally different way of being and living.  
+&emsp;&emsp;&emsp;... The insight a lot of these students are getting is that: You may think that there ever will be a point in your life where you get there, and then you've accomplished something, or you've reached self-actualization, or you've reached transcendence. But it's _all_ just a process. It's _all_ just the relational interaction between the experience of you and the world. And that happens in a momentary, momentary basis. And there are just so many things we can do right now without waiting, without waiting for that paycheck or waiting for the next job that can give us meaning."  
 --[Scott Barry Kaufman](https://www.samharris.org/podcasts/waking-up-conversations/waking-up-scott-barry-kaufman)
 
 "[S]ome things have intrinsic rewards in life, and those are the things that are actually most valuable to people."  
@@ -2685,6 +2685,9 @@ The thing you should be asking is for help!"
 <a class="anchor" id="S"></a>
 ### S
 
+"Love is stronger than pride."  
+--Sade
+
 "The illegality of cannabis is outrageous, an impediment to full utilization of a drug which helps produce serenity and insight, sensitivity and fellowship so desperately needed in this increasingly mad and dangerous world."  
 --Carl Sagan
 
@@ -3070,6 +3073,9 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 "A goal without a plan is just a wish."  
 --Harold Tharp
 
+"If it's designed well, it will take care of itself."  
+--Harold Tharp
+
 "...and they have windows, and your lab doesn't have windows because why don't they put windows in labs?"  
 --Andrea Thomaz, on why robots often don't work in the field
 
@@ -3108,6 +3114,9 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 
 "Passion is what makes life interesting, what ignites our soul, drives our curiosity, fuels our love and carries our friendship, stimulates our intellect, and pushes our limits. A passion for life is contagious and uplifting. Passion cuts both ways: Those who make you feel on top of the world are equally able to turn it upside down ... I will suffer through the bad for the heights of the good."  
 --Pat Tillman, from his journal, relayed in *Where Men Win Glory* by Jon Krakauer
+
+"'I wish it need not have happened in my time', said Frodo. 'So do I', said Gandalf, 'and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.'"  
+--J.R.R. Tolkein
 
 "It is amazing how complete is the delusion that beauty is goodness."  
 --Leo Tolstoy
@@ -3286,6 +3295,9 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 
 "The world is a tragedy to those who feel, but a comedy to those who think."  
 --Horace Walpole
+
+"I can't afford the luxury of waiting to give love until all the set pieces are in place and the scores are even. I have to love those who might not love me back."  
+--Steve Warren, my Dad's gay college friend, after Trump's second election
 
 "We need to make books cool again. If you go home with somebody, and they don't have books, don't fuck them."  
 --John Waters
