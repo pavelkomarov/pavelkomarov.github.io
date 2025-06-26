@@ -1239,6 +1239,12 @@ From lips of the gluttons and envying their bloody teeth"
 "If we could change ourselves, the tendencies in the world would also change."  
 --Mohandas Gandhi (Be the change you wish to see in the world.)
 
+"The society which scorns excellence in plumbing as a humble activity and tolerates shoddiness in philosophy because it is an exalted activity will have neither good plumbing nor good philosophy; neither its pipes nor its theories will hold water."  
+--John W. Gardner
+
+"Perhaps the most promising trend in our thinking about leadership is the growing conviction that the purposes of the group are best served when the leader helps followers develop their own initiative, strengthens them in the use of their own judgement, enables them to grow and to become better contributors."  
+--John W. Gardner
+
 "I choose a lazy person to do a hard job because a lazy person will find an easy way to do it."  
 --Bill Gates (and, independently, Harold Tharp)
 

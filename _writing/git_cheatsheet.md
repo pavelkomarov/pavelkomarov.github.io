@@ -47,6 +47,9 @@ Undo the latest local commit, without reverting the code itself. If you mistaken
 ###### `git reset --hard HEAD~1`
 Undo the latest local commit, throwing away all code changes involved. This one is a bit dangerous, but useful.
 
+###### `git reset --hard origin/<branch>`
+Pull down that branch's copies of everything, overwriting local.
+
 ###### `git push`
 Send your local commits the cloud. You should do this at the end of your session, so your work can't be lost if your computer dies. Some times you push more frequently, or to intentionally kick off <a href="#Advanced">continuous integration</a>.
 
@@ -66,7 +69,10 @@ Switch to a different branch locally. You might do some work in one branch and t
 Create a new local branch. Note that this branches *from the branch you've currently selected*. It is possible to have branches on branches, thereby enabling side-work on longer-living, larger-scope feature branches. The new branch assumes all the changes of the initial branch at the time of branching, which can compound divergence. You should branch with respect to the branch where your changes are meant to apply. Most commonly this means checking out master before new branch creation.
 
 ###### `git checkout -- <filename>`
-Pulls down the remote version of the file, overwriting the local copy. Useful if you've made changes you don't mean to keep, like rerunning a `.ipynb`.
+Pulls down the remote version of the file, overwriting the local copy. Useful if you've made changes you don't mean to keep, like rerunning an `.ipynb`.
+
+###### `git checkout origin/<branch> -- <filename>`
+Pull down the remote version from a specific branch.
 
 ###### “pull request” (PR)
 Once you’re happy with the state of one of your branches, and you’d like the master code to reflect your gloriously helpful changes, “submit” your code via one of these. There is a “Pull Requests” tab on GitHub where others can view, comment on, and collaborators can accept/reject the changes.
