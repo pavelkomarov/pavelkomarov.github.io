@@ -5,7 +5,7 @@ title: Cats
 subtitle: the handsome, beautiful, and adorable
 ---
 
-These belong to us, Pavel and Nataly, @ 629 12th Ave E Apt A, 941-545-7573. Before here, Pavel lived for three years in Salt Lake City without a yard, so he toilet trained his two cats. We are currently working on the little one. They're all gentle and lovely.
+These three belong to us, Pavel and Nataly, @ 629 12th Ave E Apt A, 941-545-7573. Before here, Pavel lived for three years in Salt Lake City without a yard, so he toilet trained his two cats. We are currently working on the little one. They're all gentle and lovely.
 
 <img src="/assets/cats.jpg"/>
 
@@ -66,7 +66,7 @@ I’m the most beautiful, and I know it. I’m fluffy, talkative, pompous, and k
 <img src="/assets/miso.jpg"/>
 
 ##### Born
-May 28th, 2025, Orting WA, to a woman that though I was a girl and called me "pretty girl" 
+May 28th, 2025, Orting WA, to pet cats belonging to a woman who mistakenly called him "pretty girl"
 
 ##### Personality
 I'm the baby and the most spoiled. I'm a bit shy around strangers, but I'm very friendly once I get to know you which doesn't take very long. I like to do everything with my family, including watching them shower, helping them cook, and snuggling under the covers at bed time. I enjoy jumping on my brothers, and attacking everyones hands because it's always play time.  I'm obsessed with foliage, and bring leaves in the house to play with on a regular basis. Aside from leaves, my favorite toy is a 2 legged unicorn llama. I'm the most adventurous, and like to go on hikes and bike rides in my back pack. Sometimes I will even walk on the leash when I am feeling brave. I never hiss at other cats, but I do hiss at dogs. I like to steal the treat bag and rip it open.
