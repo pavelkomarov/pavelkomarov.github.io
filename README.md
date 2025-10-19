@@ -13,11 +13,10 @@
 ## How Jekyll works
 
 <pre>markdown
-+html				---> [Jekyll]   ---> static website
-+liquid template language		^
-					|
-				     configs</pre>
-
++html                     ---> [Jekyll] ---> static website
++liquid template language		  ^
+                                  |
+                               configs</pre>
 
 ## How Github Pages works
 
