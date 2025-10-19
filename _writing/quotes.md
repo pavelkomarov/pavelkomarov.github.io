@@ -290,8 +290,13 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "It is possible to store the mind with a million facts and still be entirely uneducated."  
 --Alec Bourne
 
+<<<<<<< Updated upstream
 "Always look a person in the eye. Do that they'll respect you better. Never be afraid to ask you for anything. Stealing isn't necessary. Never respect anybody who doesn't respect you back."  
 --Boyz n the Hood, three rules
+=======
+"1. Always look a person in the eye. Do that, they respect you better. 2. Never be afraid to ask you for anything; stealing isn't necessary. 3. Never respect anybody who doesn't respect you back."  
+--Furious, *Boyz n the hood*
+>>>>>>> Stashed changes
 
 "The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them."  
 --Sir William Bragg
