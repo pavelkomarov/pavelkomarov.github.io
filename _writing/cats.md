@@ -5,7 +5,7 @@ title: Cats
 subtitle: the handsome, beautiful, and adorable
 ---
 
-These belong to us, Pavel and Nataly, @ 629 12th Ave E Apt A, 941-545-7573. Before here, I lived for three years in Salt Lake City without a yard, so I toilet trained the elder two. Currently working on the little one. They're all gentle and lovely.
+These belong to us, Pavel and Nataly, @ 629 12th Ave E Apt A, 941-545-7573. Before here, Pavel lived for three years in Salt Lake City without a yard, so he toilet trained his two cats. We are currently working on the little one. They're all gentle and lovely.
 
 # Fozzy
 <img src="/assets/fozzy.jpg"/>
@@ -73,8 +73,8 @@ I'm the baby and the most spoiled. I'm a bit shy around strangers, but I'm very 
 - Soup: when hes being especially cute 
 
 ##### Body Language
-- Trill -- when hes happy
+- Trill -- happy, excited
 - Flat ears and scowl -- scared
-- Crazy wide eyes -- about to pounce
-
+- Crazy, wide eyes -- about to pounce
+- Purr -- happy and relaxed
 
