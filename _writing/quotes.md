@@ -1277,6 +1277,13 @@ From lips of the gluttons and envying their bloody teeth"
 "Aristotle saw, a long time ago, that fully participating in a complex range of human affairs was the only way to become fully human."  
 --John Taylor Gatto, *Dumbing Us Down*
 
+"So I went to an art exhibit  
+There wasn't any art  
+All that ther was was a sink and some dishes  
+And a sign saying 'Be where you are'"  
+--Katie Gavin, MUNA, *Good News*  
+Reminds me of Steve Ratts saying you know a new diver because they go zipping around, whereas experienced divers stay and observe closely, knowing they've already arrived.
+
 "Common sense tells us that consciously thinking about a problem or deliberating about the options is the best strategy for making a decision. Consider the possibility that *not* consciously thinking can produce an outcome superior to that of consciously thinking. In a study be Ap Dijksterhuis (2004), participants evaluated complex information regarding real-world choices. One situation involved selecting an apartment. In each case, the participants chose between alternatives that had negative features (e.g., high rent, bad location) and positive features (e.g., nice landlord, good view). Objectively, one apartment was the best choice. Some participants were required to make an immediate choice (no thought). Some had to think for 3 minutes and then choose (conscious thought). Others had to work for 3 minues on a difficult, distracting task and then choose (unconscious thought). Across three separate trials, those in the unconscious thought condition made the best decisions. According to Dijksterhuis and Nordgren (2006), unconscious processing is especially valuable for complex decisions in which it is difficult to weigh the pros and cons consciously. Perhaps this is why, for very important decisions, people often choose to "sleep on it.  
 &emsp;&emsp;&emsp;Consider also the possibility that consciously thinking can undermine good decision making. The social psychologist Tim Wilson and the cognitive psychologist Jonathan Schooler (1991) asked research participants to rate james. When the participants simply tasted the james, their ratings were very similar to experts' ratings. However, whent he participants had to explain their ratings jam by jam, their ratings differed substantially from the experts'. Unless the experts were wrong, the participants had made poorer judgements: Having to reflect consciously about their reasons apparently altered their perceptions of the jams."  
 --Gazzaniga, et al., *Psychological Science*
@@ -1859,6 +1866,9 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 "A true selfless act inspires another."  
 -*Klaus*, 2019
 
+"We are going to have to live here with each other. There will be no fever that breaks. There will be no permanent victory that routs or quiets those who disagree with us. I've watched many on both sides entertain this illusion that there would be, either through the power of social shame and cultural pressure, or the force the state can bring to bear on those it seeks to silence. It won't work. It can't work. It would not be better if it did. That would not be a free country."  
+--Ezra Klein, Sept 16, 2025, in the wake of the Charlie Kirk shooting
+
 "I think to realize that you were not only so wrong but so wrong in such a harmful way is a devestating thing to realize, and it's something that it's totally human to want to rebel against at every point. The sunk cost isn't just that they were wrong and that's embarrassing. The sunk cost is that they hurt someone in the process of being wrong. And so it's not just the misinformation, and it's not just the ego of wanting to be right: I think that people are afraid of what it means about them if they were this wrong, and that it's much easier for them to believe that there's something wrong with me to have deserved the harm that I suffered. And so, I think it goes to people identifying with their ideas, and, when put on the spot and even when having plain evidence put in front of them that what they believe is wrong, it feels to them like what you're saying is that they're a bad person. And that's why they can't grasp just the plain, hard, cold facts of it, because it's charged with emotional resonance and with a sense of it implicating them and their identity and who they imagine themselves to be as people."  
 --Amanda Knox, on *Making Sense* #345, ~1:20:00 in
 
@@ -2180,6 +2190,132 @@ You yearn to be that dream you could never get to
 "You can't refactor people."  
 --Brandon Miranda, my high school classmate, 2022
 
+"[History] is one of the attempted answers to the great human question 'What the hell is going on?' ... But a vast amount of human endeavor is an attempt to answer it in different ways. All the sciences and all the humanities, microscopes, philosophies, expeditions, religions, and poems are all having a go."  
+--David Mitchell, introduction to *Unruly*
+
+"History is a very contemporary thing. It's ours to think about, manipulate, use to win arguments or to justify patriotism, nationalism, or group self-loathing, according to taste."  
+--David Mitchell
+
+"Notwithstanding the Caratacus and Buttica led resistance to the early days of Roman control, by the time the Empire left the ancient Britons had gone completely Stockholm syndrome. They loved the Romans. In fact, they'd become the Romano-British, and with the legions gone thier instinct was to try to keep things going in a nice, comfy Roman way."  
+--David Mitchell
+
+"...was beset by raids from the Picts, who came from what is now Scotland, and from the Scots, from what is now Ireland. I know that sounds willfully confusing, but there's nothing I can do about it."  
+--David Mitchell
+
+"There's no need to remember any of that. There's a high chance it's bullshit."  
+--David Mitchell, *Unruly*
+
+"...that's what academics are like: Thier favorite thing is saying that previous academics have got it wrong."  
+--David Mitchell
+
+"...an aura of flexibility and fun that's always vulnerable in a religious context."  
+--David Mitchell
+
+"He was rigorous and predictable. People knew where they stodd. In the medieval era, when people's expectations of government were unbelievably low by modern standards, this was was good as it got. All kings did terrible things, but the ones who did so out of weakness, capriciousness, viciousness, favoritism, or fear engendered uncertainty that led to violence and chaos. What helped daily life go smoothly was a straightforward, well-organized hardass."  
+--David Mitchell
+
+"...though nobody seemed to be able to draw a face that looked realistic at any point between the Romans leaving and the Tudors. Does thinking that make me a Philistine? There's a picture on the Alfred Jewel in the middle of all the lovely gold work that archaeologists think is supposed to be Jesus. Nobody knows what Jesus really looked like, but we can be pretty sure he didn't look like that. It's skillfully crafted in enamel under quartz, but the image itself is like something I might have done while drunkenly playing online Pictionary on my phone."  
+--David Mitchell
+
+"This image isn't helped by the terrible drawing of him that always gets used. It's from a 12<sup>th</sup> century chronicle, so the monk who drew it never laid eyes on the man himself. In fact, the monk who drew it shows few signs of having laid eyes on a human being of any sort, though the facial expression he gives Aethelred might have inspired cartoonists of later centuries who were trying to capture the essence of someone who's just been viciously bonked on the head. We find Aethelred sitting on his throne with this look of lopsided bafflement. His right hand is grasping what looks like an enormous inflatable green sword. His left scratches his crotch. One leg is slightly raised, as if to facilitate a fart."  
+--David Mitchell
+
+"Aethelred's first wife, Aelfgifu, had recently died, so, in her role as queen of England, Emma was also given the name Aelfgifu. This might have been less confusing for Aethelred, but not for anyone else, then or since, enchantingly beautiful though the name Aelfgifu obviously is."  
+--David Mitchell
+
+"They asked to change service provider. Who ever does that!? It's such a hassle. You start your life with Vodafone and British Gas and HSBC, and you're stuck with it, unless you're a pervert who gets off on filling in forms."  
+--David Mitchell
+
+"In a time of deep and sincere religiosity and terrifyingly short and brutal human existences, the idea that the hand of God was moving in a mysterious way to ensure some sort of cosmic justice, so that when things seemed to go unexpectedly well or badly that wasn't just the terrifying random nature of existence, but a tiny incomprehensible part of some vaguely beneficent plan, was key to keeping everyone's peckers up."  
+--David Mitchell
+
+"...was closed down by Henry VIII in 1538, or 'dissolved' as they say. Well it didn't dissolve properly. Henry VIII should have stirred it more; great lumps of it are still there."  
+--David Mitchell
+
+"History must be full of occasions where someone had a reasonable case for raising an army and invading somewhere and didn't, through either fear or laziness. Those people don't get the credit they deserve for the positive consequences of their indolence."  
+--David Mitchell
+
+"Some say it was no accident, but some say it was an accident. I reckon it's too late to dust for prints."  
+--David Mitchell on one of William the Conquerors sons dying in a hunting accident
+
+"They also said---and obviously this was a scandalous accusation for the time---that he was gay. They didn't put it like that, of course. People at the time said William indulged in the sin of sodomy and encouraged effeminacy in his followers. They said William did that sin lots, which was very bad of him and meant he was a terrible king who deserved to die young in a hunting accident. We don't know if he was gay or bisexual or if the various forms of sexual abandon that he's accused of actually happened. Maybe it was just that he was mean to the church, and so the chroniclers, all of whom lived in monasteries, accused him of sodomy to sully his reputation. But where would they have got the idea from living in a monastery?"  
+--David Mitchell
+
+"...she was packed off the Germany at the age of 8 as the Emperor's intended bride. Obviously she didn't marry him when she was 8. That would be barbaric. They waited until she was 12."  
+--David Mitchell
+
+"He was lucky as well. He had been onboard the White Ship in Barfleur before it set sail, but a violent case of the shits forced him to disembark. Whatever fetid privy he settled onto once he'd hurried ashore turned out to be a far more auspicious enthronement than his subsequent one in Westminster, and made much less of a mess."  
+--David Mitchell
+
+"He's talked of as a very nice guy in person. Having myself once met and warned to Boris Johnson, I'm aware of the limitations and ficklenss of this attribute."  
+--David Mitchell
+
+"It was, in fact, the county hall, built in 1841 in the Gothic Revival style. Next to this, constructed in 1973, was the *new* county hall. This was built not in the Gothic Revival style, but in a style that I pray will never be revived."  
+--David Mitchell
+
+"...coping manfully with the disadvantages of being a woman in the 12<sup>th</sup> century."  
+--David Mitchell
+
+"It was said they were descended from a demon countess, a literal fiend of hell who was frightened of going in to churches, though was presumably dead sexy."  
+--David Mitchell
+
+"He recoiled at the thought of the clergy letting each other off the hook for all the shitty, criminous things they were getting up to. You know what I'm talking about."  
+--David Mitchell
+
+"...he declared the rebellion a punishment from God for what had happened to Becket and went to Canterbury to perform elaborate penance. He walked barefoot through the city, was thrashed by the monks of the cathedral, and spend the night fasting and praying. As efforts to avoid cancellation go, it was extremely dramatic."  
+--David Mitchell
+
+"The Crusaders were travelling vast distances without any maps worth the name and trying to keep armies fed and watered as they went. Plus the people whom the survivors of the journey had come to fight not only had colossal home advantage, they also hadn't endured the economic and technological knock-back of the dark ages in the way Western Europe had. The Franks, as Western Europeans were often collectively known, were a backward civilization compared to the Islamic states from which they tried to conquer the Holy Land. The fact that the crusaders kind of managed, off and on, to maintain a collection of Christian states near, and occasionally including, Jerusalem is a real testament to how nuts they all were. It's a major example from history of the energizing power of insanity."  
+--David Mitchell
+
+"Undaunted by this flesh wound, Richard calmly rode off to get some terrible medical attention before dying of the consequent raging infection in less than a fortnight."  
+--David Mitchell
+
+"William Marshal was a warrior and a politician, hugely rich and hugely successful...Earlier in his life he'd been on crusade and served both Henry II and Henry the Young King, so it was apt that he ended his career serving Henry the Even Younger King. He was about 70 by the time Henry III became king, which was pretty old even to be alive in those days, so it seems likely that he was fond of the kid. As a supporter of John, he knew what a disaster his son has been born in to and must have looked on this child, wearing a woman's fascinator [John had lost the crown jewels, so they coronated Henry with something of his mother's] and carrying a man's sword amid medieval military turmoil, with a grandfather's fondness. Similarly, the fatherless child, suddenly told that God had appointed him in charge of everything, must have loved the indomitable old man who turned up and cared. Their love conquered all---or England, anyway."  
+--David Mitchell
+
+"It's one of the many historical examples of the weird way antisemitism waxes and wanes for no clear reason with little warning and with cataclysmic consequences for Jewish people. It's why those who nowadays accuse Jews of hysterical sensitivity to the slightest undercurrent of antisemitism need a fucking history lesson."  
+--David Mitchell, *Unruly*, published just days before the Oct 7<sup>th</sup> attacks and ensuing drama, on Sept 28<sup>th</sup>, 2023
+
+"People on their deathbeds, when contemplating their interview at the pearly gates, will have been thinking 'I'm a bit worried all the wanking will get mentioned, but at least I was consistently horrible to Jews, so that should count in my favor.' Their certainty that they were right is worth remembering, because it means there's probably stuff we're certain is right thta future ages will correctly judge to be monstrous. The fact that everybody is convinced of something is no guarantee that it isn't evil horseshit."  
+--David Mitchell
+
+"...in our own terrifying era, caught as we are in a World Wide Web awaiting the arrival of the AI arachnid..."  
+--David Mitchell
+
+"...to sort out the details of his marriage to Phillip IV's daughter Isabella: the dowry, the accompanying treaty, is it okay that the bride's 12 and the groom seems gay?"  
+--David Mitchell
+
+"Being human, a key coping mechanism [to the Black Death] was guilt, but a sort of arrogant, self-aggrandizing guilt. 'This must be our fault', everyone thought, in a maelstrom of self-loathing and self-involvement". 'God is angry with us, and that's why this is happening. Aren't we careless, powerless fools. Curse us, for we have become too mighty.' I am thoroughly convinced by the overwhelming scientific evidence of humanity's role in climate change and the consequent need to inhabit the planet less impactfully. That fact is beyond doubt, and those who do doubt it imperil our survival. Let me get that on record first. However, the only meaningful counter-argument that could be made is thta humanity always thinks it's responsible for everything. We always reckon it's about us. We love taking credit for thing, but, where no credit is available, we'll settle for blame rather than entertaining the horrendously humbling notion that something, anything at all, might have nothing to do with us. The reason that climate change deniers seldom make that potentially persuasive argument is that they're even more weak-mindedly obsessed with human significance than average, so their arguments are all based on conspiracies and secrets and other malevolent aspects of human agency. They're not up for the 'We had nothing to do with this' narrative at all; they just opt for a different pattern of blaming humans, because they're delusional fuckwits who don't understand science....Still, I hope the solemn self-important guilt that people resorted to in their bewilderment and grief gave them some sort of comfort, some feeling of significance in the face of a bacterial tsunami for which they were no more than a fertile shore."  
+--David Mitchell, I have been hearing the 'Earth just goes through cycles' argument more, so his point doesn't perfectly land, but it is true that the religious still among us like to overplay human significance, all while accusing secular society of pridefulness
+
+"But the Black Death is such a reminder of mortality, of the futility of human endeavor, that it makes the grandiose enterprise of conquest, successful though it usually was during Edward's reign, seem dafter than ever....The Black Prince...This renowned warrior's tomb is in Canterbury cathedral, where there is a bronze effigy of him in fully armor...In his will he asked for the following poem to be inscribed around it:  
+'Such as thou art, sometime was I  
+Such as I am, such shalt thou be  
+I thought little on the hour of death  
+So long as I enjoyed breath  
+On earth, I had great riches  
+Land, houses, great treasure  
+Horses, money, and gold  
+But now a wretched captive am I  
+Deep in the ground, low here I lie  
+My beauty great is all quite gone  
+My flesh wasted to the bone'  
+In his slow decline from renown in to sickness, he must have realized that, when it comes to the human condition, glory only treats the symptoms."  
+--David Mitchell, *Unruly*
+
+"The crazy Plantaginate claim to the French throne, Edward III's chancy punt, was getting endorsed by Europe's biggest wig. The daft notion that the king of England was also the rightful king of France was becoming mainstream. Think on that when you next assume that all internet conspiracy theories are doomed to be blasted away by the leafblower of reason."  
+--David Mitchell
+
+"John the Fearless took an Armignac axe in the face at an emergency summit...John's skill was kept by some monks in Dijon, for reasons vaguely connected to Catholics being weird."  
+--David Mitchell
+
+"...expressing approval for the Book of Common Prayer, basically saying that it could be interpreted in a Catholic way. This seemed to justify Cranmer's reforming critics, who said he hadn't been upsetting enough. It was like he was a teenage girl who had put on a short skirt to go to a party, and then her parents had just said 'Have a nice time, darling.' Nightmare! Cranmer had to stomp back upstairs to look for something so skimpy it showed his religion. Please enjoy the questions that this metaphor raises."  
+--David Mitchell
+
+"...and treated him with a humiliating level of suspicion, but he took it on his weird Hapsburg chin. Those guys played a long game."  
+--David Mitchell, *Unruly*
+
 "Understanding the past enables us to see the present more clearly."  
 --Steven Mithen
 
@@ -2364,6 +2500,9 @@ We are in this together"
 
 "In a time of universal deceit, telling the truth is a revolutionary act."  
 --Commonly misattributed to George Orwell
+
+"One sometimes gets the impression that the mere words 'Socialism' and 'Communism' draw toward them with magnetic force every fruit juice drinker, nudist, sandal wearer, sex maniac, Quaker, 'nature cure' quack, pacifist, and feminist in England."  
+--George Orwell, The Road to Wigan Pier
 
 "Anybody who wants to make a revolution, shouldn't grab a gun; just go and start working like we do to change the world by using science and technology."  
 --Stan Ovshinsky
@@ -3139,6 +3278,36 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 Nothing's wasted"  
 --Sofi Tukker, *Spiral*
 
+"Against the assault of laughter nothing can stand."  
+--Mark Twain
+
+"Get a bicycle. You will not regret it. If you live."  
+--Mark Twain
+
+"Be respectful to your superiors, if you have any."  
+--Mark Twain
+
+"You should never do anything wicked and lay it on your brother, when it is just as convenient to lay it on some other boy."  
+--Mark Twain
+
+"You can't reason with your heart; it has its own laws, and thumps about things which the intellect scorns."  
+--Mark Twain
+
+"There isn't time---so brief is life---for bickerings, apologies, heartburnings, callings to account. There is only time for loving---& but an instant, so to speak, for that."  
+--Mark Twain
+
+"The darling mispronunciations of childhood!---dear me, there's no music that can touch it; and how one grieves when it wastes away and dissolves into correctness, knowing it will never visit his bereaved ear again."  
+--Mark Twain
+
+"As good as church letting out"  
+--Mark Twain
+
+"I haven't a particle of confidence in a man who has no redeeming petty vices."  
+--Mark Twain
+
+"I was young and foolish then. Now I'm old and foolisher."  
+--Mark Twain
+
 "College is a place where a professor's lecture notes go straight to the students' lecture notes without passing through the brains of either."  
 --Mark Twain
 
@@ -3146,7 +3315,7 @@ Nothing's wasted"
 --Mark Twain
 
 "I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it."  
---Mark Twain, see also [Epicurus](#epicurus)
+--Mark Twain, see also [Epicurus](#epicurus). This quote is actually a paraphrase.
 
 "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."  
 --Mark Twain
