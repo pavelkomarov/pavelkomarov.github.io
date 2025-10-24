@@ -2826,8 +2826,11 @@ The thing you should be asking is for help!"
 "...genius as traditionally concieved: passionate, profound, intense, and dominating."  
 --Bertrand Russell (said of Wittgenstein)
 
-"One should as a rule respect public opinion in so far as is necessary to avoid starvation and to keep  out of prison, but anything that goes beyond this is voluntary submission to an unnecessary tyranny,  and is likely to interfere with happiness in all kinds of ways."  
+"One should as a rule respect public opinion in so far as is necessary to avoid starvation and to keep out of prison, but anything that goes beyond this is voluntary submission to an unnecessary tyranny, and is likely to interfere with happiness in all kinds of ways."  
 --Bertrand Russell
+
+"The true spirit of delight, the exaltation, the sense of being more than Man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as in poetry."  
+--Bertrand Russell, Study of Mathematics
 
 "Dad bod is straight for bear."  
 --Ryan Georgi

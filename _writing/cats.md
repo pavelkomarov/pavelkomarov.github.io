@@ -5,7 +5,7 @@ title: Cats
 subtitle: the handsome, beautiful, and adorable
 ---
 
-These three belong to us, Pavel and Nataly, @ 629 12th Ave E Apt A, 941-545-7573. Before here, Pavel lived for three years in Salt Lake City without a yard, so he toilet trained his two cats. We are currently working on the little one. They're all gentle and lovely.
+These three belong to us, Pavel and Nataly, @ 629 12<sup>th</sup> Ave E Apt A, 941-545-7573. Before here, Pavel lived for three years in Salt Lake City without a yard, so he toilet trained his two cats. We are currently working on the little one. They're all gentle and lovely.
 
 <img src="/assets/cats.jpg"/>
 
