@@ -50,6 +50,7 @@ I’m the most beautiful, and I know it. I’m fluffy, talkative, pompous, and k
 - Punkin -- when he’s being a punk
 - Plumpkin -- when he’s being fat and lazy
 - Pompkin -- when he’s being too proud of himself
+- Grumpkin -- when he’s grumpy
 
 ##### Vocal and Body Language
 - Tail up, fluffed, and slightly hooked -- happy to see you
