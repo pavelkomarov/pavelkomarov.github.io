@@ -51,7 +51,7 @@ I’m the most beautiful, and I know it. I’m fluffy, talkative, pompous, and k
 - Plumpkin -- when he’s being fat and lazy
 - Pompkin -- when he’s being too proud of himself
 - Grumpkin -- when he’s grumpy
-- PumPum -- Purr-rum-pum-pum-pum when he's a little drummer kitty
+- PumPum -- purr-rum-pum-pum-pum when he's a little drummer kitty
 
 ##### Vocal and Body Language
 - Tail up, fluffed, and slightly hooked -- happy to see you
@@ -65,6 +65,7 @@ I’m the most beautiful, and I know it. I’m fluffy, talkative, pompous, and k
 - Purr -- happy and relaxed
 - Hiss -- trying to set boundaries
 - Slinky trot -- frightened, submissive
+- Kneading -- feeling cozy
 
 # Miso
 <img src="/assets/miso.jpg"/>
