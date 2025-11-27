@@ -18,16 +18,17 @@ These three belong to us, Pavel and Nataly, @ 629 12<sup>th</sup> Ave E Apt A, 9
 April 28<sup>th</sup> 2020, Mount Pleasant UT, to domestic cats kept by farmers
 
 ##### Personality
-I’m the most handsome, king of the yard, and I’m confident about it. I’m plush, unassuming, peace-loving, and very physically talented. I’m shy but actually very interested in you. My favorite things are lounging in the grass, catching birds or rats, fishing discarded lint roller tape out of the garbage, and getting my butt rapidly lightly smacked and scratched. I was hit by a car crossing 12<sup>th</sup> the night of Sept 30<sup>th</sup>/Oct 1<sup>st</sup> 2025 and got a tail pull injury that paralyzed my tail, bladder, and anus. Thankfully my ability to pee and poop on my own later returned, but my tail is still not completely the same, so be gentle with my lower back for a while. When traveling I need to hunker in the back and not be disturbed. I don’t like being held in one place for more than a few seconds, even by people I trust, but sometimes I like being carried elsewhere. I love getting petted and brushed and might perch on your chest if you’re lying down. I jump away from Pumpkin and Miso when they're being annoying, even though I could beat them up easily. Wrestling the kitten can be fun for me occasionally. I run and hide from other animals until I get to know them. I’m egalitarian and forgiving. I’m reserved unless I’m on my own turf and feeling really relaxed. I'm quiet, but I do chatter and chirp when excited.
+I’m the most handsome, king of the yard, and I’m confident about it. I’m plush, unassuming, peace-loving, and very physically talented. I’m shy but actually very interested in you. My favorite things are lounging in the grass, catching birds or rats, fishing discarded lint roller tape out of the garbage, and getting my butt rapidly lightly smacked and scratched. I was hit by a car crossing 12<sup>th</sup> the night of Sept 30<sup>th</sup>/Oct 1<sup>st</sup> 2025 and got a tail pull injury that paralyzed my tail, bladder, and anus. Thankfully my ability to pee and poop on my own came back after two and a half weeks of getting held over the sink and squeezed, but my tail will probably never be the same, so be gentle with my lower back. When traveling I need to hunker in the back and not be disturbed. I don’t like being held in one place for more than a few seconds, even by people I trust, but sometimes I like being carried elsewhere. I love getting petted and brushed and might perch on your chest if you’re lying down. I jump away from Pumpkin and Miso when they're being annoying, even though I could beat them up easily. Wrestling the kitten can be fun for me occasionally. I run and hide from other animals until I get to know them. I’m egalitarian and forgiving. I’m reserved unless I’m on my own turf and feeling really relaxed. I'm quiet, but I do chatter and chirp when excited.
 
 ##### Name Variations
 - Fozzo -- when he’s extra handsome
 - Fozzball -- when he’s extra fuzzy
 - Foccini -- when he's Italian
+- Fozarelli -- when he's Italian
 
 ##### Vocal and Body Lanugauge
 - Craned neck, tail lateral -- interested, watchful, ready to dart
-- <div><s>Tail upswing -- happy to be noticed</s> Not currently possible due to injury.</div>
+- <div><s>Tail upswing -- happy to be noticed</s> No longer possible due to injury.</div>
 - Curling around your hand or foot and starting to lick you -- loving
 - Chattering -- excited, focused
 - Chirp -- happy
@@ -44,7 +45,7 @@ I’m the most handsome, king of the yard, and I’m confident about it. I’m p
 May 5<sup>th</sup> 2020, Pocatello ID, to a stray mother caught by volunteer
 
 ##### Personality
-I’m the most beautiful, and I know it. I’m fluffy, talkative, pompous, and kinda derpy at jumping and balancing. I’m fairly bold but like to act aloof. My favorite things are food, lying that I haven't had dinner yet, going behind the refrigerator and pretending that I need help, and trying to sneak in to neighbor's houses. I once climbed a tree trying to reach a fledgling crow and stumbled multiple times on my way down. Another time I tried to jump on top of the fence, didn't quite make it, and slid back down. When traveling I need to be in the driver’s lap and occasionally look out a window. I ragdoll a little when held, like belly rubs, and might jump in your lap or climb the back of your chair if I like you enough. I like to start play fights with Fozzy and chase Pavel’s feet around the house, but when Miso pulls the same shenanigans with me, it gets on my nerves. I stand my ground with other animals and act tough, but I don’t really want to fight. I keep score of who’s nice to me and play favorites. I understand human socialization pretty well and will make a lot of eye contact with and meow at you, especially if you pay attention to and talk to me.
+I’m the most beautiful, and I know it. I’m fluffy, talkative, pompous, and kinda derpy at jumping and balancing. I’m fairly bold but like to act aloof. My favorite things are food, lying that I haven't had dinner yet, going behind the refrigerator and pretending that I need help, and trying to sneak into neighbor's houses. I once climbed a tree trying to reach a fledgling crow and stumbled multiple times on my way down. Another time I tried to jump on top of the fence, didn't quite make it, and slid back down. When traveling I need to be in the driver’s lap and occasionally look out a window. I ragdoll a little when held, like belly rubs, and might jump in your lap or climb the back of your chair if I like you enough. I like to start play fights with Fozzy and chase Pavel’s feet around the house, but when Miso pulls the same shenanigans with me, it gets on my nerves. I stand my ground with other animals and act tough, but I don’t really want to fight. I keep score of who’s nice to me and play favorites. I understand human socialization pretty well and will make a lot of eye contact with and meow at you, especially if you pay attention to and talk to me.
 
 ##### Name Variations
 - Punkin -- when he’s being a punk
@@ -52,6 +53,7 @@ I’m the most beautiful, and I know it. I’m fluffy, talkative, pompous, and k
 - Pompkin -- when he’s being too proud of himself
 - Grumpkin -- when he’s grumpy
 - PumPum -- purr-rum-pum-pum-pum when he's a little drummer kitty
+- Goober -- when he's being a goober, which is most of the time
 
 ##### Vocal and Body Language
 - Tail up, fluffed, and slightly hooked -- happy to see you
@@ -77,9 +79,10 @@ I’m the most beautiful, and I know it. I’m fluffy, talkative, pompous, and k
 I'm the baby and the most spoiled. I'm a bit shy around strangers, but I'm very friendly once I get to know you, which doesn't take very long. I like to do everything with my family, including watching them shower, helping them cook, and snuggling under the covers at bed time. I enjoy jumping on my brothers, and attacking everyone's hands because it's always play time. I'm obsessed with foliage and bring leaves in the house to play with on a regular basis. Aside from leaves, my favorite toy is a 2 legged unicorn llama. I'm the most adventurous and like to go on hikes and bike rides in my backpack. Sometimes I will even walk on the leash when I am feeling brave. I never hiss at other cats, but I do hiss at dogs. I like to steal the treat bag and rip it open.
 
 ##### Name Variations
-- Soup: when hes being especially cute 
+- Soup -- when he's being especially cute
+- Mees-Mees -- when he's cute
 
-##### Body Language
+##### Vocal and Body Language
 - Trill -- happy, excited
 - Flat ears and scowl -- scared
 - Crazy, wide eyes -- about to pounce
