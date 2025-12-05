@@ -1089,6 +1089,9 @@ From lips of the gluttons and envying their bloody teeth"
 "The young are very unforgiving."  
 --Stephen Fry, an interview he did from his living room (possibly with Jordan Peterson?), on how he and Hugh Laurie would ruthlessly mock anything when starting out in comedy at Cambridge, had comparably little compassion
 
+"Painters, poets, and philosophers have seen many things in the myth of Sisyphus. They have seen an image of the absurdity of human life, the futility of effort, the remorseless cruelty of fate, the unconquerable power of gravity. But they have seen too something of mankind's courage, resilience, fortitude, endurance, and self-belief. They see something heroic in our refusal to submit."  
+--Stephen Fry, *Mythos*
+
 "It is easier to act your way to a new way of thinking than to think your way to a new way of acting."  
 --Millard Fuller, first stated to me by Ken "Roberts" Pennacchini, a distillation of the ['act as if' principle from William James](https://books.google.com/books?id=IBrykBRv2B4C&pg=PA100&lpg=PA100&dq=it+is+easier+to+act+your+way+to+a+new+way+of+thinking+than+to+think+your+way+to+a+new+way+of+acting+william+james&source=bl&ots=SSIpVUJz4Z&sig=ACfU3U2PCpi9jxvhLaCatbTrJ4gW7_arSQ&hl=en&sa=X&ved=2ahUKEwio7dyM0OToAhVB2qwKHVP9DOAQ6AEwAHoECBIQLA#v=onepage&q=it%20is%20easier%20to%20act%20your%20way%20to%20a%20new%20way%20of%20thinking%20than%20to%20think%20your%20way%20to%20a%20new%20way%20of%20acting%20william%20james)
 
@@ -1353,6 +1356,9 @@ Goldstein: "...I think a useful distinction to make is that between aspiration a
 "A great engineer is someone who knows a little about a lot and a lot about a little."  
 --Google Developer's Ph.D. Advisor
 
+"A fatherless girl thinks all things possible and nothing is safe."  
+--Mary Gordon by way of Anderson Cooper
+
 "Think of an experience from your childhood. Something you remember clearly, something you can  see, feel, maybe even smell, as if you were really there. After all, you really were there at the time,  weren't you? How else would you remember it? But here is the bombshell: you weren't there. Not a single atom that is in your body today was there when that event took place ... Matter flows from place to place and momentarily comes together to be you. Whatever you are, therefore, you are not the stuff of which you are made. If that doesn't make the hair stand up on the back of your neck, read it again until it does, because it is important.  
 --Steve Grand
 
@@ -1386,11 +1392,14 @@ I know, right? So pay attention."
 "I think that if you're passionate about something and you're driven and focused, you can pretty much do anything you want to do."  
 --Dave Grohl
 
+"Someone might ask 'Why write about this? Why remember all that?' It is the writer's duty to tell this terrible truth, and it is the civilian duty of the reader to learn it."  
+--Vasily Grossman
+
 "99 little bugs in the code,  
 99 little bugs,  
 track one down, patch it around,  
 117 little bugs in the code"  
---Ashu Gupta
+--Ashu Gupta, Georgia Tech CS
 
 "Over the years, I've come to see that one of the most pernicious issues couples struggle with is working through wrongdoing and blame. The claim 'You hurt me' often sends couples spiraling. People want to feel like good and lovable beings; their intentions make perfect sense to themselves, and they hate being interpreted as selfish. In psychoanalytic jargon we often say 'No one likes being the "bad object".' In fact, there are few things people resist more than being held responsible for causing harm. It immediately threatens to overwhelm the 'offender' with shame (Am I a bad person?) and guilt (Have I cause irreparable damage? Should I be punished?). Yet serious hurt that goes unacknowledged leads to the accumulation of resentment and a deadening of the relationship."  
 --Orna Guralnik, [NYTimes](https://www.nytimes.com/2023/05/16/magazine/couples-therapy-orna-guralnik.html)
@@ -3284,13 +3293,28 @@ Nothing's wasted"
 "Against the assault of laughter nothing can stand."  
 --Mark Twain
 
+"...remind the world that ours is a useful trade, a worthy calling; that with all its lightness and frivolity it has one serious purpose, one aim, one specialty, and it is constant to it---the deriding of shams, the exposure of pretentious falsities, the laughing of stupid superstitions out of existence; and that whoso is by instinct engaged in this sort of warfare is the natural enemy of royalties, nobilities, privileges and all kindred swindles, and the natural friend of human rights and human liberties."  
+--Mark Twain, letter to Yale upon being given an honorary Master's, 1888
+
 "Get a bicycle. You will not regret it. If you live."  
+--Mark Twain
+
+"The difference between the right word and almost the right word is the difference between lightning and the lightning bug."  
 --Mark Twain
 
 "Be respectful to your superiors, if you have any."  
 --Mark Twain
 
 "You should never do anything wicked and lay it on your brother, when it is just as convenient to lay it on some other boy."  
+--Mark Twain
+
+"You ought never to sass old people---unless they sass you first."  
+--Mark Twain
+
+"Always do right. This will gratify some people and astonish the rest."  
+--Mark Twain
+
+"Always acknoledge a fault frankly. This will throw those in authority off their guard and give you the opportunity to commit more."  
 --Mark Twain
 
 "You can't reason with your heart; it has its own laws, and thumps about things which the intellect scorns."  
@@ -3303,6 +3327,12 @@ Nothing's wasted"
 --Mark Twain
 
 "As good as church letting out"  
+--Mark Twain
+
+"The easy confidence with which I know another man's religion is folly teaches me to suspect that my own is also."  
+--Mark Twain
+
+"We despise all reverences and all objects of reverence which are outside the pale of our own list of sacred things. And yet, with strange inconsistency, we are shocked when other people despise and defile the things which are holy to us."  
 --Mark Twain
 
 "I haven't a particle of confidence in a man who has no redeeming petty vices."  
@@ -3331,6 +3361,9 @@ Nothing's wasted"
 
 "How easy it is to make people believe a lie, and how hard it is to undo that work again!"  
 Often paraphrased as: "It is easier to fool people than to convince them they have been fooled."  
+--Mark Twain
+
+"It is a civilization which has destroyed the simplicity and repose of life; replaced its contentment, its poetry, its soft romance-dreams and visions with the money-fever, sordid ideals, vulgar ambitions, and the sleep which does not refresh; it has invented a thousand useless luxuries, and turned them into necessities; it has created a thousand vicious appetites and satisfies none of them; it has dethroned God and set up a shekel in His place."  
 --Mark Twain
 
 "Facts are true whether or not you believe them."  
