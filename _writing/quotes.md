@@ -1,4 +1,4 @@
----
+ff---
 layout: post
 permalink: /quotes.html
 title: Quotations
@@ -4008,6 +4008,9 @@ Always forgive your enemies--nothing annoys them so much.
 
 <a class="anchor" id="Z"></a>
 ### Z
+
+"There is, in that part of Europe particularly [northern] but more generally speaking in Europe, there is a tie to the community, to the land, to history, to a sense of your life revolving around a certin kind of communitarian identity that is very hard to replicate in the United States. You know, the United States is this big, brash, churning economic entity where people move. There's a much greater sense of you're always trying to remake yourself. It's the story of reinvention. Everyone is Jay Gatsby at some level. And that turns out to leave a lot of hollowness inside, that leaves a sense of 'Where do I fit in?' And I think so much of what has happened in America in the last 10 or 15, 20 years is this growing sense of hollowness, particularly for example for men; this is something Richard Reeves [author of *Of Boys and Men*, which is excellent] talks about a lot. And I think that that part of Europe in particular [northern]---small, clan-based, community-oriented---has managed to keep that sense of identity and keep that sense of purpose and community. And how you do that, it's in a way the fundamental challenge for liberal societies, because what liberalism did is it broke away from the certitude of faith, the certitude of tradition, the certitude of community, and it said 'You're free to make your own life' and for you to then define your life, the happiness of your life, exactly as you want. No priest is going to tell you this, no commissar is going to tell you this, no dictator is going to tell you this. And what people found was that it caused enormous anxiety. Kierkegard says 'Anxiety is the dizziness of freedom.', and I think we live with that dizziness of freedom in the Unites States, and that's a harder one. How do you fill that hole in the heart that people get when they are confronting modern life without the certainties of the old?"  
+--Fareed Zakaria, live event with Ezra Klein, 2025
 
 "Es mejor morir de pie que vivir de rodillas."  
 "It's better to die on your feet than to live on your knees."  
