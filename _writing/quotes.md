@@ -1,4 +1,4 @@
-ff---
+---
 layout: post
 permalink: /quotes.html
 title: Quotations
