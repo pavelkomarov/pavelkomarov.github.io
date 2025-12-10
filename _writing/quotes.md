@@ -307,7 +307,7 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "There is just one thing I can promise you about the outer-space program: your tax-dollar will go further."  
 --Wernher von Braun
 
-"[T]he reason why Trump was elected, and the reason why there is such incredible polarization in society right now, is because the top 10% of earners in the United States have been so focused on ensuring that they not only maintain but also extend their privilege. And for me the scandal that really summarized all of this was Varsity Blues and all of these very wealthy people that were doing everything possible to ensure that their kids--not deservant--found a way to get in to those best schools. And when I saw that Greenwich Connecticut, that *50%* of high schoolers taking the SAT out of Greenwich had, uh, letters from doctors that allowed them to take it with no time restrictions, unmonitored--that-that's not just rigged; I mean, that is *the* system. That's structural."  
+"[T]he reason why Trump was elected, and the reason why there is such incredible polarization in society right now, is because the top 10% of earners in the United States have been so focused on ensuring that they not only maintain but also extend their privilege. And for me the scandal that really summarized all of this was Varsity Blues and all of these very wealthy people that were doing everything possible to ensure that their kids---not deservant---found a way to get into those best schools. And when I saw that Greenwich Connecticut, that *50%* of high schoolers taking the SAT out of Greenwich had letters from doctors that allowed them to take it with no time restrictions, unmonitored---that-that's not just rigged; I mean, that is *the* system. That's structural."  
 -[Ian Bremmer, *Real Time with Bill Maher*, May 29th 2020](https://www.youtube.com/watch?v=N8a78lMXmAE&t=5m31s)
 
 "You know what? Maybe nobody's the victim. Maybe we're just victimizing ourselves to avoid bettering ourselves. We keep looking for somebody to blame, but it's us. We're the monsters."  
@@ -942,10 +942,10 @@ And know the place for the first time.
 "In general, he is always sizzling with new ideas, most of which are more spectacular than helpful, and hardly any of which get very far before some newer inspiration eclipses it. His most valuable contribution to physics is as a sustainer of morale. When he bursts in to the room with his latest brain wave and proceeds to expound on it with the most lavish sound effects and waving about of the arms, life at least is not dull."  
 --Freeman Dyson on Richard Feynman
 
-"When we arrived we were introduced to Henry Bethe, who is now 5 years old, but he was not at all impressed. In fact, the only thing he would say was 'I want Dick. You told me Dick was coming.' Finally he had to be sent off to bed since Dick--alias Feynman--did not materialize. About half an hour later Feynman burst in to the room, just had time to say 'So sorry I'm late, had a brilliant idea just as I was coming over.', and then dashed upstairs to console Henry. Conversation then ceased while the company listened to the joyful sounds above, sometimes taking the form of a duet, and sometimes of a one man percussion band."  
+"When we arrived we were introduced to Henry Bethe, who is now 5 years old, but he was not at all impressed. In fact, the only thing he would say was 'I want Dick. You told me Dick was coming.' Finally he had to be sent off to bed since Dick---alias Feynman---did not materialize. About half an hour later Feynman burst into the room, just had time to say 'So sorry I'm late, had a brilliant idea just as I was coming over.', and then dashed upstairs to console Henry. Conversation then ceased while the company listened to the joyful sounds above, sometimes taking the form of a duet, and sometimes of a one man percussion band."  
 --Freeman Dyson on Richard Feynman
 
-"For some reason Wheeler decided to hold the meeting at a grotesque place called World of Tennis, a country club where Texas oil millionaires go to relax. So there we were. We all grumbled at the high prices and the extravagant ugliness of our rooms. But there was nowhere else to go, or so we thought. But Dick thought otherwise. He just said 'To hell with it. I'm not going to sleep in this place!', picked up his suitcase, and walked off alone in to the woods. In the morning he reappeared, looking none the worse for his night under the stars."  
+"For some reason Wheeler decided to hold the meeting at a grotesque place called World of Tennis, a country club where Texas oil millionaires go to relax. So there we were. We all grumbled at the high prices and the extravagant ugliness of our rooms. But there was nowhere else to go, or so we thought. But Dick thought otherwise. He just said 'To hell with it. I'm not going to sleep in this place!', picked up his suitcase, and walked off alone into the woods. In the morning he reappeared, looking none the worse for his night under the stars."  
 --Freeman Dyson on Richard Feynman
 
 "Here it is standing  
@@ -979,11 +979,17 @@ an atom in the universe"
 "[I]f some direction or meaning could be given to our actions, great human forces would be unleashed. So, very many answers have been given to the question of the meaning of it all. But the answers have been of all different sorts, and the proponents of one answer have looked with horror at the actions of the believers in another. Horror, because from a disagreeing point of view, all the great potentialities of the race are channeled into a false and confining blind alley. In fact, it is from the history of the enormous monstrosities created by false belief that philosophers have realized the apparently infinite and wondrous capacities of human beings. ...  
 &emsp;&emsp;&emsp;What, then, is the meaning of it all? ... I think that we must frankly admit that *we do not know*. But, in admitting this, we have probably found the open channel.  
 &emsp;&emsp;&emsp;This is not a new idea; this is the idea of the Age of Reason. This is the philosophy that guided the men who made the democracy that we live under. The idea that no one really knew how to run a government led to the idea that we should arrange a system by which new ideas could be developed, tried out, and tossed out if necessary, with more new ideas brought in, a trial-and-error system.  
-&emsp;&emsp;&emsp;This method was a result of the fact that science was already showing itself to be a succesful venture at the end of the 18th century. Even then it was clear to socially-minded people that the openness of possibilities was an opportunity, and that doubt and discussion were essential to progress in to the unknown. If we want to solve a problem that we have never solved before, we must leave the door to the unknown ajar."  
+&emsp;&emsp;&emsp;This method was a result of the fact that science was already showing itself to be a succesful venture at the end of the 18th century. Even then it was clear to socially-minded people that the openness of possibilities was an opportunity, and that doubt and discussion were essential to progress into the unknown. If we want to solve a problem that we have never solved before, we must leave the door to the unknown ajar."  
 -Richard Feynman, The Value of Science
 
 "In the impetuous youth of humanity, we can make grave errors that can stunt our growth for a long time. This we will do if we say we have the answers now, so young and ignorant as we are. If we suppress all discussion, all criticism, proclaiming 'This is the answer, my friends. Man is saved!', we will doom humanity for a long time to the chains of authority, confined to the limits of our present imagination. It has been done so many times before. ... [D]oubt is not to be feared but welcomed and discussed"  
 --Richard Feynman, The Value of Science
+
+"His almost compulsive need to solve puzzles, his provocative mischievousness, his indignant impatience with pretension and hypocrisy, and his talent for one-upping anybody who tries to one-up him."  
+--Albert R. Hibbs, intro to *Surely You're Joking, Mr. Feynman*
+
+"The deep pleasure of scientific understanding that has been the wellspring of happiness in his life."  
+--Albert R. Hibbs, intro to *Surely You're Joking, Mr. Feynman*
 
 "It's easy to assume that others think the worst of you. But when you assume what others think, maybe all you're doing is turning them into a character that only exists in your mind. The nice thing is sometimes all it takes is a change in perspective to make the world feel brand new."  
 --Nathan Fielder, The Rehearsal ep 4
@@ -1509,7 +1515,7 @@ Cam: "I lost a really good friend. And I don't have that many of those to spare.
 --Russ Harris, *The Happiness Trap*
 
 "If you want to be happier, help somebody else."  
---Buddhist algorithm, as summarized by Sam Harris
+--Buddhist algorithm, as summarized by Sam Harris, see also [Mark Twain](#twain-selfless)
 
 "The next time something happens in your life that makes you angry or afraid or sad, how long will you spend locked in the prison of one of those emotions? And what will you do there? What indelible mark might you make in your life or in our world on the basis of one of those emotions?"  
 --Sam Harris
@@ -1557,6 +1563,9 @@ Goleman: "One of the main principles of cognitive therapy is that you don't have
 
 "It was worse than an illusion; it was a half-truth. Right? So it's very hard to debunk a half-truth, 'cause you're always in touch with the half that's true."  
 --Sam Harris, #381
+
+"As our first world societies increasingly secularize, and religion comes under the shadow and pressure of that, and there seem to be more zero-sum contests between scientific rationality and any policy that would be spun up on its basis [versus] religious dogmatism, you get this grinding of the gears of tradition and society. And I do think in America, for a long time, the so-called elite institutions have represented either an explicit or a tacit disavowal of some people's---many people's---most cherished beliefs, and that becomes at minimum a kind of lubricant for a kind of anti-institutional focus."  
+--Sam Harris, #441 (I'd point out it's a source of anti-intellectualism too.)
 
 "Live in truth."  
 --ethos of Vaclav Havel
@@ -2065,6 +2074,9 @@ Andrew Sullivan: "... and they keep trying to recreate the box and put you in it
 "You're like 'Mmm. This person's [laughing] charming as fuck!'"  
 --Bill Maher and Hannah Stocking, making the same point as Dale Carnegie
 
+"...all marginalized people live better today because of Western ideals, not in spite of them."  
+--Bill Maher
+
 "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."  
 --Nelson Mandela
 
@@ -2074,7 +2086,10 @@ Andrew Sullivan: "... and they keep trying to recreate the box and put you in it
 "As I walked out the door toward the gate that would lead to my freedom, I knew if I didn't leave my bitterness and hatred behind, I'd still be in prison."  
 --Nelson Mandela
 
-"The problem is when we’re on autopilot for so long that we forget we’re on autopilot. Because when we’re not even aware of our own habits, routines, impulses, and reactions, then we no longer control them—they control us."  
+"More than likely Tisquantum was not the name he was given at birth. In that part of the Northeast, *tisquantum* referred to rage, especially the rage of *manitou*, the world-suffusing spiritual power at the heart of coastal Indians’ religious beliefs. When Tisquantum approached the Pilgrims and identified himself by that sobriquet, it was as if he had stuck out his hand and said, 'Hello, I’m the Wrath of God.'"  
+--Charles Mann, [*Native Intelligence*](https://www.smithsonianmag.com/history/native-intelligence-109314481/)
+
+"The problem is when we’re on autopilot for so long that we forget we’re on autopilot. Because when we’re not even aware of our own habits, routines, impulses, and reactions, then we no longer control them—--they control us."  
 --[Mark Manson](https://markmanson.net/self-awareness)
 
 "Our responsibility for ourselves unleashes a deeper fulfillment by allowing us to construe whatever we confront into a value that fulfills our needs. Unruly kids grant us the opportunity to be a good parent and instill discipline and responsibility. A layoff at work grants us the opportunity to experiment with new career paths we had always daydreamed about. A terrible breakup gives us the chance to take an honest look at ourselves and how our behaviors affect our relationships with loved ones.  
@@ -2180,6 +2195,9 @@ You yearn to be that dream you could never get to
 "Despair is a development of pride so great that it chooses one's certitude rather than admit God is more creative than we are."  
 --Thomas Merton, as paraphrased in [First Reformed](https://en.wikipedia.org/wiki/First_Reformed)
 
+"Peace is not something you must hope for in the future. Rather, it is a deepening of the present, and unless you look for it in the present you will never find it."  
+--Thomas Merton
+
 <a class="anchor" id="Mezinger"></a>
 "You are identifying yourself with the content of your own self model, and you're completely glued in to it."  
 --Thomas Mezinger, on *Making Sense*
@@ -2208,6 +2226,9 @@ You yearn to be that dream you could never get to
 "Notwithstanding the Caratacus and Buttica led resistance to the early days of Roman control, by the time the Empire left the ancient Britons had gone completely Stockholm syndrome. They loved the Romans. In fact, they'd become the Romano-British, and with the legions gone thier instinct was to try to keep things going in a nice, comfy Roman way."  
 --David Mitchell
 
+"Goths and Franks...these upwardly-mobile barbarians"  
+--David Mitchell
+
 "...was beset by raids from the Picts, who came from what is now Scotland, and from the Scots, from what is now Ireland. I know that sounds willfully confusing, but there's nothing I can do about it."  
 --David Mitchell
 
@@ -2221,6 +2242,9 @@ You yearn to be that dream you could never get to
 --David Mitchell
 
 "He was rigorous and predictable. People knew where they stodd. In the medieval era, when people's expectations of government were unbelievably low by modern standards, this was was good as it got. All kings did terrible things, but the ones who did so out of weakness, capriciousness, viciousness, favoritism, or fear engendered uncertainty that led to violence and chaos. What helped daily life go smoothly was a straightforward, well-organized hardass."  
+--David Mitchell
+
+"Under him, England was a placid and administratively efficient place to live where conditions in general were improving. Why? He was predictable. That's the key. It's disappointing in a lover, but in a feudal overlord it hits the spot."  
 --David Mitchell
 
 "...though nobody seemed to be able to draw a face that looked realistic at any point between the Romans leaving and the Tudors. Does thinking that make me a Philistine? There's a picture on the Alfred Jewel in the middle of all the lovely gold work that archaeologists think is supposed to be Jesus. Nobody knows what Jesus really looked like, but we can be pretty sure he didn't look like that. It's skillfully crafted in enamel under quartz, but the image itself is like something I might have done while drunkenly playing online Pictionary on my phone."  
@@ -2255,6 +2279,9 @@ You yearn to be that dream you could never get to
 
 "He was lucky as well. He had been onboard the White Ship in Barfleur before it set sail, but a violent case of the shits forced him to disembark. Whatever fetid privy he settled onto once he'd hurried ashore turned out to be a far more auspicious enthronement than his subsequent one in Westminster, and made much less of a mess."  
 --David Mitchell
+
+"What was hereditary was the state of affairs in which they had all spent insufficient time mastering the art of getting over themselves."  
+--David Mitchell, *Unruly*
 
 "He's talked of as a very nice guy in person. Having myself once met and warned to Boris Johnson, I'm aware of the limitations and ficklenss of this attribute."  
 --David Mitchell
@@ -2490,6 +2517,9 @@ They're wrong"
 "'It's working, just need to test.' --all engineers before a failed test"  
 --Troy O'Neal, 17th April 2015
 
+"Life without illusions is unbearable, and life with illusions is unpardonable."  
+--Eugene O'Neil, although this does not appear to be a verbatim quote, instead possibly from a 1978 Time article summarizing his ideas
+
 "I am not alone  
 We are one  
 We are in this together"  
@@ -2616,6 +2646,7 @@ Trying to catch your light"
 "Expect greatness."  
 --Some sort of proverb
 
+<a class="anchor" id="fool"></a>
 "He who asks is fool for a moment, but he who does not ask remains a fool forever."  
 --Chinese Proverb
 
@@ -2787,7 +2818,7 @@ He truly embodied the principles of being genuinely interested in other people, 
 "It is hard to fail, but it is worse never to have tried to succeed."  
 --Theodore Roosevelt
 
-"Historically: the coffee house, the taver, the *third place*, the not-work, not-home public, social space where you could have people of different social classes, backgrounds, creeds all come together and bump up against each other [is lost when we're all on our phones]. Sometimes that might lead to trouble, but often it did lead to a kind of tolerance that I think is far different than our modern understanding of tolerance, which is: Tolerance is very much a list of all the things you're supposed to accept and endorse ["In this house we believe..."], versus real human tolerance...is about understanding human nature and accepting its limitations."  
+"Historically: the coffee house, the tavern, the *third place*, the not-work, not-home public, social space where you could have people of different social classes, backgrounds, creeds all come together and bump up against each other [is lost when we're all on our phones]. Sometimes that might lead to trouble, but often it did lead to a kind of tolerance that I think is far different than our modern understanding of tolerance, which is: Tolerance is very much a list of all the things you're supposed to accept and endorse ["In this house we believe..."], versus real human tolerance...is about understanding human nature and accepting its limitations."  
 --Christine Rosen, on Andrew Sullivan's Dishcast
 
 "Often in relationships between men and women, there is this weird pact that it's the women's job to interpret their relationship for the men. That they have a right to say, 'The problem with you is that you're afraid of commitment, and if only you would show up at my house at an approximately reasonable time, then we would be fine.' And that is bullshit: that the men are ready to outsource their own understanding of themselves to the women, and that the women will do that job so the men will do what they want. And yet it's a sort of agreed-upon game."  
@@ -3314,13 +3345,7 @@ Nothing's wasted"
 "Always do right. This will gratify some people and astonish the rest."  
 --Mark Twain
 
-"Always acknoledge a fault frankly. This will throw those in authority off their guard and give you the opportunity to commit more."  
---Mark Twain
-
-"You can't reason with your heart; it has its own laws, and thumps about things which the intellect scorns."  
---Mark Twain
-
-"There isn't time---so brief is life---for bickerings, apologies, heartburnings, callings to account. There is only time for loving---& but an instant, so to speak, for that."  
+"Always acknowledge a fault frankly. This will throw those in authority off their guard and give you the opportunity to commit more."  
 --Mark Twain
 
 "The darling mispronunciations of childhood!---dear me, there's no music that can touch it; and how one grieves when it wastes away and dissolves into correctness, knowing it will never visit his bereaved ear again."  
@@ -3356,15 +3381,34 @@ Nothing's wasted"
 "October. This is one of the particularly dangerous months to invest in stocks. Other dangerous months are July, January, September, April, November, May, March, June, December, August and February."  
 --Mark Twain.
 
-"Better to keep your mouth shut and appear stupid than to open it and remove all doubt."  
---Mark Twain
-
 "How easy it is to make people believe a lie, and how hard it is to undo that work again!"  
 Often paraphrased as: "It is easier to fool people than to convince them they have been fooled."  
 --Mark Twain
 
 "It is a civilization which has destroyed the simplicity and repose of life; replaced its contentment, its poetry, its soft romance-dreams and visions with the money-fever, sordid ideals, vulgar ambitions, and the sleep which does not refresh; it has invented a thousand useless luxuries, and turned them into necessities; it has created a thousand vicious appetites and satisfies none of them; it has dethroned God and set up a shekel in His place."  
 --Mark Twain
+
+<a class="anchor" id="twain-selfless"></a>
+"The best way to cheer yourself up is to try to cheer somebody else up."  
+--Mark Twain, see also the "Buddhist algorithm"
+
+"Do something every day that you don't want to do; this is the golden rule for acquiring the habit of doing your duty without pain."  
+--Mark Twain
+
+"You can't reason with your heart; it has its own laws, and thumps about things which the intellect scorns."  
+--Mark Twain
+
+"There isn't time---so brief is life---for bickerings, apologies, heartburnings, callings to account. There is only time for loving---& but an instant, so to speak, for that."  
+--Mark Twain
+
+"Love is not a product of reasonings and statistics. It just comes---none knows whence---and cannot explain itself."  
+--Mark Twain
+
+"It is better to live outside the Garden with her than inside it without her."  
+--Mark Twain
+
+"Better to keep your mouth shut and appear stupid than to open it and remove all doubt."  
+--[not Mark Twain](https://quoteinvestigator.com/2010/05/17/remain-silent/), also backwards in my opinion: cf. [this Chinese proverb](#fool)
 
 "Facts are true whether or not you believe them."  
 --Neil deGrasse Tyson
@@ -3447,6 +3491,9 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 
 "The greatest comedy is played at the Exchange. There ... the speculators excel in tricks, they do business and find excuses wherein hiding places, concealment of facts, quarrels, provocations, mockery, idle talk, violent desires, collusion, artful deceptions, betrayals, cheatings, and even tragic end are to be found."  
 --Joseph de la Vega, Confusion of Confusions
+
+"It is because I know who I am that I realize what I can be one day."  
+--Jules Verne, turning down his father's law practice
 
 "Most thrilling was Hamming's vivid image of *greatness*, and its unapologetic pursuit. Not only was it allowable to aim for greatness, it was cowardly not to. It was the most inspirational thing I'd ever read.  
 ...  
@@ -3874,6 +3921,9 @@ that's long since passed me by?"
 “Do all the good you can, by all the means you can, in all the ways you can, in all the places you can, at all the times you can, to all the people you can, as long as you ever can.”  
 --John Wesley
 
+"Loving yourself is not antithetical to health; it is intrinsic to health. You can't take good care of a thing you hate."  
+--Lindy West, quoted by Johann Hari in *Magic Pill*
+
 "If only we'd stop trying to be happy we could have a pretty good time."  
 --Edith Wharton
 
@@ -3939,6 +3989,9 @@ that's long since passed me by?"
 "On August 19, 2019, the group updated its decades-old definition of the purpose of a corporation, doing away with its bedrock principle that shareholder interests must be placed above all else. The statement, signed by nearly 200 chief executive officers from major U.S. corporations, makes a "fundamental commitment to all of our stakeholders," including customers, employees, suppliers and local communities."  
 --Wikipedia, Business Roundtable
 
+"The Pygmalion effect is a psychological phenomenon in which high expectations lead to improved performance"  
+--Wikipedia, a management trick that's even worked on me
+
 Always forgive your enemies--nothing annoys them so much.  
 --Oscar Wilde
 
@@ -3971,6 +4024,9 @@ Always forgive your enemies--nothing annoys them so much.
 
 "It's a little slice of heaven. But unfortunately this feeling doesn't last very long, because now that you finally have what you've always wanted, all you can think about is losing it."  
 --John Wilson, ep 2.3 (about a parking space)
+
+"I don't believe anything, but I have many suspicions."  
+--Robert Anton Wilson
 
 "I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves."  
 --Ludwig Wittgenstein
