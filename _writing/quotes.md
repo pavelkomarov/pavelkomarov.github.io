@@ -1597,6 +1597,12 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 "The enemy is anybody who's going to get you killed, no matter which side he's on."  
 --Joseph Heller, *Catch 22*
 
+"Clevinger had a mind, and Lieutenant Scheisskopf had noticed that people with minds tended to get pretty smart at times. Such men were dangerous"  
+--Joseph Heller, *Catch 22*
+
+"He was a long-limbed farmer, a God-fearing, freedom-loving, law-abiding rugged individualist who held that federal aid to anyone but farmers was creeping socialism. He advocated thrift and hard work and disapproved of loose women who turned him down. His specialty was alfalfa, and he made a good thing out of not growing any. The government paid him well for every bushel of alfalfa he did not grow. The more alfalfa he did not grow, the more money the government gave him, and he spent every penny he didn't earn on new land to increase the amount of alfalfa he did not produce....He invested in land wisely and soon was not growing more alfalfa than any other man in the country. Neighbors sought him out for advice on all subjects, for he had made much money and was therefore wise."  
+--Joseph Heller, *Catch 22*. Prefectly parodies actual government policy to subsidize farmers, especially for thirsty crops like alfalfa to preserve water, and farmers' paradoxical conservative attitudes, which remain to this day. Also wonderfully parodies the pride wealthy people seem to bring to all pursuits in our materialistic culture (see Musk, Altman, etc.), where our values can get crossed and conflated.
+
 "Cynicism is an unpleasant way of saying the truth."  
 --Lillian Hellman
 
