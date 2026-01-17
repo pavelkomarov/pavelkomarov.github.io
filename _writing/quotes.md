@@ -1306,6 +1306,9 @@ Reminds me of Steve Ratts saying you know a new diver because they go zipping ar
 "Failure is when you stop dreaming."  
 --Public defender's father in Gideon's Army
 
+"The worse the society, the more law there will be. In hell there will be nothing but law, and due process will be meticulously observed."  
+--Grant Gilmore, law professor
+
 "Be happy with what you have and are, be generous with both, and you won't have to hunt for happiness."  
 --William Gladstone
 
@@ -2294,6 +2297,7 @@ You yearn to be that dream you could never get to
 "He was lucky as well. He had been onboard the White Ship in Barfleur before it set sail, but a violent case of the shits forced him to disembark. Whatever fetid privy he settled onto once he'd hurried ashore turned out to be a far more auspicious enthronement than his subsequent one in Westminster, and made much less of a mess."  
 --David Mitchell
 
+<a class="anchor" id="getting-over-themselves"></a>
 "What was hereditary was the state of affairs in which they had all spent insufficient time mastering the art of getting over themselves."  
 --David Mitchell, *Unruly*
 
@@ -3582,14 +3586,14 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 --Dan Wang, *Breakneck*, beginning of chapter 1, Engineers vs. Lawyers
 
 "What do engineers like to do? *Build*."  
---Dan Wang, *Breakneck, Engineers vs. Lawyers. Reminds me of many days spent with Legos and that the beaver truly is the best mascot MIT could have chosen.
+--Dan Wang, *Breakneck*, Engineers vs. Lawyers. Reminds me of many days spent with Legos and that the beaver truly is the best mascot MIT could have chosen.
 
 "The United States by contrast has a government of the lawyers, by the lawyers, and for the lawyers. Five out of the last ten presidents attended law school. In any given year at least half the US Congress has law degrees, while at best a handful of members have studied science or engineering....only two American presidents worked as engineers: Herbert Hoover, who built a fortune in mining, and Jimmy Carter, who served as an engineering officer on a nuclear submarine. Hoover and Carter are remembered for many things, especially for their dismal political instincts that produced thumping electoral defeats.  
 &emsp;&emsp;&emsp;Lawyers have so many tools available to delay or prevent building. You don't just feel the difference going from the lawyerly society to the engineering state; you saunter, tread, and amble upon its works. Americans no longer manufacture well or build public works on reasonable timelines. US infrastructure is falling into a pitiable state, while China is building new systems of subways, bridges, and highways....Lawyers enable some of the success of Silicon Valley; you can't build companies worth trillions without legal protections. But lawyers are also part of the reason that the Bay Area and much of the country are starved of housing and mass transit. The United States used to be, like China, an engineering state, but in the 1960s the priorities of elite lawyers took a sharp turn. As Americans grew alarmed by the unpleasant byproducts of growth---environmental destruction, excessive highway construction, corporate interests above public interests---the focus of lawyers turned to litigation and regulation. The mission became to stop as many things as possible."  
 --Dan Wang, *Breakneck*, Engineers vs. Lawyers
 
 "[China]'s leaders aren't only civil or electrical engineers; they are, fundamentally, *social* engineers."  
---Dan Wang, *Breakneck*
+--Dan Wang, *Breakneck*, Ch. 1
 
 "The engineering state can be awfully literal-minded. Sometimes it feels like China's leadership is made up entirely of hydaulic engineers who view the economy and society as liquid flows, as if all human activity, from mass production to reproduction, can be directed, restricted, increased or blocked with the same ease as turning a series of valves. Can a government be too efficient? Six years in China taught me that the answer is 'yes' when it is unbounded by citizen input. There are many self-limiting aspects of a system that makes snap decisions with so little regard for people. This book reveals good things that the engineering state does---running functional cities, building up its manufacturing base, and spreading material benefits pretty widely throughout society---, but I also lived through things that no other state would have attempted, like holding on to a zero covid strategy until it drove the country mad. The fundamental tenet of the engineering state is to look at people as aggregates, not individuals. The Communist party envisions itself as a grandmaster, coordinating unified actions across state and society, able to launch strategic maneuvers beyond the comprehension of its citizens. Its philosophy is to maximize the discretion of the state and minimize the rights of individuals. Engineers often treat social issues as math exercises. Does the country have too many people? Beijing's solution was to prohibit families from birthing more than one child...through mass sterilization and abortion campaigns, as the central government ordered in 1980. Is the novel coronavirus spreading too quickly? Build new hospitals at breathtaking speed, yes, but also confine people to their homes as Wuhan, Xi'an, and Shanghai did, to millions of people over weeks....There is no confusion about the purpose of Zero Covid or the One Child Policy; the number is right there in the name.  
 &emsp;&emsp;&emsp;China's economy isn't immune to engineering either. When Beijing grew uncomfortable with the debt levels of real estate developers in 2021, the state forced so many of them into distress that it triggered a prolonged slump in home buyer confidence. Around the same time, Xi hurled a series of regulatory thunderbolts at China's high-flying tech companies....Chinese tech founders and their investors were astonished to discover that Xi Jinping could erase a trillion dollars from corporate valuations over the course of just a few months. The leadership thought it was straightforward to reorient the nation's tech priorities away from consumer platforms and toward science-based industries like semiconductors and aviation that serve the nation's strategic needs. Beijing took years to appreciate how its actions had scared the daylights out of entrepreneurs and investors.  
@@ -3621,19 +3625,148 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 --Dan Wang, Engineers vs. Lawyers
 
 "The engineering State is focused mostly on monumentalism. Though there are many public toilets, provision of toilet paper is only a sometimes thing."  
---Dan Wang, Ch. 2
+--Dan Wang, Ch. 2, Building Big
 
 "I've come to realize that there are many ways that China and the United States are inversions of each other. Households save a great deal of their earnings in China, while it is really easy to borrow money or spend on credit in America. In terms of national policy, China is much more focused on the supply side of the economy. It suppresses consumption as it favors manufacturers with preferential financing and all manner of policy support. The United States meanwhile is focused on regulating demand, for example by imposing rent control in expensive cities or mailing out checks to consumers during the pandemic....When the [US] federal government offers...rental support in housing-scarce cities, landlords can raise their prices, leaving renters no better off. When it increases financial aid for spiraling college tuition costs, universities are able to eat part of that by raising their tuition."  
 --Dan Wang, Ch. 2
 
+"An official...might be more interested in building a gleaming hospital filled with sophisticated equipmnet. Their attention drifts, however, when it comes to installing the trained technicians capable of operating the facility, since the Communist party is better at rewarding new construction than health outcomes. The Engineering State is focused mostly on monumentalism. Though there are many public toilets, provision of toilet paper is only a sometimes thing. Nowhere in China is it advisable to drink tap water, not even Shanghai."  
+--Dan Wang, Ch. 2
+
 "Process knowledge is hard to measure, because it exists mostly in people's heads and the pattern of their relationships to other technical workers. We tend to refer to these intangibles as 'know-how', 'institutional memory', or 'tacit knowledge'. They are embodied by an experienced workforce like Shenzhen's....If an engineer in Shenzhen has an idea for a new product, it's easy to tap into an eager network of investors. Shenzhen is a community of engineering practice where factory owners, skilled enginers, entrepreneurs, investors, and researchers mix with the world's most experienced workforce at producing high end electronics. Silicon Valley used to be like this too, but now it lacks a critical link in the chain, the manufacturing workforce. The value of these communities of engineering practice is greater than any single company or engineer. Rather, they have to be understood as ecosystems of technology. The American imagination has been too focused on the creation of tooling and blueprints. Andy Grove, the legendary former CEO of Intel, said it best in 2010, that the United States needs to focus less on the 'mythical moment of creation' and more on the 'scaling up' of products. Grove saw Silicon Valley transition from doing both invention and production to specializing only in the former, and he understood quite well that technology ecosystems would rust if the research and development no longer had a learning loop from the production process."  
---Dan Wang, Ch. 3
+--Dan Wang, Ch. 3, Tech Power
 
 "[Western] agencies misunderstood the point of Shenzhen. They were still more interested in individual inventors rather than understanding it as a community of engineering practice. The obsession with invention has clouded Silicon Valley’s ability to appreciate China's actual strength. Rather than seeing tools and blueprints as the ultimate ends of technological progress, I believe we should view them as milestones in the training of better scientists and manufacturers. Viewing technology as people and process knowledge isn’t only more accurate, it also empowers our sense of agency to control the technologies we are producing."  
 --Dan Wang, Ch. 3. You see the West's emphasis on individualism vs. China's on collectivism there.
 
 "Why have so many manufacturers crumbled? Partly I think we can examine the culture of financial investors. Wall Street has been far keener to invest in capital-light businesses, digital platforms like social media and search engines, or chip companies that focus on design rather than cumbersome fabrication facilities....In retrospect, it is an indictment of the American financial system that fundraising for a manufacturing leader [Tesla] had to be this difficult. Financialization also intersects with corporate consolidation. One prominent line of argument regarding General Electric was that the company was taken over by finance. That applies in greater force against Boeing. Once run by engineers obsessed with safety and quality, its leadership shifted to executives more focused on delivering shareholder value than good planes. Mostly though, I think the problem lies with American policymakers and executives, who failed to grasp the importance of process knowledge....Entire American communities of engineering practice have dissolved, leaving behind a region known as the rust belt. Some mayors and governors tried to stem this receding tide, but they were continuously scorned by economists and executives, who sought low-wage production in the name of globalization. Still today, many American economists doubt there is anything special about manufacturing and put their faith in the inevitable march to a service economy."  
 --Dan Wang, Ch. 3. I like how he points out the conventional economic wisdom is largely just an ideology like any other. *shakes fist at globalists*. Imagining what those American communities of practice he's talking about may have grown into reminds me of the world in Detroit: Become Human.
+
+"A focus on manufacturing gives China another advantage in technological competition with the United States: It can simply wait for American scientists to do the fundamental research before Chinese companies take over the production. That is, in essence, what happened with the solar industry."  
+--Dan Wang, Ch. 3
+
+"The results of the Chinese government’s unceasing interventions in the economy are at best ambiguous. Economic studies have shown that the recipients of Chinese subsidies have, on average, lower productivity growth….China’s tech successes are no convincing demonstration that a wise state can plan the future."  
+--Dan Wang, Ch. 3
+
+"At this critical moment, the country lacked the intellectual antibodies to resist [the one child policy]"  
+--Dan Wang, Ch. 4, One Child
+
+"Song’s example [the arrogant cybernetics guy who suggested the one child policy] is one reason that I’ve become suspicious of anyone who advocates ‘following the science’....There is still truth, I think, to Winston Churchill's quip that scientists should be 'on tap, not on top'."  
+--Dan Wang, Ch. 4, on how scientism can be an appeal to authority fallacy, and how those with expertise in one area often confuse it for general aptitude in all areas and cease to let in fair criticism (à la Brett Weinstein)
+
+"Social engineering in this case [1 child policy] has produced a spiritual defeatism manifesting in broad exhaustion throughout society."  
+--Dan Wang, Ch. 4
+
+"The authoritarian impulse to suppress bad news"  
+--Dan Wang, Ch. 5, Zero-Covid, on the state punishing medical whistleblowers early on in Covid, including Dr. Li Wenliang who died of the disease
+
+"The costs of zero covid seemed worth it for a while. Only later did the increasingly severe movement controls and state disregard for any medical condition except covid turn the strategy into a farce. Officials brought a literal-mindedness to enforcing zero covid that created situations best described as whimsical."  
+--Dan Wang, Ch. 5
+
+"Throughout the three years of the pandemic, China developed a weightier state apparatus, one better able to impress itself upon subjects using digital surveillance."  
+--Dan Wang, Ch. 5
+
+"Hill peoples who have developed state-repellant practices....Mountains have beckoned to dissenters, rebels, and subversive types. It is not only the air that thins out at higher altitudes; the tendrils of the state do too....What is a difficulty for government administration and industrial growth is often a positive for personal liberties."  
+--Dan Wang, Ch. 5
+
+"Carrying blank pieces of paper became a way to symbolize China’s censorship. It was a perfect echo. Whiteness represented the enforcement of pandemic controls through the protective medical suits of masked groups of Da Bai, ‘big whites’, until young people appropriated it for protest. Later, anti-covid demonstrations in China were collectively known as the White Paper Protests."  
+--Dan Wang, Ch. 5
+
+"For three years the government made it difficult for people to buy ibuprofen, advil, and other fever-reducers for fear that people might disguise their fevers to avoid detection....As best as I can tell, China is the only country that denied its people fever medications during a fever-producing pandemic. It is a perfect encapsulation of the Engineering State’s twisted logic."  
+--Dan Wang, Ch. 5
+
+"After moving from China to the Yale Law School, I gained some new perspectives. It was a good thing that the United States stumbled to 'live with the virus'. I found one item particularly quite irksome on my return to America in 2023: a yard sign that begins 'In this home we believe science is real'....we have to keep in mind that there is a political determination involved with how to interpret the science, and that is something the lawyerly society is better at."  
+--Dan Wang, Ch. 5
+
+"Engineering only works if it is using good data, but data probity is another of China’s casualties in the aftermath of covid. The government has had a wobbly commitment to accurate reporting at the best of times. After the pandemic the government has more regularly succumbed to the temptation not to share bad news....After 2023, China is fudging many other pieces of data, from birth rates to youth unemployment."  
+--Dan Wang, Ch. 5
+
+"'China feels like a space in which the ceiling keeps getting lower', Yi Joo told me one day. 'To stay means that we have to walk around with our heads lowered and our backs hunched.' Young people in Chiang Mai [Thailand] told me they've felt a quiet shattering of their worldviews over the decade of Xi Jinping's rule. These are people who grew up in bigger cities and attended good universities, some of them overseas, which endowed them with certain expectations, that they could pursue meaningful careers, that society would gain greater freedoms, and that China would continue to be more integrated with the rest of the world. These aspirations have mostly shriveled."  
+--Dan Wang, Ch. 6, Fortress China
+
+"Hard numbers are difficult to work out, but one UK-based immigration firm estimated that nearly 14,000 millionaires emigrated from China in 2023, and over 15,000 in 2024."  
+--Dan Wang, Ch. 6
+
+"US border officials have apprehended rising numbers of Chinese nationals, from 450 in 2021 rocketing to 38,000 in 2024....Entire generations feel whipsawed by the Engineering State's violent mood swings. Their jobs, and indeed their lives, in China felt like dead-ends....they become unmoored. This sense of alienation has been a big reason to *run*."  
+--Dan Wang, Ch. 6
+
+"When I moved to Hong Kong at the start of 2017 I entertained the idea that we were living at the start of an 'Asian century' in which China and India would restore Asia to the economically dominant role it played centuries ago. I didn't believe it, necessarily, but it didn't feel like a crazy scenario....I departed the country with a better appreciation of the self-limiting features of the Chinese system. Most notably, the Communist Party distrusts and fears the Chinese people, limiting their potential for flourishing. The engineering state tends to begin impressively and end disastrously."  
+--Dan Wang, Ch. 6
+
+"The economy that emerged out of the pandemic is characterized by high youth unemployment, shaky household confidence, and limp consumer demand. Unicorns aren't easily bred on such impoverished fields, especially not when there's a giant hunter stalking to ensure they conform to socialist core values. Consequently, fewer entrepreneurs are founding startups, and venture investment in China has collapsed."  
+--Dan Wang, Ch. 6
+
+"One of the things I've been surprised by in recent years is how many Americans who used to make regular trips no longer care to visit China. These were businesspeople, investors, and academics who are familiar with China. Many of them felt real fear that they would no longer be able to depart once they entered."  
+--Dan Wang, Ch. 6
+
+"I don’t believe that China will meaningfully surpass the United States as a global power"  
+--Dan Wang, Ch. 6
+
+"I submit that we must reconcile two realities when we read the headlines. First, the rich, the creative, and the desperate have chosen to *run* from the economic and political gloom that pervades Xi's third term. Second, the manufacturing sector continues to go from strength to strength in the mastery of electric vehicles, clean technology, and other advanced technologies....The reckless interventions that engineers have dealt to economy and society have left many people seriously disgruntled, spurring them to move their wealth or themselves abroad. Meanwhile, China has embarked on a quest to build a technologically powerful country. On that I believe it might succeed. My view is that Xi will not achieve his bigger gambit, which is to propel China to displace the United States as the world's preeminent nation, measured not only by economic size, but also diplomatic influence, cultural output, and national prestige. The control neurosis of the engineers is the fundamental limit to China's power."  
+--Dan Wang, Ch. 6, That control neurosis is something I've had to personally grapple with, only accepting after being forced to learn some patience, humility, and therapy that things and especially other people will not always do as I desire, and no amount of power or exertion or persuasion can sway them entirely or without other costs. Unfortunately, rulers are often in position not to have learned those lessons. Reminds me [David Mitchell's line from *Unruly*](#getting-over-themselves). Pride goes before destruction, as the Proverb says, which I always found very annoying when it was quoted at me as a child.
+
+"Xi comes across as someone who is a little bit too eager for groveling respect from the rest of the world, which is exactly why he’ll never get it."  
+--Dan Wang, Ch. 6
+
+"The issue [of China not producing much cultural export like Japan or South Korea] isn’t that Chinese people are somehow less imaginative, rather the state’s deadening hand has suppressed their creativity."  
+--Dan Wang, Ch. 6
+
+"Engineers don’t know how to persuade." "Engineers can’t take a joke."  
+--Dan Wang, Ch. 6
+
+"The Chinese government and Chinese companies tend, on average, to maintain greater stockpiles so they have greater resilience....they are better able to leap into action in any crisis. A lot of manufacturing and food capacity is a useful thing to have if there is another pandemic---or a war."  
+--Dan Wang, Ch. 6
+
+"In 2025 China will graduate more than twice as many PhDs in STEM fields as the United States, and many in American universities are Chinese nationals likely to repatriate.""
+--Dan Wang, Ch. 6
+
+"'The competition for national strength', goes one commentary from the Ministry of Science and Technology in 2024, 'is essentially a contest of scientific and technological innovation, ultimately proving which political system is superior.' It is a strange sort of declaration, implying that countries should not be judged by whether they create better economic outcomes, generate greater aesthetic or intellectual flourishing, or produce some more general measure of well-being for the population. In the last Cold War, the United States and the Soviet Union argued over broader measures of success; for a segment of elites in Xi’s China, echoing the beliefs of the Industrial Party, who can do better on science and technology determines all."  
+--Dan Wang, Ch. 6
+
+"Abundant funds are far more critical to science than free speech...It’s easier to receive funding in Chinese universities than in American universities. Their money comes without many strings attached, whereas a grant application to the National Science Foundation requires fastidiousness on formatting, endless reporting requirements, and the threat of jail if they don't make a proper disclosure."  
+--Dan Wang, Ch. 6
+
+"While disciplining digital platforms and the real virtual economy with one hand, Beijing has with its other dispensed favor to harder technologies like semiconductors. Xi was trying to reorient technology companies to be less focused on virtual or financial innovation and for the best and brightest from Tsinghua and Peking universities to work in strategic industries instead. Underlying Beijing's actions against digital platforms is a suspicion that tremendously profitable digital companies are not producing value for the rest of society."  
+--Dan Wang, Ch. 6, a suspicion we all share tbh
+
+"In the United States, physics and mathematics PhDs hardly have a chance to consider working in their field before a tech giant or hedge fund picks them up at the sidelines of a conference, flashes them with a humongous pay package, and folds these eager minds into their glamorous embrace."  
+--Dan Wang, Ch. 6
+
+"Ever since the introduction of the imperial examinations in the 6<sup>th</sup>sup> century by the Sui dynasty, would-be intellectuals [in China] have mostly conformed to studying a curriculum set by the emperor."  
+--Dan Wang, Ch. 6
+
+"China's leaders have for millennia tried to impose greater controls on the people, and the people have developed their own strategies for dealing with this control. Though the state wants to see society as an engineering exercise, the reality of China, immediately obvious to those of us who have spent any time there, is that the country is messy. Daily life in China is far more disorderly than the images projected in state media, in which every village is immaculate and everyone sits with a straight back as they listen to Xi's pronouncements. Neither is the Communist party staffed by a far-planning technocracy, nor is it able to squeeze as hard as it wants to achieve national security. People find ways to adapt around the most onerous demands of the engineers. They wield 'weapons of the weak'. When folks see a flurry of senseless rules from the government, they might react with foot-dragging, petty non-compliance, feigned ignorance, and arguing back."  
+--Dan Wang, Ch. 6
+
+"There are always tradeoffs and compromises inherent to building large-scale public works, and instead of vilifying the people from our past who made tough choices, we must confront these tough choices ourselves. The United States has been weakened not only by a procedure-obsessed left, which has become so determined to avoid the errors of [Robert] Moses that few big works are built at all, but also a thoughtlessly destructive right. I bring up Moses to suggest that the American left needs to rouse itself to deal with the problems of the present day rather than the problems of the previous midcentury. The American right, I hope, can remember that it is possible to build wonders using the government."  
+--Dan Wang, Ch. 7, Learning to Love Engineers
+
+"[Rickover, father of the nuclear submarine,] was a perfectionist engineer who had the patience to work for decades within the government to see his vision through."  
+--Dan Wang, Ch. 7
+
+"I think about Robert Moses and Hyman Rickover not because they were gentle souls. Each had an unseemly lust for power. Both men were idealists with sharp elbows. Both men, as it happens, were also Jewish, experiencing prejudice in institutions meant to be genteel, Yale University for Moses, and the US Navy for Rickover. Both were also devoted public servants who spent their entire lives building great works for government pay."  
+--Dan Wang, Ch. 7
+
+"[The America Right’s] problem is that they diagnose the cause of inefficiency as a lazy workforce rather than the mountains of procedure that civil servants labor under. DOGE would be more effective if it targeted reductions in process rather than personnel."  
+--Dan Wang, Ch. 7
+
+"If ambitious people are mostly working in consumer internet companies, then there's little wonder at the disappointment embedded in Peter Thiel's quip: 'We wanted flying cars. Instead we got 140 characters.'"  
+--Dan Wang, Ch. 7
+
+"Though New York has mass transit, most of it was built a century ago, such that entering a subway station in Manhattan feels too often like descending into a rotting pit, where one stands amid trash and worrisome leaks until a deafening metallic screech announces the train. It's not that the city doesn’t spend enough on these problems: New York has the honor of hosting 5 of the 6 most expensive transit projects in the world. It costs five times as much to build a kilometer of subway in New York City as it does in Paris."  
+--Dan Wang, Ch. 7
+
+"[T]he pace of building has been terribly slow. In 2021 Congress allocated $42 billion to expand broadband services to rural communities in a plan known as 'Internet for All'. Four years later, not a single home has been connected to this network. Two years after congress allocated $7.5 billion to build electric vehicle charging stations across the United States, just 7 have become operational. The leisurely pace of construction was a political failure for the Democrats....The problem, rather [than finding ways to pay for projects], is that the government insists on tripping itself up. The ludicrously slow pace of construction in the United States would not be such a big deal if the world wasn't facing a climate crisis. What the United States has lost sight of is that the public might prefer a government that does *something* rather than one that's so exquisite about process. When public works arrive seriously over budget, when the state is barely able to maintain existing infrastructure, when timelines for a new train or a new station can be more than a decade away, we have to question whether the present approach is fit for purpose."  
+--Dan Wang, Ch. 7
+
+"We all feel that the United States has become distinctly unambitious. The path forward demands that we reclaim a sense of optimism, an ability to make plans and deliver on them."  
+--Dan Wang, Ch. 7
+
+"[L]awyers should be joined by engineers, economists, and other sorts of humanists to make sure that the country is able to work for the many, not only the few."  
+--Dan Wang, Ch. 7
+
+"The Engineering State has delivered great things, but the Communist Party is made up of too many leaders who distrust their own people and have little idea how to appeal to the rest of the world. They will continue to bring literal-minded solutions for their problems, attempting to engineer away their challenges, leaving the situation worse than they found it. Beijing will never be able to draw on the best feature of the United States, embracing pluralism and individual rights. The Communist Party is too afraid of the Chinese people to give them real agency. Beijing will not realize that the creatives and entrepreneurs it is chasing into exile are not the enemy. It will not accept that their creative energy could bring as much prestige to China as great public works....Part of the hopefulness of prior decades has evaporated under Xi, which is another substantial reason that China will not outcompete the United States….The United States has pluralistic values, which positions it to better figure out the right solutions….pluralism still provides the potential for course-correction. The ultimate reason to be hopeful for the United States is that it can look to its own history to see the path forward. You can see the musculature of the engineering state amid the mighty industrial works scattered all over the country. There’s a natural legacy it has to draw on to stage this next act of transformation. What the United States presently lacks is the urgency to make the hard choices to build. Americans have to trust that society can flourish without empowering lawyers to micromanage everything. The United States should embrace its transformational urge. I hope one day that America can declare itself to be a developing country too. It can demonstrate that the country is able to reform itself, get unstuck from the status quo, and ultimately unlock as much as possible of human potential. Developing is a term to embrace with pride."
+--Dan Wang, Ch. 7
 
 "I can't afford the luxury of waiting to give love until all the set pieces are in place and the scores are even. I have to love those who might not love me back."  
 --Steve Warren, my Dad's gay college friend, after Trump's second election
