@@ -364,6 +364,10 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned."  
 --Buddha
 
+<a class="anchor" id="buddha-circularity"></a>
+"Our life is the creation of our minds. With our minds we make the world."  
+--Buddha
+
 "They may forget what you said, but they will never forget how you made them feel."  
 --[Carl Buehner](https://quoteinvestigator.com/2014/04/06/they-feel/)
 
@@ -902,6 +906,9 @@ And know the place for the first time.
 --Epictetus
 
 "The origin of sorrow is this: to wish for something that does not come to pass."  
+--Epictetus
+
+"What really frightens and dismays us is not external events themselves, but the way in which we think about them. It is not things that disturb us, but our interpretation of their significance."  
 --Epictetus
 
 "Public speaking is the art of diluting a two-minute idea with a two-hour vocabulary."  
@@ -1520,6 +1527,9 @@ Cam: "I lost a really good friend. And I don't have that many of those to spare.
 
 "If you want to be happier, help somebody else."  
 --Buddhist algorithm, as summarized by Sam Harris, see also [Mark Twain](#twain-selfless)
+
+"It is just your mind that you are experiencing in each moment. It's not that the world doesn't exist, but your every encounter with the world, and with other people, happens in and as this conscious mind....by reacting and judging and, at bottom, thinking incessantly without knowing it."  
+-Sam Harris. See also [Buddha](#buddha-circularity). We and our minds are inside reality, but also reality is mediated by and can be distorted by our minds.
 
 "The next time something happens in your life that makes you angry or afraid or sad, how long will you spend locked in the prison of one of those emotions? And what will you do there? What indelible mark might you make in your life or in our world on the basis of one of those emotions?"  
 --Sam Harris
@@ -2953,6 +2963,9 @@ The thing you should be asking is for help!"
 "I reject your hypothesis and substitute my own."  
 --Adam Savage, *Mythbusters*
 
+"Because denial is a form of self protection, if only against anguishing thoughts and feelings, and because it contains something useful, and perhaps even, in its way, necessary to life, anyone who invites people to draw aside the veil and look at the peril face to face is at risk of trespassing on inhibitions that are part of our humanity."  
+--Jonathan Schell, *The Fate of the Earth*
+
 "Any intelligent fool can make things bigger and more complex. It takes a touch of genius and a lot of courage to move in the opposite direction."  
 --E. F. Schumacher
 
@@ -3248,12 +3261,21 @@ Anderson: "And that one thing that mattered was?"
 modernized as "Victory has a hundred fathers; defeat is an orphan."  
 --Tacitus
 
-"I hesitate to give advice because every major single piece of advice I was given turned out to be wrong and I am glad I didn’t follow them. I was told to focus and I never did. I was told to never procrastinate and I waited 20 years for the Black Swan and it sold 3 million copies. I was told to avoid putting fictional characters in my books and I did put in Nero Tulip and Fat Tony because I got bored otherwise. I was told to not insult the New York Times and the Wall Street Journal, the more I insulted them the nicer they were to me and solicit Op-Eds. I was told to avoid lifting weights for a back pain and became a weightlifter: never had a back problem since.  
+"I hesitate to give advice because every major single piece of advice I was given turned out to be wrong and I am glad I didn’t follow them. I was told to focus and I never did. I was told to never procrastinate and I waited 20 years for the Black Swan and it sold 3 million copies. I was told to avoid putting fictional characters in my books and I did put in Nero Tulip and Fat Tony because I got bored otherwise. I was told to not insult the New York Times and the Wall Street Journal; the more I insulted them the nicer they were to me and solicit Op-Eds. I was told to avoid lifting weights for a back pain and became a weightlifter: never had a back problem since.  
 &emsp;&emsp;&emsp;If I had to relive my life I would be even more stubborn and uncompromising than I have been. One should never do anything without skin in the game. If you give advice, you need to be exposed to losses from it."  
 --Nassim Nicholas Taleb
 
-"So when we look at religion and, to some extent ancestral superstitions, we should consider what purpose they serve, rather than focusing on the notion of “belief”, epistemic belief in its strict scientific definition. In science, belief is literal belief; it is right or wrong, never metaphorical. In real life, belief is an instrument to do things, not the end product. This is similar to vision: the purpose of your eyes is to orient you in the best possible way, and get you out of trouble when needed, or help you find a prey at distance. Your eyes are not sensors aimed at getting the electromagnetic spectrum of reality. Their job description is not to produce the most accurate scientific representation of reality; rather the most useful one for survival."  
+"So when we look at religion and, to some extent ancestral superstitions, we should consider what purpose they serve, rather than focusing on the notion of "belief", epistemic belief in its strict scientific definition. In science, belief is literal belief; it is right or wrong, never metaphorical. In real life, belief is an instrument to do things, not the end product. This is similar to vision: the purpose of your eyes is to orient you in the best possible way, and get you out of trouble when needed, or help you find a prey at distance. Your eyes are not sensors aimed at getting the electromagnetic spectrum of reality. Their job description is not to produce the most accurate scientific representation of reality, rather the most useful one for survival."  
 --Nassim Nicholas Taleb, *Skin in the Game*
+
+"You get pseudo-order when you seek order. You only get a measure of order and control when you embrace randomness."  
+--Nassim Taleb, *Antifragile*
+
+"Crucially, if antifragility is the property of all those natural and complex systems that have survived, depriving these systems of volatility, randomness, and stressors will harm them. They will weaken, die, or blow up. We have been fragilizing the economy, our health, political life, education, almost everything, by suppressing randomness and volatility."  
+--Nassim Taleb. He lists the human body and psyche as antifragile examples. I was reminded of this by Ginevra Davis' article "Stanford's War on Social Life".
+
+"Or look at errors: [referencing a diagram] On the left, in the fragile category, the mistakes are rare and large when they occur, hence irreversible. To the right, the mistakes are small and benign, even reversible and quickly overcome. They are also rich in information, so a certain system of tinkering and trial and error would have the attributes of antifragility. If you want to become antifragile, put yourself in the situation 'loves mistakes', to the right of 'hates mistakes', by making these numerous and small in harm. We will call this process and approach The Barbell Strategy."  
+--Nassim Taleb. The Barbell Strategy: get exposure a little at a time, and take things on in bite-sized pieces.
 
 "To me, the very definition of me being a scientist is that I would rather have questions I can't answer than answers I can't question."  
 --Max Tegmark, in conversation with Rebecca Goldstein and Sam Harris
