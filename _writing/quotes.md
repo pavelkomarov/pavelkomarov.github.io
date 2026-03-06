@@ -158,10 +158,6 @@ It's how a soldier thinks. A scientist wouldn't understand."
 
 "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us."  
 
-"Transire suum pectus mundoque potiri"  
-"Rise above oneself and grasp the world"  
---Archimedes
-
 "It is the mark of an educated mind to be able to entertain a thought without accepting it."  
 --misattributed to Aristotle
 
@@ -358,6 +354,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "The problem today isn't that jobs are scarcer, or that positions in schools are fewer. It's that we live in a hypercompetitive order, where the competition is not just for arriving, but the competition is never-ending. Every human being is now requied to understand themselves as a little bit of human capital."  
 --Wendy Brown, *Take Your Pills*
 
+"Your God is too small."  
+--Giordano Bruno, before being burned at the stake in 1600
+
 "There are many ways of breaking a heart. Stories were full of hearts broken by love, but what really broke a heart was taking away its dream--whatever that dream might be."  
 --Pearl S. Buck
 
@@ -369,6 +368,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 
 "We’re here to laugh at the odds and live our lives so well that Death will tremble to take us."  
 --Charles Bukowski
+
+"To be cringe is to be free"  
+--bumpersticker
 
 <a class="anchor" id="burkeman"></a>
 "True security lies in the unrestrained embrace of insecurity--in the recognition that we never really stand on solid ground, and never can."  
@@ -724,6 +726,9 @@ How will you find the strength and wisdom to challenge an unwise order or questi
 "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things."  
 --Rene Descartes
 
+"Everything in life is just for a while."  
+--Philip K. Dick, see also [Nothing Lasts](#nothing-lasts)
+
 "He had not a handsome face, but it was better than handsome, being extremely amiable and cheerful."  
 --Charles Dickens, *Great Expectations*
 
@@ -734,7 +739,13 @@ How will you find the strength and wisdom to challenge an unwise order or questi
 --Scott Dinsmore
 
 "So there was a kid back in February from, ah, Baltimore--ah, 14 years old [Jack Andraka]--who, ah, had access to Jstor. And he'd been spelunking through Jstor after reading something, and he figured out a way to do early tests for pancreatic cancer [by infusing a conductive carbon mesh with a chemical that bonds to a biomarker from blood of a testee, thereby changing the conductivity of the material]. And pancreatic cancer kills the shit out of you because we detect it way too late: By the time we detect it, it's already too late to do anything about it. Ah, and, um, He sent emails off to the entire oncology department at Johns Hopkins, you know, hundreds of them .. and most of them ignored it, right. But one of them, like, sent him an email back and said 'This is not an entirely stupid idea. Why don't you come on over.' And this kid worked evenings and weekends with this researcher, and in February I heard him on the news, just a couple of weeks after Aaron died, when Aaron was in the news a lot. [*pauses and tears up*] Sorry [*breathes*] And, ah, he said, um, the reason he was on the news is cause they'd done it; they were shipping, ah, an early test for pancreatic cancer that was gonna save lives. And he said, ah, this is why what Aaron did was so important: Because you never know, right? This truth of the universe is not only something [*wipes tear*] that policy makers use to figure out, you know, what the speed limit should be; it's where the, the thing that's gonna keep, you know, your kid from dying of pancreatic cancer comes from. And, without access, the person who might come up with the thing that's got your number on it may never find that answer."  
---Cory Doctorow (The Internet's Own Boy)
+--Cory Doctorow, in *The Internet's Own Boy*
+
+"...it can be disrupted by something as simple as a live-streamed mass shooting. And then users bolt for the exits, The Street gets nervous, the stock price starts to wobble, the founders panic---although being technical people they call it 'pivoting'. And, you know, one day Mark Zuckerberg, like, arises from his sarcophagus and says 'Harken unto me brothers and sisters, for I've had a vision. I know I told you that the future would consist of arguing with your most racist uncle using this primitive text interface that I invented so I could non-consensually rate the fuckability of Harvard undergraduates, but actually I'm going to transform you and everyone you love into a legless, sexless, low-polygon, heavily-surveilled cartoon character so that I can imprison you in a virtual world I stole from a 25 year old comedic dystopian cyberpunk novel [Snow Crash] that I call the metaverse.' And that's the final stage. That's the giant pile of shit."  
+--Cory Doctorow on Ezra Klein's podcast Feb 2026
+
+"the consensus that people are kind of gut flora for immortal colony organisms we call Limited Liability Corporations and that they are entitled to dignity and moral consideration as beings unto themselves"  
+--Cory Doctorow, Feb 2026
 
 "When I changed how I looked at myself, it changed how the world interacted with me."  
 --[James R. Doty](https://samharris.org/podcasts/219-power-compassion/)
@@ -1079,6 +1090,9 @@ From lips of the gluttons and envying their bloody teeth"
 --Benjamin Franklin
 
 "Lighthouses are more useful than churches."  
+--Benjamin Franklin
+
+"Haste makes waste."  
 --Benjamin Franklin
 
 "A clean desk is a sign of a sick mind."  
@@ -1571,6 +1585,9 @@ Goleman: "One of the main principles of cognitive therapy is that you don't have
 "As our first world societies increasingly secularize, and religion comes under the shadow and pressure of that, and there seem to be more zero-sum contests between scientific rationality and any policy that would be spun up on its basis [versus] religious dogmatism, you get this grinding of the gears of tradition and society. And I do think in America, for a long time, the so-called elite institutions have represented either an explicit or a tacit disavowal of some people's---many people's---most cherished beliefs, and that becomes at minimum a kind of lubricant for a kind of anti-institutional focus."  
 --Sam Harris, #441 (I'd point out it's a source of anti-intellectualism too.)
 
+"What's the point of having fuck you money if you never say fuck you?"  
+--Sam Harris on oligarchs bowing to Trump
+
 "Live in truth."  
 --ethos of Vaclav Havel
 
@@ -1691,6 +1708,9 @@ There is in every village a torch: the teacher; and an extinguisher: the clergym
 
 <a class="anchor" id="I"></a>
 ### I
+
+"If I had my way about national parks, I would create one without a road in it. I would have it impenetrable forever to automobiles, a place where man would not try to improve upon God."  
+--Harold Ickes, encountered in Ken Burns' National Parks documentary series. S.B. Snow, a Regional Forester in the Forest Service called Secretary Ickes "overambitious, ignorant, egocentric, ruthless, unethical, and highly effective".
 
 "If life seems jolly rotten, there's something you've forgotten  
 And that's to laugh and smile and dance and sing"  
@@ -1815,6 +1835,9 @@ Oh yes"
 "There are two cardinal sins from which all others spring: Impatience and Laziness."  
 --Franz Kafka
 
+"Stalin did not recognize personal relations. The love of one person for another did not exist."  
+--Lazar Kaganovich, encountered in *In the Court of the Red Czar*
+
 "It must have been late 1941 or early 1942. Jews were required to wear the Star of David and to obey a 6 p.m. curfew. I had gone to play with a Christian friend and had stayed too late. I turned my brown sweater inside out to walk the few blocks home. As I was walking down an empty street, I saw a German soldier approaching. He was wearing the black uniform that I had been told to fear more than others, the one worn by specially recruited SS soldiers. As I came closer to him, trying to walk fast, I noticed that he was looking at me intently. Then he beckoned me over, picked me up, and hugged me. I was terrified that he would notice the star inside my sweater. He was speaking to me with great emotion, in German. When he put me down, he opened his wallet, showed me a picture of a boy, and gave me some money. I went home more certain than ever that my mother was right: people were endlessly complicated and interesting."  
 --Daniel Kahneman, 2003, on why he became an economist
 
@@ -1896,6 +1919,12 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 
 "We are going to have to live here with each other. There will be no fever that breaks. There will be no permanent victory that routs or quiets those who disagree with us. I've watched many on both sides entertain this illusion that there would be, either through the power of social shame and cultural pressure, or the force the state can bring to bear on those it seeks to silence. It won't work. It can't work. It would not be better if it did. That would not be a free country."  
 --Ezra Klein, Sept 16, 2025, in the wake of the Charlie Kirk shooting
+
+"Laws meant to ensure that government considers the consequences of its actions have made it too difficult for government to act consequentially."  
+--Ezra Klein, *Abundance*
+
+"[Government] needs to justify itself not through the rules it follows, but through the outcomes it actually delivers."  
+--Ezra Klein, *Abundance*
 
 "I think to realize that you were not only so wrong but so wrong in such a harmful way is a devestating thing to realize, and it's something that it's totally human to want to rebel against at every point. The sunk cost isn't just that they were wrong and that's embarrassing. The sunk cost is that they hurt someone in the process of being wrong. And so it's not just the misinformation, and it's not just the ego of wanting to be right: I think that people are afraid of what it means about them if they were this wrong, and that it's much easier for them to believe that there's something wrong with me to have deserved the harm that I suffered. And so, I think it goes to people identifying with their ideas, and, when put on the spot and even when having plain evidence put in front of them that what they believe is wrong, it feels to them like what you're saying is that they're a bad person. And that's why they can't grasp just the plain, hard, cold facts of it, because it's charged with emotional resonance and with a sense of it implicating them and their identity and who they imagine themselves to be as people."  
 --Amanda Knox, on *Making Sense* #345, ~1:20:00 in
@@ -2096,6 +2125,10 @@ Andrew Sullivan: "... and they keep trying to recreate the box and put you in it
 "As I walked out the door toward the gate that would lead to my freedom, I knew if I didn't leave my bitterness and hatred behind, I'd still be in prison."  
 --Nelson Mandela
 
+"Transire suum pectus mundoque potiri"  
+"Rise above oneself and grasp the world"  
+--Manilius, written above Archimedes' head on the Fields medal
+
 "More than likely Tisquantum was not the name he was given at birth. In that part of the Northeast, *tisquantum* referred to rage, especially the rage of *manitou*, the world-suffusing spiritual power at the heart of coastal Indians’ religious beliefs. When Tisquantum approached the Pilgrims and identified himself by that sobriquet, it was as if he had stuck out his hand and said, 'Hello, I’m the Wrath of God.'"  
 --Charles Mann, [*Native Intelligence*](https://www.smithsonianmag.com/history/native-intelligence-109314481/)
 
@@ -2187,6 +2220,7 @@ I felt like I could just fly
 But nothing happened every time I tried"  
 --James Mercer (Australia)
 
+<a class="anchor" id="nothing-lasts"></a>
 "Nothing Lasts"  
 --Evan Jed Memmott, mural at 2285 S Main South Salt Lake, UT, see also [Rilke](#rilke)
 
@@ -2396,7 +2430,16 @@ And we won't rise up and slay giants
 They're wrong  
 They're wrong  
 They're wrong"  
--Muse, *The Void*
+--Muse, *The Void*
+
+"When God decides to look the other way  
+And a clown takes the throne  
+We must find a way"  
+--Muse, *Dig Down*
+
+"You've been bitten by  
+Someone's false beliefs"  
+--Muse, *Thought Contagion*
 
 <a class="anchor" id="musk"></a>
 "An engineer is the closest thing to a magician that exists in the real world."  
@@ -2558,6 +2601,10 @@ We are in this together"
 
 "One sometimes gets the impression that the mere words 'Socialism' and 'Communism' draw toward them with magnetic force every fruit juice drinker, nudist, sandal wearer, sex maniac, Quaker, 'nature cure' quack, pacifist, and feminist in England."  
 --George Orwell, The Road to Wigan Pier
+
+<a class="anchor" id="masks"></a>
+"He wears a mask, and his face grows to fit it."  
+--George Orwell, [Shooting An Elephant](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/shooting-an-elephant/)
 
 "Anybody who wants to make a revolution, shouldn't grab a gun; just go and start working like we do to change the world by using science and technology."  
 --Stan Ovshinsky
@@ -2829,7 +2876,7 @@ He truly embodied the principles of being genuinely interested in other people, 
 --Eleanor Roosevelt
 
 "A conservative is a man with two perfectly good legs who, however, has never learned to walk forward."  
---Franklin Delano Roosevelt
+--Franklin Delano Roosevelt, famously crippled by polio
 
 "It is hard to fail, but it is worse never to have tried to succeed."  
 --Theodore Roosevelt
@@ -2859,7 +2906,13 @@ And you don't like me, well that isn't fucking relevant"
 
 "Who are you to ask for anything else?  
 The thing you should be asking is for help!"  
---Wolf Alice, *The Last Man on Earth*
+--Ellie Rowsell (Wolf Alice), *The Last Man on Earth*
+
+"Brave men tell the truth  
+A wise man's tools are analogies and puzzles  
+A woman holds her tongue  
+Knowing silence will speak for her"  
+--Royksopp, *Remind Me*
 
 "There are those who approach the opportunities of each day like crossing items off a to-do list instead of truly engaging and participating with all of themselves. ... Yet it is through deliberate action and repetition that we gain deeper insight."  
 --Rick Rubin
@@ -3330,6 +3383,9 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 "It is amazing how complete is the delusion that beauty is goodness."  
 --Leo Tolstoy
 
+"Germany is like Wisconsin, only like with a really bad past."  
+--Daniel Tosh in his retelling of *The Human Centipede*
+
 "It is amazing what you can accomplish if you do not care who gets the credit."   
 --Harry S. Truman
 
@@ -3544,8 +3600,17 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 "Common sense is not so common."  
 --Voltaire
 
+"With great power comes great responsibility."  
+--Voltaire
+
+"It seems, then, that fanaticism, outraged by the progress of reason, is thrashing about in a spasm"  
+--Voltaire
+
 "Everything was beautiful, and nothing hurt."  
 --Kurt Vonnegut
+
+"We are what we pretend to be, so we must be careful about what we pretend to be."  
+--Kurt Vonnegut, see also [Orwell](#masks)
 
 <a class="anchor" id="W"></a>
 ### W
@@ -4178,6 +4243,9 @@ that's long since passed me by?"
 "I think about the city I left to come here, the plans I've canceled and the friends I haven't made. I think about how hard I've worked and how demoralizing it is to fail. I think about my values, and I cry even more. It will be months until I call it quits; it will take almost a year to realize I was gaslighting myself, that I was reading from someone else's script."  
 --Anna Wiener, [*Uncanny Valley*](https://www.nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/)
 
+"The price of metaphor is eternal vigilance."  
+--Norbert Wiener, legend of Applied Math and Electrical Engineering
+
 "We must take sides. Neutrality helps the oppressor, never the victim."  
 --Eli Wiesel
 
@@ -4286,6 +4354,9 @@ Zen Koan, Sammy Brown's favorite
 
 "Are we ready to drop the base?"  
 --Kathy Zhang, titrating NaOH, Fall 2013
+
+"He [Leonardo Da Vinci] had a love of the world. Nothing was dull or boring or quotidian to him. It was all a marvel. That's the blessed state he was in, because the world is that abundant. It is that rich. It is there for us like he saw. And the more you attend, the richer it is, and the more you find your own place in it"  
+--Mary Zimmarman, in Ken Burns' documentary on Da Vinci
 
 "Life is trouble. Only Death is not."  
 --Alexis Zorba, [*Zorba the Greek*](https://en.wikipedia.org/wiki/Zorba_the_Greek_(film))
