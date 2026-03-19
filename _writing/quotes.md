@@ -404,6 +404,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "Let them hate us as long as they fear us."  
 --Caligula
 
+"Right now you may not want to feel anything. Maybe you never wanted to feel anything. And maybe it's not to me you'd want to speak about these things, but feel something you obviously did. Look, you had a beautiful friendship, maybe more than a friendship, and I envy you. In my place most parents would hope the whole thing goes away, pray their sons land on their feet. But I am not such a parent. We rip out so much of ourselves to be cured of things faster that we go bankrupt by the age of 30 and have less to offer each time we start with someone new. But to make yourself feel nothing so as not to feel anything, what a waste....How you live your life is your business. Just remember, our hearts and our bodies are given to us only once, and before you know it your heart's worn out, and as for your body, there comes a point when no one looks at it, much less wants to come near it. Right now there's sorrow, pain. Don't kill it, and with it the joy you felt."  
+--Call Me By Your Name
+
 "There is perhaps nothing worse than reaching the top of the ladder and discovering that you’re on the wrong wall."  
 --Joseph Campbell
 
@@ -1979,6 +1982,9 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 "It is no measure of health to be well-adjusted to a sick society."  
 --Jiddu Krishnamurti
 
+"In order to get better you change limits, and when you change limits you're gonna look bad and you're gonna fail. At West Point I learned that failure was never a destination. In other words, when you are knocked back, figure out why and then change. The other thing is that you're not gonna get there alone. Be on a team. Surround yourself with good people and learn how to listen. You're not gonna learn with you just talking, and when you do talk, converse. Don't make excuses. Figure out the solution, and you don't have to figure it out yourself."  
+--Coach Mike Krzyzewski, as clipped in *The Bear*
+
 "Thanks to the Interstate Highway System, it is now possible to travel from coast to coast without seeing anything."  
 --Charles Kuralt
 
@@ -2025,7 +2031,11 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 "The true value of a man is not determined by his possession, supposed or real, of truth, but rather by his sincere exertion to get to the truth. It is not possession of the truth, but rather the pursuit of truth by which he extends his powers and in which his ever-growing perfectability is to be found. Possession makes one passive, indolent, and proud. If God were to hold all truth concealed in his right hand, and in his left only the steady and diligent drive for truth, albeit with the proviso that I would always and forever err in the process, and to offer me the choice, I would, with all humility, take the left hand."  
 --Gotthold Lessing
 
-"It was on my fifth birthday that Papa put his hand on my shoulder and said, 'Remember, my son, if you ever need a helping hand, you'll find one at the end of your arm.'"   
+"See you in the next life  
+I'll think of you when I get high"  
+--Kara Levchenko, *Next Life*
+
+"It was on my fifth birthday that Papa put his hand on my shoulder and said, 'Remember, my son, if you ever need a helping hand, you'll find one at the end of your arm.'"  
 --Sam Levenson
 
 "If I can’t explain my ideas to a very smart non-expert then I haven’t really fleshed them out properly."  
@@ -3269,6 +3279,9 @@ Then you're probably pulling through"
 "When I was in college the Cold War had just ended. I entered college the same year the Soviet Union collapsed. And for a variety of reasons I developed this interest in mid-20th century literature by anti-totalitarian writers, people like Hannah Arendt and Miłosz and a bunch of other figures both from behind the Iron Curtain--Václav Havel--and in the Free World who really thought deeply about the totalitarian phenomenon. And what has struck me profoundly in the last 5 or 6 years is how the psychological categories--the desire to obey, the willingness to be misled so long as you're made to feel as if you belong--, that those methods by which totalitarianism or post-totalitarianism societies were able to rule and to stay in power, that the Trump playbook recalls those methods to an eerie degree, and it's really worth re-reading those books."  
 --Bret Stephens, 2023
 
+"The genius of this nation is not to be compared with the Prussians, Austrians, or French. You say to your soldier 'do this', and he does it. But here I am obliged to say 'this is the reason why you ought to do that', and then he does it."  
+--Friedrich Wilhelm August Heinrich Ferdinand Freiherr von Steuben, in the American Revolutionary War
+
 "The bitterest tears shed over graves are for words left unsaid and for deeds left undone."  
 --Harriet Beecher Stowe, Little Foxes, 1865
 
@@ -3609,9 +3622,13 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 &emsp;&emsp;&emsp;Hamming-greatness is tied, inseparably, with the conception of *science and engineering as public service*."  
 --Bret Victor, Foreword to *The Art of Doing Science and Engineering* by Richard Hamming
 
+"Multitudo sapientium sanitas orbis"  
+"A multitude of the wise is the health of the world"  
+--University of Victoria motto
+
 "Felix, qui potuit rerum cognoscere causas"  
 "Fortunate, who was able to know the causes of things"  
---Virgil, London School of Economics Motto
+--Virgil, London School of Economics motto
 
 "I have offended God and mankind because my work did not reach the quality it should have."  
 --Leonardo da Vinci
