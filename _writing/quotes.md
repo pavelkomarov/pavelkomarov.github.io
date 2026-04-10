@@ -107,6 +107,9 @@ The second worst is that of the Azgoths of Kria. During a recitation by their po
 "It is easier to fight for one's principles than to live up to them."  
 --Alfred Adler
 
+"The conversion of all questions of truth into questions of power"  
+--[Theodor W. Adorno](https://www.newyorker.com/culture/cultural-comment/the-frankfurt-school-knew-trump-was-coming)
+
 "He who learns must suffer. And even in our sleep, pain that can not forget falls drop by drop upon the heart. And in our own despite, against our will, comes wisdom to us by the awful grace of God."  
 --Aeschylus
 
@@ -516,6 +519,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 
 "Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."  
 --[misattributed](https://winstonchurchill.org/resources/quotes/quotes-falsely-attributed/) to Winston Churchill
+
+"Americans will always do the right thing, after all other possibilities are exhausted."  
+--[misattributed](https://quoteinvestigator.com/2012/11/11/exhaust-alternatives/) to Churchill, possibly an uncatalogued offhand remark
 
 "I don't think the past is better, better  
 just cause it's cased in glass,  
@@ -1885,6 +1891,9 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 "Those who make peaceful revolution impossible will make violent revolution inevitable."  
 --John F. Kennedy
 
+"When my information changes, I change my mind. What do you do?"  
+--John Maynard Keynes, [via Paul Samuelson](https://quoteinvestigator.com/2011/07/22/keynes-change-mind/)
+
 "How can I adopt a creed which, preferring the mud to the fish, exalts the boorish proletariat above the bourgeoisie and the intelligentsia, who with all their faults, are the quality of life and surely carry the seeds of all human achievement?"  
 --John Maynard Keynes
 
@@ -2278,6 +2287,13 @@ You yearn to be that dream you could never get to
 "The mind is its own place and in itself can make a heaven of hell or a hell of heaven."  
 --John Milton
 
+"Throughout history  
+Every mystery  
+Every Solved  
+Has turned out to be  
+Not magic"  
+--Tim Minchin, [*Storm*](https://www.youtube.com/watch?v=HhGuXCuDb1U)
+
 "You can't refactor people."  
 --Brandon Miranda, my high school classmate, 2022
 
@@ -2395,7 +2411,7 @@ You yearn to be that dream you could never get to
 "Being human, a key coping mechanism [to the Black Death] was guilt, but a sort of arrogant, self-aggrandizing guilt. 'This must be our fault', everyone thought, in a maelstrom of self-loathing and self-involvement". 'God is angry with us, and that's why this is happening. Aren't we careless, powerless fools. Curse us, for we have become too mighty.' I am thoroughly convinced by the overwhelming scientific evidence of humanity's role in climate change and the consequent need to inhabit the planet less impactfully. That fact is beyond doubt, and those who do doubt it imperil our survival. Let me get that on record first. However, the only meaningful counter-argument that could be made is thta humanity always thinks it's responsible for everything. We always reckon it's about us. We love taking credit for thing, but, where no credit is available, we'll settle for blame rather than entertaining the horrendously humbling notion that something, anything at all, might have nothing to do with us. The reason that climate change deniers seldom make that potentially persuasive argument is that they're even more weak-mindedly obsessed with human significance than average, so their arguments are all based on conspiracies and secrets and other malevolent aspects of human agency. They're not up for the 'We had nothing to do with this' narrative at all; they just opt for a different pattern of blaming humans, because they're delusional fuckwits who don't understand science....Still, I hope the solemn self-important guilt that people resorted to in their bewilderment and grief gave them some sort of comfort, some feeling of significance in the face of a bacterial tsunami for which they were no more than a fertile shore."  
 --David Mitchell, I have been hearing the 'Earth just goes through cycles' argument more, so his point doesn't perfectly land, but it is true that the religious still among us like to overplay human significance, all while accusing secular society of pridefulness
 
-"But the Black Death is such a reminder of mortality, of the futility of human endeavor, that it makes the grandiose enterprise of conquest, successful though it usually was during Edward's reign, seem dafter than ever....The Black Prince...This renowned warrior's tomb is in Canterbury cathedral, where there is a bronze effigy of him in fully armor...In his will he asked for the following poem to be inscribed around it:  
+"But the Black Death is such a reminder of mortality, of the futility of human endeavor, that it makes the grandiose enterprise of conquest, successful though it usually was during Edward's reign, seem dafter than ever....The Black Prince...This renowned warrior's tomb is in Canterbury cathedral, where there is a bronze effigy of him in full armor...In his will he asked for the following poem to be inscribed around it:  
 'Such as thou art, sometime was I  
 Such as I am, such shalt thou be  
 I thought little on the hour of death  
@@ -2638,6 +2654,14 @@ Because I wouldn't believe myself"
 
 “Not ‘rich, but still nice’, nice *because* she’s rich, you know? Hell, if I had all this money,” [throws arms wide] “I’d be nice too!"  
 --Chung Sook, *Parasite*, 2019
+
+"A hundred years from now  
+...it will not matter what my bank account was,  
+the sort of house I lived in,  
+or the kind of car I drove...  
+but the world may be different  
+because I was importand in the life of a child"  
+--poem with lines by Walden Parker, quoted on Lubomir Komarov's favorite mug
 
 "[C]hance favors only the prepared mind."  
 --Louis Pasteur
@@ -3198,6 +3222,9 @@ And seem a saint, when most I play the devil."
 
 "We have a saying, my people: Don’t kill if you can wound, don’t wound if you can subdue, don’t subdue if you can pacify, and don’t raise your hand at all until you’ve first extended it."  
 --Gail Simone
+
+"I [was] absolutely convinced by 10[:00]---totally convinced---that I was on my own, that no one was coming to get me. I was brought up as a devout Catholic. I'd long since stopped believing in God. I always wondered if things really hit the fan whether I would, under pressure, turn round and say, you know, a few hail Marys and say 'get me outta here'. It never once occurred to me. It meant that I really don't belive, and I really do think that when you die you die, that's it, there's no afterlife. There's nothing."  
+--Joe Simpson, *Touching the Void*
 
 "It is difficult to get a man to understand something when his salary depends upon his not understanding it."  
 --Upton Sinclair
