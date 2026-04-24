@@ -10,23 +10,25 @@ order: 7
 
 # TI C2000 Middleware
 
+*This page was drafted by Claude (claude-sonnet-4-6).*
+
 [GitHub Repository](https://github.com/pavelkomarov/TI-C2000-middleware)
 
 Texas Instruments' C2000 microcontrollers are powerful devices for real-time control, but notoriously painful to program directly against the hardware registers. This project is a layered abstraction library developed for the [Georgia Tech Solar Racing](http://solarracing.gatech.edu) team on the **F28069** DSP microcontroller.
 
 ## Architecture
 
-The codebase is organized into four tiers of abstraction, each building on the one below:
+The library is organized into four tiers of abstraction, each building on the one below:
 
 ### 1. F28069Common — TI's Layer
 
 Assembly, linker command, C source, and header files comprising Texas Instruments' own hardware abstraction layer. These expose raw register addresses and peripheral definitions for the F28069 chip and are shared across all projects as a foundation.
 
-### 2. System Libraries — Pavel's Layer
+### 2. System Library — Pavel's Layer
 
-A secondary abstraction written largely by Pavel that significantly simplifies interacting with C2000 peripherals. Each library wraps one subsystem:
+A secondary abstraction written largely by Pavel that significantly simplifies interacting with C2000 peripherals. Each module handles one subsystem:
 
-| Library | What it does |
+| Module | What it does |
 |---|---|
 | **ADC** | Analog-to-digital conversion. Enum-based clock divisors (`WHOLE`, `HALF`, `FOURTH`) and 16 configurable start-of-conversion modules (`SOC0`–`SOC15`). |
 | **CAN** | Controller Area Network bus. Supports `CAN_send`, `CAN_receive`, `CAN_request`, and `CAN_autoreply` with named node IDs (motor controller, pedals, BMS, IMU, WiFi, screen, MPPT). |
@@ -37,9 +39,11 @@ A secondary abstraction written largely by Pavel that significantly simplifies i
 | **SCI** | Serial Communications Interface (UART-equivalent). |
 | **SPI** | Serial Peripheral Interface for synchronous serial communication. |
 
-### 3. Project Libraries
+<br>
 
-Higher-level abstractions built on top of System Libraries for specific project needs. Currently includes a **WiFi Library** for wireless communication.
+### 3. Project Library
+
+Higher-level abstractions built on top of the System Library for specific project needs. Currently includes a **WiFi module** for wireless communication.
 
 ### 4. Test Projects
 
