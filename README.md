@@ -26,8 +26,9 @@
 It used to be that this process happened in the dark, but you can now see the site compilation and deployment through github actions. I still recommend working locally to quickly iterate through most bugs. Jekyll is really good about re-serving updated pages, so you can see your changes immediately at localhost:4000 with a refresh.
 
 ## Structure
-- `_config.yaml` contains basic Jekyll configuration.
-- `_writing/` is a collections of not-repo-associated articles I've put together
+- `_config.yml` contains basic Jekyll configuration.
+- `_things/` is a collection of pages for things I've written or want to link to. Note the underscore prefix: Jekyll requires it for collections, but also excludes underscore-prefixed directories from the build by default — so `_things` must be explicitly re-included via the `include:` key in `_config.yml`. Kludgy.
+- `_data/external_tiles.yml` holds tiles that link to external URLs (GitHub project pages, papers, etc.) without generating pages.
 - `CNAME` (short for "custom domain name") is necessary so github's servers know where to forward queries.
 
 
