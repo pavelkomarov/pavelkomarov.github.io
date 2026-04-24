@@ -1,12 +1,13 @@
 plugins: # this is necessary to make it work locally
   - jekyll-remote-theme
   - jekyll-tidy
+  - jekyll-sitemap
 
 remote_theme: pavelkomarov/hyde
 
-title: Pavel's Site
-description: A place for things I write and projects I've worked on
-url: "pavelkomarov.github.io" # the base hostname & protocol for your site
+title: Pavel Komarov
+description: Personal site of Pavel Komarov — projects, research, and writing.
+url: "https://pavelkomarov.com"
 
 # Build settings
 markdown: kramdown

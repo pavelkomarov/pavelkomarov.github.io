@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pavelkomarov.com/sitemap.xml
