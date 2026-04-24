@@ -44,7 +44,7 @@ markdown
 Jekyll processes files in this order:
 
 1. **Site variables** -- reads front matter and config to populate `site`, `page`, and collection objects.
-2. **Liquid** -- processes `{%` ... `%}` tags and `{{` ... `}}` expressions.
+2. **Liquid** -- processes tags wrapped in `{` + `%` ... `%` + `}` and expressions wrapped in double curly braces.
 3. **Markdown** -- converts `.md` files to HTML (a front matter block is required).
 4. **Layouts** -- wraps page content in the layout named in front matter.
 5. **Files** -- writes output to `_site/`, structured by permalink.
