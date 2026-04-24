@@ -5,7 +5,7 @@ title: Git Cheatsheet
 subtitle: key git concepts and commands
 img: github.png
 color: "#3cb371"
-order: 11
+order: 12
 ---
 <style>
 p {

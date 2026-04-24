@@ -5,7 +5,7 @@ title: How This Site Works
 description: The Jekyll and GitHub Pages setup behind this site, and the hyde theme repo that powers it.
 emoji: 🏗️
 color: "#ffffff"
-order: 14
+order: 15
 ---
 
 # How This Site Works

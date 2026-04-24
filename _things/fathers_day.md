@@ -5,7 +5,7 @@ title: Father's Day
 subtitle: 2015
 emoji: 💌
 color: "#00283c"
-order: 4
+order: 6
 ---
 ### Father's Day, 2015
 
