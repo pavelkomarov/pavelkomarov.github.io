@@ -31,6 +31,20 @@
 	<section style="background-color: #f7f7f7">
 		<div class="container">
 			<div class="row">
+			{% for tile in site.data.external_tiles %}
+				<div class="col-md-3 col-sm-6 gallery-item">
+					<div class="gallery-thumbnail{% if tile.img %} has-image{% elsif tile.emoji %} has-emoji{% endif %}">
+						<a href="{{ tile.url }}">
+							{% if tile.img %}<img src="/assets/{{ tile.img }}" alt="{{ tile.title }}" />{% elsif tile.emoji %}<div class="tile-emoji">{{ tile.emoji }}</div>{% endif %}
+							<div class="tile-title">{{ tile.title }}</div>
+							<div class="tile-overlay">
+								<h4>{{ tile.title }}</h4>
+								<p>{{ tile.description }}</p>
+							</div>
+						</a>
+					</div>
+				</div>
+			{% endfor %}
 			{% for post in site.things %}
 				<div class="col-md-3 col-sm-6 gallery-item">
 					<div class="gallery-thumbnail{% if post.img %} has-image{% elsif post.emoji %} has-emoji{% endif %}">
