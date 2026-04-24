@@ -10,10 +10,10 @@ These three belong to us, Pavel and Nataly, @ 629 12<sup>th</sup> Ave E Apt A, 9
 
 [Their instagram](https://www.instagram.com/pumpkin.miso.fozzy/)
 
-<img src="/assets/cats.jpg"/>
+<img src="/assets/cats.jpg" style="display: block; margin: 0 auto;"/>
 
 # Fozzy
-<img src="/assets/fozzy.jpg"/>
+<img src="/assets/fozzy.jpg" style="display: block; margin: 0 auto;"/>
 
 ##### Born
 April 28<sup>th</sup> 2020, Mount Pleasant UT, to domestic cats kept by farmers
@@ -40,7 +40,7 @@ I’m the most handsome, king of the yard, and I’m confident about it. I’m p
 - Rubbing face against something you’re holding -- put that down and pay attention to me instead
 
 # Pumpkin
-<img src="/assets/pumpkin.jpg"/> 
+<img src="/assets/pumpkin.jpg" style="display: block; margin: 0 auto;"/>
 
 ##### Born
 May 5<sup>th</sup> 2020, Pocatello ID, to a stray mother caught by volunteer
@@ -71,7 +71,7 @@ I’m the most beautiful, and I know it. I’m fluffy, talkative, pompous, and k
 - Kneading -- feeling cozy
 
 # Miso
-<img src="/assets/miso.jpg"/>
+<img src="/assets/miso.jpg" style="display: block; margin: 0 auto;"/>
 
 ##### Born
 28<sup>th</sup> May 2025, Orting WA, to pet cats belonging to a woman who mistakenly called him "pretty girl"
