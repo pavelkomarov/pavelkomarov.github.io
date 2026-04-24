@@ -2,7 +2,7 @@
 layout: post
 permalink: /quotes.html
 title: Quotations
-subtitle: things found wise, helpful, or sharp enough to memorize
+subtitle: words I've found snappy enough to memorize, helpful, or wise
 img: quotation_mark.png
 color: "#3cb371"
 order: 1
