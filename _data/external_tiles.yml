@@ -1,0 +1,44 @@
+- title: "Big Holes in Big Data"
+  emoji: "🕳️"
+  description: "Finding empty hyperrectangular regions in high-dimensional point clouds."
+  url: "https://pavelkomarov.github.io/big-holes-in-big-data/"
+
+- title: "Bloom Filter"
+  emoji: "🌸"
+  description: "A probabilistic data structure for efficient set membership testing, implemented from scratch."
+  url: "https://pavelkomarov.github.io/bloom-filter/"
+
+- title: "Memory Map"
+  emoji: "🗺️"
+  description: "Memory-mapped databases."
+  url: "https://pavelkomarov.github.io/memory-map/"
+
+- title: "Projection Pursuit"
+  emoji: "🎯"
+  description: "Multivariate projection pursuit regression and univariate classification."
+  url: "https://pavelkomarov.github.io/projection-pursuit/"
+
+- title: "Ryan's Ride Too"
+  emoji: "🚴"
+  description: "A photo journey."
+  url: "https://pavelkomarov.github.io/ryans-ride-too/"
+
+- title: "Spectral Derivatives"
+  emoji: "〰️"
+  description: "Taking derivatives by spectral methods using Chebyshev, Fourier, Legendre, and Bernstein bases."
+  url: "https://pavelkomarov.github.io/spectral-derivatives/"
+
+- title: "X-Rays"
+  emoji: "🩻"
+  description: "A tiny script to convert DICOM files to PNGs."
+  url: "https://pavelkomarov.github.io/xrays/"
+
+- title: "Exportify"
+  emoji: "🎵"
+  description: "Export Spotify playlists using the Web API and analyze them in a Jupyter notebook."
+  url: "https://pavelkomarov.com/exportify"
+
+- title: "A Taxonomy of Numerical Differentiation Methods"
+  emoji: "📄"
+  description: "A comprehensive survey of numerical differentiation techniques for noisy data, with the open-source PyNumDiff Python package."
+  url: "https://arxiv.org/abs/2512.09090"
