@@ -1,0 +1,21 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for page in site.pages %}{% unless page.url contains 'sitemap' %}
+  <url>
+    <loc>{{ page.url | replace:'index.html','' | prepend: site.url }}</loc>
+  </url>
+  {% endunless %}{% endfor %}
+  {% for thing in site.things %}
+  <url>
+    <loc>{{ thing.permalink | prepend: site.url }}</loc>
+  </url>
+  {% endfor %}
+  {% for tile in site.data.external_tiles %}{% if tile.url contains 'pavelkomarov' %}
+  <url>
+    <loc>{{ tile.url }}</loc>
+  </url>
+  {% endif %}{% endfor %}
+</urlset>
