@@ -32,7 +32,7 @@
 		<div class="container">
 			<div class="row">
 			{% for tile in site.data.external_tiles %}
-				<div class="col-md-3 col-sm-6 gallery-item">
+				<div class="col-6 col-md-3 gallery-item">
 					<div class="gallery-thumbnail{% if tile.img %} has-image{% elsif tile.emoji %} has-emoji{% endif %}">
 						<a href="{{ tile.url }}">
 							{% if tile.img %}<img src="/assets/{{ tile.img }}" alt="{{ tile.title }}" />{% elsif tile.emoji %}<div class="tile-emoji">{{ tile.emoji }}</div>{% endif %}
@@ -46,7 +46,7 @@
 				</div>
 			{% endfor %}
 			{% for post in site.things %}
-				<div class="col-md-3 col-sm-6 gallery-item">
+				<div class="col-6 col-md-3 gallery-item">
 					<div class="gallery-thumbnail{% if post.img %} has-image{% elsif post.emoji %} has-emoji{% endif %}">
 						<a href="{{ post.permalink }}">
 							{% if post.img %}<img src="/assets/{{ post.img }}" alt="{{ post.title }}" />{% elsif post.emoji %}<div class="tile-emoji">{{ post.emoji }}</div>{% endif %}
