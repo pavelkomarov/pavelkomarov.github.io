@@ -4,7 +4,7 @@ permalink: /git_cheatsheet.html
 title: Git Cheatsheet
 subtitle: key git concepts and commands
 img: github.png
-color: "#3cb371"
+color: "#40c9a2"
 order: 12
 ---
 <style>

@@ -4,7 +4,7 @@ permalink: /quotes.html
 title: Quotations
 subtitle: words I've found snappy enough to memorize, helpful, or wise
 img: quotation_mark.png
-color: "#3cb371"
+color: "#40c9a2"
 order: 1
 ---
 ## Favorite Quotations

@@ -23,7 +23,7 @@
   emoji: "🎵"
   description: "Export Spotify playlists using the Web API and analyze them in a Jupyter notebook."
   url: "https://pavelkomarov.com/exportify"
-  color: "#3cb371"
+  color: "#40c9a2"
   order: 5
 
 - title: "X-Rays"
@@ -37,21 +37,21 @@
   emoji: "🗺️"
   description: "Memory-mapped databases."
   url: "https://pavelkomarov.com/memory-map/"
-  color: "#3cb371"
+  color: "#40c9a2"
   order: 14
 
 - title: "Ryan's Ride Too"
   emoji: "🚴"
   description: "I made QR code flyers and handed them out."
   url: "https://pavelkomarov.com/ryans-ride-too/"
-  color: "#3cb371"
+  color: "#40c9a2"
   order: 17
 
 - title: "Spectral Derivatives"
   emoji: "〰️"
   description: "Taking derivatives by spectral methods using Chebyshev, Fourier, Legendre, and Bernstein bases."
   url: "https://pavelkomarov.com/spectral-derivatives/"
-  color: "#3cb371"
+  color: "#40c9a2"
   order: 4
 
 - title: "A Taxonomy of Numerical Differentiation Methods"

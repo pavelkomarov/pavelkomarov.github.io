@@ -35,7 +35,7 @@
 			{% for tile in all_tiles %}
 				{% assign href = tile.permalink | default: tile.url %}
 				<div class="col-6 col-md-3 gallery-item">
-					<div class="gallery-thumbnail{% if tile.img %} has-image{% elsif tile.emoji %} has-emoji{% endif %}" style="background: {{ tile.color | default: '#3cb371' }};">
+					<div class="gallery-thumbnail{% if tile.img %} has-image{% elsif tile.emoji %} has-emoji{% endif %}" style="background: {{ tile.color | default: '#40c9a2' }};">
 						<a href="{{ href }}">
 							{% if tile.img %}<img src="/assets/{{ tile.img }}" alt="{{ tile.title }}" />{% elsif tile.emoji %}<div class="tile-emoji">{{ tile.emoji }}</div>{% endif %}
 							<div class="tile-title">{{ tile.title }}</div>
