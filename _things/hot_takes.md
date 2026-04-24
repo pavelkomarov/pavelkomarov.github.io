@@ -5,6 +5,8 @@ title: Hot Takes
 subtitle: strong opinions, loosely held
 description: Strong opinions on ML, math, epistemics, and the nature of intelligence — co-drafted with Claude.
 emoji: 🔥
+color: "#00283c"
+order: 9
 ---
 
 ## Hot Takes

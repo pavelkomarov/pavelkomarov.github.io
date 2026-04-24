@@ -4,6 +4,8 @@ permalink: /site_organization.html
 title: How This Site Works
 description: The Jekyll and GitHub Pages setup behind this site, and the hyde theme repo that powers it.
 emoji: 🏗️
+color: "#ffffff"
+order: 14
 ---
 
 # How This Site Works

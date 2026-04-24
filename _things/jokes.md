@@ -4,6 +4,8 @@ permalink: /jokes
 title: Jokes
 subtitle: I try to remember
 emoji: 🧀
+color: "#ffffff"
+order: 7
 ---
 ### Astronomy
 - What does Earth say to make fun of the other planets? "You guys have no life"

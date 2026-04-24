@@ -4,6 +4,8 @@ permalink: /ti_c2000_middleware.html
 title: TI C2000 Middleware
 description: An abstraction layer for Texas Instruments C2000 microcontrollers, built for Georgia Tech Solar Racing.
 emoji: 🔌
+color: "#ffffff"
+order: 17
 ---
 
 # TI C2000 Middleware

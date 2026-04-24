@@ -2,8 +2,10 @@
 layout: post
 permalink: /git_cheatsheet.html
 title: Git Cheatsheet
-subtitle: key git things
+subtitle: key git concepts and commands
 img: github.png
+color: "#3cb371"
+order: 11
 ---
 <style>
 p {

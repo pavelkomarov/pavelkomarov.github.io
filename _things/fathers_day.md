@@ -4,6 +4,8 @@ permalink: /fathers_day
 title: Father's Day
 subtitle: 2015
 emoji: 💌
+color: "#00283c"
+order: 4
 ---
 ### Father's Day, 2015
 

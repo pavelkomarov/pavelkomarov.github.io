@@ -31,29 +31,17 @@
 	<section style="background-color: #f7f7f7">
 		<div class="container">
 			<div class="row">
-			{% for tile in site.data.external_tiles %}
+			{% assign all_tiles = site.things | concat: site.data.external_tiles | sort: 'order' %}
+			{% for tile in all_tiles %}
+				{% assign href = tile.permalink | default: tile.url %}
 				<div class="col-6 col-md-3 gallery-item">
-					<div class="gallery-thumbnail{% if tile.img %} has-image{% elsif tile.emoji %} has-emoji{% endif %}">
-						<a href="{{ tile.url }}">
+					<div class="gallery-thumbnail{% if tile.img %} has-image{% elsif tile.emoji %} has-emoji{% endif %}" style="background: {{ tile.color | default: '#3cb371' }};">
+						<a href="{{ href }}">
 							{% if tile.img %}<img src="/assets/{{ tile.img }}" alt="{{ tile.title }}" />{% elsif tile.emoji %}<div class="tile-emoji">{{ tile.emoji }}</div>{% endif %}
 							<div class="tile-title">{{ tile.title }}</div>
 							<div class="tile-overlay">
 								<h4>{{ tile.title }}</h4>
-								<p>{{ tile.description }}</p>
-							</div>
-						</a>
-					</div>
-				</div>
-			{% endfor %}
-			{% for post in site.things %}
-				<div class="col-6 col-md-3 gallery-item">
-					<div class="gallery-thumbnail{% if post.img %} has-image{% elsif post.emoji %} has-emoji{% endif %}">
-						<a href="{{ post.permalink }}">
-							{% if post.img %}<img src="/assets/{{ post.img }}" alt="{{ post.title }}" />{% elsif post.emoji %}<div class="tile-emoji">{{ post.emoji }}</div>{% endif %}
-							<div class="tile-title">{{ post.title }}</div>
-							<div class="tile-overlay">
-								<h4>{{ post.title }}</h4>
-								<p>{{ post.description | default: post.subtitle }}</p>
+								<p>{{ tile.description | default: tile.subtitle }}</p>
 							</div>
 						</a>
 					</div>

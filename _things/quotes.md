@@ -4,6 +4,8 @@ permalink: /quotes.html
 title: Quotations
 subtitle: long collection
 img: quotation_mark.png
+color: "#3cb371"
+order: 1
 ---
 ## Favorite Quotations
 
