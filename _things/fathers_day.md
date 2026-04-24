@@ -3,7 +3,7 @@ layout: post
 permalink: /fathers_day
 title: Father's Day
 subtitle: 2015
-img: quotation_mark.png
+emoji: 💌
 ---
 ### Father's Day, 2015
 

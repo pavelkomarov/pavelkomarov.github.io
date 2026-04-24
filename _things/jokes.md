@@ -3,7 +3,7 @@ layout: post
 permalink: /jokes
 title: Jokes
 subtitle: I try to remember
-img: cheese.jpg
+emoji: 🧀
 ---
 ### Astronomy
 - What does Earth say to make fun of the other planets? "You guys have no life"

@@ -2450,6 +2450,9 @@ In his slow decline from renown in to sickness, he must have realized that, when
 "I've suffered thousands of tragedies in my life, most of which never happened."  
 --Michel de Montaigne (paraphrased from French)
 
+"Practice is your best teacher."  
+--Polly Morris, roller skater
+
 "People with wisdom know that it is important to correct their own mistakes, while people without wisdom find it necessary to point out the mistakes of others."  
 --Bawa Muhaiyaddeen
 
@@ -2654,6 +2657,9 @@ Because I wouldn't believe myself"
 
 “Not ‘rich, but still nice’, nice *because* she’s rich, you know? Hell, if I had all this money,” [throws arms wide] “I’d be nice too!"  
 --Chung Sook, *Parasite*, 2019
+
+"The cure to boredom is curiosity. There is no cure for curiosity."  
+--Dorothy Parker
 
 "A hundred years from now  
 ...it will not matter what my bank account was,  
@@ -2927,6 +2933,9 @@ He truly embodied the principles of being genuinely interested in other people, 
 
 "Historically: the coffee house, the tavern, the *third place*, the not-work, not-home public, social space where you could have people of different social classes, backgrounds, creeds all come together and bump up against each other [is lost when we're all on our phones]. Sometimes that might lead to trouble, but often it did lead to a kind of tolerance that I think is far different than our modern understanding of tolerance, which is: Tolerance is very much a list of all the things you're supposed to accept and endorse ["In this house we believe..."], versus real human tolerance...is about understanding human nature and accepting its limitations."  
 --Christine Rosen, on Andrew Sullivan's Dishcast
+
+"Hipocrisy is a tribute that vice pays to virtue."  
+--François de La Rochefoucauld
 
 "Often in relationships between men and women, there is this weird pact that it's the women's job to interpret their relationship for the men. That they have a right to say, 'The problem with you is that you're afraid of commitment, and if only you would show up at my house at an approximately reasonable time, then we would be fine.' And that is bullshit: that the men are ready to outsource their own understanding of themselves to the women, and that the women will do that job so the men will do what they want. And yet it's a sort of agreed-upon game."  
 ...  
@@ -4416,7 +4425,7 @@ Ezra: "So this has become a popular critique of America, and I have to say that 
 --Emiliano Zapata
 
 "Nothing is as it seems, nor is it otherwise."  
-Zen Koan, Sammy Brown's favorite
+--Zen Koan, Sammy Brown's favorite
 
 "Are we ready to drop the base?"  
 --Kathy Zhang, titrating NaOH, Fall 2013

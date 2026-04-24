@@ -9,85 +9,46 @@
 
 	<section class="welcome" id="welcome">
 		<div class="container">
-			<div class="intro-heading">Hi, I'm Pavel<br></div>
-			<div class="intro-lead-in">Electrical and Software Engineer</div>
+			<div class="intro-heading">Pavel Komarov<br></div>
+			<div class="intro-lead-in">Learner, Practitioner, Goober</div>
 		</div>
 	</section>
 
 	<a class="anchor" id="about"></a>
 	<section>
 		<div class="container">
-			<div class="row">
-				<div class="col-lg-12 text-center">
-					<h2 class="section-heading">About</h2>
-				</div>
-			</div>
+			<img src="/assets/my_face.jpg" class="float-start me-4 mb-3 rounded" style="width: 150px;"/>
 
-			<img src="/assets/my_face.jpg" width="150"/>
+			<p>Welcome. Here you will find some of who I am through projects I've turned into pages and things I've collected or written.</p>
 
-			<p>Thanks for visiting, and welcome.</p>
+			<p>Feel free to reach out. You will find links to my email, resume, github, etc. above.</p>
 
-			<p>This site presents some of who I am through projects I've done, jobs I've worked, and things I've written.</p>
-
-			<p>My aspirations are evolving, but I am deeply interested in Math, Computer Science, that intersection of the two called Machine Learning, Finance, developments in Tissue Engineering, ponderings like Man's Search for Meaning, and pragmatic tips on how to live a fuller life.</p>
-
-			<p>I'm always open to hearing about opportunities that fit my skill set, so if the below makes you curious, reach out. You will find links to my email, resume, github, etc. above.</p>
-
+			<div class="clearfix"></div>
 		</div>
 	</section>
 
-	<a class="anchor" id="projects"></a>
+	<a class="anchor" id="things"></a>
 	<section style="background-color: #f7f7f7">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-12 text-center">
-					<h2 class="section-heading">Projects</h2>
-				</div>
-			</div>
-
-			Being built</br></br>
-
-			This website constitutes one! Seems like every time I finally decide to break it open again I find more to simplify. It's handy because next time I'm slightly less confused upon startup, but it's still Sisyphean enough that I haven't sat down and earnestly filled out this section. (Sorry) Finally just removed the dependency on jquery by switching to bootstrap.native. Unforunately Bootstrap 5, which will also eschew jquery, doesn't look like it will be out for a while yet. Then I went on a cdn-ing tear, removing fontawesome and bootstrap from the repo and just adding the rel links to the head like sane developers are supposed to do. You get the picture. Tons of fun. So many technologies to learn and so little leftover mental focus in a day. I'll be back for more eventually, inevitably.
-
-			<div class="row">
-			{% for post in site.projects %}
-				<!-- Adaptively use 3 columns on medium and large screens and 2 on small ones. -->
-				<div class="col-md-4 col-sm-6 gallery-item">
-					<div class="gallery-thumbnail">
-						<p>description text from somewhere</p>
-						<a href="{{ post.permalink }}" >	
-							<img src="../assets/{{ post.img }}" />
+			{% for post in site.things %}
+				<div class="col-md-3 col-sm-6 gallery-item">
+					<div class="gallery-thumbnail{% if post.img %} has-image{% elsif post.emoji %} has-emoji{% endif %}">
+						<a href="{{ post.permalink }}">
+							{% if post.img %}<img src="/assets/{{ post.img }}" alt="{{ post.title }}" />{% elsif post.emoji %}<div class="tile-emoji">{{ post.emoji }}</div>{% endif %}
+							<div class="tile-title">{{ post.title }}</div>
+							<div class="tile-overlay">
+								<h4>{{ post.title }}</h4>
+								<p>{{ post.description | default: post.subtitle }}</p>
+							</div>
 						</a>
 					</div>
-
-					<div class="gallery-caption">
-						<h4>{{post.title}}</h4>
-						<p class="text-muted">{{post.subtitle}}</p>
-					</div>
 				</div>
 			{% endfor %}
 			</div>
 		</div>
 	</section>
 
-
-	<a class="anchor" id="writing"></a>
-	<section>
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12 text-center">
-					<h2 class="section-heading">Writing</h2>
-				</div>
-			</div>
-
-			{% for post in site.writing %}
-			<a href="{{ post.permalink }}" >{{ post.title }}, {{ post.subtitle }}</a>&emsp;
-			{% endfor %}
-		</div>
-	</section>
-	
-	{% include popup.html %} <!-- for "modals", which are basically popups. Good for image display -->
-	{% include intro.html %}
 	{% include js.html %}
 	</body>
 </html>

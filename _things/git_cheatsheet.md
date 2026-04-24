@@ -3,7 +3,7 @@ layout: post
 permalink: /git_cheatsheet.html
 title: Git Cheatsheet
 subtitle: key git things
-img: git.png
+img: github.png
 ---
 <style>
 p {
