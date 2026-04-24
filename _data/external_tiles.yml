@@ -1,21 +1,21 @@
 - title: "Big Holes in Big Data"
   emoji: "🕳️"
   description: "Finding empty hyperrectangular regions in high-dimensional point clouds."
-  url: "https://pavelkomarov.github.io/big-holes-in-big-data/"
+  url: "https://pavelkomarov.com/big-holes-in-big-data/"
   color: "#ffffff"
   order: 16
 
 - title: "Bloom Filter"
   emoji: "🌸"
   description: "A probabilistic data structure for efficient set membership testing, implemented from scratch."
-  url: "https://pavelkomarov.github.io/bloom-filter/"
+  url: "https://pavelkomarov.com/bloom-filter/"
   color: "#00283c"
   order: 13
 
 - title: "Projection Pursuit"
   emoji: "🎯"
   description: "Multivariate projection pursuit regression and univariate classification."
-  url: "https://pavelkomarov.github.io/projection-pursuit/"
+  url: "https://pavelkomarov.com/projection-pursuit/"
   color: "#00283c"
   order: 8
 
@@ -29,28 +29,28 @@
 - title: "X-Rays"
   emoji: "🩻"
   description: "A tiny script to convert DICOM files to PNGs."
-  url: "https://pavelkomarov.github.io/xrays/"
+  url: "https://pavelkomarov.com/xrays/"
   color: "#00283c"
   order: 11
 
 - title: "Memory Map"
   emoji: "🗺️"
   description: "Memory-mapped databases."
-  url: "https://pavelkomarov.github.io/memory-map/"
+  url: "https://pavelkomarov.com/memory-map/"
   color: "#3cb371"
   order: 14
 
 - title: "Ryan's Ride Too"
   emoji: "🚴"
   description: "I made QR code flyers and handed them out."
-  url: "https://pavelkomarov.github.io/ryans-ride-too/"
+  url: "https://pavelkomarov.com/ryans-ride-too/"
   color: "#3cb371"
   order: 17
 
 - title: "Spectral Derivatives"
   emoji: "〰️"
   description: "Taking derivatives by spectral methods using Chebyshev, Fourier, Legendre, and Bernstein bases."
-  url: "https://pavelkomarov.github.io/spectral-derivatives/"
+  url: "https://pavelkomarov.com/spectral-derivatives/"
   color: "#3cb371"
   order: 4
 
