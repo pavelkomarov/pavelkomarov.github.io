@@ -1330,8 +1330,11 @@ Reminds me of Steve Ratts saying you know a new diver because they go zipping ar
 &emsp;&emsp;&emsp;Consider also the possibility that consciously thinking can undermine good decision making. The social psychologist Tim Wilson and the cognitive psychologist Jonathan Schooler (1991) asked research participants to rate james. When the participants simply tasted the james, their ratings were very similar to experts' ratings. However, whent he participants had to explain their ratings jam by jam, their ratings differed substantially from the experts'. Unless the experts were wrong, the participants had made poorer judgements: Having to reflect consciously about their reasons apparently altered their perceptions of the jams."  
 --Gazzaniga, et al., *Psychological Science*
 
+"Dad bod is straight for bear."  
+--Ryan Georgi
+
 "A philosopher once wrote you need three things to have a good life. One, a meaningful relationship. Two, a decent job of work. And three, to make a difference. And it was always that third one that stressed me, to make a difference. And I realized that I do, every day. We all do. It's how we interact with our fellow man."  
---Ricky Gervais (as David, The Office (UK)
+--Ricky Gervais (as David, *The Office* (UK))
 
 "Failure is when you stop dreaming."  
 --Public defender's father in Gideon's Army
@@ -1427,6 +1430,9 @@ I know, right? So pay attention."
 
 "What is the point of being alive if you don't at least try to do something remarkable?"  
 --John Green
+
+"Why do I like taxes? Because before taxes, the only certainty was death."  
+--[John Green](https://nerdfighteria.info/v/sohXPx_XZ6Y/)
 
 "You miss 100% of the shots you never take."  
 --Wayne Gretzky
@@ -2975,6 +2981,9 @@ Knowing silence will speak for her"
 "Our task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."  
 --Rumi
 
+"What is the opposite of faith? Not disbelief. Too final, certain, closed. Itself a kind of belief. Doubt."  
+--Salman Rushdie, *The Satanic Verses*
+
 "Keynes' intellect was the sharpest and clearest that I have ever known. When I argued with him, I felt that I took my life in my hands, and I seldom emerged without feeling something of a fool."  
 --Bertrand Russell
 
@@ -2995,9 +3004,6 @@ Knowing silence will speak for her"
 
 "The true spirit of delight, the exaltation, the sense of being more than Man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as in poetry."  
 --Bertrand Russell, Study of Mathematics
-
-"Dad bod is straight for bear."  
---Ryan Georgi
 
 <a class="anchor" id="S"></a>
 ### S
