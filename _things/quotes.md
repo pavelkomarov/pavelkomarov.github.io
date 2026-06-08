@@ -100,6 +100,9 @@ The second worst is that of the Azgoths of Kria. During a recitation by their po
 "In the beginning the Universe was created. This has made a lot of people very angry and has been widely regarded as a bad move."  
 --Douglas Adams
 
+"I'd rather succeed in doing what we can than fail to do what we can't."  
+--Richard Adams, *Watership Down*
+
 "The creator of the universe works in mysterious ways. But he uses a base ten counting system and likes round numbers."  
 --Scott Adams
 
@@ -245,6 +248,9 @@ Will stay
 Exactly the same"  
 --Ball Park Music, *Writing Hand*
 
+"If you don't make your own choices in life, the world will make them for you."  
+--Pepper, *Bare*, 2015
+
 "Although golf was originally restricted to wealthy, overweight Protestants, today it's open to anybody who owns hideous clothing."  
 --David Barry
 
@@ -378,8 +384,14 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "We’re here to laugh at the odds and live our lives so well that Death will tremble to take us."  
 --Charles Bukowski
 
+"Life is a scam"  
+--bumper sticker
+
 "To be cringe is to be free"  
---bumpersticker
+--bumper sticker
+
+"The truth is still out there"  
+--bumper sticker
 
 <a class="anchor" id="burkeman"></a>
 "True security lies in the unrestrained embrace of insecurity--in the recognition that we never really stand on solid ground, and never can."  
@@ -1488,6 +1500,12 @@ Donna: [Chuckles] "Hangin' in there."
 Cam: "I lost a really good friend. And I don't have that many of those to spare. I know, like, poor me. But I've always had a bit of trouble making those sorts of connections." [Shuddered breathing] "There's just not a lot of people in my life."  
 --*Halt and Catch Fire*, in a heartbreakingly beautiful moment after Gordon dies, a great comment on grief and how to handle it
 
+"Nothing is for good  
+Nothing lasts forever  
+So come and face the change  
+And we’ll feel it all together"  
+--Jordan Hamilton, *Red Leaves*
+
 "We live in an age of exponential growth in knowledge, and it is increasingly futile to teach only polished theorems and proofs. We must abandon the guided tour through the art gallery of mathematics, and instead teach how to create mathematics we need. In my opinion, there is no long-term practical alternative."  
 --Richard Hamming, *The Art of Doing Science and Engineering*
 
@@ -1615,6 +1633,12 @@ Goleman: "One of the main principles of cognitive therapy is that you don't have
 "What's the point of having fuck you money if you never say fuck you?"  
 --Sam Harris on oligarchs bowing to Trump
 
+"Oh of course [it wouldn't be the same for a leftist to consider the Mormons vs Islam], because the Mormons, these are little white girls being mistreated by rapists and pedophiles and moral lunatics. I mean, Warren Jeffs was hurled into prison and everyone wanted to skin those guys alive when they got their hands on them. We sent the SWAT team in to kick down the door to rescue those poor girls from the FLDS cult. This cult isn't half as bad as what's going on throughout the Muslim world. I mean, when you look the work you'd have to do to make the FLDS church more obnoxious than Islamism and jihadism, you'd have to add suicide bombing and exporting terrorism across the globe and a martyrology [and female genital mutilation]. There's just no comparison between the two, and yet everyone saw what was wrong with---just the fact that these girls had to wear Little House on the Prairie dresses was considered an offense beyond the pale on CNN when that story was in the news. And it didn't matter that these girls when you stuck a mic in their faces said "No, no, I wanted to marry. I wanted to be one of 8 wives married to this guy who's 50 years older than me. I love him. This is my religion." We didn't care. We realized these girls had been brainwashed. There's no women's march where girls are wearing these tradwife dresses and they're saying that they don't want to vote and they're happy to be the property of the men in their lives. You'd have to add honor killing. How much honor killing's happening in the LDS church? I don’t know. Maybe you can count it on one hand? But no, honor killing's a staple of the Muslim world. So it's just at some point we're going to have to understand what we're dealing with here and the double standards that are keeping all the good people blind---or half the good people blind---in our culture. I think that it is unraveling. It's unraveling in Western Europe to a degree now that was all too predictable, and it will unravel here if we give it time."  
+--Sam Harris #477
+
+"Mindfulness helps with everything because in each moment there's either something for you to do or there isn't. Right? So if there's something for you to do, well then you should just do that thing. Again, this applies even in emergencies. The house is on fire, and you now need to get your kids out to safety, and so you have to escape. So action's required, and you don't need to suffer over performing that action; you just have to do the thing. Now if there's nothing you can do to change your situation or to change the risk you're confronting, well then your misery is adding nothing to that occasion either. In either case your misery is extra. Now this can be a high bar to clear for people who don't have a mindfulness practice, but once you do, you can actually differentiate these components to your engagement with your life moment to moment. You can have a highly energized, motivated, even adrenalized experience that isn't a miserable one. Right? You can be responding to an emergency and not be miserable. You can be making decisions over a longer time horizon that entail a lot---that are kind of scary decisions. You could say, "Okay I need a surgery, and in two weeks I'm gonna have a surgery which I'm anxious about. But all things considered it is just the right decision, and now the surgery's on the calendar, and now I've got this thing looming." Okay, but now the question is: over the next 14 days how much time are you going to spend being miserable because you're anxious about the surgery? All of those moments are discretionary once you know how to be mindful. Once you've decided what you have to do, there really is no more to think about, really. Now you will helplessly be knocked around by your thoughts, but that's where mindfulness comes in: If you don't have a mindfulness practice, you are going to be the mere hostage of those thoughts. So you'll be as anxious and as fearful and as worried and as sleepless as you'll be, because your mind is completely out of control for the next two weeks. There simply is no alternative to mental training once you get into a situation like that. The time to develop a mindfulness practice is before you really need it, not when you're in the middle of that maelstrom....This is a capacity you can develop, and it really does provide relief. Every time you find yourself suffering, you can recognize that you're thinking without noticing that you're thinking and then wake up from that dream. And it doesn't change the fact that you still might have to have a surgery in two weeks, but again all of the suffering that precedes it is unnecessary, and the same will be true afterwards. You're just going to be in the company of your thoughts 99% of the time."  
+--Sam Harris, #468
+
 "Live in truth."  
 --ethos of Vaclav Havel
 
@@ -1647,6 +1671,11 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 
 "He was a long-limbed farmer, a God-fearing, freedom-loving, law-abiding rugged individualist who held that federal aid to anyone but farmers was creeping socialism. He advocated thrift and hard work and disapproved of loose women who turned him down. His specialty was alfalfa, and he made a good thing out of not growing any. The government paid him well for every bushel of alfalfa he did not grow. The more alfalfa he did not grow, the more money the government gave him, and he spent every penny he didn't earn on new land to increase the amount of alfalfa he did not produce....He invested in land wisely and soon was not growing more alfalfa than any other man in the country. Neighbors sought him out for advice on all subjects, for he had made much money and was therefore wise."  
 --Joseph Heller, *Catch 22*. Prefectly parodies actual government policy to subsidize farmers, especially for thirsty crops like alfalfa to preserve water, and farmers' paradoxical conservative attitudes, which remain to this day. Also wonderfully parodies the pride wealthy people seem to bring to all pursuits in our materialistic culture (see Musk, Altman, etc.), where our values can get crossed and conflated.
+
+"Women killed Hungry Joe. His response to them as sexual beings was one of frenzied worship and idolatry. They were lovely, satisfying, maddening manifestations of the miraculous, instruments of pleasure too powerful to be measured, too keen to be endured, and too exquisite to be intended for employment by base, unworthy man. He could interpret their naked presence in his hands only as a cosmic oversight destined to be rectified speedily, and he was driven always to make what carnal use of them he could in the fleeting moment or two he felt he had before Someone caught wise and whisked them away."  
+--Joseph Heller, *Catch 22*, chapter 6, an unhealthy but not unfamiliar frame of mind
+
+Other potential *Catch 22* quotes: p18, 20, 23, 35, 52, 112, 124, p139, p144, 157-158 (These numbers won't make sense until I get my hands on my physical copy again, presently in storage. I assume one is about Clevinger's trial.)
 
 "Cynicism is an unpleasant way of saying the truth."  
 --Lillian Hellman
@@ -1956,6 +1985,9 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 "[Government] needs to justify itself not through the rules it follows, but through the outcomes it actually delivers."  
 --Ezra Klein, *Abundance*
 
+"When you make legal training the default training for a political career, you make legal thinking the default thinking in politics. And legal thinking centers around statutory language and commitment to process, not results and outcomes."  
+--Ezra Klein, see also [Dan Wang](#dan-wang-lawyers)
+
 "I think to realize that you were not only so wrong but so wrong in such a harmful way is a devestating thing to realize, and it's something that it's totally human to want to rebel against at every point. The sunk cost isn't just that they were wrong and that's embarrassing. The sunk cost is that they hurt someone in the process of being wrong. And so it's not just the misinformation, and it's not just the ego of wanting to be right: I think that people are afraid of what it means about them if they were this wrong, and that it's much easier for them to believe that there's something wrong with me to have deserved the harm that I suffered. And so, I think it goes to people identifying with their ideas, and, when put on the spot and even when having plain evidence put in front of them that what they believe is wrong, it feels to them like what you're saying is that they're a bad person. And that's why they can't grasp just the plain, hard, cold facts of it, because it's charged with emotional resonance and with a sense of it implicating them and their identity and who they imagine themselves to be as people."  
 --Amanda Knox, on *Making Sense* #345, ~1:20:00 in
 
@@ -2001,6 +2033,9 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 
 "In order to get better you change limits, and when you change limits you're gonna look bad and you're gonna fail. At West Point I learned that failure was never a destination. In other words, when you are knocked back, figure out why and then change. The other thing is that you're not gonna get there alone. Be on a team. Surround yourself with good people and learn how to listen. You're not gonna learn with you just talking, and when you do talk, converse. Don't make excuses. Figure out the solution, and you don't have to figure it out yourself."  
 --Coach Mike Krzyzewski, as clipped in *The Bear*
+
+"If you only do what you can do, you will never be more than who you are now."  
+--Master Shifu, *Kung Fu Panda*
 
 "Thanks to the Interstate Highway System, it is now possible to travel from coast to coast without seeing anything."  
 --Charles Kuralt
@@ -2245,6 +2280,9 @@ Harris: "...The buck stops with what you want, and you didn't create your wants.
 "Democracy is the theory that the common people know what they want and deserve to get it good and hard."  
 --H. L. Mencken
 
+"No one in this world, so far as I know ... has ever lost money by underestimating the intelligence of the great masses of the plain people"  
+--H. L. Mencken
+
 "Born to multiply  
 Born to gaze in to night skies  
 All you want's one more Saturday  
@@ -2431,7 +2469,7 @@ But now a wretched captive am I
 Deep in the ground, low here I lie  
 My beauty great is all quite gone  
 My flesh wasted to the bone'  
-In his slow decline from renown in to sickness, he must have realized that, when it comes to the human condition, glory only treats the symptoms."  
+In his slow decline from renown into sickness, he must have realized that, when it comes to the human condition, glory only treats the symptoms."  
 --David Mitchell, *Unruly*
 
 "The crazy Plantaginate claim to the French throne, Edward III's chancy punt, was getting endorsed by Europe's biggest wig. The daft notion that the king of England was also the rightful king of France was becoming mainstream. Think on that when you next assume that all internet conspiracy theories are doomed to be blasted away by the leafblower of reason."  
@@ -2458,11 +2496,20 @@ In his slow decline from renown in to sickness, he must have realized that, when
 "I've suffered thousands of tragedies in my life, most of which never happened."  
 --Michel de Montaigne (paraphrased from French)
 
+"Supreme power is often the supreme power to bore. Nothing beats the obligatory tedium and inebriated verbosity of the of the absolute monarch in decline."  
+--Simon Sebag Monefiore, *Stalin: The Court of the Red Czar*
+
+"In the higher levels of the bunker, Hitler's secretary discovered, 'an erotic fever seemed to take possession of everybody. Everywhere, even on the dentist's chair, I saw bodies interlocked in lascivious embraces. The women had discarded all modesty and were freely exposing their private parts.'"  
+--Simon Sebag Monefiore, *Stalin: The Court of the Red Czar*
+
 "Practice is your best teacher."  
 --Polly Morris, roller skater
 
 "People with wisdom know that it is important to correct their own mistakes, while people without wisdom find it necessary to point out the mistakes of others."  
 --Bawa Muhaiyaddeen
+
+"In the Republican Party we’re brought up with one rule: When it’s a confusing situation, grab the sharpest object and attack. They [the Dems] call the shrink, clutch the pearls, hold a focus group, bring in the interest groups, decide the staff isn’t DEI enough and flip everybody around. That's why they're so easy to beat. Every time we'd get in the corner in the old days we'd drag them into a culture war, and they just scamper right into the mousetrap."  
+--Mike Murphy, *The Bulwark*, May 2026
 
 "I've had recurring nightmares  
 That I was loved for who I am  
@@ -2692,7 +2739,10 @@ because I was importand in the life of a child"
 "I was to blame for not having pressed my point. I had given in to authority when I believed I was right. If you are sure of your facts, you should defend your position."  
 --Cecilia Payne
 
-"It didn't help that the output was so criminally long with each run that I lost track of where it had dumped that mega-list of goals; if my terminal continued out the top of my monitor, I'm willing to bet that list would be in outer space. I wasn't feeling like scrolling into outer space that day, and I definitely didn't feel like running mvn with no arguments again just to print another copy, so I looked into my other options in the vain hope that they'd be simpler."  
+"Do you have to, do you have to, do you have to let it linger?"  
+--Nataly Peck singing The Cranberries after I farted
+
+"It didn't help that the output was so criminally long with each run that I lost track of where it had dumped that mega-list of goals; if my terminal continued out the top of my monitor, I'm willing to bet that list would be in outer space. I wasn't feeling like scrolling into outer space that day, and I definitely didn't feel like running `mvn` with no arguments again just to print another copy, so I looked into my other options in the vain hope that they'd be simpler."  
 --[Costya Perepelitsa](https://qr.ae/TWAQA6)
 
 "Got back from racket ball, was like 'I'll just take a quick nap.' Woke up at 2am like '*gasp* What year is it?'"  
@@ -2838,7 +2888,7 @@ NYTimes interviewer: "But why does compassion have to be universal?"
 --Rick, *Rick and Morty*
 
 "Well it's your world now. Have fun with empowerment. It seems to make everyone that gets it really happy."  
---Rick
+--Rick, *Rick and Morty*
 
 <a class="anchor" id="rilke"></a>
 "Let everything happen to you  
@@ -3262,6 +3312,9 @@ And seem a saint, when most I play the devil."
 
 "The unexamined life is not worth living."  
 --Socrates
+
+"I cannot teach anybody anything. I can only make them think."  
+--aphorism based on Socrates
 
 "I remember reading somewhere that men learn to love the person that they're attracted to, and that women become more attracted to the person that they love."  
 --Graham, Steven Soderbergh's *Sex, Lies, and Videotape*
@@ -3734,6 +3787,7 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 "What do engineers like to do? *Build*."  
 --Dan Wang, *Breakneck*, Engineers vs. Lawyers. Reminds me of many days spent with Legos and that the beaver truly is the best mascot MIT could have chosen.
 
+<a class="anchor" id="dan-wang-lawyers"></a>
 "The United States by contrast has a government of the lawyers, by the lawyers, and for the lawyers. Five out of the last ten presidents attended law school. In any given year at least half the US Congress has law degrees, while at best a handful of members have studied science or engineering....only two American presidents worked as engineers: Herbert Hoover, who built a fortune in mining, and Jimmy Carter, who served as an engineering officer on a nuclear submarine. Hoover and Carter are remembered for many things, especially for their dismal political instincts that produced thumping electoral defeats.  
 &emsp;&emsp;&emsp;Lawyers have so many tools available to delay or prevent building. You don't just feel the difference going from the lawyerly society to the engineering state; you saunter, tread, and amble upon its works. Americans no longer manufacture well or build public works on reasonable timelines. US infrastructure is falling into a pitiable state, while China is building new systems of subways, bridges, and highways....Lawyers enable some of the success of Silicon Valley; you can't build companies worth trillions without legal protections. But lawyers are also part of the reason that the Bay Area and much of the country are starved of housing and mass transit. The United States used to be, like China, an engineering state, but in the 1960s the priorities of elite lawyers took a sharp turn. As Americans grew alarmed by the unpleasant byproducts of growth---environmental destruction, excessive highway construction, corporate interests above public interests---the focus of lawyers turned to litigation and regulation. The mission became to stop as many things as possible."  
 --Dan Wang, *Breakneck*, Engineers vs. Lawyers
@@ -4356,6 +4410,9 @@ Always forgive your enemies--nothing annoys them so much.
 "My wallpaper and I are fighting a duel to the death. One or the other of us has to go."  
 --Oscar Wilde
 
+"Life imitates Art far more than Art imitates Life"  
+--Oscar Wilde
+
 "The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised."  
 --George F. Will
 
@@ -4427,6 +4484,20 @@ Always forgive your enemies--nothing annoys them so much.
 Ezra: "So this has become a popular critique of America, and I have to say that I only half buy it....You're telling me---not you, but the imaginary national conservative here on the stage---that New York City doesn't have identity? That it doesn't have a pulse unto iteself? That it is not a place that people become a fierce partisan of? I'm from California; I find the level of fierce New York City partisanship quite irksome....There's something here that always feels wrong to me, because the backlash is not coming from within the place that has supposedly lost the thing that should hold it together. The backlash is coming from other places that have a growing anger at these centers of cosmopolitan industry and belonging."  
 "I like what you're saying, and I think the way I'd put it is: The Ezra Klein amendment to Kierkegaard is 'Anxiety is the dizziness of somebody else's freedom.'"  
 --Fareed Zakaria, live event with Ezra Klein, 2025
+
+"This time [Trump] has surrounded himself with people whose chief qualification is fealty. The less distinguished the resume the better; such people owe everything to him."  
+--Fareed Zakaria, *Global Public Square*, May 24th 2026, see also [NYTimes: Democracy Dies in HR](https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html)
+
+"Power is more sustainable when it is exercised with restraint, and influence is larger when allies feel dignity rather than fear."  
+--Fareed Zakaria
+
+"The computer scientist Yann LeCun has pointed out that human intelligence is not merely computation; it is embodied experience, social understanding, and emotional cognition, layered over millions of years of evolution. And so perhaps we should stop imagining human beings as inferior computers. We’re not computers at all.  
+&emsp;&emsp;&emsp;In Japan the central concept of wabisabi celebrates imperfection, incompleteness, asymmetry, transience, roughness, and irregularity. Handmade ceramics are treasured precisely because they bear the mark of the human being, with uneven glazes and distortions that reveal individuality and craftsmanship. Broken pottery is sometimes repaired with veins of gold, a practice called kintsugi. The crack shines instead of being hidden. The resulting surface is rough, but what moves us is the visible evidence of frailty and repair.  
+&emsp;&emsp;&emsp;We humans don’t always seek perfection; sometimes we seek authenticity and soul....No hyper-efficient program would have designed Venice, an absurdly impractical city on stilts---and thank God for that. In fact the danger in the AI age is not that machines will become too human; it’s that humans will start trying to become too much like machines. We already see this happening. People talk about optimizing every dimension of life: sleep, productivity, networking, branding, performance. Students feel pressure to turn themselves into perfectly curated resumes. Workers fear being measured against algorithms that never tire and sleep.  
+&emsp;&emsp;&emsp;But human flourishing is not and has never been about optimization. Human greatness emerges from struggle. That is why great works of literature endure. They don’t portray flawless beings. Earnest Hemingway famously wrote in A Farewell to Arms “The world breaks everyone, and afterward many are strong at the broken places.” Leonard Cohen put a similar insight into lyrics when he sang Anthem: "There is a crack, a crack in everything. That's how the light gets in."  
+&emsp;&emsp;&emsp;Our imperfections are not flaws to eliminate; they're the source of empathy, creativity, wisdom, resilience, and beauty. A machine may someday write a technically flawless symphony, but it will never know the anguish of Beethoven, who composed his ninth symphony, one of the greatest pieces of music ever written, when he was almost completely deaf. When we listen to the ninth symphony, what moves us is not simply the arrangement of notes. It is the sorrow, perseverance, and triumph of a composer determined to create transcendent sounds that he would never hear.  
+&emsp;&emsp;&emsp;That is why human intelligence matters, not because it’s faster [or more "astonishingly good at analysis"] than AI, not because it’s more efficient---It isn't---, but because it is embedded in consciousness, emotion, morality, memory, relationships, and experience. My hope for all of us is that instead of competing with AI on its terms, AI prompts us all to become more fully human. So of course let's use AI. Let's use it to cure diseases, expand knowledge, improve productivity, and solve problems once thought unsolvable, but let’s also use AI to illuminate the astonishing distinctiveness of the human mind, a three pound organ ["using less energy than a laptop charger"] capable of mathematics and music, logic and love, memory and imagination, ambition and compassion....HI: human intelligence, human imagination, human inspiration, human interconnection."  
+--Fareed Zakaria, *GPS*, May 31st 2026
 
 "Es mejor morir de pie que vivir de rodillas."  
 "It's better to die on your feet than to live on your knees."  
