@@ -997,35 +997,35 @@ stands at the sea
 wonders at wondering  
 I, a universe of atoms  
 an atom in the universe"  
---Richard Feynman, The Value of Science
+--Richard Feynman, *The Value of Science*
 
 "It is true that few unscientific people have this particular type of religious experience. Our poets do not write about it; our artists do not try to portray this remarkable thing. I don't know why. Is nobody inspired by our present picture of the universe? The value of science remains unsung by singers, so you are reduced to hearing, not a song or a poem, but an evening lecture about it. This is not yet a scientific age.  
 &emsp;&emsp;&emsp;Perhaps one of the reasons is that you have to know how to read the music."  
---Richard Feynman, The Value of Science, 1955
+--Richard Feynman, *The Value of Science*, 1955
 
 "[T]he thing which I call my individuality is only a pattern or dance."  
---Richard Feynman, The Value of Science
+--Richard Feynman, *The Value of Science*
 
 "When we read about this in the newspaper, it says 'The scientist says that this discovery may have importance in the cure of cancer.' The paper is only interested in the use of the idea, not the idea itself. Hardly anyone can understand the importance of an idea, it is so remarkable. Except that, possibly, some children catch on. And when a child catches on to an idea like that, we have a scientist. It is late for them to get the spirit when they are in our universities, so we must attempt to explain these ideas to children."  
---Richard Feynman, The Value of Science
+--Richard Feynman, *The Value of Science*
 
 "[W]e scientists are used to this [uncertainty], and we take it for granted that it is perfectly consistent to be unsure, that it is possible to live and *not* know. But I don't know whether everyone realizes this is true. Our freedom to doubt was born of a struggle against authority"  
---Richard Feynman, The Value of Science
+--Richard Feynman, *The Value of Science*
 
 "They of the past saw in the nightmare of their times a dream for the future."  
---Richard Feynman, The Value of Science
+--Richard Feynman, *The Value of Science*
 
 "Communications between nations must promote undstanding. So went another dream. But the machines of communication can be manipulated. What is communicated can be truth or lie. Communication is a strong force, but for either good or bad."  
---Richard Feynman, The Value of Science, presicent for the post-truth social media algorithm-dominated era
+--Richard Feynman, *The Value of Science*, presicent for the post-truth social media algorithm-dominated era
 
 "[I]f some direction or meaning could be given to our actions, great human forces would be unleashed. So, very many answers have been given to the question of the meaning of it all. But the answers have been of all different sorts, and the proponents of one answer have looked with horror at the actions of the believers in another. Horror, because from a disagreeing point of view, all the great potentialities of the race are channeled into a false and confining blind alley. In fact, it is from the history of the enormous monstrosities created by false belief that philosophers have realized the apparently infinite and wondrous capacities of human beings. ...  
 &emsp;&emsp;&emsp;What, then, is the meaning of it all? ... I think that we must frankly admit that *we do not know*. But, in admitting this, we have probably found the open channel.  
 &emsp;&emsp;&emsp;This is not a new idea; this is the idea of the Age of Reason. This is the philosophy that guided the men who made the democracy that we live under. The idea that no one really knew how to run a government led to the idea that we should arrange a system by which new ideas could be developed, tried out, and tossed out if necessary, with more new ideas brought in, a trial-and-error system.  
 &emsp;&emsp;&emsp;This method was a result of the fact that science was already showing itself to be a succesful venture at the end of the 18th century. Even then it was clear to socially-minded people that the openness of possibilities was an opportunity, and that doubt and discussion were essential to progress into the unknown. If we want to solve a problem that we have never solved before, we must leave the door to the unknown ajar."  
--Richard Feynman, The Value of Science
+-Richard Feynman, *The Value of Science*
 
 "In the impetuous youth of humanity, we can make grave errors that can stunt our growth for a long time. This we will do if we say we have the answers now, so young and ignorant as we are. If we suppress all discussion, all criticism, proclaiming 'This is the answer, my friends. Man is saved!', we will doom humanity for a long time to the chains of authority, confined to the limits of our present imagination. It has been done so many times before. ... [D]oubt is not to be feared but welcomed and discussed"  
---Richard Feynman, The Value of Science
+--Richard Feynman, *The Value of Science*
 
 "His almost compulsive need to solve puzzles, his provocative mischievousness, his indignant impatience with pretension and hypocrisy, and his talent for one-upping anybody who tries to one-up him."  
 --Albert R. Hibbs, intro to *Surely You're Joking, Mr. Feynman*
@@ -1050,6 +1050,17 @@ an atom in the universe"
 
 "I shall not waste my days in trying to prolong them."  
 --Ian Flemming
+
+"Summer came in on a Sunday  
+Hit me like a drunk on the subway  
+Oh baby I basked in the violence  
+tulips and vines and the violets"  
+--Flipturn, *Sad Disco*
+
+"Is that what you thought,  
+that life owes you love?  
+Well God bless your heart."  
+--Flipturn, *Something You Needed*
 
 *"What is the best beauty advice you've ever been given?"*  
 "I never felt beautiful growing up. I had freckles, red hair and pale lashes. I didn't tan, and I was stick thin. Usually redheads \[were\] portrayed as the geeky ugly girl or the mean one in movies and on TV. It wasn't like today where you have loads of gorgeous redhead actresses.  
