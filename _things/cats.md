@@ -8,7 +8,7 @@ color: "#ffffff"
 order: 2
 ---
 
-These three belong to us, Pavel and Nataly, @ 629 12<sup>th</sup> Ave E Apt A, 941-545-7573. Before here, Pavel lived for three years in Salt Lake City without a yard, so he toilet trained his two cats. We are currently working on the little one. They're all gentle and lovely.
+These three belong to us, Pavel and Nataly, presently reachable at +44 7463 155045 and +44 7463 158964, US numbers +1 941 545 7573 and +1 540 293 5888, by which we can also be found on WhatsApp. We normally call Seattle home, but we've come to London for a year. Pumpkin and Miso are with us, and Fozzy is presently in Salem, VA with Nataly's family, reachable at +1 540 293 0779.
 
 [Their instagram](https://www.instagram.com/pumpkin.miso.fozzy/)
 
