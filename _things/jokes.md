@@ -62,6 +62,7 @@ order: 9
 - Pick up artists and garbage men should switch names.
 - Analogies are hard; they're like ...
 - What do you call a cover of a cover? A duvet.
+- When does a joke become a dad joke? When it becomes apparent.
 
 ### Philosophy
 - Is it solipsistic in here, or is it just me?

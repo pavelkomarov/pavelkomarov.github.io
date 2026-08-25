@@ -273,6 +273,7 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 "Logic: The art of thinking and reasoning in strict accordance with the limitations and incapacities of the human misunderstanding."  
 --Ambrose Bierce
 
+<a class="anchor" id="big-moon-on-ego"></a>
 "Every generation probably thought they were the last."  
 --The Big Moon, *Your Light*
 
@@ -317,6 +318,9 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 
 "[T]he reason why Trump was elected, and the reason why there is such incredible polarization in society right now, is because the top 10% of earners in the United States have been so focused on ensuring that they not only maintain but also extend their privilege. And for me the scandal that really summarized all of this was Varsity Blues and all of these very wealthy people that were doing everything possible to ensure that their kids---not deservant---found a way to get into those best schools. And when I saw that Greenwich Connecticut, that *50%* of high schoolers taking the SAT out of Greenwich had letters from doctors that allowed them to take it with no time restrictions, unmonitored---that-that's not just rigged; I mean, that is *the* system. That's structural."  
 -[Ian Bremmer, *Real Time with Bill Maher*, May 29th 2020](https://www.youtube.com/watch?v=N8a78lMXmAE&t=5m31s)
+
+"A gentleman never makes himself the center of attention. His goal is to make life easier, not just for himself but for his friends, his acquaintances, and the world at large."  
+--John Bridges, *How to Be a Gentleman*
 
 "You know what? Maybe nobody's the victim. Maybe we're just victimizing ourselves to avoid bettering ourselves. We keep looking for somebody to blame, but it's us. We're the monsters."  
 "OR is it the liberal media!?"  
@@ -759,6 +763,9 @@ How will you find the strength and wisdom to challenge an unwise order or questi
 "He had not a handsome face, but it was better than handsome, being extremely amiable and cheerful."  
 --Charles Dickens, *Great Expectations*
 
+"Yet the mayor of Marseille can only guess how many of his city's residents--20, 25 percent?--are issus de l'immigration. He does not know how many are of Arab or African descent. He does not know how many have Muslim roots. In accordance with France's 'republican values'--its secular and egalitarian ideals--it's against the law for any functionary, including the census taker, to record a citizen's race, religion, or ethnicity. Church and state are not only separate, but religion is officially ignored. If you are French, you are French: nothing more, nothing less, and nothing else."  
+--Christopher Dickey, in a 2012 article for *National Geographic*
+
 "How we spend our days is how we spend our lives."  
 --Annie Dillard
 
@@ -813,6 +820,9 @@ Also traslated as: "There is neither happiness nor misery in the world; there is
 
 "I ruined my last suit jacket when I got drunk and let a kraft single melt in the front pocket"  
 --Kevin Eickholt
+
+"The measure of intelligence is the ability to change."  
+--often attributed to Albert Einstein, but not actually documented
 
 "Creativity is intelligence having fun."  
 --Albert Einstein
@@ -1154,6 +1164,12 @@ From lips of the gluttons and envying their bloody teeth"
 "Painters, poets, and philosophers have seen many things in the myth of Sisyphus. They have seen an image of the absurdity of human life, the futility of effort, the remorseless cruelty of fate, the unconquerable power of gravity. But they have seen too something of mankind's courage, resilience, fortitude, endurance, and self-belief. They see something heroic in our refusal to submit."  
 --Stephen Fry, *Mythos*
 
+"the spank of keel on water that shivered every plank"  
+--Stephen Fry, *Odyssey*
+
+"She heard the slip, slap, scramble, and slide of his sandled fee as he raced over the polished tiles."  
+--Stephen Fry, *Odyssey*
+
 "It is easier to act your way to a new way of thinking than to think your way to a new way of acting."  
 --Millard Fuller, first stated to me by Ken "Roberts" Pennacchini, a distillation of the ['act as if' principle from William James](https://books.google.com/books?id=IBrykBRv2B4C&pg=PA100&lpg=PA100&dq=it+is+easier+to+act+your+way+to+a+new+way+of+thinking+than+to+think+your+way+to+a+new+way+of+acting+william+james&source=bl&ots=SSIpVUJz4Z&sig=ACfU3U2PCpi9jxvhLaCatbTrJ4gW7_arSQ&hl=en&sa=X&ved=2ahUKEwio7dyM0OToAhVB2qwKHVP9DOAQ6AEwAHoECBIQLA#v=onepage&q=it%20is%20easier%20to%20act%20your%20way%20to%20a%20new%20way%20of%20thinking%20than%20to%20think%20your%20way%20to%20a%20new%20way%20of%20acting%20william%20james)
 
@@ -1308,6 +1324,9 @@ From lips of the gluttons and envying their bloody teeth"
 
 "If we could change ourselves, the tendencies in the world would also change."  
 --Mohandas Gandhi (Be the change you wish to see in the world.)
+
+"They [the National Conservatives and their ilk] usually relate to religion as some kind of social or psychological necessity, and that's not quite the same as believing....It's something much more utilitarian....almost cynical relationship to religion."  
+--John Ganz, on Ezra Klein's podcast
 
 "The society which scorns excellence in plumbing as a humble activity and tolerates shoddiness in philosophy because it is an exalted activity will have neither good plumbing nor good philosophy; neither its pipes nor its theories will hold water."  
 --John W. Gardner
@@ -1773,6 +1792,9 @@ There is in every village a torch: the teacher; and an extinguisher: the clergym
 "Everyone is being satirical, everything is a send-up. There’s an infuriating frivolity, cynicism and finally a vacuousness."  
 --Barry Humphries
 
+"When I was a boy, I wanted to know all about the clouds and the grasses, and why the leaves changed colour in the autumn. I watched the ants, bees, birds, tadpoles, and caddisworms. I pestered people with questions about what nobody knew or cared anything about."  
+--John Hunter
+
 <a class="anchor" id="I"></a>
 ### I
 
@@ -1841,6 +1863,11 @@ Oh yes"
 
 "Remember what the dormouse said: 'Feed your head!'"  
 --Jefferson Airplane, *White Rabbit*
+
+"When Hegseth frames this in apocalyptic terms, for people who read books like Left Behind as teenagers the connection is immediate. It's hooking something very real--bombs, death, civilians, war--to a fantasy. It would be just as wild to be interpreting American foreign affairs through the lens of the Die Hard movies or the Iliad.  
+...  
+&emsp;&emsp;&emsp;&emsp;We all live within stories about the world. I don't think a lack of faith is an absence of a narrative. I just think my narrative is less consuming than [that of the Weavers at Ruby Ridge]. They got so far into a particular tale about how the world would end and about their special role in it that it blotted out all other realities for them."  
+--Chris Jennings, writing in the NYTimes, see also [Big Moon lyrics](#big-moon-on-ego)
 
 "He who exalts himself will be humbled, and he who humbles himself will be exalted."  
 --Jesus, Luke 14:11
@@ -2266,6 +2293,15 @@ Harris: "...The buck stops with what you want, and you didn't create your wants.
 
 "Irrigation of the land with seawater desalinated by fusion power is ancient. It's called 'rain'."  
 --Michael McClary
+
+"Totally realistic lifestyle:  
+- no alcohol  
+- have the trainer from Magic Mike  
+- lift weights 6 days a week [or 3+]  
+- run 5[?] miles per day  
+- no [simple] carbs, or any foods you like  
+- sleep 9 hours a night"  
+--Rob McElhenney, discussing how he got so fit on a late night talk show
 
 "We have a lot of really dedicated civil servants, but in most government agencies, you could randomly kidnap people out of them, and nobody would notide the difference."  
 --H. R. McMaster on Overtime with Bill Maher
@@ -2858,6 +2894,10 @@ Trying to catch your light"
 --Roman proverb
 
 "Enjoy yourself. It's later than you think."  
+--Roman proverb
+
+"Si vis pacem, para bellum."  
+"If you want peace, prepare for war."  
 --Roman proverb
 
 <a class="anchor" id="R"></a>
