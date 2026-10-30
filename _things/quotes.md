@@ -2833,7 +2833,7 @@ because I was importand in the life of a child"
 --Nataly Peck singing The Cranberries after I farted
 
 "It didn't help that the output was so criminally long with each run that I lost track of where it had dumped that mega-list of goals; if my terminal continued out the top of my monitor, I'm willing to bet that list would be in outer space. I wasn't feeling like scrolling into outer space that day, and I definitely didn't feel like running `mvn` with no arguments again just to print another copy, so I looked into my other options in the vain hope that they'd be simpler."  
---[Costya Perepelitsa](https://qr.ae/TWAQA6)
+--Costya Perepelitsa, [*Why do many software engineers not like Java?*](https://qr.ae/TWAQA6)
 
 "Got back from racket ball, was like 'I'll just take a quick nap.' Woke up at 2am like '*gasp* What year is it?'"  
 --Luis Pérez, 3rd March 2015
@@ -2856,7 +2856,7 @@ because I was importand in the life of a child"
 "One night  
 I took a drug  
 I gave three hundred  
-Uninvited hugs"
+Uninvited hugs"  
 --Petey USA, [*Lean Into Life*](https://www.youtube.com/watch?v=a1WvBrb0VCU)
 
 "It's beginning to feel like  
