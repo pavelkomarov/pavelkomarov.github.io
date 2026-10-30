@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /git_cheatsheet.html
 title: Git Cheatsheet
 subtitle: key git concepts and commands

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /jokes
 title: Jokes
 subtitle: I try to remember

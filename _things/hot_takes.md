@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /hot_takes.html
 title: Hot Takes
 subtitle: strong opinions, loosely held

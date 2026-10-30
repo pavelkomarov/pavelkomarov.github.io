@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /fathers_day
 title: Father's Day
 subtitle: 2015

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /cats.html
 title: Cats
 subtitle: the handsome, beautiful, and adorable

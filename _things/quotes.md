@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /quotes.html
 title: Quotations
 subtitle: words I've found snappy enough to memorize, helpful, or wise
@@ -103,9 +103,6 @@ The second worst is that of the Azgoths of Kria. During a recitation by their po
 "I'd rather succeed in doing what we can than fail to do what we can't."  
 --Richard Adams, *Watership Down*
 
-"The creator of the universe works in mysterious ways. But he uses a base ten counting system and likes round numbers."  
---Scott Adams
-
 "You are what you love, not what loves you."  
 --Donald Kaufman, *Adaptation* (the one good thing anyone said in that worthless movie)
 
@@ -116,7 +113,7 @@ The second worst is that of the Azgoths of Kria. During a recitation by their po
 --[Theodor W. Adorno](https://www.newyorker.com/culture/cultural-comment/the-frankfurt-school-knew-trump-was-coming)
 
 "He who learns must suffer. And even in our sleep, pain that can not forget falls drop by drop upon the heart. And in our own despite, against our will, comes wisdom to us by the awful grace of God."  
---Aeschylus
+--Aeschylus, *Agamemnon*, [slightly mistranslated by Edith Hamilton](https://www.textkit.com/t/rfks-use-of-a-ag-179-183-mlk-assassination/11713)
 
 "I don't like a state or culture that so obeys authority. Germany is a very precise society. Its people love the comfort of being oppressed. In China, too, you see that. Once you're used to it, it can be very enjoyable. And you can see the efficiency, the show, the sense of their power being extended through the connected-mind condition. ... They identify with the cult of that authoritarian mindset."  
 --[Ai Weiwei](https://www.theguardian.com/artanddesign/2020/jan/21/ai-weiwei-on-his-new-life-in-britain-germany-virtual-reality-film)
@@ -387,6 +384,15 @@ Liz: "Nobody won the war. Each looks after his own wounds. We made peace."
 
 "They may forget what you said, but they will never forget how you made them feel."  
 --[Carl Buehner](https://quoteinvestigator.com/2014/04/06/they-feel/)
+
+"Be fearful when others are greedy and greedy when others are fearful."  
+--Warren Buffett
+
+"Somebody once said that in looking for people to hire, you look for three qualities: integrity, intelligence, and energy. And if you don't have the first, the other two will kill you."  
+--Warren Buffett
+
+"I insist on a lot of time being spent, almost every day, to just sit and think. That is very uncommon in American business. I read and think. So I do more reading and thinking, and make less impulse decisions than most people in business. I do it because I like this kind of life."  
+--Warren Buffett
 
 "We’re here to laugh at the odds and live our lives so well that Death will tremble to take us."  
 --Charles Bukowski
@@ -909,6 +915,9 @@ And know the place for the first time.
 "A positive attitude will not solve all of your problems, but it may annoy enough people to make it worth the effort."  
 --[Eluder](https://www.tetongravity.com/forums/showthread.php/355846-Freetour-2-0-the-2024-CAST-system-thread)
 
+"Never let a crisis go to waste."  
+--Rahm Emanuel
+
 "What lies behind us and what lies before us are small matter compared to what lies in us."  
 --Not actually Ralph Waldo Emerson, but mistakenly attributed
 
@@ -1378,6 +1387,9 @@ Reminds me of Steve Ratts saying you know a new diver because they go zipping ar
 "Dad bod is straight for bear."  
 --Ryan Georgi
 
+"the soft bigotry of low expectations"  
+--[Michael Gerson](https://en.wikipedia.org/wiki/Soft_bigotry_of_low_expectations)
+
 "A philosopher once wrote you need three things to have a good life. One, a meaningful relationship. Two, a decent job of work. And three, to make a difference. And it was always that third one that stressed me, to make a difference. And I realized that I do, every day. We all do. It's how we interact with our fellow man."  
 --Ricky Gervais (as David, *The Office* (UK))
 
@@ -1808,6 +1820,9 @@ There is in every village a torch: the teacher; and an extinguisher: the clergym
 And that's to laugh and smile and dance and sing"  
 --Eric Idle, *Always Look on the Bright Side of Life* from *Life of Brian*
 
+"Misfortune teaches us the truth."  
+--*Ikiru*, the journalist
+
 "An important part of becoming an adult is realizing that a lot of people never become adults."  
 --Alex Ikonomides
 
@@ -1917,6 +1932,9 @@ Oh yes"
 "I don't think that most of the really best people that I've worked with have worked with computers for the sake of working with computers. They've worked with computers because they are the medium that is best capable of transmitting some feeling that you have that you want to share with other people."  
 --Steve Jobs
 
+"The more you regard college as a credentialing exercise, the less likely you are to get the benefits."  
+--Eric Johnson, counselor at UNC Chapel Hill
+
 "In the biggest picture, aside from psychadelics' ability to treat one disorder or another, I think they're just poised to really help us to understand the nature of psychiatric disorders. What commonalities do they have with each other that are somehow being addressed by psychadelic treatment? I kind of think of all of these disorders as different forms of addiction. So whether it's to a substance like tobacco, or alcohol, cocaine, or a way of thinking about yourself, it's this narrowed mental and behavioral repertoire. Reality used to be like this [arms wide], and now your reality is like this [narrows hands together]. And psychadelics, when done well in the right setting, have the ability to just blow people out of that narrowed story."  
 --[Matthew Johnson](https://youtu.be/HGqFxjQI3is)
 
@@ -1962,6 +1980,12 @@ Harris: "...there's more needed in the toolkit for living a truly examined life 
 
 "A change in perspective is worth 80 IQ points."  
 --[Alan Kay](https://www.youtube.com/watch?v=brU5yLm9DZM&t=14m5s)
+
+"Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe, in order to assuer the survival and success of liberty."  
+--John F. Kennedy
+
+"I think this is the most extraordinary collection of talent, of human knowledge, that has ever been gathered together at the White House, with the possible exception of when Thomas Jefferson dined alone."  
+--John F. Kennedy, remarks at a dinner honoring Nobel Prize winners
 
 "[A Liberal is] someone who looks ahead and not behind, someone who welcomes new ideas without rigid reactions, someone who cares about the welfare of the people--their health, their housing, their schools, their jobs, their civil rights, and their civil liberties--someone who believes we can break through the stalemate and suspicions that grip us in our policies abroad, if that is what they mean by a 'Liberal,' then I'm proud to say I'm a 'Liberal.'"  
 --John F. Kennedy
@@ -2338,12 +2362,12 @@ Born to gaze in to night skies
 All you want's one more Saturday  
 But look here until then  
 They're gonna buy your life's time"  
---James Mercer (Australia)
+--James Mercer, *Australia*
 
 "Faced with the Dodo's conundrum--  
 I felt like I could just fly  
 But nothing happened every time I tried"  
---James Mercer (Australia)
+--James Mercer, *Australia*
 
 <a class="anchor" id="nothing-lasts"></a>
 "Nothing Lasts"  
@@ -2550,7 +2574,10 @@ In his slow decline from renown into sickness, he must have realized that, when 
 --Simon Sebag Monefiore, *Stalin: The Court of the Red Czar*
 
 "In the higher levels of the bunker, Hitler's secretary discovered, 'an erotic fever seemed to take possession of everybody. Everywhere, even on the dentist's chair, I saw bodies interlocked in lascivious embraces. The women had discarded all modesty and were freely exposing their private parts.'"  
---Simon Sebag Monefiore, *Stalin: The Court of the Red Czar*
+--Simon Sebag Montefiore, *Stalin: The Court of the Red Czar*
+
+"He was witty, a font of irreverent jokes, mischievous anecdotes, and withering put-downs."  
+--Simon Sebag Montefiore on Lavrenty Beria, head of Stalin's secret police and otherwise a terrible man
 
 "Practice is your best teacher."  
 --Polly Morris, roller skater
@@ -2760,6 +2787,16 @@ We are in this together"
 Because I wouldn't believe myself"  
 --Joe P, *French Blonde*
 
+"She never prays  
+But she don't want to  
+She got real high  
+And spent the time  
+Reading half the Bible  
+and the New York Times  
+Made up her mind  
+She ain't afraid to die"  
+--Joe P, *She's So Good* 
+
 “Not ‘rich, but still nice’, nice *because* she’s rich, you know? Hell, if I had all this money,” [throws arms wide] “I’d be nice too!"  
 --Chung Sook, *Parasite*, 2019
 
@@ -2773,6 +2810,9 @@ or the kind of car I drove...
 but the world may be different  
 because I was importand in the life of a child"  
 --poem with lines by Walden Parker, quoted on Lubomir Komarov's favorite mug
+
+"It takes a lot of money to look this cheap."  
+--Dolly Parton
 
 "[C]hance favors only the prepared mind."  
 --Louis Pasteur
@@ -2813,8 +2853,17 @@ because I was importand in the life of a child"
 "Solzhenitsyn said in his Nobel Prize acceptance speech 'A single person who stops lying can bring down a tyranny.', which is a stunning thing to say, but I would also say something that's been amply demonstrated in the 20th century, because we have historical examples of people who did precisely that. Gandhi did it. Vaclav Havel did it. Nelson Mandela did it. Solzhenitsyn's Gulag Archipelago was definitely one of the axe-blows that brought down the Soviet Union, a stunning achievement for a person who started writing that book by memorizing it when he was a concentration camp victim this [holds up pinched fingers] far away from starvation. It shows you as-as clearly as anything possibly can how powerful the human spirit can be if it's willing to take on the obligation of its relationship with the divine and also how terrible things can become if the responsibility of that burden is not shouldered."  
 --[Jordan Peterson](https://www.youtube.com/watch?v=MLp7vWB0TeY&t=33m17s)
 
-"The idea behind the taoist symbol is that you should have one foot in what you know and one foot in what you don't know, and that's the place where information flow is maximized."  
---Jordan Peterson, #67 with Sam Harris
+"One night  
+I took a drug  
+I gave three hundred  
+Uninvited hugs"
+--Petey USA, [*Lean Into Life*](https://www.youtube.com/watch?v=a1WvBrb0VCU)
+
+"It's beginning to feel like  
+I've been training my whole life for nothing  
+I've been meaning to tell you something  
+You've got to lean into life just a little"  
+--Petey USA, *Lean Into Life*
 
 "My mother said to me, 'If you are a soldier, you will become a general. If you are a monk, you will become the Pope.' Instead, I was a painter, and became Picasso."  
 --Pablo Picasso
@@ -2933,7 +2982,7 @@ NYTimes interviewer: "But why does compassion have to be universal?"
 --Matthieu Ricard
 
 "It [psychadelics] breaks your addiction to yourself [ego]."  
--Bill Richardson, one of the OG psychadelics researchers, as relayed by Johann Hari on Sam Harris #142
+--Bill Richardson, one of the OG psychadelics researchers, as relayed by Johann Hari on Sam Harris #142
 
 "Don't run. Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die."  
 --Morty, *Rick and Morty*
@@ -2943,6 +2992,9 @@ NYTimes interviewer: "But why does compassion have to be universal?"
 
 "Well it's your world now. Have fun with empowerment. It seems to make everyone that gets it really happy."  
 --Rick, *Rick and Morty*
+
+"Luck is the residue of design."  
+--Branch Rickey
 
 <a class="anchor" id="rilke"></a>
 "Let everything happen to you  
@@ -3048,6 +3100,22 @@ He truly embodied the principles of being genuinely interested in other people, 
 
 "Hipocrisy is a tribute that vice pays to virtue."  
 --François de La Rochefoucauld
+
+"In a dream  
+There's someone I hate  
+A smile creeps across my face as they burn at the stake  
+Their hands are bound  
+They're crying out  
+But then I jolt awake with sweat pooled at my brow  
+If that was me then  
+Then who am I now?
+I can't erase the past  
+And I won't close my eyes  
+All I ask is silence from the noise inside my mind
+There comes a time  
+In every life  
+When you have to question what it means to be alive"  
+--Caroline Rose, *The Doldrums*
 
 "Often in relationships between men and women, there is this weird pact that it's the women's job to interpret their relationship for the men. That they have a right to say, 'The problem with you is that you're afraid of commitment, and if only you would show up at my house at an approximately reasonable time, then we would be fine.' And that is bullshit: that the men are ready to outsource their own understanding of themselves to the women, and that the women will do that job so the men will do what they want. And yet it's a sort of agreed-upon game."  
 ...  
@@ -3164,6 +3232,9 @@ Knowing silence will speak for her"
 "Il semble que la perfection soit atteinte non quand il n'y a plus rien à ajouter, mais quand il n'y a plus rien à retrancher."  
 "It seems that perfection is achieved not when there is nothing more to add, but when there is nothing more to take away"  
 --Antoine de Saint-Exupery
+
+"I look at young people today and watch them basically kind of just mortgaging their happiness on whatever future state they're [focused on]--when they get into the perfect college, or when they get into the perfect medical school, or when they get married. It's remarkable how much anxiety is focused on the future when in fact they're not putting into effect the practices tha they're going to need to enjoy those future states even if they get to them."  
+--Laurie Santos, Sam Harris #196 (happiness as practice, process)
 
 "Life is what happens to us while we are making other plans."  
 --Allen Saunders
@@ -3804,6 +3875,9 @@ Often paraphrased as: "It is easier to fool people than to convince them they ha
 
 <a class="anchor" id="W"></a>
 ### W
+
+"Love is a choice you make over and over, not just on one day in a white dress."  
+--Olivia Waite
 
 <a class="anchor" id="autism"></a>
 "You can't spell 'engineer' without 'autism'."  
