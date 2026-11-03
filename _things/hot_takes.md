@@ -11,7 +11,7 @@ order: 10
 
 ## Hot Takes
 
-*These opinions were developed and refined in conversation with Claude (Anthropic). The views are mine; the articulation was collaborative.*
+*Many of these were developed and refined in conversation with Claude (Anthropic), although some are entirely by my own hand.*
 
 ---
 
@@ -71,3 +71,22 @@ Attention is a weak, feedforward, episodic approximation. What's needed is conti
 
 **The analog→digital→dynamical arc is the history of computation trying to recover what it gave up.**
 Analog computers were computation as physics — wire up a circuit and the voltage dynamics *are* the differential equation. Fast, continuous, no discretization, but fragile and unscalable. Digital computing traded physical correspondence for reliability and composability. Learned dynamical systems on digital substrates are a third thing: use reliable discrete hardware but program it by shaping emergent continuous dynamics rather than explicit instructions. The weights are the program; the computation falls out of the physics those weights induce. We gave up analog's directness to get scale, and now we're trying to recover dynamical richness without giving up scale. Neuromorphic hardware (Intel Loihi, IBM) is the bet that eventually the substrate should match the computation again.
+
+---
+
+**Lip injections are the new fake tits.**
+
+---
+
+**There should be a 100% *You Can't Take It With You* tax**
+Maybe 50% if you give assets to family before you die, and 0% if you give to charity. We should incentivize people to live to see the positive impacts of their giving.
+
+---
+
+**High interest rates are good.**
+We're too prone to overleverage by human nature. Keep everyone's finances honest. It makes for a leaner economy, more efficiency.
+
+---
+
+**High oil prices are good.**
+Painful, yes, but it accelerates adoption of better technologies.
