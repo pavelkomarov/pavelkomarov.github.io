@@ -202,11 +202,14 @@ It's how a soldier thinks. A scientist wouldn't understand."
 "Waste no more time arguing about what a good man should be. Be one."  
 --Marcus Aurelius
 
+"American science has accumulated a set of processes and norms that favor those who know how to play the system, rather than those who have the most interesting ideas."  
+--Pierre Azoulay, MIT, as quoted in *Abundance*
+
 <a class="anchor" id="B"></a>
 ### B
 
 "[Governmental] legitimacy is not solely---not even primarily---a product of the procedures that agencies follow. Legitimacy arises more generally from the perception that government is capable, informed, prompt, responsive, and fair."  
---[Nicholas Bagley](https://www.niskanencenter.org/the-procedure-fetish/)
+--[Nicholas Bagley](https://www.niskanencenter.org/the-procedure-fetish/), University of Michigan, quoted in *Abundance*
 
 "The word [*virtù*] derives from the Latin *virtus* which covers a range of meaning from moral uprightness to physical prowess, and its root in turn is *vir*, a man: to act with *virtù* is to display within the demands of a given situation those qualities of assertive energy which can transcend it, to display virility in fact. As its etymology indicates it is a strictly masculine concept--women appear in Machiavelli chiefly as tokens of male honour. In general, then *virtù* denotes those qualities of energy, courage, genius and resource which support self-determination; at its highest it gives purpose and direction to the drift of events and forces back the boundaries of chance."  
 --Dominic Baker-Smith, introduction to *The Prince*, reminded me of "Be a man; do the right thing.", very yang rather than yin
@@ -719,6 +722,9 @@ In meditation the dorsolateral prefrontal cortex literally exerts inhibitory con
 "The only competitor for the title of champion constructive mistranslation of all time also concerns virgins. Ibn Warraq has hilariously argued that in the famous promise of seventy-two virgins to every Muslim martyr, 'virgins' is a mistranslation of 'white raisins of crystal clarity'. Now, if only that had been more widely known, how many innocent victims of suicide missions might have been saved?"  
 --Richard Dawkins
 
+"Many scientists seeking funding today are disempowered to the point of infantilization. Their time is colonized by paperwork, and their ambition is pinched by grantsmanship. The American innovation system would benefit from trusting individuals more and bureaucracies less."  
+--John Densch, [Broad Institute](https://podscripts.co/podcasts/the-ezra-klein-show/the-origins-of-abundance), *Abundance* 
+
 "No one gives it to ya; you have to take it."  
 --Frank Costello, *The Departed*
 
@@ -802,6 +808,18 @@ How will you find the strength and wisdom to challenge an unwise order or questi
 "Only a man who has felt ultimate despair is capable of feeling ultimate bliss." 
 Also traslated as: "There is neither happiness nor misery in the world; there is only the comparison of one state with another, —nothing more. He who has felt the deepest grief is best able to experience supreme happiness. We must have felt what it is to die, Morrel, that we may appreciate the enjoyments of living."  
 --Alexandre Dumas, *The Count of Monte Cristo*
+
+"Make a wrong step--make any step at all--and one-time decision-makers were sure to find themselves vulnerable to incoming fire."  
+--Marc Dunkelman, *Why Nothing Works*, "Ideological Purgatory"
+
+"[V]oice is not in and of itself a strategy for weighing the tradeoffs borne in public policy....Few of those directly affected will be inclined to be more accommodating simply because they've been consulted or given more time to object or provided a platform to voice their opinion earlier in the process....[N]o one is ever going to divine a forum where simply by dint of everyone articulating their concerns a controversial proposal elicits universal support....But from complaining that the bureaucrats hadn’t listened emerged a means of wishing away the quandaries establishment figures had once resolved through their discretion. A new highway will inevitably be a benefit to some and a burden to others. But is the net result a win? A proposed new regulation might protect some consumers but undermine an industry and its workforce. Do the benefits outweigh the costs? A new development will change the character of the neighborhood. But where else will the people who would have moved there be able to live? It was and is easy to argue that the downsides of any given decision could have been avoided if everyone affected had been given sufficient voice, but the reality was and is that progress involves ratifying tradeoffs...Environmental advocates and industry representatives weren't at odds because they'd failed to see the wisdom of the other's perspective; they were stuck because they had fundamentally different interests....In too many cases there is no way to serve the greater good without exacting some cost on at least *someone*....Voice has become a lightly-shrouded proxy for gridlock....[W]hen voice turned to veto and the choices were more muddled, the new regime made progress more complex, difficult, arduous, and tendentious...And that was in the end for one reason: Rarely was anyone empowered to render a final decision....For reformers, neither extreme in this is good or even acceptable, neither the one where bureaucracies can impose their will with impunity, nor the alternative where public officials have been made feckless in the face of a vetocracy run amok. But the deeper shame is that progressivism has yet to grapple intellectually with the implications: Government in the end needs to be able to make decisions that impose costs, and in many cases it needs to be able to do so with some degree of alacrity."  
+--Marc Dunkelman, *Why Nothing Works*, "Ideological Purgatory"
+
+"In a nation desperate to build, progressivism's imbalance had left the government unable to deliver, and those who suffered most from the resulting paralysis were often the people progressives cared most to serve."  
+--Marc Dunkelman, *Why Nothing Works*, "No Place to Call Home"
+
+"Jeffersonian efforts to address the nation's housing shortage have yet to prove a panacea...Pushing power down to a property owner sounds good, but when the right to build a multi-unit building on a parcel previously zoned for single-family homes runs up against the right to preserve a habitat for endangered species or to ensure the sanctity of a local noise ordinance or to do whatever else some creative NIMBY lawyer conjures, a judge is required to resolve the conflict, and that judge won't decide exclusively on the basis of sound policy, but by interpreting the law as written by legislators. There is of course an alternative: Progressives could seek to reestablish a planning mechanism that both allows for everyone to be heard, which Robert Moses never cared to do, and empowers some centralized authority to make expeditious final determination after weighing various national, regional, community, and individual interests. Pursuing that sort of solution would likely involve two prerequisites: First, a guarantee that a community's input would be taken seriously, that concerns about environmental or quality-of-life issues would not be ignored, even if they did not prevail. And second, that in exchange for guaranteeing voice, an authority's decision would be insulated from the Kafkaesque series of veto points that have left too many public policy choices to the wilds of the judiciary. That sort of reform would take a leap of faith for many progressives. What if a developer were to capture the process? What if a revolving door gave charlatans control over the outcome? Even the most minor Hamiltonian correction would need to be pursued with great care, because, as some will argue, nothing would be worth allowing the old growth machine to reconstitute itself. Powerless communities can’t be forced to face *again* the threat of imperious and coercive elites reasserting their power. Even a half century after The Power Broker won the Pulitzer Prize, progressives have no desire for the pendulum swinging so far the other way. But this, again, is where the political dimension becomes clear: The housing shortage can’t be subsidized away, and our collective failure to expand supply simply provides more evidence that the government still can’t be trusted….If housing remains forever a symbol to ordinary citizens of why progressives can’t be trusted with power, the movement undermines its own viability. To make a serious claim on shaping the nation’s future, to offer a more compelling argument than the conservatives, populists, and demagogues, progressives need to make the public sector work….acknowledging that perfect balance of Jeffersonian and Hamiltonian impulses will always prove elusive, that any public policy decision comes with tradeoffs…”
+--Marc Dunkelman, *Why Nothing Works*, "Grounds for Exclusion"
 
 "Education is a progressive discovery of our own ignorance."  
 --Will Durant
@@ -1755,6 +1773,9 @@ Other potential *Catch 22* quotes: p18, 20, 23, 35, 52, 112, 124, p139, p144, 15
 "Most people are brought up to believe they are as good as the person next to them, I was told I was better."  
 --Katherine Hepburn
 
+"The Athenians while subjects of a tyrant had been no more proficient in battle than any of their neighbors, but then once liberated from tyranny they emerged as supreme by far, proof enough that the downtrodden, since their labors are all in the service of a master, will never willingly pull their weight, whereas free men, because they have a stake in their own exertions, will set to them with relish."  
+--Herodotus, per Tom Holland
+
 "Don't wait. The time will never be just right."  
 --Napoleon Hill
 
@@ -1766,7 +1787,7 @@ Other potential *Catch 22* quotes: p18, 20, 23, 35, 52, 112, 124, p139, p144, 15
 --Hitchens Razor  
 
 "We always think by seeking and drawing parallels to things we know from our past, and we therefore communicate best when we exploit examples, analogies, and metaphors galore, when we avoid abstract generalities, when we use very down-to-earth, concrete and simple language, and when we talk directly about our own experiences."  
---Douglas Hofstadter, I Am A Strange Loop
+--Douglas Hofstadter, *I Am A Strange Loop*
 
 "It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts."  
 --Sherlock Holmes
@@ -1794,6 +1815,9 @@ Other potential *Catch 22* quotes: p18, 20, 23, 35, 52, 112, 124, p139, p144, 15
 
 "Dare to know."  
 --Horace, Roman
+
+"Do right, and risk the consequences."  
+--Sam Houston
 
 There is in every village a torch: the teacher; and an extinguisher: the clergyman.  
 --Victor Hugo
@@ -2611,6 +2635,16 @@ We must find a way"
 "You've been bitten by  
 Someone's false beliefs"  
 --Muse, *Thought Contagion*
+
+"Come ride with me  
+Through the veins of history  
+I'll show you a God  
+Who falls asleep on the job  
+And how can we win  
+When fools can be kings?  
+Don't waste your time or  
+Time will waste you"  
+--Muse, *Knights of Cydonia*
 
 <a class="anchor" id="musk"></a>
 "An engineer is the closest thing to a magician that exists in the real world."  
@@ -3549,7 +3583,21 @@ Anderson: "And that one thing that mattered was?"
 modernized as "Victory has a hundred fathers; defeat is an orphan."  
 --Tacitus
 
-"I hesitate to give advice because every major single piece of advice I was given turned out to be wrong and I am glad I didn’t follow them. I was told to focus and I never did. I was told to never procrastinate and I waited 20 years for the Black Swan and it sold 3 million copies. I was told to avoid putting fictional characters in my books and I did put in Nero Tulip and Fat Tony because I got bored otherwise. I was told to not insult the New York Times and the Wall Street Journal; the more I insulted them the nicer they were to me and solicit Op-Eds. I was told to avoid lifting weights for a back pain and became a weightlifter: never had a back problem since.  
+"[Faith] can also be translated as 'trust', which to me is much more experiential, trusting that love is going to get you through the hour, through the day, through your life, that love is gonna carry us forward, that love will ultimately prevail even when it's temporarily defeated. To me that's what my faith feels like. It feels like trust, almost like--I learned how to swim at our neighborhood pool, and I remember my swim teacher telling me 'Don't fight the water. Let the water carry you.' And there's so much temptation in our lives to control our surroundings, to control other people, and I think the opposite of that control is faith, is that kind of trust, letting life, letting the universe hold you up and not fighting it."  
+--James Talarico
+
+"Jesus liberates; Christian nationalism controls.  
+...  
+The separation of church and state, I was taught that that constitutional boundary was sacred, not for the benefit of the state--although there's benefits to our democracy--but for the benefit of the church....The word 'church' in Greek means 'to be called out of', called out of our culture, called out of our economy, called out of our political system....Faith without works is dead."  
+Ezra: "[W]hen I read the New Testament, I always come away a little bit amazed that politicized Christianity is so worried about gender and sexuality and so unconcerned with greed."  
+"Absolutely. Concern for the poor, concern for the oppressed is everywhere. I mean, economic justice is mentioned 3000 times in our scriptures,...so this is such a core part of our tradition, and it's nowhere to be seen in Christian nationalism on the religious right....It's because religion is being used to control people and accumulate power and wealth for those at the top. This is a tale as old as time, and it is not unique to Christianity. Powerful people will always see religion as a tool to make more money and be able to keep people in line."  
+Ezra: "For those unfamiliar with the term, what is Christian nationalism?"  
+"I define it as the worship of power in the name of Christ. [Idolatry of strength]...These politicians want a Christian nation unless it means providing healthcare to the sick or funding food assistance for the hungry or raising the minimum wage for the poor. It seems like they want to base our laws on the Bible until they read the words of Jesus: 'Welcome the stranger.' 'Liberate the oppressed.' 'Put away your sword.' 'Sell all your possessions, and give the money to the poor.'...I've often wondered, instead of posting the Ten Commandments in every classroom, why don't they post 'money is the root of all evil' in every boardroom? Why don't they post 'Do not judge' in every courtroom? Why don't they post 'Turn the other cheek' in the halls of the Pentagon? Or, 'It's easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of heaven' on the floor of the New York Stock Exchange? This is the inconsistency I'm trying to call out, because they're using my tradition; they're speaking for me. And so I think I have a special responsibility...  
+...  
+It's time to start flipping tables....We always think about Jesus being gentle and kind and soft, all those things he was, but he was also strong and tough and confrontational and aggressive when people were being hurt. And at least for me and I think for this country, we have to remember that that is what love demands of us sometimes." [courage]  
+--James Talarico, on the Ezra Klein show, Jan 2026
+
+"I hesitate to give advice because every major single piece of advice I was given turned out to be wrong and I am glad I didn’t follow them. I was told to focus, and I never did. I was told to never procrastinate, and I waited 20 years for the Black Swan, and it sold 3 million copies. I was told to avoid putting fictional characters in my books, and I did put in Nero Tulip and Fat Tony because I got bored otherwise. I was told to not insult the New York Times and the Wall Street Journal; the more I insulted them the nicer they were to me and solicit Op-Eds. I was told to avoid lifting weights for a back pain and became a weightlifter: never had a back problem since.  
 &emsp;&emsp;&emsp;If I had to relive my life I would be even more stubborn and uncompromising than I have been. One should never do anything without skin in the game. If you give advice, you need to be exposed to losses from it."  
 --Nassim Nicholas Taleb
 
@@ -3597,6 +3645,9 @@ modernized as "Victory has a hundred fathers; defeat is an orphan."
 
 "...and they have windows, and your lab doesn't have windows because why don't they put windows in labs?"  
 --Andrea Thomaz, on why robots often don't work in the field
+
+"We have, even if by accident, designed a system that often privileges the game of performing the act of science over the actual practice of science."  
+--Derek Thompson, *Abundance*
 
 "When the going gets weird, the weird turn pro."  
 --Hunter S. Thompson
@@ -4543,6 +4594,9 @@ Always forgive your enemies--nothing annoys them so much.
 
 "The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised."  
 --George F. Will
+
+"There is widespread agreement that scientific research and invention are the key driver of economic growth and improvements in human well-being. But I think researchers do a poor job of communicating its importance to lawmakers, and lawmakers do a poor job of making science policy a major focus."  
+--Heidi Williams, Dartmouth, as quoted in *Abundance*
 
 "I was not aware of how much vital energy had gone in to this struggle until the struggle was removed. I was out on a level plateau with my arms still thrashing and my lungs still grabbing at air that no longer resisted."  
 --Tennessee Williams, The Catastrophe of Success
